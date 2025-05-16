@@ -53,13 +53,9 @@ def generqalizeBy_rules(df, qis,rule={},k=3,auto_rule={}, auto=0, av = [],sg = [
     sg+=qis_num
 
     if len(df) > 0:
-
         for col in qis:
             if col not in qis_num  and len(df[col].unique()) > 1:
-                print(col)
-                print(rule[col])
                 df[col] = df[col].apply(lambda value: rule[col][value])
-                # df[col] = df[col].astype(str).apply(lambda value: rule[col][value])
 
     return df
 
