@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,1016,<=50K
+Male,44,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,3414,>50K
+Male,44,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Exec-managerial,4637,>50K
+Male,44,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Exec-managerial,6681,<=50K
+Male,44,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,8238,>50K
+Male,43,Black,Married-civ-spouse,Bachelors,Haiti,Private,Handlers-cleaners,8912,>50K
+Male,44,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Handlers-cleaners,8963,<=50K
+Male,43,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,10647,>50K
+Male,44,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,10826,>50K
+Male,44,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,13697,>50K
+Male,43,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Sales,13773,<=50K
+Male,41,Black,Married-civ-spouse,Assoc-acdm,India,Private,Exec-managerial,14838,>50K
+Male,41,Black,Married-civ-spouse,Assoc-voc,United-States,Self-emp-inc,Exec-managerial,18256,>50K
+Male,45,Black,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,20011,>50K
+Male,45,Black,Married-civ-spouse,Some-college,United-States,Private,Sales,21915,>50K
+Male,42,Black,Married-civ-spouse,Bachelors,United-States,Private,Sales,28373,>50K

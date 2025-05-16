@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Sales,4259,<=50K
+Female,25,Asian-Pac-Islander,Never-married,HS-grad,United-States,Self-emp-not-inc,Sales,17927,<=50K
+Female,31,Asian-Pac-Islander,Married-spouse-absent,11th,India,Private,Sales,23996,<=50K

@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Craft-repair,3428,<=50K
+Male,37,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Machine-op-inspct,4355,<=50K
+Male,37,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Craft-repair,4430,<=50K
+Male,40,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Craft-repair,7059,<=50K
+Male,40,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,23757,>50K
+Male,37,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Prof-specialty,29359,>50K

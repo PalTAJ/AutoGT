@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,90,Black,Never-married,HS-grad,United-States,Private,Other-service,206,<=50K
+Male,90,Black,Never-married,Masters,United-States,Private,Exec-managerial,4953,>50K
+Male,84,Black,Married-civ-spouse,7th-8th,United-States,Private,Prof-specialty,25759,<=50K

@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,17,Black,Never-married,9th,United-States,Local-gov,Other-service,1397,<=50K
+Male,20,Black,Never-married,HS-grad,United-States,Local-gov,Handlers-cleaners,5444,<=50K
+Male,19,Black,Never-married,12th,United-States,State-gov,Transport-moving,19177,<=50K
+Male,17,Black,Never-married,11th,United-States,Local-gov,Prof-specialty,21059,<=50K
+Male,20,Black,Married-civ-spouse,HS-grad,Puerto-Rico,Local-gov,Protective-serv,23509,<=50K
+Male,18,Black,Never-married,HS-grad,United-States,State-gov,Adm-clerical,24285,<=50K

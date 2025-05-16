@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,1305,<=50K
+Female,40,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,1642,<=50K
+Female,37,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,4199,<=50K
+Female,38,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,6145,<=50K
+Female,36,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,6176,<=50K
+Female,37,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,8138,<=50K
+Female,40,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,10985,<=50K
+Female,36,White,Divorced,Assoc-acdm,United-States,Private,Other-service,11915,<=50K
+Female,40,White,Divorced,Assoc-acdm,United-States,Private,Other-service,19528,<=50K
+Female,39,White,Never-married,Assoc-acdm,United-States,Private,Other-service,19547,<=50K
+Female,40,White,Divorced,Assoc-acdm,United-States,Private,Transport-moving,19612,<=50K
+Female,38,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,22094,<=50K
+Female,39,White,Widowed,Assoc-acdm,United-States,Private,Adm-clerical,25647,<=50K
+Female,37,White,Never-married,Assoc-acdm,United-States,Private,Other-service,28402,<=50K

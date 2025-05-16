@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,18,Other,Never-married,9th,United-States,Private,Sales,7859,<=50K
+Female,19,Other,Married-spouse-absent,12th,United-States,Private,Other-service,11490,<=50K
+Female,17,Other,Never-married,10th,United-States,Private,Prof-specialty,18811,<=50K
+Female,19,Other,Never-married,HS-grad,Guatemala,Private,Handlers-cleaners,20634,<=50K
+Female,19,Other,Never-married,11th,Nicaragua,Private,Sales,22242,<=50K
+Female,19,Other,Never-married,HS-grad,Puerto-Rico,Private,Adm-clerical,24695,<=50K
+Female,17,Other,Never-married,9th,Mexico,Private,Sales,24932,<=50K

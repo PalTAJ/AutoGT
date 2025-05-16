@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Never-married,HS-grad,Dominican-Republic,Self-emp-not-inc,Prof-specialty,1678,>50K
+Female,26,White,Never-married,10th,United-States,Self-emp-not-inc,Prof-specialty,7592,<=50K

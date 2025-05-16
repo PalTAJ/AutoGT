@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,White,Married-civ-spouse,HS-grad,Portugal,Private,Exec-managerial,4491,>50K
+Female,58,White,Married-civ-spouse,HS-grad,Greece,Private,Sales,5910,<=50K
+Female,43,White,Married-civ-spouse,HS-grad,Poland,Private,Sales,12133,<=50K

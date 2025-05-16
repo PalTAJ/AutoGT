@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,1758,<=50K
+Male,37,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,6808,<=50K
+Male,38,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,9754,<=50K
+Male,37,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,10142,<=50K
+Male,36,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,10604,<=50K
+Male,38,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,11699,<=50K
+Male,37,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,12753,<=50K
+Male,37,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,15208,<=50K
+Male,37,White,Never-married,HS-grad,Puerto-Rico,Private,Machine-op-inspct,17083,<=50K
+Male,37,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,19823,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,22946,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,24364,<=50K
+Male,37,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,26219,<=50K
+Male,36,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,27422,<=50K
+Male,40,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,28190,<=50K

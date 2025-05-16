@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,White,Never-married,Bachelors,France,Private,Priv-house-serv,15152,<=50K
+Female,26,White,Never-married,Some-college,Hungary,Private,Priv-house-serv,16433,<=50K

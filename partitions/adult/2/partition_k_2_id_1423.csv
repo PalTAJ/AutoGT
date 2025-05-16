@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,Assoc-voc,Greece,Private,Exec-managerial,19996,>50K
+Male,30,White,Never-married,Assoc-acdm,England,Private,Sales,20035,<=50K

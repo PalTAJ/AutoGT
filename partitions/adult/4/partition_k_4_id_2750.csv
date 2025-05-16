@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Local-gov,Exec-managerial,3426,<=50K
+Female,22,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Adm-clerical,6936,<=50K
+Female,28,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Protective-serv,18973,<=50K
+Female,27,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Adm-clerical,21112,<=50K
+Female,28,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Prof-specialty,26899,<=50K
+Female,30,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Handlers-cleaners,28808,<=50K

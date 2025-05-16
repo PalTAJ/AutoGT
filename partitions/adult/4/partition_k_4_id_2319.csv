@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,White,Married-civ-spouse,Bachelors,Poland,Private,Other-service,8498,<=50K
+Female,40,White,Married-civ-spouse,Some-college,Scotland,Private,Other-service,15910,<=50K
+Female,38,White,Married-civ-spouse,HS-grad,Poland,Self-emp-inc,Other-service,20306,<=50K
+Female,21,White,Married-civ-spouse,12th,Portugal,Self-emp-not-inc,Adm-clerical,20335,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Married-civ-spouse,9th,Yugoslavia,Local-gov,Other-service,11564,>50K
+Female,38,White,Married-civ-spouse,HS-grad,Poland,Self-emp-inc,Other-service,20306,<=50K
+Female,21,White,Married-civ-spouse,12th,Portugal,Self-emp-not-inc,Adm-clerical,20335,<=50K

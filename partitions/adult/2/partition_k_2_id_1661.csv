@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Separated,HS-grad,United-States,Self-emp-not-inc,Craft-repair,10709,<=50K
+Male,33,White,Separated,HS-grad,United-States,Self-emp-not-inc,Craft-repair,24661,<=50K

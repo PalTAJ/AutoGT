@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Divorced,Bachelors,France,Self-emp-not-inc,Prof-specialty,21062,<=50K
+Male,53,White,Separated,Assoc-voc,Poland,Self-emp-not-inc,Craft-repair,28867,<=50K

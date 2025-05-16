@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,67,White,Widowed,Some-college,Nicaragua,Private,Sales,25040,<=50K
+Female,64,White,Never-married,Bachelors,Peru,Private,Sales,27981,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,White,Never-married,9th,United-States,Private,Sales,5271,<=50K
+Female,20,White,Never-married,9th,United-States,Private,Sales,5457,<=50K
+Female,17,White,Never-married,9th,United-States,Self-emp-inc,Sales,13755,<=50K
+Female,18,White,Never-married,9th,United-States,Private,Sales,21009,<=50K
+Female,20,White,Never-married,9th,Mexico,Private,Exec-managerial,23201,<=50K

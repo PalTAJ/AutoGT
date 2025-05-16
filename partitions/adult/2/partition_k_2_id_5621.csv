@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,Asian-Pac-Islander,Divorced,Some-college,United-States,Private,Sales,4200,<=50K
+Female,37,Asian-Pac-Islander,Divorced,Some-college,Japan,Private,Exec-managerial,8327,>50K
+Female,36,Asian-Pac-Islander,Divorced,Bachelors,South,Private,Sales,21332,<=50K

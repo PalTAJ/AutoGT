@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,48,White,Married-civ-spouse,HS-grad,Germany,Private,Adm-clerical,9627,>50K
+Female,47,White,Married-civ-spouse,HS-grad,Hungary,Private,Adm-clerical,28124,<=50K

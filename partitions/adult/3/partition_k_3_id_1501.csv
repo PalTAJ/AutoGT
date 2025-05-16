@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,Black,Separated,Some-college,United-States,State-gov,Adm-clerical,6094,<=50K
+Male,37,Black,Separated,Assoc-voc,United-States,Federal-gov,Adm-clerical,14494,<=50K
+Male,36,Black,Separated,Some-college,United-States,Federal-gov,Adm-clerical,17515,<=50K
+Male,36,Black,Separated,Some-college,United-States,Local-gov,Adm-clerical,24853,<=50K

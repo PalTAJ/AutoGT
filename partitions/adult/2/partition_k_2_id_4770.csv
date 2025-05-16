@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,5471,<=50K
+Female,26,White,Married-civ-spouse,HS-grad,Mexico,Private,Other-service,13392,<=50K
+Female,30,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,16088,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,Cuba,Private,Other-service,16613,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,17239,>50K
+Female,27,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,23465,>50K
+Female,28,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,27054,<=50K
+Female,30,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,27949,<=50K
+Female,26,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,29604,<=50K

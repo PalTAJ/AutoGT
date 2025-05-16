@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,19100,<=50K
+Female,28,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,21066,<=50K
+Female,27,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,29062,<=50K

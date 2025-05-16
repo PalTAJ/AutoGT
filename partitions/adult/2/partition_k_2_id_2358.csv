@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,Black,Separated,11th,United-States,Private,Transport-moving,213,<=50K
+Male,35,Black,Separated,HS-grad,United-States,Private,Other-service,1417,<=50K
+Male,31,Black,Separated,12th,United-States,Private,Transport-moving,9888,<=50K
+Male,34,Black,Separated,9th,United-States,Private,Farming-fishing,12642,<=50K
+Male,34,Black,Separated,HS-grad,United-States,Private,Transport-moving,21184,<=50K
+Male,34,Black,Separated,HS-grad,United-States,Private,Other-service,22750,<=50K
+Male,35,Black,Separated,HS-grad,United-States,Private,Other-service,24702,<=50K

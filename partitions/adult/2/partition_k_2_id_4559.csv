@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,18,White,Never-married,11th,United-States,Self-emp-not-inc,Other-service,5764,<=50K
+Female,18,White,Never-married,11th,United-States,Self-emp-not-inc,Other-service,21275,<=50K

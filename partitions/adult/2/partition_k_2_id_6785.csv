@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,Black,Separated,10th,United-States,Private,Priv-house-serv,1993,<=50K
+Female,60,Black,Separated,7th-8th,United-States,Private,Priv-house-serv,27440,<=50K

@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,White,Never-married,Masters,Germany,State-gov,Prof-specialty,2557,<=50K
+Female,33,White,Never-married,Masters,Germany,Local-gov,Prof-specialty,8404,<=50K
+Female,23,White,Never-married,Assoc-acdm,Poland,Federal-gov,Exec-managerial,8668,<=50K
+Female,33,White,Divorced,Bachelors,Germany,Local-gov,Protective-serv,9829,<=50K
+Female,24,White,Never-married,Doctorate,England,State-gov,Prof-specialty,11831,<=50K
+Female,40,White,Divorced,Bachelors,England,Local-gov,Tech-support,16545,>50K
+Female,27,White,Never-married,Assoc-acdm,Germany,State-gov,Adm-clerical,18679,<=50K
+Female,36,White,Married-spouse-absent,Assoc-voc,Germany,State-gov,Protective-serv,23058,<=50K
+Female,31,White,Never-married,Bachelors,Germany,Local-gov,Prof-specialty,28886,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,White,Divorced,HS-grad,United-States,Private,Craft-repair,77,>50K
+Female,45,White,Divorced,HS-grad,United-States,Private,Craft-repair,4997,<=50K
+Female,42,White,Divorced,HS-grad,United-States,Private,Craft-repair,5757,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Craft-repair,17262,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Craft-repair,21694,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Craft-repair,22244,<=50K
+Female,42,White,Divorced,HS-grad,United-States,Private,Craft-repair,22884,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Craft-repair,27798,<=50K

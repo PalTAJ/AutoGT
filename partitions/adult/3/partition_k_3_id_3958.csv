@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,White,Widowed,Some-college,United-States,Private,Machine-op-inspct,19810,<=50K
+Female,59,White,Widowed,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,19923,>50K
+Female,56,White,Widowed,Some-college,United-States,Private,Craft-repair,22371,<=50K
+Female,57,White,Widowed,Some-college,United-States,Private,Tech-support,24375,<=50K

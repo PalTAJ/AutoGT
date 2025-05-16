@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,66,White,Married-civ-spouse,10th,United-States,Private,Protective-serv,1799,<=50K
+Male,67,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,8390,<=50K
+Male,68,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,12618,<=50K

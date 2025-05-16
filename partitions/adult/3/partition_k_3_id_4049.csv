@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Never-married,Assoc-voc,Columbia,Private,Exec-managerial,2748,<=50K
+Female,49,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,3935,<=50K
+Female,53,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,19591,<=50K
+Female,46,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,22816,<=50K
+Female,51,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,28209,<=50K

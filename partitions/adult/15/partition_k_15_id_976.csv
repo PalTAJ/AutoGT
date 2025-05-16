@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,Black,Separated,HS-grad,United-States,Federal-gov,Other-service,1438,<=50K
+Female,44,Black,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,3705,<=50K
+Female,42,Black,Separated,HS-grad,United-States,Federal-gov,Adm-clerical,6540,<=50K
+Female,50,Black,Never-married,11th,United-States,Federal-gov,Sales,7431,<=50K
+Female,47,Black,Divorced,HS-grad,United-States,Federal-gov,Other-service,8821,<=50K
+Female,41,Black,Separated,HS-grad,United-States,Federal-gov,Exec-managerial,11416,<=50K
+Female,44,Black,Never-married,HS-grad,United-States,Federal-gov,Craft-repair,11901,<=50K
+Female,42,Black,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,12488,<=50K
+Female,58,Black,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,15921,<=50K
+Female,57,Black,Separated,HS-grad,United-States,Federal-gov,Adm-clerical,16003,<=50K
+Female,52,Black,Never-married,12th,United-States,Federal-gov,Other-service,17246,<=50K
+Female,47,Black,Married-spouse-absent,HS-grad,Puerto-Rico,Federal-gov,Adm-clerical,18202,<=50K
+Female,49,Black,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,18912,<=50K
+Female,50,Black,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,21366,<=50K
+Female,60,Black,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,25211,<=50K
+Female,58,Black,Divorced,11th,United-States,Federal-gov,Craft-repair,28021,>50K

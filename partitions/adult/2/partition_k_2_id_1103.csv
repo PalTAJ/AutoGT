@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,Bachelors,Mexico,Private,Craft-repair,3964,<=50K
+Male,25,White,Never-married,Bachelors,Mexico,Private,Craft-repair,4468,<=50K
+Male,26,White,Never-married,Bachelors,Mexico,Private,Craft-repair,16602,<=50K

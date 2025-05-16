@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,1001,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,1940,>50K
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,6085,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Protective-serv,6869,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,7885,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,8148,<=50K
+Male,38,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,9584,<=50K
+Male,24,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,9863,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,Peru,Private,Protective-serv,16832,<=50K
+Male,35,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,18308,<=50K
+Male,38,White,Married-civ-spouse,HS-grad,Scotland,Private,Protective-serv,20041,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,22518,<=50K
+Male,27,White,Married-civ-spouse,9th,Guatemala,Private,Protective-serv,23748,<=50K
+Male,33,White,Married-civ-spouse,12th,United-States,Private,Protective-serv,27173,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,29247,>50K
+Male,26,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,29275,<=50K

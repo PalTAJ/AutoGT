@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,18,White,Never-married,11th,Peru,Private,Other-service,23036,<=50K
+Male,20,White,Never-married,HS-grad,Nicaragua,Private,Adm-clerical,28615,<=50K

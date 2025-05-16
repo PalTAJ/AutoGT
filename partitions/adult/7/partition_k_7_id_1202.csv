@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,Other,Married-civ-spouse,Prof-school,United-States,Self-emp-inc,Prof-specialty,8044,>50K
+Male,52,Other,Married-civ-spouse,1st-4th,Puerto-Rico,Private,Craft-repair,10442,<=50K
+Male,60,Other,Divorced,1st-4th,Dominican-Republic,Private,Craft-repair,13777,<=50K
+Male,52,Other,Married-civ-spouse,11th,Dominican-Republic,Private,Machine-op-inspct,16336,<=50K
+Male,53,Other,Married-civ-spouse,5th-6th,Puerto-Rico,Private,Craft-repair,17181,>50K
+Male,58,Other,Divorced,Some-college,Mexico,Private,Machine-op-inspct,20748,<=50K
+Male,52,Other,Married-civ-spouse,HS-grad,Columbia,Private,Machine-op-inspct,25623,<=50K
+Male,51,Other,Married-civ-spouse,Prof-school,India,Self-emp-not-inc,Prof-specialty,26196,>50K
+Male,60,Other,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,26847,>50K

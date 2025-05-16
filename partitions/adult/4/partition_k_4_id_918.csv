@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,15,<=50K
+Male,23,White,Never-married,HS-grad,Mexico,Self-emp-not-inc,Farming-fishing,2157,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Other-service,3291,<=50K
+Male,23,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Transport-moving,4829,<=50K
+Male,22,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,12270,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Other-service,13754,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Other-service,14096,<=50K
+Male,22,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,24104,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,24164,<=50K

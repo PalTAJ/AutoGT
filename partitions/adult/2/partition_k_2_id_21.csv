@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,White,Never-married,Some-college,United-States,Self-emp-not-inc,Farming-fishing,2834,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Farming-fishing,3513,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Farming-fishing,8116,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Farming-fishing,10307,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Farming-fishing,14269,<=50K
+Male,19,White,Never-married,Some-college,United-States,Self-emp-inc,Farming-fishing,17045,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Farming-fishing,17163,<=50K
+Male,19,White,Never-married,Some-college,United-States,Self-emp-not-inc,Farming-fishing,17813,<=50K
+Male,18,White,Never-married,Some-college,United-States,Self-emp-not-inc,Farming-fishing,20304,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Farming-fishing,22361,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Farming-fishing,25831,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Farming-fishing,28443,<=50K

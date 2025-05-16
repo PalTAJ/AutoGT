@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Married-spouse-absent,1st-4th,Guatemala,Private,Other-service,11081,<=50K
+Male,37,White,Married-spouse-absent,1st-4th,Mexico,Private,Farming-fishing,19007,<=50K
+Male,40,White,Married-spouse-absent,Preschool,United-States,Private,Adm-clerical,20878,<=50K
+Male,24,White,Married-spouse-absent,5th-6th,Mexico,Private,Farming-fishing,29952,<=50K

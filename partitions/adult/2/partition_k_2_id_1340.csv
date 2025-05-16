@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Divorced,Assoc-voc,United-States,Self-emp-inc,Sales,5521,<=50K
+Male,38,White,Divorced,Assoc-acdm,United-States,Self-emp-inc,Exec-managerial,26828,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Married-civ-spouse,Masters,England,Local-gov,Prof-specialty,18790,>50K
+Female,36,White,Married-civ-spouse,Bachelors,Germany,Local-gov,Adm-clerical,19048,>50K
+Female,32,White,Married-civ-spouse,Some-college,France,Local-gov,Protective-serv,19851,>50K

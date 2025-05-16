@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Married-civ-spouse,Assoc-voc,United-States,Federal-gov,Tech-support,17338,>50K
+Male,49,White,Married-civ-spouse,Assoc-voc,United-States,Federal-gov,Craft-repair,27216,<=50K
+Male,44,White,Married-civ-spouse,Assoc-voc,United-States,Federal-gov,Craft-repair,29207,>50K

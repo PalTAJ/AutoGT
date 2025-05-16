@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,1518,<=50K
+Male,31,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,9600,>50K
+Male,31,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,13407,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,19266,<=50K
+Male,34,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,19290,>50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,20088,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,23332,<=50K
+Male,31,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,25399,>50K
+Male,31,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,26310,>50K
+Male,34,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,27627,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,27643,<=50K
+Male,34,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,28699,>50K

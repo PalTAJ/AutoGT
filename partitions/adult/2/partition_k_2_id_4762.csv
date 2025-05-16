@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,White,Married-civ-spouse,9th,Portugal,Private,Machine-op-inspct,7279,<=50K
+Female,28,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,11103,<=50K
+Female,27,White,Married-civ-spouse,9th,Portugal,Private,Machine-op-inspct,14123,<=50K

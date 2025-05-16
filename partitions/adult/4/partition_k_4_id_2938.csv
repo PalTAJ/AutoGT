@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,White,Separated,Assoc-voc,United-States,Private,Prof-specialty,4807,<=50K
+Female,49,White,Separated,Assoc-voc,United-States,Private,Prof-specialty,9264,<=50K
+Female,52,White,Separated,Assoc-acdm,United-States,Private,Prof-specialty,10951,<=50K
+Female,44,White,Separated,Assoc-voc,Dominican-Republic,Private,Prof-specialty,19028,<=50K
+Female,51,White,Separated,Assoc-voc,United-States,Private,Prof-specialty,20374,<=50K
+Female,42,White,Separated,Assoc-voc,United-States,Private,Prof-specialty,20525,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,77,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Adm-clerical,20161,<=50K
+Male,63,White,Married-civ-spouse,Bachelors,Cuba,Local-gov,Transport-moving,27684,<=50K

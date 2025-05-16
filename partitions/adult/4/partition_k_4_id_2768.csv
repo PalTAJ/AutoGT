@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,Black,Married-civ-spouse,Bachelors,United-States,State-gov,Protective-serv,9251,<=50K
+Female,26,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,11388,>50K
+Female,24,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,12364,<=50K
+Female,30,Black,Married-civ-spouse,Some-college,United-States,State-gov,Prof-specialty,20672,>50K
+Female,25,Black,Married-civ-spouse,Some-college,United-States,State-gov,Adm-clerical,23282,<=50K

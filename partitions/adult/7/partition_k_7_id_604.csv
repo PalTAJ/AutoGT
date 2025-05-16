@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Bachelors,India,Private,Sales,4105,<=50K
+Male,28,Asian-Pac-Islander,Married-civ-spouse,Some-college,South,Self-emp-not-inc,Sales,6046,<=50K
+Male,29,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Germany,Self-emp-inc,Sales,8941,<=50K
+Male,28,Asian-Pac-Islander,Married-civ-spouse,Some-college,Philippines,Private,Exec-managerial,9267,<=50K
+Male,22,Asian-Pac-Islander,Married-civ-spouse,Assoc-acdm,United-States,Private,Exec-managerial,10538,<=50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Some-college,South,Self-emp-inc,Exec-managerial,14331,>50K
+Male,29,Asian-Pac-Islander,Married-civ-spouse,Masters,Japan,Private,Exec-managerial,15877,<=50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,11th,Vietnam,Private,Handlers-cleaners,18082,<=50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Hong,Private,Exec-managerial,18504,>50K
+Male,27,Asian-Pac-Islander,Married-civ-spouse,Some-college,South,Private,Sales,24234,<=50K

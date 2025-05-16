@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Local-gov,Adm-clerical,18020,<=50K
+Male,37,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Local-gov,Other-service,21428,<=50K
+Male,36,Amer-Indian-Eskimo,Married-civ-spouse,Assoc-voc,United-States,Local-gov,Transport-moving,25733,<=50K

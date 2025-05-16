@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,81,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Exec-managerial,845,<=50K
+Male,84,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Farming-fishing,5713,<=50K
+Male,81,White,Married-civ-spouse,Some-college,United-States,Private,Sales,6215,<=50K
+Male,82,White,Married-civ-spouse,7th-8th,United-States,Private,Handlers-cleaners,7779,<=50K
+Male,84,White,Married-civ-spouse,Some-college,United-States,Self-emp-inc,Sales,10387,>50K
+Male,81,White,Married-civ-spouse,1st-4th,Poland,Private,Prof-specialty,12302,<=50K
+Male,82,White,Married-civ-spouse,HS-grad,Cuba,Self-emp-not-inc,Craft-repair,12679,<=50K
+Male,81,White,Married-civ-spouse,HS-grad,United-States,Private,Exec-managerial,19920,>50K
+Male,83,White,Married-civ-spouse,10th,United-States,Self-emp-inc,Farming-fishing,21737,>50K
+Male,82,White,Married-civ-spouse,7th-8th,United-States,Self-emp-inc,Farming-fishing,22504,<=50K
+Male,83,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Exec-managerial,22614,>50K
+Male,84,Black,Married-civ-spouse,7th-8th,United-States,Private,Prof-specialty,25759,<=50K
+Male,81,White,Married-civ-spouse,7th-8th,United-States,Private,Transport-moving,26829,<=50K
+Male,82,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,29509,<=50K
+Male,85,White,Married-civ-spouse,Bachelors,Poland,Private,Exec-managerial,30072,<=50K

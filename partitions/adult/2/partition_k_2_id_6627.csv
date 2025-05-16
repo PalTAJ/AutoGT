@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,48,Asian-Pac-Islander,Married-spouse-absent,Bachelors,Philippines,Private,Prof-specialty,14605,>50K
+Female,50,Asian-Pac-Islander,Separated,Bachelors,Philippines,Private,Prof-specialty,23998,<=50K

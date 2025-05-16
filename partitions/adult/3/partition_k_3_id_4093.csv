@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Divorced,Bachelors,United-States,Local-gov,Protective-serv,11108,<=50K
+Female,43,White,Divorced,Some-college,United-States,Local-gov,Protective-serv,17992,<=50K
+Female,41,White,Divorced,Some-college,United-States,Local-gov,Protective-serv,26663,<=50K

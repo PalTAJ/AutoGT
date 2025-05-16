@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,White,Separated,Assoc-voc,United-States,Private,Other-service,2317,<=50K
+Female,42,White,Separated,Bachelors,United-States,Private,Other-service,8580,<=50K
+Female,48,White,Separated,Some-college,Peru,Private,Other-service,9532,<=50K

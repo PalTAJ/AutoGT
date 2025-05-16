@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Married-civ-spouse,HS-grad,Germany,Federal-gov,Adm-clerical,5836,>50K
+Male,53,White,Married-civ-spouse,HS-grad,France,Federal-gov,Tech-support,23235,>50K
+Male,49,White,Married-civ-spouse,HS-grad,Portugal,State-gov,Craft-repair,26357,<=50K

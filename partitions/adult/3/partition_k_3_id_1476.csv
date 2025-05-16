@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,Black,Separated,Assoc-voc,United-States,Private,Other-service,2075,<=50K
+Male,40,Black,Separated,Bachelors,United-States,Private,Adm-clerical,3956,<=50K
+Male,35,Black,Separated,Some-college,United-States,Private,Adm-clerical,8211,<=50K

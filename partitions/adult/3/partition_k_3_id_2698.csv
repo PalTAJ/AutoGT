@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,Black,Separated,Bachelors,United-States,Private,Other-service,147,<=50K
+Male,44,Black,Divorced,Bachelors,United-States,Private,Adm-clerical,2960,<=50K
+Male,41,Black,Divorced,Bachelors,United-States,Private,Transport-moving,14798,<=50K

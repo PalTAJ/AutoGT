@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Federal-gov,Transport-moving,2384,<=50K
+Male,60,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,State-gov,Protective-serv,5684,>50K
+Male,53,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,8559,<=50K
+Male,51,Amer-Indian-Eskimo,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,10955,<=50K
+Male,51,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,17322,<=50K
+Male,57,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Federal-gov,Prof-specialty,24247,<=50K
+Male,51,Amer-Indian-Eskimo,Married-civ-spouse,10th,United-States,State-gov,Craft-repair,28516,<=50K

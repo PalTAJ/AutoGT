@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Divorced,Some-college,United-States,Private,Transport-moving,8755,<=50K
+Male,44,White,Never-married,Some-college,United-States,Private,Other-service,10994,<=50K
+Male,44,White,Divorced,Some-college,United-States,Private,Transport-moving,14270,<=50K
+Male,44,White,Divorced,Some-college,United-States,Private,Adm-clerical,29614,>50K

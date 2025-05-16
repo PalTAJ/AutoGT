@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,White,Married-civ-spouse,5th-6th,Mexico,Self-emp-inc,Sales,5969,>50K
+Male,54,White,Married-civ-spouse,5th-6th,United-States,Private,Sales,8578,<=50K
+Male,56,White,Married-civ-spouse,5th-6th,United-States,Self-emp-not-inc,Exec-managerial,9704,>50K
+Male,57,White,Married-civ-spouse,1st-4th,Mexico,Self-emp-not-inc,Sales,12588,<=50K
+Male,52,White,Married-civ-spouse,1st-4th,United-States,Private,Exec-managerial,12666,>50K
+Male,57,White,Married-civ-spouse,1st-4th,United-States,Private,Handlers-cleaners,14893,<=50K

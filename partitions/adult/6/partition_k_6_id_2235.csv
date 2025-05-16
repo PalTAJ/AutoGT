@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,61,White,Widowed,Masters,United-States,Private,Prof-specialty,781,>50K
+Female,64,White,Widowed,Some-college,United-States,Private,Tech-support,2455,<=50K
+Female,63,White,Separated,Masters,United-States,Private,Prof-specialty,4927,>50K
+Female,62,White,Never-married,Some-college,United-States,Private,Craft-repair,5183,>50K
+Female,64,White,Never-married,Masters,United-States,Private,Prof-specialty,5378,<=50K
+Female,65,White,Widowed,Some-college,Hungary,Private,Prof-specialty,11587,<=50K
+Female,62,White,Divorced,Masters,United-States,Private,Prof-specialty,13160,<=50K
+Female,64,White,Widowed,Bachelors,United-States,Private,Prof-specialty,16709,<=50K
+Female,62,White,Widowed,Bachelors,United-States,Private,Tech-support,18453,<=50K
+Female,64,White,Widowed,Some-college,United-States,Private,Tech-support,21242,<=50K
+Female,64,White,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,21651,<=50K
+Female,64,White,Never-married,Masters,United-States,Private,Prof-specialty,24789,<=50K
+Female,65,White,Widowed,Doctorate,United-States,Private,Prof-specialty,26658,<=50K

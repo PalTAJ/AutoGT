@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,White,Divorced,HS-grad,United-States,State-gov,Exec-managerial,14614,<=50K
+Male,51,White,Married-spouse-absent,HS-grad,United-States,Local-gov,Handlers-cleaners,18776,<=50K
+Male,53,White,Divorced,HS-grad,United-States,Local-gov,Exec-managerial,21102,<=50K
+Male,56,White,Never-married,12th,United-States,Local-gov,Handlers-cleaners,21418,<=50K
+Male,60,White,Divorced,HS-grad,United-States,Federal-gov,Exec-managerial,28041,>50K

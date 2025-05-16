@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Never-married,HS-grad,United-States,Private,Transport-moving,135,<=50K
+Female,31,Black,Never-married,HS-grad,United-States,Private,Other-service,14152,<=50K
+Female,31,Black,Never-married,HS-grad,United-States,Private,Farming-fishing,17300,<=50K
+Female,31,Black,Never-married,HS-grad,United-States,Private,Other-service,20322,<=50K
+Female,31,Black,Never-married,HS-grad,United-States,Private,Other-service,27193,<=50K

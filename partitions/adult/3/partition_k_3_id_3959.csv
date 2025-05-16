@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,White,Widowed,Assoc-acdm,United-States,Private,Tech-support,11413,<=50K
+Female,46,White,Widowed,Assoc-acdm,United-States,Private,Prof-specialty,15164,<=50K
+Female,44,White,Widowed,Assoc-voc,United-States,Self-emp-not-inc,Prof-specialty,16711,<=50K
+Female,46,White,Widowed,Assoc-acdm,United-States,Private,Tech-support,28606,<=50K

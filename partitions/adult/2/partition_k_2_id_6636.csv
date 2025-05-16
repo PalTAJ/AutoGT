@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,Asian-Pac-Islander,Widowed,HS-grad,South,Private,Craft-repair,12542,<=50K
+Female,45,Asian-Pac-Islander,Married-spouse-absent,11th,South,Private,Machine-op-inspct,20797,<=50K

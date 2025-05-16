@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,74,White,Widowed,Some-college,United-States,Self-emp-inc,Exec-managerial,2831,<=50K
+Male,69,White,Separated,Bachelors,United-States,Self-emp-inc,Exec-managerial,11438,<=50K
+Male,70,White,Never-married,Some-college,United-States,Self-emp-inc,Exec-managerial,26235,<=50K

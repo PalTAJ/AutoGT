@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,19,White,Never-married,12th,United-States,Federal-gov,Other-service,4566,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Federal-gov,Other-service,7161,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,14224,<=50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,713,>50K
+Female,33,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,938,>50K
+Female,37,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,14119,>50K
+Female,38,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,16427,>50K
+Female,32,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,18074,>50K
+Female,39,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Tech-support,19091,<=50K
+Female,38,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,26371,>50K

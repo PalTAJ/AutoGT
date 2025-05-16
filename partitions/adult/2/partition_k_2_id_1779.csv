@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,HS-grad,United-States,Private,Protective-serv,4922,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Protective-serv,15085,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Protective-serv,18214,<=50K

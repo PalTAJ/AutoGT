@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,White,Married-civ-spouse,HS-grad,Nicaragua,Private,Machine-op-inspct,16182,<=50K
+Female,43,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,22234,<=50K
+Female,43,White,Married-civ-spouse,HS-grad,Greece,Private,Machine-op-inspct,27204,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,70,Asian-Pac-Islander,Divorced,Some-college,Vietnam,Private,Farming-fishing,10419,<=50K
+Male,61,Asian-Pac-Islander,Married-spouse-absent,Preschool,China,Private,Other-service,19803,<=50K
+Male,61,Asian-Pac-Islander,Separated,HS-grad,United-States,Private,Transport-moving,26810,>50K

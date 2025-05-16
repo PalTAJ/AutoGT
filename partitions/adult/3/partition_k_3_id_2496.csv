@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,White,Divorced,HS-grad,United-States,Private,Transport-moving,12054,<=50K
+Male,56,White,Divorced,HS-grad,United-States,Private,Transport-moving,20536,<=50K
+Male,57,White,Divorced,HS-grad,United-States,Private,Transport-moving,28426,<=50K

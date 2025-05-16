@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,Black,Divorced,Assoc-acdm,United-States,Private,Tech-support,124,<=50K
+Female,57,Black,Divorced,Assoc-acdm,United-States,Private,Prof-specialty,16139,<=50K
+Female,44,Black,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,28429,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,90,White,Married-civ-spouse,Bachelors,England,Private,Exec-managerial,14721,>50K
+Female,81,White,Married-civ-spouse,10th,United-States,Self-emp-inc,Exec-managerial,18067,<=50K
+Female,90,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,19099,>50K

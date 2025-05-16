@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,58,White,Divorced,Masters,United-States,Self-emp-not-inc,Sales,2066,<=50K
+Male,54,White,Divorced,Masters,United-States,Self-emp-not-inc,Sales,5721,<=50K
+Male,51,White,Divorced,Masters,United-States,Self-emp-not-inc,Exec-managerial,6002,>50K
+Male,56,White,Divorced,Masters,United-States,Self-emp-inc,Exec-managerial,6096,>50K
+Male,57,White,Divorced,Masters,United-States,Private,Exec-managerial,10251,>50K
+Male,56,White,Divorced,Masters,United-States,Self-emp-not-inc,Sales,14545,<=50K
+Male,53,White,Divorced,Doctorate,United-States,Self-emp-inc,Exec-managerial,14582,>50K
+Male,54,White,Divorced,Masters,United-States,Private,Exec-managerial,18581,>50K
+Male,53,White,Divorced,Masters,United-States,Self-emp-not-inc,Exec-managerial,20978,>50K
+Male,57,White,Divorced,Masters,United-States,Private,Exec-managerial,21170,>50K
+Male,55,White,Divorced,Masters,United-States,Private,Exec-managerial,23134,>50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,White,Married-civ-spouse,7th-8th,United-States,Private,Exec-managerial,24349,>50K
+Male,41,White,Married-civ-spouse,7th-8th,United-States,Private,Exec-managerial,24722,<=50K
+Male,56,White,Married-civ-spouse,7th-8th,United-States,Private,Exec-managerial,25176,>50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,White,Never-married,1st-4th,Guatemala,Private,Priv-house-serv,5359,<=50K
+Female,25,White,Never-married,1st-4th,Guatemala,Private,Priv-house-serv,12105,<=50K
+Female,25,White,Never-married,1st-4th,Guatemala,Private,Priv-house-serv,20663,<=50K
+Female,28,White,Never-married,1st-4th,Mexico,Private,Priv-house-serv,24489,<=50K

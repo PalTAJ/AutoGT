@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Married-civ-spouse,HS-grad,Columbia,Self-emp-not-inc,Prof-specialty,12432,<=50K
+Male,36,White,Married-civ-spouse,HS-grad,Ecuador,Private,Prof-specialty,28522,>50K

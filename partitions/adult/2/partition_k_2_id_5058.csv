@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,23,White,Never-married,Bachelors,United-States,Private,Protective-serv,9709,<=50K
+Female,28,White,Never-married,Bachelors,United-States,Private,Protective-serv,13883,<=50K
+Female,27,White,Never-married,Bachelors,United-States,Private,Protective-serv,17885,<=50K

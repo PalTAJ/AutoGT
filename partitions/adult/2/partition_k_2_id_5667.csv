@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Other-service,5363,<=50K
+Female,34,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Other-service,6360,<=50K

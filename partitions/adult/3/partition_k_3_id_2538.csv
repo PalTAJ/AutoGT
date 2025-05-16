@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,55,White,Separated,HS-grad,United-States,Private,Handlers-cleaners,2281,<=50K
+Male,49,White,Separated,9th,United-States,Private,Handlers-cleaners,13242,<=50K
+Male,52,White,Separated,11th,United-States,Private,Handlers-cleaners,15416,<=50K
+Male,49,White,Separated,HS-grad,United-States,Private,Sales,19797,<=50K
+Male,43,White,Separated,HS-grad,United-States,Private,Handlers-cleaners,25742,<=50K
+Male,41,White,Separated,HS-grad,United-States,Self-emp-inc,Exec-managerial,26183,<=50K

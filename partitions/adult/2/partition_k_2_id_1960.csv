@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,Asian-Pac-Islander,Married-civ-spouse,Doctorate,Taiwan,Private,Prof-specialty,601,>50K
+Male,31,Asian-Pac-Islander,Married-civ-spouse,Doctorate,Thailand,Private,Prof-specialty,19038,>50K
+Male,35,Asian-Pac-Islander,Married-civ-spouse,Doctorate,Taiwan,Private,Prof-specialty,22387,>50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,Doctorate,Hong,Private,Prof-specialty,28704,>50K
+Male,31,Asian-Pac-Islander,Married-civ-spouse,Doctorate,China,Private,Prof-specialty,29203,<=50K

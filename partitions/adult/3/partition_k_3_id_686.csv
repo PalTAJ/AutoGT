@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Married-civ-spouse,HS-grad,Germany,Private,Exec-managerial,12190,<=50K
+Male,28,White,Married-civ-spouse,HS-grad,Poland,Self-emp-not-inc,Exec-managerial,22183,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,Ireland,Private,Exec-managerial,24175,<=50K
+Male,34,White,Married-civ-spouse,10th,Portugal,Private,Handlers-cleaners,29553,<=50K

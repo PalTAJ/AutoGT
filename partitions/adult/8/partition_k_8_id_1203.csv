@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,Black,Divorced,HS-grad,United-States,Private,Sales,2184,<=50K
+Female,20,Black,Never-married,9th,United-States,Private,Adm-clerical,5768,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Private,Adm-clerical,8452,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Private,Other-service,9844,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Private,Sales,12240,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Private,Sales,13904,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Private,Sales,16574,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Private,Adm-clerical,17584,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Private,Sales,19513,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Private,Adm-clerical,20571,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Local-gov,Other-service,23035,<=50K
+Female,20,Black,Never-married,HS-grad,United-States,Private,Other-service,25401,<=50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Separated,HS-grad,United-States,Private,Prof-specialty,5958,<=50K
+Female,39,White,Divorced,HS-grad,United-States,Private,Prof-specialty,12574,<=50K
+Female,39,White,Never-married,11th,Puerto-Rico,Private,Prof-specialty,12935,<=50K
+Female,36,White,Never-married,HS-grad,United-States,Private,Prof-specialty,15880,<=50K
+Female,39,White,Divorced,HS-grad,United-States,Private,Prof-specialty,23236,<=50K
+Female,38,White,Never-married,HS-grad,United-States,Private,Prof-specialty,24155,<=50K
+Female,36,White,Divorced,HS-grad,United-States,Private,Prof-specialty,27653,>50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Separated,Bachelors,United-States,Private,Prof-specialty,5437,<=50K
+Male,43,White,Separated,Bachelors,United-States,Private,Tech-support,7194,<=50K
+Male,42,White,Separated,Bachelors,United-States,Private,Tech-support,20122,<=50K
+Male,51,White,Separated,Bachelors,United-States,Private,Prof-specialty,20976,<=50K
+Male,53,White,Separated,Some-college,United-States,Private,Craft-repair,22544,>50K
+Male,45,White,Separated,Some-college,United-States,Private,Craft-repair,23655,<=50K
+Male,44,White,Separated,Some-college,United-States,Private,Craft-repair,28011,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,Black,Married-civ-spouse,9th,United-States,Private,Other-service,1310,<=50K
+Female,40,Black,Married-civ-spouse,10th,United-States,Private,Other-service,5909,<=50K
+Female,39,Black,Married-civ-spouse,HS-grad,United-States,Private,Other-service,6578,<=50K
+Female,40,Black,Married-civ-spouse,HS-grad,United-States,Private,Other-service,13835,<=50K
+Female,38,Black,Married-civ-spouse,9th,Haiti,Private,Other-service,19325,<=50K

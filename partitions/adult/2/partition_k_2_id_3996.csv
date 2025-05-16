@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,Other,Married-civ-spouse,HS-grad,Mexico,Private,Farming-fishing,4607,<=50K
+Male,44,Other,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,19680,<=50K
+Male,45,Other,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,28319,<=50K

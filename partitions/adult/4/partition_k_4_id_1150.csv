@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,Some-college,United-States,Private,Adm-clerical,3238,<=50K
+Male,27,Black,Never-married,Some-college,United-States,Private,Adm-clerical,5722,<=50K
+Male,23,Black,Never-married,Some-college,United-States,Private,Adm-clerical,6488,<=50K
+Male,24,Black,Never-married,Some-college,United-States,Private,Adm-clerical,9312,<=50K
+Male,22,Black,Never-married,Some-college,Dominican-Republic,Private,Adm-clerical,10434,<=50K
+Male,23,Black,Never-married,Some-college,Haiti,Private,Adm-clerical,10448,<=50K
+Male,22,Black,Never-married,Some-college,United-States,Private,Adm-clerical,15411,<=50K
+Male,23,Black,Divorced,Some-college,United-States,Private,Adm-clerical,16472,<=50K
+Male,21,Black,Never-married,Some-college,United-States,Private,Adm-clerical,20538,<=50K
+Male,23,Black,Never-married,Some-college,United-States,Private,Adm-clerical,22636,<=50K

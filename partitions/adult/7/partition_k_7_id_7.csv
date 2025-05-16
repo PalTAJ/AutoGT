@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,18,White,Never-married,Some-college,United-States,Private,Sales,1522,<=50K
+Male,18,White,Never-married,Some-college,United-States,Private,Sales,10760,<=50K
+Male,18,Black,Never-married,Some-college,United-States,Private,Sales,11907,<=50K
+Male,18,White,Never-married,Some-college,United-States,Private,Sales,18568,<=50K
+Male,18,White,Never-married,Some-college,United-States,Private,Sales,23635,<=50K
+Male,18,White,Never-married,Some-college,United-States,Private,Sales,27905,<=50K
+Male,18,White,Never-married,Some-college,United-States,Private,Sales,28462,<=50K

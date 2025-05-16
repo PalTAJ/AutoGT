@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,64,White,Widowed,Some-college,United-States,Private,Tech-support,2455,<=50K
+Female,62,White,Never-married,Some-college,United-States,Private,Craft-repair,5183,>50K
+Female,65,White,Widowed,Some-college,Hungary,Private,Prof-specialty,11587,<=50K
+Female,67,White,Widowed,Some-college,United-States,Private,Prof-specialty,14248,<=50K
+Female,64,White,Widowed,Some-college,United-States,Private,Tech-support,21242,<=50K

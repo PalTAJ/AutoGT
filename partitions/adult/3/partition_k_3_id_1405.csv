@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Other,Never-married,12th,United-States,Private,Other-service,7540,<=50K
+Male,28,Other,Never-married,HS-grad,United-States,Private,Transport-moving,17803,<=50K
+Male,29,Other,Never-married,HS-grad,Dominican-Republic,Private,Transport-moving,21801,<=50K
+Male,29,Other,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,29002,<=50K
+Male,28,Other,Never-married,HS-grad,Mexico,Private,Other-service,29299,<=50K

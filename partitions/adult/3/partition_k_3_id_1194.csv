@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,White,Divorced,10th,United-States,Private,Transport-moving,6669,<=50K
+Male,31,White,Divorced,10th,United-States,Private,Other-service,7043,<=50K
+Male,39,White,Divorced,10th,United-States,Private,Transport-moving,18473,<=50K
+Male,36,White,Divorced,10th,United-States,Private,Transport-moving,29969,<=50K

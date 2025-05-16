@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Widowed,Bachelors,Cuba,Private,Sales,645,<=50K
+Female,36,White,Widowed,Some-college,United-States,Private,Sales,13265,<=50K
+Female,29,White,Widowed,Assoc-acdm,United-States,Self-emp-not-inc,Sales,28338,>50K

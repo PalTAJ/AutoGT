@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,Black,Never-married,5th-6th,Mexico,Private,Farming-fishing,19758,<=50K
+Male,24,Black,Never-married,5th-6th,Mexico,Private,Farming-fishing,23337,<=50K
+Male,36,Black,Never-married,Preschool,Puerto-Rico,Private,Machine-op-inspct,26315,<=50K

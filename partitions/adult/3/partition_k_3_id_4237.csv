@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,White,Widowed,HS-grad,United-States,Local-gov,Transport-moving,4710,<=50K
+Female,42,White,Widowed,HS-grad,United-States,Local-gov,Transport-moving,12643,<=50K
+Female,50,White,Widowed,HS-grad,United-States,Local-gov,Transport-moving,28498,<=50K

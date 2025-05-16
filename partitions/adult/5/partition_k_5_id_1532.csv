@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Never-married,Masters,Dominican-Republic,Private,Exec-managerial,633,<=50K
+Male,43,White,Never-married,Some-college,United-States,Private,Exec-managerial,1534,<=50K
+Male,42,White,Never-married,Some-college,United-States,Self-emp-not-inc,Exec-managerial,11596,<=50K
+Male,42,White,Never-married,Masters,United-States,Private,Exec-managerial,11620,>50K
+Male,42,White,Never-married,Bachelors,United-States,Private,Exec-managerial,12395,>50K
+Male,41,White,Never-married,Some-college,United-States,Private,Exec-managerial,21311,<=50K
+Male,42,White,Never-married,Masters,United-States,Private,Exec-managerial,24784,<=50K
+Male,41,White,Never-married,Masters,United-States,Private,Exec-managerial,25630,>50K
+Male,44,White,Never-married,Masters,United-States,Private,Exec-managerial,27546,>50K
+Male,42,White,Never-married,Masters,United-States,Private,Exec-managerial,28793,>50K

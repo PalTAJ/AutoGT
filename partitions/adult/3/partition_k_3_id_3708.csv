@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,Black,Divorced,Some-college,United-States,Private,Machine-op-inspct,85,<=50K
+Female,30,Black,Never-married,Some-college,United-States,Private,Machine-op-inspct,1042,<=50K
+Female,26,Black,Married-spouse-absent,Some-college,Dominican-Republic,Private,Craft-repair,1937,<=50K
+Female,26,Black,Never-married,Some-college,United-States,Private,Machine-op-inspct,3843,<=50K
+Female,28,Black,Never-married,Some-college,United-States,Private,Prof-specialty,11754,<=50K

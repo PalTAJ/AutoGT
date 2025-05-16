@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,6441,>50K
+Female,26,White,Married-civ-spouse,10th,United-States,Private,Handlers-cleaners,6922,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,Mexico,Private,Handlers-cleaners,9092,>50K
+Female,34,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,23190,<=50K
+Female,35,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,28621,<=50K

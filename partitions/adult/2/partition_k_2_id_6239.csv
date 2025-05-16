@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Divorced,Some-college,United-States,Private,Exec-managerial,5032,<=50K
+Female,42,White,Divorced,Some-college,United-States,Private,Exec-managerial,5833,<=50K
+Female,44,White,Divorced,Some-college,United-States,Private,Exec-managerial,9445,<=50K
+Female,42,White,Divorced,Some-college,United-States,Private,Exec-managerial,10664,<=50K
+Female,45,White,Divorced,Some-college,United-States,Private,Exec-managerial,12194,<=50K
+Female,45,White,Divorced,Some-college,United-States,Private,Exec-managerial,14256,<=50K
+Female,44,White,Divorced,Some-college,United-States,Private,Exec-managerial,14891,<=50K
+Female,43,White,Divorced,Some-college,Iran,Private,Exec-managerial,14906,<=50K
+Female,44,White,Divorced,Some-college,United-States,Private,Exec-managerial,17696,<=50K
+Female,45,White,Divorced,Some-college,United-States,Private,Exec-managerial,17845,<=50K
+Female,42,White,Divorced,Some-college,United-States,Private,Exec-managerial,20869,<=50K
+Female,42,White,Divorced,Some-college,United-States,Private,Exec-managerial,23452,<=50K
+Female,41,White,Divorced,Some-college,United-States,Private,Exec-managerial,27426,<=50K

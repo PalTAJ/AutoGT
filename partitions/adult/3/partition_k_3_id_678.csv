@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-civ-spouse,HS-grad,India,Private,Handlers-cleaners,9525,<=50K
+Male,35,White,Married-civ-spouse,HS-grad,Iran,Private,Exec-managerial,12926,>50K
+Male,34,White,Married-civ-spouse,HS-grad,Philippines,Private,Prof-specialty,28671,>50K

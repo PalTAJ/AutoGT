@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Married-civ-spouse,Bachelors,England,Private,Exec-managerial,13817,>50K
+Male,29,White,Married-civ-spouse,Bachelors,France,Private,Exec-managerial,22506,>50K
+Male,29,White,Married-civ-spouse,Bachelors,Yugoslavia,Private,Exec-managerial,29211,>50K

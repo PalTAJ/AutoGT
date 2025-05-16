@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,Black,Married-civ-spouse,12th,Jamaica,Private,Transport-moving,6185,<=50K
+Male,40,Black,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,9205,>50K
+Male,36,Black,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,9765,<=50K
+Male,36,Black,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,11152,>50K
+Male,39,Black,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,21123,>50K
+Male,39,Black,Married-civ-spouse,HS-grad,Cuba,Private,Transport-moving,21778,<=50K
+Male,38,Black,Married-civ-spouse,9th,United-States,Private,Transport-moving,30063,<=50K

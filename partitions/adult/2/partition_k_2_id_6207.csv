@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,White,Widowed,Bachelors,United-States,Private,Adm-clerical,17592,<=50K
+Female,48,White,Widowed,Bachelors,United-States,Private,Other-service,24359,<=50K
+Female,47,White,Widowed,Bachelors,United-States,Private,Priv-house-serv,26112,>50K

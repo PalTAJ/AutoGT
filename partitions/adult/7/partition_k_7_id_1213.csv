@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,Black,Married-civ-spouse,Bachelors,United-States,Federal-gov,Prof-specialty,42,>50K
+Male,52,Black,Married-civ-spouse,Bachelors,United-States,Federal-gov,Tech-support,3314,>50K
+Male,53,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,3584,<=50K
+Male,51,Black,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Tech-support,5991,<=50K
+Male,56,Black,Married-civ-spouse,Assoc-voc,United-States,State-gov,Craft-repair,11539,>50K
+Male,58,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,16268,<=50K
+Male,52,Black,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,21654,>50K
+Male,57,Black,Married-civ-spouse,Some-college,United-States,State-gov,Prof-specialty,22122,>50K
+Male,55,Black,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,28167,>50K
+Male,58,Black,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,29453,>50K

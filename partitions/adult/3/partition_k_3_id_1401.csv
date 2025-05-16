@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,Other,Never-married,Some-college,United-States,State-gov,Adm-clerical,9328,<=50K
+Male,26,Other,Never-married,Bachelors,United-States,Federal-gov,Tech-support,16237,<=50K
+Male,37,Other,Separated,Some-college,United-States,Local-gov,Protective-serv,17894,<=50K
+Male,24,Other,Never-married,Some-college,United-States,Local-gov,Protective-serv,19625,<=50K
+Male,29,Other,Never-married,Some-college,Ecuador,Local-gov,Adm-clerical,27047,<=50K

@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,White,Widowed,HS-grad,United-States,Private,Tech-support,1969,<=50K
+Male,57,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Craft-repair,2304,>50K
+Male,54,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,2337,<=50K
+Male,47,White,Widowed,10th,United-States,Private,Machine-op-inspct,2946,<=50K
+Male,42,White,Widowed,7th-8th,United-States,Private,Craft-repair,4712,<=50K
+Male,58,White,Widowed,HS-grad,United-States,Private,Craft-repair,6118,<=50K
+Male,53,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,12293,<=50K
+Male,54,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Craft-repair,16511,<=50K
+Male,58,White,Widowed,HS-grad,Mexico,Private,Craft-repair,16593,>50K
+Male,59,White,Widowed,10th,United-States,Private,Machine-op-inspct,19456,<=50K
+Male,52,White,Widowed,11th,United-States,Private,Craft-repair,20882,<=50K
+Male,53,White,Widowed,HS-grad,United-States,Private,Craft-repair,23554,>50K
+Male,52,White,Widowed,HS-grad,United-States,Private,Craft-repair,28466,<=50K

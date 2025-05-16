@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,White,Divorced,Some-college,Mexico,Local-gov,Adm-clerical,139,<=50K
+Female,43,White,Divorced,Some-college,Mexico,Local-gov,Adm-clerical,12196,<=50K

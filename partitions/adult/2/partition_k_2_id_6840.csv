@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,68,White,Divorced,Doctorate,Cuba,Private,Prof-specialty,24490,<=50K
+Female,65,White,Widowed,Doctorate,United-States,Private,Prof-specialty,26658,<=50K

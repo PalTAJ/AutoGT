@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Divorced,HS-grad,Germany,Private,Tech-support,2662,<=50K
+Female,22,White,Never-married,HS-grad,Germany,Private,Exec-managerial,13206,<=50K
+Female,30,White,Never-married,HS-grad,Ireland,Private,Other-service,14042,<=50K
+Female,24,White,Separated,HS-grad,Portugal,Private,Other-service,14790,>50K
+Female,24,White,Never-married,11th,Germany,Private,Adm-clerical,14857,<=50K
+Female,24,White,Never-married,HS-grad,England,Private,Priv-house-serv,15821,<=50K
+Female,29,White,Married-spouse-absent,HS-grad,France,Private,Other-service,19871,<=50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Never-married,Bachelors,United-States,Federal-gov,Exec-managerial,4925,<=50K
+Female,38,Black,Divorced,Some-college,United-States,Federal-gov,Handlers-cleaners,11252,<=50K
+Female,39,Black,Divorced,Bachelors,United-States,Federal-gov,Exec-managerial,11428,<=50K
+Female,38,Black,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,11560,<=50K
+Female,36,Black,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,19523,>50K
+Female,39,Black,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,28221,<=50K
+Female,40,Black,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,29184,<=50K

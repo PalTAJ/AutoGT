@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,70,White,Never-married,Bachelors,United-States,State-gov,Exec-managerial,11144,<=50K
+Male,74,White,Separated,Some-college,United-States,State-gov,Sales,19620,<=50K
+Male,71,White,Widowed,Masters,United-States,Local-gov,Exec-managerial,20282,<=50K
+Male,79,White,Widowed,Doctorate,United-States,Federal-gov,Exec-managerial,26115,>50K

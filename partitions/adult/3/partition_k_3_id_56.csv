@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,17,White,Never-married,10th,United-States,Private,Farming-fishing,747,<=50K
+Male,17,White,Never-married,10th,United-States,State-gov,Farming-fishing,7464,<=50K
+Male,17,White,Never-married,10th,United-States,Private,Farming-fishing,8999,<=50K
+Male,17,White,Never-married,10th,United-States,Self-emp-not-inc,Farming-fishing,12528,<=50K

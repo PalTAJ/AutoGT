@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,Black,Never-married,12th,Trinadad&Tobago,Self-emp-not-inc,Other-service,2920,<=50K
+Female,33,Black,Never-married,7th-8th,Trinadad&Tobago,Private,Other-service,26724,<=50K

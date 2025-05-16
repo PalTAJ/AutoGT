@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,64,White,Widowed,Some-college,Cuba,Private,Adm-clerical,2559,<=50K
+Female,63,White,Widowed,Bachelors,United-States,Private,Adm-clerical,4940,<=50K
+Female,64,White,Widowed,Some-college,United-States,Private,Adm-clerical,9657,<=50K
+Female,64,White,Widowed,Some-college,United-States,Private,Adm-clerical,11429,<=50K
+Female,65,White,Widowed,Some-college,United-States,Private,Adm-clerical,14758,<=50K
+Female,65,White,Widowed,Some-college,United-States,Private,Adm-clerical,16944,<=50K
+Female,62,White,Widowed,Some-college,United-States,Private,Adm-clerical,19667,<=50K
+Female,65,White,Widowed,Some-college,United-States,Private,Adm-clerical,24816,<=50K
+Female,63,White,Widowed,Some-college,United-States,Private,Adm-clerical,25063,<=50K
+Female,61,White,Widowed,Some-college,United-States,Private,Adm-clerical,25430,<=50K

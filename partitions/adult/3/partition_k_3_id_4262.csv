@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,Asian-Pac-Islander,Married-spouse-absent,Bachelors,United-States,Private,Tech-support,3662,<=50K
+Female,51,Asian-Pac-Islander,Widowed,Assoc-voc,United-States,Private,Prof-specialty,24815,<=50K
+Female,50,Asian-Pac-Islander,Never-married,5th-6th,United-States,Self-emp-not-inc,Tech-support,26649,<=50K

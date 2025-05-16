@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,58,White,Married-civ-spouse,5th-6th,Italy,Private,Machine-op-inspct,21984,<=50K
+Male,42,White,Married-civ-spouse,1st-4th,Italy,Private,Machine-op-inspct,25963,<=50K
+Male,48,White,Married-civ-spouse,1st-4th,Portugal,Private,Machine-op-inspct,30019,<=50K

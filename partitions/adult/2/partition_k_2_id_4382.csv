@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,62,White,Married-civ-spouse,5th-6th,Mexico,Private,Farming-fishing,5486,<=50K
+Male,69,White,Married-civ-spouse,5th-6th,United-States,Private,Adm-clerical,13198,<=50K

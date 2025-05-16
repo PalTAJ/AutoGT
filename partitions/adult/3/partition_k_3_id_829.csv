@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,Some-college,Poland,Private,Other-service,5549,<=50K
+Male,37,White,Separated,Bachelors,England,Private,Other-service,10279,<=50K
+Male,21,White,Never-married,Some-college,Italy,Private,Other-service,28394,<=50K

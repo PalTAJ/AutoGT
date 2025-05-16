@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Never-married,HS-grad,Peru,Private,Sales,6260,<=50K
+Female,25,White,Never-married,10th,Columbia,Private,Machine-op-inspct,10788,<=50K
+Female,25,White,Never-married,HS-grad,Columbia,Private,Other-service,22062,<=50K
+Female,28,White,Never-married,11th,Nicaragua,Private,Machine-op-inspct,23714,<=50K
+Female,25,White,Never-married,HS-grad,Columbia,Private,Sales,24416,<=50K
+Female,21,White,Never-married,HS-grad,Peru,Private,Machine-op-inspct,28288,<=50K

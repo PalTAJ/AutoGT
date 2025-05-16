@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,Black,Never-married,Assoc-acdm,United-States,Private,Sales,11607,<=50K
+Female,37,Black,Never-married,Assoc-voc,United-States,Private,Sales,12996,<=50K
+Female,32,Black,Never-married,Assoc-acdm,Trinadad&Tobago,Private,Sales,27961,<=50K

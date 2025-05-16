@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Never-married,HS-grad,United-States,Federal-gov,Armed-Forces,410,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Federal-gov,Armed-Forces,13528,<=50K
+Male,23,White,Never-married,HS-grad,United-States,Federal-gov,Armed-Forces,29935,<=50K

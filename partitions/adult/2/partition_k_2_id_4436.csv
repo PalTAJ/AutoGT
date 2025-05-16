@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,76,White,Widowed,7th-8th,United-States,Private,Protective-serv,24560,<=50K
+Male,71,White,Widowed,7th-8th,United-States,Private,Transport-moving,25655,<=50K

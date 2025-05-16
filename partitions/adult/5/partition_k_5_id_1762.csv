@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,71,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,803,>50K
+Male,64,White,Married-civ-spouse,Doctorate,United-States,Self-emp-not-inc,Exec-managerial,2895,>50K
+Male,67,White,Married-civ-spouse,Doctorate,United-States,Self-emp-not-inc,Sales,11978,>50K
+Male,70,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Exec-managerial,17309,>50K
+Male,66,White,Married-civ-spouse,Doctorate,United-States,Self-emp-not-inc,Sales,21562,>50K
+Male,66,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Exec-managerial,30052,>50K

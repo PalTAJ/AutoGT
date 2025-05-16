@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,58,White,Divorced,Some-college,France,Private,Other-service,464,<=50K
+Female,56,White,Divorced,Some-college,Germany,Private,Adm-clerical,23479,<=50K
+Female,44,White,Divorced,Some-college,Germany,Private,Adm-clerical,29139,<=50K

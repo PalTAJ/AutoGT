@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Never-married,Some-college,United-States,Self-emp-not-inc,Other-service,1358,<=50K
+Male,32,White,Divorced,Some-college,Nicaragua,Private,Other-service,1863,<=50K
+Male,32,White,Never-married,Some-college,United-States,Private,Other-service,3904,<=50K
+Male,34,White,Never-married,Some-college,United-States,Private,Other-service,4266,<=50K
+Male,31,White,Never-married,Some-college,United-States,Private,Other-service,8125,<=50K
+Male,34,White,Never-married,Some-college,United-States,Private,Other-service,8141,<=50K
+Male,35,White,Never-married,Some-college,United-States,Private,Other-service,9542,<=50K
+Male,35,White,Never-married,Some-college,United-States,Private,Other-service,11594,<=50K
+Male,33,White,Never-married,Some-college,United-States,Private,Other-service,14534,<=50K
+Male,31,White,Never-married,Some-college,United-States,Private,Other-service,16760,<=50K
+Male,33,White,Never-married,Some-college,United-States,Private,Other-service,19579,<=50K
+Male,32,White,Never-married,Some-college,United-States,Private,Other-service,22469,<=50K
+Male,31,White,Never-married,Some-college,United-States,Private,Other-service,28756,<=50K
+Male,33,White,Never-married,Some-college,United-States,Private,Other-service,29835,<=50K

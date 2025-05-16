@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,White,Never-married,Assoc-acdm,Cuba,Private,Adm-clerical,8168,<=50K
+Female,46,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,24786,<=50K
+Female,47,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,29440,<=50K

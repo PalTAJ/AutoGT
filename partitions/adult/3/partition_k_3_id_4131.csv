@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,White,Never-married,HS-grad,United-States,Private,Craft-repair,9721,<=50K
+Female,50,White,Never-married,11th,United-States,Private,Machine-op-inspct,10868,<=50K
+Female,49,White,Never-married,HS-grad,Puerto-Rico,Private,Craft-repair,12929,<=50K

@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,65,White,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,1459,<=50K
+Male,63,White,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,3469,<=50K
+Male,62,White,Married-civ-spouse,Some-college,United-States,Private,Other-service,4679,<=50K
+Male,64,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,6436,<=50K
+Male,61,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,7704,>50K
+Male,62,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,9838,<=50K
+Male,65,White,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,15432,<=50K
+Male,65,White,Married-civ-spouse,Some-college,United-States,Private,Farming-fishing,16835,<=50K
+Male,61,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,17639,>50K
+Male,62,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,22177,>50K
+Male,64,White,Married-civ-spouse,Some-college,United-States,Private,Other-service,26266,<=50K
+Male,61,White,Married-civ-spouse,Some-college,United-States,Private,Other-service,26533,<=50K

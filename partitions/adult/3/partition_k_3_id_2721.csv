@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,Black,Never-married,HS-grad,Jamaica,Self-emp-not-inc,Other-service,11484,<=50K
+Male,44,Black,Never-married,HS-grad,United-States,Private,Other-service,11541,<=50K
+Male,42,Black,Never-married,HS-grad,United-States,Private,Other-service,20665,<=50K
+Male,43,Black,Never-married,HS-grad,Haiti,Private,Other-service,26489,<=50K

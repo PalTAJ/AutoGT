@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,Black,Widowed,Bachelors,United-States,Private,Craft-repair,22415,<=50K
+Female,43,Black,Widowed,Masters,United-States,Private,Prof-specialty,29560,<=50K

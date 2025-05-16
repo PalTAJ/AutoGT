@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Widowed,HS-grad,United-States,Local-gov,Protective-serv,906,>50K
+Male,59,White,Widowed,HS-grad,United-States,Local-gov,Farming-fishing,1632,<=50K
+Male,57,White,Divorced,7th-8th,United-States,Local-gov,Other-service,4797,<=50K
+Male,44,White,Divorced,HS-grad,United-States,Local-gov,Transport-moving,5491,<=50K
+Male,45,White,Never-married,9th,United-States,Local-gov,Other-service,8689,<=50K
+Male,43,White,Separated,HS-grad,United-States,Local-gov,Other-service,8969,<=50K
+Male,42,White,Divorced,HS-grad,United-States,Local-gov,Farming-fishing,13001,<=50K
+Male,41,White,Separated,HS-grad,United-States,Local-gov,Transport-moving,13550,<=50K
+Male,51,White,Divorced,HS-grad,United-States,Local-gov,Protective-serv,15917,<=50K
+Male,50,White,Never-married,10th,United-States,Local-gov,Other-service,16286,<=50K
+Male,55,White,Divorced,HS-grad,United-States,Local-gov,Adm-clerical,19217,<=50K
+Male,42,White,Divorced,7th-8th,United-States,Local-gov,Other-service,21475,<=50K
+Male,46,White,Never-married,11th,United-States,Local-gov,Other-service,22617,<=50K
+Male,51,White,Divorced,HS-grad,United-States,Local-gov,Protective-serv,28356,<=50K
+Male,42,White,Never-married,10th,United-States,Local-gov,Farming-fishing,29076,<=50K

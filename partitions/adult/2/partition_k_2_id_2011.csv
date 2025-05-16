@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Asian-Pac-Islander,Married-spouse-absent,Doctorate,China,Private,Prof-specialty,1007,<=50K
+Male,40,Asian-Pac-Islander,Married-spouse-absent,Bachelors,Cambodia,Private,Prof-specialty,1819,>50K

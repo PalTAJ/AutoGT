@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,White,Married-civ-spouse,Assoc-acdm,United-States,Self-emp-not-inc,Protective-serv,6957,<=50K
+Male,50,White,Married-civ-spouse,Assoc-voc,United-States,Private,Protective-serv,12690,<=50K
+Male,46,White,Married-civ-spouse,Bachelors,United-States,Private,Protective-serv,15400,<=50K
+Male,45,White,Married-civ-spouse,Assoc-voc,United-States,Self-emp-not-inc,Protective-serv,17580,<=50K
+Male,43,White,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,20963,<=50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,Private,Protective-serv,28707,>50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Tech-support,18648,<=50K
+Male,32,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,19691,>50K
+Male,31,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Craft-repair,25988,<=50K

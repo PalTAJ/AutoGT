@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,62,White,Married-civ-spouse,5th-6th,Mexico,Private,Farming-fishing,5486,<=50K
+Male,61,White,Married-civ-spouse,1st-4th,United-States,Self-emp-not-inc,Craft-repair,8209,<=50K
+Male,69,White,Married-civ-spouse,5th-6th,United-States,Private,Adm-clerical,13198,<=50K
+Male,69,White,Married-civ-spouse,5th-6th,United-States,Private,Machine-op-inspct,16204,<=50K
+Male,65,White,Married-civ-spouse,5th-6th,United-States,Self-emp-not-inc,Farming-fishing,17622,<=50K
+Male,64,White,Married-civ-spouse,5th-6th,Canada,Self-emp-not-inc,Farming-fishing,18150,<=50K
+Male,63,Other,Married-civ-spouse,Preschool,Mexico,Private,Prof-specialty,18942,<=50K
+Male,62,White,Married-civ-spouse,5th-6th,United-States,Self-emp-not-inc,Farming-fishing,19002,<=50K
+Male,64,White,Married-civ-spouse,1st-4th,United-States,Self-emp-inc,Sales,21324,<=50K
+Male,61,White,Married-civ-spouse,5th-6th,United-States,Private,Handlers-cleaners,23428,<=50K
+Male,62,Asian-Pac-Islander,Married-civ-spouse,5th-6th,Philippines,Private,Farming-fishing,24829,<=50K
+Male,61,White,Married-civ-spouse,5th-6th,El-Salvador,Private,Craft-repair,26225,<=50K
+Male,65,Asian-Pac-Islander,Married-civ-spouse,5th-6th,United-States,Private,Other-service,26474,<=50K
+Male,61,Asian-Pac-Islander,Married-civ-spouse,5th-6th,Philippines,Private,Handlers-cleaners,28105,>50K

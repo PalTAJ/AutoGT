@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,67,White,Married-civ-spouse,Prof-school,United-States,Private,Prof-specialty,491,>50K
+Male,66,White,Married-civ-spouse,Assoc-acdm,Yugoslavia,Private,Machine-op-inspct,12143,>50K
+Male,70,White,Married-civ-spouse,Assoc-voc,United-States,Private,Machine-op-inspct,21927,>50K
+Male,69,White,Married-civ-spouse,Prof-school,United-States,Private,Prof-specialty,27749,<=50K

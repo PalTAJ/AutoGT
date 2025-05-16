@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,Black,Widowed,1st-4th,United-States,Private,Priv-house-serv,493,<=50K
+Female,50,Black,Separated,1st-4th,United-States,Private,Prof-specialty,6730,<=50K
+Female,53,Black,Divorced,1st-4th,Dominican-Republic,Private,Other-service,28855,<=50K

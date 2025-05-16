@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,51,Black,Separated,11th,Jamaica,Private,Other-service,6054,<=50K
+Female,50,Black,Separated,10th,Jamaica,Private,Adm-clerical,22158,<=50K
+Female,46,Black,Separated,HS-grad,Jamaica,Private,Other-service,28597,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Separated,5th-6th,Guatemala,Private,Farming-fishing,711,<=50K
+Male,32,White,Separated,5th-6th,Mexico,Private,Farming-fishing,20701,<=50K

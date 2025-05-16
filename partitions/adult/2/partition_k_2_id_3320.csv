@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,54,White,Married-civ-spouse,9th,United-States,Private,Exec-managerial,3879,>50K
+Male,43,White,Married-civ-spouse,9th,Mexico,Private,Exec-managerial,13225,<=50K

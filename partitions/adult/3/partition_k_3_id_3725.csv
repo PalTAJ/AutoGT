@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,Black,Never-married,9th,Haiti,Private,Machine-op-inspct,2353,<=50K
+Female,40,Black,Widowed,HS-grad,United-States,Private,Machine-op-inspct,5920,<=50K
+Female,36,Black,Separated,HS-grad,United-States,Private,Machine-op-inspct,6164,<=50K
+Female,39,Black,Divorced,HS-grad,United-States,Private,Machine-op-inspct,6244,<=50K
+Female,39,Black,Widowed,HS-grad,United-States,Private,Machine-op-inspct,10678,<=50K
+Female,38,Black,Never-married,HS-grad,United-States,Private,Craft-repair,13223,<=50K
+Female,39,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,15525,<=50K
+Female,39,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,17044,<=50K
+Female,40,Black,Divorced,10th,United-States,Private,Machine-op-inspct,17760,<=50K
+Female,37,Black,Divorced,HS-grad,United-States,Private,Machine-op-inspct,18738,<=50K
+Female,39,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,19564,<=50K
+Female,38,Black,Divorced,11th,United-States,Private,Machine-op-inspct,20300,<=50K
+Female,36,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,21687,<=50K
+Female,38,Black,Never-married,12th,United-States,Private,Machine-op-inspct,25310,<=50K
+Female,37,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,28347,<=50K
+Female,36,Black,Never-married,11th,United-States,Private,Craft-repair,29965,<=50K

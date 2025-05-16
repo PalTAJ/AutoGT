@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Local-gov,Protective-serv,6799,<=50K
+Male,35,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Local-gov,Adm-clerical,7092,<=50K
+Male,40,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Local-gov,Craft-repair,16299,<=50K
+Male,33,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Local-gov,Other-service,16961,<=50K
+Male,25,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Federal-gov,Handlers-cleaners,17151,<=50K
+Male,26,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Local-gov,Handlers-cleaners,17601,<=50K
+Male,34,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Local-gov,Protective-serv,18316,<=50K
+Male,27,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,State-gov,Transport-moving,18618,>50K
+Male,31,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Local-gov,Other-service,28714,<=50K

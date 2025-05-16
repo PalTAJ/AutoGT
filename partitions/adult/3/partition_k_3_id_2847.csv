@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,62,White,Married-civ-spouse,7th-8th,Cuba,Private,Protective-serv,1527,<=50K
+Male,61,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,7218,<=50K
+Male,64,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,9605,<=50K
+Male,63,White,Married-civ-spouse,11th,United-States,Private,Protective-serv,9673,>50K
+Male,62,White,Married-civ-spouse,7th-8th,United-States,Private,Protective-serv,13556,<=50K
+Male,61,Black,Married-civ-spouse,HS-grad,India,Private,Protective-serv,23779,<=50K

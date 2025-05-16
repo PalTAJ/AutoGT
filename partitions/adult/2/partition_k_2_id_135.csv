@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,18,White,Never-married,5th-6th,Honduras,Private,Handlers-cleaners,16272,<=50K
+Male,18,White,Never-married,5th-6th,Mexico,Private,Handlers-cleaners,25398,<=50K
+Male,18,White,Never-married,5th-6th,United-States,Private,Handlers-cleaners,28128,<=50K

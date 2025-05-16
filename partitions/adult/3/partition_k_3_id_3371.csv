@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,4001,<=50K
+Female,28,White,Never-married,Assoc-voc,United-States,Private,Handlers-cleaners,6123,<=50K
+Female,26,White,Never-married,Assoc-voc,United-States,Private,Sales,6406,<=50K
+Female,27,White,Never-married,Assoc-voc,United-States,Private,Handlers-cleaners,9456,<=50K
+Female,26,White,Never-married,Assoc-voc,United-States,Private,Sales,11008,<=50K
+Female,28,White,Never-married,Assoc-voc,United-States,Private,Sales,11559,<=50K
+Female,27,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,18529,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,Black,Separated,11th,United-States,Private,Other-service,4216,<=50K
+Female,44,Black,Separated,11th,United-States,Private,Other-service,17115,<=50K
+Female,41,Black,Separated,HS-grad,United-States,Private,Other-service,18319,<=50K
+Female,43,Black,Separated,10th,United-States,Private,Other-service,19884,<=50K
+Female,43,Black,Separated,HS-grad,United-States,Private,Other-service,23467,<=50K

@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Adm-clerical,3266,<=50K
+Male,41,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Craft-repair,6468,<=50K
+Male,50,Asian-Pac-Islander,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,9599,<=50K
+Male,43,Asian-Pac-Islander,Divorced,Some-college,United-States,Federal-gov,Handlers-cleaners,13282,<=50K
+Male,55,Asian-Pac-Islander,Widowed,Bachelors,United-States,Private,Farming-fishing,14253,<=50K
+Male,43,Asian-Pac-Islander,Married-spouse-absent,Bachelors,United-States,Federal-gov,Tech-support,15812,<=50K
+Male,42,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Craft-repair,18528,<=50K
+Male,41,Asian-Pac-Islander,Never-married,Masters,United-States,Self-emp-not-inc,Exec-managerial,20652,>50K
+Male,53,Asian-Pac-Islander,Divorced,Bachelors,United-States,Private,Exec-managerial,20918,<=50K
+Male,55,Asian-Pac-Islander,Divorced,Assoc-acdm,United-States,State-gov,Adm-clerical,22641,<=50K
+Male,44,Asian-Pac-Islander,Divorced,Assoc-voc,United-States,Local-gov,Tech-support,23004,<=50K
+Male,59,Asian-Pac-Islander,Never-married,Assoc-voc,United-States,Private,Craft-repair,23558,<=50K

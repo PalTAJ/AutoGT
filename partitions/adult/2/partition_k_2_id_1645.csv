@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Never-married,10th,United-States,Private,Craft-repair,13694,<=50K
+Male,32,White,Never-married,10th,United-States,Private,Craft-repair,24051,<=50K
+Male,32,White,Never-married,10th,United-States,Private,Craft-repair,25363,<=50K

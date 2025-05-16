@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,White,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,1640,>50K
+Female,31,White,Married-civ-spouse,Bachelors,United-States,State-gov,Prof-specialty,6136,>50K
+Female,33,White,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,11074,>50K
+Female,33,White,Married-civ-spouse,Prof-school,United-States,Federal-gov,Prof-specialty,15858,>50K
+Female,33,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,17087,<=50K
+Female,33,White,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,17306,<=50K
+Female,33,White,Married-civ-spouse,Doctorate,United-States,State-gov,Prof-specialty,18320,>50K
+Female,34,White,Married-civ-spouse,Bachelors,United-States,State-gov,Prof-specialty,18992,>50K
+Female,32,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,19443,<=50K
+Female,32,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,22470,<=50K
+Female,34,White,Married-civ-spouse,Doctorate,United-States,State-gov,Prof-specialty,22505,>50K
+Female,34,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,28287,>50K
+Female,32,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,28384,>50K

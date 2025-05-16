@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,Black,Never-married,Bachelors,United-States,Private,Prof-specialty,4412,<=50K
+Male,60,Black,Divorced,Masters,United-States,Private,Prof-specialty,5043,<=50K
+Male,56,Black,Married-spouse-absent,Some-college,United-States,Self-emp-not-inc,Prof-specialty,18770,<=50K
+Male,52,Black,Widowed,Some-college,United-States,Self-emp-not-inc,Craft-repair,23776,<=50K
+Male,53,Black,Divorced,Assoc-voc,United-States,Private,Tech-support,23862,<=50K

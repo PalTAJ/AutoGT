@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,White,Widowed,HS-grad,Nicaragua,Self-emp-not-inc,Other-service,2424,<=50K
+Female,46,White,Divorced,HS-grad,Ecuador,Private,Priv-house-serv,3813,<=50K
+Female,53,White,Married-spouse-absent,10th,Columbia,Private,Machine-op-inspct,5007,<=50K
+Female,46,White,Never-married,10th,Ecuador,Private,Other-service,6527,<=50K
+Female,41,White,Never-married,HS-grad,Peru,Private,Machine-op-inspct,8928,<=50K
+Female,44,White,Separated,7th-8th,Peru,Private,Other-service,10512,<=50K
+Female,49,White,Never-married,10th,Peru,Private,Other-service,12147,<=50K
+Female,41,White,Never-married,9th,Columbia,Private,Priv-house-serv,18007,<=50K
+Female,46,White,Separated,HS-grad,Peru,Private,Handlers-cleaners,22742,<=50K
+Female,48,White,Never-married,HS-grad,Columbia,Private,Other-service,27774,<=50K
+Female,46,White,Married-spouse-absent,HS-grad,Columbia,Private,Machine-op-inspct,29009,<=50K

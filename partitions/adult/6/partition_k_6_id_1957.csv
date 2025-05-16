@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,Black,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,3315,<=50K
+Female,27,Black,Never-married,Assoc-acdm,United-States,Local-gov,Adm-clerical,10844,<=50K
+Female,25,Black,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,14943,<=50K
+Female,28,Black,Never-married,Some-college,United-States,Local-gov,Adm-clerical,15299,<=50K
+Female,25,Black,Never-married,Some-college,United-States,Local-gov,Adm-clerical,15608,<=50K
+Female,22,Black,Never-married,Assoc-acdm,Haiti,Local-gov,Adm-clerical,16840,<=50K
+Female,30,Black,Never-married,Some-college,United-States,Local-gov,Transport-moving,18145,<=50K
+Female,25,Black,Never-married,Some-college,United-States,Local-gov,Adm-clerical,19627,<=50K
+Female,26,Black,Never-married,Some-college,Jamaica,Local-gov,Other-service,21055,<=50K
+Female,25,Black,Never-married,Some-college,United-States,Local-gov,Adm-clerical,21660,<=50K
+Female,28,Black,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,26593,<=50K
+Female,25,Black,Never-married,Assoc-acdm,United-States,Local-gov,Adm-clerical,29027,<=50K
+Female,25,Black,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,30118,<=50K

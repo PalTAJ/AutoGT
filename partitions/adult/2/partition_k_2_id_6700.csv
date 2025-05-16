@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,Black,Never-married,Some-college,Jamaica,Private,Adm-clerical,1848,<=50K
+Female,58,Black,Never-married,Some-college,United-States,Private,Adm-clerical,13236,<=50K

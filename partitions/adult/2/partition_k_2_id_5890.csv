@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,Black,Never-married,HS-grad,United-States,Private,Sales,8899,<=50K
+Female,27,Black,Never-married,HS-grad,United-States,Private,Sales,13433,<=50K
+Female,29,Black,Never-married,HS-grad,United-States,Private,Sales,16012,<=50K
+Female,27,Black,Never-married,HS-grad,Dominican-Republic,Private,Sales,17494,<=50K
+Female,28,Black,Never-married,12th,United-States,Private,Sales,29548,<=50K

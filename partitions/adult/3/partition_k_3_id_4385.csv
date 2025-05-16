@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,Black,Never-married,11th,United-States,Federal-gov,Sales,7431,<=50K
+Female,41,Black,Separated,HS-grad,United-States,Federal-gov,Exec-managerial,11416,<=50K
+Female,57,Black,Divorced,HS-grad,United-States,Local-gov,Handlers-cleaners,25230,<=50K

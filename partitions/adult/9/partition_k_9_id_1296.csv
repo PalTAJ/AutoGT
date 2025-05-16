@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,Other,Never-married,HS-grad,United-States,Private,Adm-clerical,8260,<=50K
+Female,24,Other,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,8570,<=50K
+Female,25,Other,Never-married,Some-college,United-States,Private,Tech-support,10874,<=50K
+Female,24,Other,Married-spouse-absent,Some-college,Ecuador,Private,Sales,11817,<=50K
+Female,23,Other,Never-married,HS-grad,Guatemala,Private,Priv-house-serv,13329,<=50K
+Female,23,Other,Never-married,Some-college,United-States,Private,Exec-managerial,17217,<=50K
+Female,25,Other,Never-married,Some-college,United-States,Private,Other-service,21650,<=50K
+Female,21,Other,Never-married,Some-college,United-States,Private,Sales,22378,<=50K
+Female,21,Other,Never-married,Some-college,United-States,Private,Adm-clerical,24635,<=50K
+Female,22,Other,Married-spouse-absent,Some-college,Dominican-Republic,Private,Sales,26587,<=50K
+Female,25,Other,Never-married,Some-college,Ecuador,Private,Other-service,26656,<=50K
+Female,21,Other,Never-married,Some-college,Cuba,Private,Adm-clerical,28487,<=50K
+Female,24,Other,Separated,HS-grad,United-States,Private,Machine-op-inspct,28678,<=50K

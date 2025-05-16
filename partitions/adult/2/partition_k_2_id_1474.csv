@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Divorced,Assoc-acdm,United-States,Local-gov,Prof-specialty,3147,<=50K
+Male,28,White,Widowed,Assoc-acdm,United-States,Local-gov,Prof-specialty,7249,<=50K
+Male,38,White,Never-married,Assoc-acdm,United-States,Local-gov,Prof-specialty,9416,<=50K
+Male,40,White,Never-married,Assoc-acdm,United-States,Local-gov,Prof-specialty,28354,>50K

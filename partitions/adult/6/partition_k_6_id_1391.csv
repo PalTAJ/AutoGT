@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,48,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,1117,>50K
+Male,41,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,3405,>50K
+Male,43,Amer-Indian-Eskimo,Married-civ-spouse,Bachelors,United-States,Private,Machine-op-inspct,3931,<=50K
+Male,47,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,13639,<=50K
+Male,60,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,17328,<=50K
+Male,42,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Self-emp-inc,Prof-specialty,20770,<=50K
+Male,51,Amer-Indian-Eskimo,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,23350,>50K

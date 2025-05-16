@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,Amer-Indian-Eskimo,Divorced,Assoc-voc,United-States,Federal-gov,Prof-specialty,6525,<=50K
+Female,50,Amer-Indian-Eskimo,Divorced,Masters,United-States,Local-gov,Prof-specialty,11298,>50K
+Female,46,Amer-Indian-Eskimo,Divorced,Assoc-voc,United-States,Federal-gov,Craft-repair,26552,<=50K

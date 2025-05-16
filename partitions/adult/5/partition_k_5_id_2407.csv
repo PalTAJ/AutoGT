@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,White,Divorced,Some-college,United-States,Self-emp-not-inc,Tech-support,4295,>50K
+Female,55,White,Never-married,Bachelors,United-States,Private,Tech-support,4581,<=50K
+Female,53,White,Divorced,Bachelors,United-States,Private,Tech-support,16241,<=50K
+Female,51,White,Divorced,Bachelors,United-States,Private,Tech-support,20945,<=50K
+Female,57,White,Widowed,Some-college,United-States,Private,Tech-support,24375,<=50K
+Female,55,White,Divorced,Some-college,United-States,Private,Tech-support,26741,<=50K

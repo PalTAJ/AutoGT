@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,Amer-Indian-Eskimo,Divorced,Assoc-voc,United-States,Private,Craft-repair,3713,<=50K
+Male,35,Amer-Indian-Eskimo,Divorced,Some-college,United-States,Private,Machine-op-inspct,11351,<=50K
+Male,34,Amer-Indian-Eskimo,Divorced,Bachelors,United-States,Private,Sales,14736,>50K
+Male,32,Amer-Indian-Eskimo,Divorced,Some-college,United-States,Private,Machine-op-inspct,17870,<=50K

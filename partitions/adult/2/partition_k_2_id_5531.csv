@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,White,Married-spouse-absent,11th,Mexico,Private,Handlers-cleaners,13444,<=50K
+Female,30,White,Married-spouse-absent,11th,United-States,Private,Handlers-cleaners,15783,<=50K

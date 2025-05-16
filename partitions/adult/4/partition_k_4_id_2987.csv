@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,51,White,Divorced,Some-college,Italy,Private,Sales,1251,<=50K
+Female,54,White,Divorced,Some-college,Italy,Private,Exec-managerial,6963,<=50K
+Female,51,White,Divorced,Some-college,Ireland,Private,Handlers-cleaners,11105,<=50K
+Female,60,White,Divorced,Bachelors,Hungary,Private,Exec-managerial,14135,>50K
+Female,54,White,Divorced,Some-college,Germany,Private,Exec-managerial,21865,<=50K

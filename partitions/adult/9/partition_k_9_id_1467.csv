@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,60,White,Divorced,7th-8th,United-States,Private,Other-service,552,<=50K
+Female,60,White,Divorced,7th-8th,Cuba,Private,Adm-clerical,6422,<=50K
+Female,60,White,Divorced,HS-grad,United-States,Private,Other-service,10461,<=50K
+Female,60,White,Married-spouse-absent,HS-grad,United-States,Private,Other-service,14884,<=50K
+Female,60,White,Widowed,HS-grad,United-States,Private,Other-service,17243,<=50K
+Female,60,White,Divorced,HS-grad,United-States,Private,Adm-clerical,19447,<=50K
+Female,60,White,Separated,HS-grad,United-States,Private,Other-service,23749,<=50K
+Female,60,White,Divorced,HS-grad,United-States,Private,Other-service,28519,<=50K
+Female,60,White,Divorced,HS-grad,United-States,Private,Adm-clerical,29527,<=50K

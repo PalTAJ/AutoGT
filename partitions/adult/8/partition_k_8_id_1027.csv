@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Married-spouse-absent,HS-grad,United-States,Self-emp-not-inc,Craft-repair,1359,<=50K
+Male,41,White,Married-spouse-absent,11th,Guatemala,Private,Machine-op-inspct,2152,<=50K
+Male,41,White,Married-spouse-absent,HS-grad,Poland,Private,Craft-repair,2970,<=50K
+Male,42,White,Married-spouse-absent,7th-8th,Puerto-Rico,Private,Prof-specialty,9283,<=50K
+Male,51,White,Married-spouse-absent,10th,United-States,Private,Craft-repair,10120,<=50K
+Male,45,White,Married-spouse-absent,HS-grad,Mexico,Private,Craft-repair,10432,<=50K
+Male,55,White,Married-spouse-absent,HS-grad,Poland,Private,Machine-op-inspct,11159,<=50K
+Male,47,White,Married-spouse-absent,HS-grad,United-States,Self-emp-not-inc,Craft-repair,14559,<=50K
+Male,57,White,Married-spouse-absent,11th,Canada,Private,Craft-repair,15728,<=50K
+Male,51,White,Married-spouse-absent,HS-grad,Columbia,Private,Craft-repair,17414,<=50K
+Male,51,White,Married-spouse-absent,HS-grad,United-States,Private,Craft-repair,29098,<=50K
+Male,60,White,Married-spouse-absent,7th-8th,United-States,Private,Machine-op-inspct,29967,<=50K

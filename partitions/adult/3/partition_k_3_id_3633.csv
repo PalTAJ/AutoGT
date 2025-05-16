@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,Asian-Pac-Islander,Married-civ-spouse,Preschool,Cambodia,Private,Machine-op-inspct,10294,<=50K
+Female,24,Asian-Pac-Islander,Married-civ-spouse,1st-4th,Vietnam,Private,Other-service,19504,<=50K
+Female,32,Asian-Pac-Islander,Married-civ-spouse,5th-6th,Laos,Private,Machine-op-inspct,25957,>50K

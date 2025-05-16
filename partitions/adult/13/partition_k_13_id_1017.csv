@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Never-married,Bachelors,United-States,Private,Prof-specialty,549,<=50K
+Female,50,White,Divorced,Bachelors,Ireland,Private,Prof-specialty,3652,<=50K
+Female,46,White,Never-married,Bachelors,United-States,Private,Prof-specialty,7681,<=50K
+Female,49,White,Never-married,Bachelors,United-States,Private,Prof-specialty,7847,<=50K
+Female,49,White,Never-married,Bachelors,United-States,Private,Prof-specialty,8416,<=50K
+Female,46,White,Never-married,Bachelors,United-States,Private,Prof-specialty,9835,<=50K
+Female,50,White,Divorced,Bachelors,United-States,Private,Prof-specialty,10325,<=50K
+Female,46,White,Divorced,Bachelors,United-States,Private,Prof-specialty,12234,<=50K
+Female,48,White,Never-married,Bachelors,Mexico,Private,Prof-specialty,13712,<=50K
+Female,46,White,Divorced,Bachelors,United-States,Private,Prof-specialty,16273,<=50K
+Female,50,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,21209,<=50K
+Female,49,White,Divorced,Bachelors,United-States,Private,Prof-specialty,22975,<=50K
+Female,49,White,Widowed,Bachelors,United-States,Private,Prof-specialty,25256,<=50K
+Female,47,White,Separated,Bachelors,United-States,Private,Prof-specialty,25506,<=50K

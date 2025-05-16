@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,Other,Married-civ-spouse,Assoc-voc,United-States,Self-emp-not-inc,Prof-specialty,5122,<=50K
+Male,32,Other,Married-civ-spouse,Bachelors,Ecuador,Private,Prof-specialty,7067,<=50K
+Male,31,Other,Married-civ-spouse,Bachelors,Mexico,Private,Machine-op-inspct,16542,<=50K
+Male,35,Other,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,21417,>50K
+Male,36,Other,Married-civ-spouse,Masters,Iran,Private,Prof-specialty,23763,>50K
+Male,33,Other,Married-civ-spouse,Bachelors,Ecuador,Private,Machine-op-inspct,25280,<=50K
+Male,40,Other,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,26535,>50K

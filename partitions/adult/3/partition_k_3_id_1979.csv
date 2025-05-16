@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,White,Married-civ-spouse,Assoc-voc,Greece,Private,Craft-repair,6110,<=50K
+Male,49,White,Married-civ-spouse,Assoc-voc,Germany,Private,Prof-specialty,7441,>50K
+Male,41,White,Married-civ-spouse,Assoc-voc,Yugoslavia,Self-emp-not-inc,Craft-repair,22069,<=50K
+Male,45,White,Married-civ-spouse,Assoc-acdm,Yugoslavia,Private,Craft-repair,26402,<=50K

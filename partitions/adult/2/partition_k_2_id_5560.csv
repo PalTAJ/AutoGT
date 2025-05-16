@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,White,Separated,HS-grad,China,Private,Other-service,8499,<=50K
+Female,27,White,Separated,HS-grad,Japan,Private,Handlers-cleaners,8555,<=50K

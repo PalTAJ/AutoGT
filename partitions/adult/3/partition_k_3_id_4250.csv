@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,White,Separated,1st-4th,Guatemala,Private,Machine-op-inspct,6748,<=50K
+Female,57,White,Separated,5th-6th,United-States,Private,Machine-op-inspct,14054,<=50K
+Female,43,White,Separated,5th-6th,Mexico,Private,Machine-op-inspct,21473,<=50K
+Female,51,White,Separated,5th-6th,Mexico,Private,Machine-op-inspct,27663,<=50K

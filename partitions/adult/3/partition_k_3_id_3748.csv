@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Black,Widowed,Some-college,United-States,Private,Adm-clerical,1655,<=50K
+Female,36,Black,Widowed,Some-college,United-States,Private,Adm-clerical,11874,<=50K
+Female,38,Black,Widowed,Some-college,Haiti,Private,Other-service,29082,<=50K

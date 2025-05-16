@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,White,Divorced,HS-grad,England,Private,Adm-clerical,1127,<=50K
+Female,57,White,Divorced,10th,Germany,Private,Adm-clerical,4720,<=50K
+Female,52,White,Divorced,HS-grad,England,State-gov,Adm-clerical,5310,<=50K
+Female,55,White,Divorced,HS-grad,France,Private,Priv-house-serv,7363,<=50K
+Female,42,White,Separated,HS-grad,Scotland,Private,Adm-clerical,7528,<=50K
+Female,55,White,Widowed,HS-grad,Italy,Private,Other-service,13713,<=50K
+Female,56,White,Widowed,11th,Greece,Self-emp-not-inc,Other-service,19897,>50K
+Female,54,White,Never-married,HS-grad,Hungary,Private,Other-service,20997,<=50K
+Female,47,White,Widowed,HS-grad,England,Private,Adm-clerical,24497,<=50K

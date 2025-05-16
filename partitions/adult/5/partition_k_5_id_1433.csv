@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,58,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Farming-fishing,1938,<=50K
+Male,42,White,Married-civ-spouse,11th,United-States,State-gov,Farming-fishing,9005,<=50K
+Male,58,White,Married-civ-spouse,9th,United-States,State-gov,Farming-fishing,12575,<=50K
+Male,54,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Farming-fishing,14808,<=50K
+Male,58,White,Married-civ-spouse,12th,United-States,Local-gov,Farming-fishing,17974,<=50K
+Male,59,White,Married-civ-spouse,10th,United-States,State-gov,Farming-fishing,18767,<=50K
+Male,55,White,Married-civ-spouse,HS-grad,United-States,State-gov,Farming-fishing,20201,>50K
+Male,43,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Farming-fishing,20798,>50K
+Male,42,White,Married-civ-spouse,HS-grad,El-Salvador,Local-gov,Farming-fishing,25121,<=50K

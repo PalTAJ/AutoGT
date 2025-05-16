@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,White,Married-civ-spouse,HS-grad,Italy,Self-emp-not-inc,Prof-specialty,1730,>50K
+Female,47,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Machine-op-inspct,7378,>50K
+Female,44,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Machine-op-inspct,8729,<=50K

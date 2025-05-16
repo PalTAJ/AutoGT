@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,1718,>50K
+Male,31,White,Married-civ-spouse,Bachelors,Puerto-Rico,Self-emp-not-inc,Prof-specialty,4010,>50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,5181,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,12282,<=50K
+Male,35,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,12290,<=50K
+Male,31,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,20740,>50K
+Male,35,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,22382,<=50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,29323,>50K

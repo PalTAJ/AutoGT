@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,56,Black,Never-married,7th-8th,United-States,Private,Farming-fishing,9616,<=50K
+Female,56,Black,Never-married,HS-grad,United-States,Private,Other-service,17837,<=50K

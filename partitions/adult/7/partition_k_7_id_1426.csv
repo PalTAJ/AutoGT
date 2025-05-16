@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,White,Never-married,Some-college,United-States,Private,Prof-specialty,1226,<=50K
+Female,34,White,Never-married,Some-college,United-States,Private,Prof-specialty,8037,<=50K
+Female,32,White,Never-married,Some-college,United-States,Private,Prof-specialty,17829,<=50K
+Female,33,White,Separated,Some-college,United-States,Private,Prof-specialty,22893,<=50K
+Female,34,White,Never-married,Some-college,United-States,Private,Prof-specialty,27482,>50K
+Female,34,White,Divorced,Some-college,United-States,Private,Prof-specialty,27498,<=50K
+Female,32,White,Divorced,Some-college,United-States,Private,Prof-specialty,27633,<=50K
+Female,35,White,Divorced,Some-college,United-States,Private,Prof-specialty,27664,<=50K

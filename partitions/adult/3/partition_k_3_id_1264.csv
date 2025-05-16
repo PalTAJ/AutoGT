@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Separated,7th-8th,United-States,Private,Handlers-cleaners,3558,<=50K
+Male,25,White,Separated,9th,El-Salvador,Private,Handlers-cleaners,4849,<=50K
+Male,28,White,Separated,7th-8th,Mexico,Private,Handlers-cleaners,24712,<=50K
+Male,27,White,Separated,HS-grad,United-States,Private,Handlers-cleaners,28499,<=50K

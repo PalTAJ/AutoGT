@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,White,Never-married,HS-grad,Mexico,Private,Sales,6870,<=50K
+Female,20,White,Never-married,HS-grad,Mexico,Private,Sales,10169,<=50K

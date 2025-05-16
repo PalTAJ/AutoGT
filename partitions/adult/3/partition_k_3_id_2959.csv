@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,19,White,Never-married,HS-grad,United-States,Private,Prof-specialty,8517,<=50K
+Female,19,White,Separated,12th,United-States,Private,Prof-specialty,8533,<=50K
+Female,19,White,Never-married,HS-grad,United-States,Private,Prof-specialty,27146,<=50K

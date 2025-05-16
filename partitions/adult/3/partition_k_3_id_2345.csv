@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Farming-fishing,18565,<=50K
+Male,58,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Farming-fishing,25147,<=50K
+Male,42,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Farming-fishing,29879,<=50K

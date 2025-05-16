@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,11th,Haiti,Private,Craft-repair,688,<=50K
+Male,27,Black,Never-married,HS-grad,United-States,Private,Craft-repair,2822,<=50K
+Male,26,Black,Never-married,HS-grad,United-States,Private,Craft-repair,3401,<=50K
+Male,30,Black,Never-married,12th,United-States,Private,Craft-repair,3842,<=50K
+Male,27,Black,Never-married,HS-grad,United-States,Federal-gov,Craft-repair,3890,<=50K
+Male,27,Black,Never-married,HS-grad,United-States,Private,Craft-repair,4564,<=50K
+Male,27,Black,Never-married,HS-grad,United-States,Local-gov,Craft-repair,21894,<=50K
+Male,29,Black,Never-married,HS-grad,United-States,Private,Craft-repair,21940,<=50K
+Male,29,Black,Never-married,HS-grad,United-States,Private,Craft-repair,22492,<=50K
+Male,27,Black,Never-married,HS-grad,United-States,Private,Craft-repair,22964,<=50K
+Male,27,Black,Never-married,HS-grad,United-States,Private,Craft-repair,23463,<=50K
+Male,27,Black,Separated,HS-grad,United-States,Private,Craft-repair,26794,<=50K
+Male,30,Black,Never-married,HS-grad,United-States,Private,Craft-repair,30141,<=50K

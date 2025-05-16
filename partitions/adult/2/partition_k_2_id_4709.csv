@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Married-civ-spouse,Some-college,Puerto-Rico,Private,Exec-managerial,5824,>50K
+Female,37,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,11009,>50K
+Female,36,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,14099,<=50K
+Female,36,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,23398,>50K
+Female,40,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,24158,>50K
+Female,38,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,25134,>50K

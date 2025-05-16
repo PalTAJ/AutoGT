@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,Bachelors,Italy,Local-gov,Prof-specialty,11253,<=50K
+Male,32,White,Married-spouse-absent,Some-college,Germany,Local-gov,Prof-specialty,18580,<=50K

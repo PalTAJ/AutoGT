@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,White,Married-civ-spouse,Some-college,Poland,Self-emp-not-inc,Craft-repair,7988,<=50K
+Male,48,White,Married-civ-spouse,Some-college,Germany,Private,Craft-repair,18489,<=50K

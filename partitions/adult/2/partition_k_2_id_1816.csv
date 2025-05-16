@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Divorced,11th,United-States,Self-emp-not-inc,Handlers-cleaners,15160,<=50K
+Male,38,White,Divorced,11th,United-States,Self-emp-not-inc,Exec-managerial,19467,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Never-married,Some-college,United-States,Local-gov,Adm-clerical,4508,<=50K
+Male,27,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,10377,>50K
+Male,28,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,11241,<=50K
+Male,27,White,Never-married,Some-college,United-States,Local-gov,Transport-moving,15431,<=50K
+Male,29,White,Never-married,Some-college,United-States,Local-gov,Farming-fishing,16564,<=50K
+Male,26,White,Never-married,Some-college,Peru,Local-gov,Protective-serv,23012,<=50K
+Male,26,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,26530,<=50K
+Male,29,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,29900,<=50K

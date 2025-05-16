@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,55,White,Never-married,10th,United-States,Private,Other-service,8879,<=50K
+Male,55,White,Widowed,10th,United-States,Self-emp-inc,Transport-moving,11024,<=50K
+Male,55,White,Divorced,HS-grad,United-States,Private,Adm-clerical,18468,<=50K
+Male,55,White,Never-married,10th,United-States,Private,Transport-moving,19140,<=50K
+Male,55,White,Divorced,HS-grad,United-States,Private,Transport-moving,27850,<=50K
+Male,55,White,Never-married,10th,United-States,Private,Other-service,29555,<=50K
+Male,55,White,Separated,HS-grad,United-States,Private,Protective-serv,30007,<=50K

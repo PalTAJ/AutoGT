@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,6604,<=50K
+Female,35,Black,Never-married,12th,United-States,Private,Machine-op-inspct,15604,<=50K
+Female,35,Black,Separated,HS-grad,United-States,Private,Prof-specialty,21151,<=50K

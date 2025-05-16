@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,76,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Craft-repair,301,<=50K
+Male,62,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,334,>50K
+Male,67,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,5731,>50K
+Male,64,Asian-Pac-Islander,Married-civ-spouse,Masters,China,Private,Prof-specialty,5875,<=50K
+Male,66,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,10369,<=50K
+Male,69,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,15556,<=50K
+Male,70,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Prof-specialty,21632,>50K
+Male,63,White,Married-civ-spouse,Masters,United-States,Private,Tech-support,23196,<=50K
+Male,65,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,24129,>50K
+Male,63,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,25003,>50K
+Male,61,Asian-Pac-Islander,Married-civ-spouse,Masters,India,Private,Prof-specialty,25642,>50K
+Male,62,Asian-Pac-Islander,Married-civ-spouse,Masters,South,Self-emp-inc,Prof-specialty,25828,<=50K
+Male,61,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,29923,<=50K

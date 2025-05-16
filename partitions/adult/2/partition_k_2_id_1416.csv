@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,7596,<=50K
+Male,29,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,17562,<=50K
+Male,27,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,22681,<=50K

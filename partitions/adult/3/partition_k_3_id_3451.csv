@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Divorced,Some-college,Iran,Private,Sales,6325,<=50K
+Female,29,White,Never-married,Some-college,Japan,Private,Adm-clerical,11889,<=50K
+Female,24,White,Never-married,Some-college,Iran,Private,Adm-clerical,19350,<=50K

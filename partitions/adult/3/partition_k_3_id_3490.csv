@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,White,Divorced,11th,United-States,Private,Other-service,4034,<=50K
+Female,23,White,Divorced,11th,United-States,Private,Other-service,10679,<=50K
+Female,26,White,Divorced,11th,United-States,Private,Adm-clerical,20698,<=50K
+Female,28,White,Divorced,11th,United-States,Private,Other-service,28180,<=50K

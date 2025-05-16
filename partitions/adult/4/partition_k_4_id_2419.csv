@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Separated,Some-college,United-States,Private,Tech-support,4511,<=50K
+Female,32,White,Separated,Bachelors,United-States,Private,Prof-specialty,6335,<=50K
+Female,37,White,Separated,Bachelors,United-States,Private,Prof-specialty,7371,>50K
+Female,38,White,Separated,Some-college,Germany,Private,Prof-specialty,18265,<=50K
+Female,33,White,Separated,Some-college,United-States,Private,Prof-specialty,22893,<=50K
+Female,33,White,Separated,Some-college,Columbia,Private,Tech-support,23238,<=50K
+Female,39,White,Separated,Some-college,United-States,Private,Prof-specialty,23772,<=50K
+Female,32,White,Separated,Some-college,United-States,Private,Tech-support,26171,<=50K
+Female,35,White,Separated,Bachelors,United-States,Self-emp-inc,Prof-specialty,27626,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Never-married,Preschool,United-States,Local-gov,Handlers-cleaners,20192,<=50K
+Female,52,White,Never-married,5th-6th,United-States,Private,Handlers-cleaners,26946,<=50K
+Female,47,White,Separated,5th-6th,Mexico,Private,Sales,27128,<=50K

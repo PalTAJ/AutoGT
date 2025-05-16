@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Married-civ-spouse,Some-college,Columbia,Private,Craft-repair,17547,<=50K
+Male,30,White,Married-civ-spouse,Some-college,Nicaragua,Private,Machine-op-inspct,21307,<=50K

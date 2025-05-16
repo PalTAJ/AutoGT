@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,60,Amer-Indian-Eskimo,Divorced,Some-college,United-States,Federal-gov,Prof-specialty,4532,<=50K
+Female,55,Amer-Indian-Eskimo,Widowed,Assoc-voc,United-States,State-gov,Exec-managerial,4704,<=50K
+Female,42,Amer-Indian-Eskimo,Divorced,Assoc-voc,United-States,Federal-gov,Prof-specialty,6525,<=50K
+Female,51,Amer-Indian-Eskimo,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,7459,<=50K
+Female,50,Amer-Indian-Eskimo,Divorced,Masters,United-States,Local-gov,Prof-specialty,11298,>50K
+Female,43,Amer-Indian-Eskimo,Widowed,Some-college,United-States,Federal-gov,Exec-managerial,13822,<=50K
+Female,58,Amer-Indian-Eskimo,Widowed,Some-college,United-States,Federal-gov,Prof-specialty,17694,<=50K
+Female,43,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Local-gov,Exec-managerial,18130,<=50K
+Female,55,Amer-Indian-Eskimo,Divorced,Some-college,United-States,Local-gov,Exec-managerial,18964,<=50K
+Female,50,Amer-Indian-Eskimo,Married-spouse-absent,Some-college,United-States,State-gov,Adm-clerical,19966,<=50K
+Female,46,Amer-Indian-Eskimo,Never-married,1st-4th,United-States,Local-gov,Other-service,26180,<=50K
+Female,46,Amer-Indian-Eskimo,Divorced,Assoc-voc,United-States,Federal-gov,Craft-repair,26552,<=50K
+Female,46,Amer-Indian-Eskimo,Divorced,Some-college,United-States,State-gov,Protective-serv,26851,<=50K

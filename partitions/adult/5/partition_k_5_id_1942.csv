@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,White,Married-civ-spouse,HS-grad,United-States,State-gov,Prof-specialty,924,>50K
+Female,28,White,Married-civ-spouse,HS-grad,United-States,State-gov,Adm-clerical,4524,<=50K
+Female,30,White,Married-AF-spouse,HS-grad,United-States,State-gov,Adm-clerical,10610,<=50K
+Female,30,White,Married-civ-spouse,HS-grad,United-States,State-gov,Other-service,10675,<=50K
+Female,31,White,Married-civ-spouse,12th,United-States,State-gov,Other-service,10877,<=50K
+Female,31,White,Married-civ-spouse,12th,United-States,State-gov,Tech-support,16568,>50K
+Female,39,White,Married-civ-spouse,HS-grad,United-States,State-gov,Adm-clerical,16946,<=50K
+Female,31,White,Married-civ-spouse,HS-grad,United-States,State-gov,Adm-clerical,19071,<=50K

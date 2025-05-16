@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Married-civ-spouse,5th-6th,Mexico,Private,Farming-fishing,8891,<=50K
+Female,45,White,Married-civ-spouse,1st-4th,El-Salvador,Private,Other-service,9903,<=50K
+Female,45,White,Married-civ-spouse,1st-4th,United-States,Private,Other-service,16106,<=50K

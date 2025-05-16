@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Sales,14163,<=50K
+Female,36,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Sales,26368,<=50K
+Female,38,White,Married-civ-spouse,Prof-school,United-States,Private,Sales,27635,<=50K

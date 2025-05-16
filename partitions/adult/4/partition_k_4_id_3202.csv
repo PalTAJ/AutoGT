@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,Black,Divorced,HS-grad,United-States,Private,Machine-op-inspct,2688,<=50K
+Female,58,Black,Divorced,HS-grad,United-States,Private,Machine-op-inspct,15114,<=50K
+Female,52,Black,Divorced,11th,United-States,Private,Machine-op-inspct,20738,<=50K
+Female,53,Black,Divorced,7th-8th,United-States,Private,Machine-op-inspct,26961,<=50K

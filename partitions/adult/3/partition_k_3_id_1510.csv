@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,Black,Separated,11th,United-States,Local-gov,Machine-op-inspct,388,<=50K
+Male,32,Black,Separated,HS-grad,United-States,Federal-gov,Machine-op-inspct,10895,<=50K
+Male,40,Black,Separated,9th,United-States,State-gov,Machine-op-inspct,11316,<=50K

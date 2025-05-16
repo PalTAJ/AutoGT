@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Divorced,Masters,United-States,Federal-gov,Protective-serv,2552,>50K
+Male,42,White,Divorced,Masters,United-States,Federal-gov,Adm-clerical,4865,<=50K

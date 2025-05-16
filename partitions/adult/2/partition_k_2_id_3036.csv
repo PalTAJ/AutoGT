@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-civ-spouse,Bachelors,Germany,Federal-gov,Adm-clerical,5318,>50K
+Male,49,White,Married-civ-spouse,Masters,Italy,Local-gov,Adm-clerical,27540,>50K

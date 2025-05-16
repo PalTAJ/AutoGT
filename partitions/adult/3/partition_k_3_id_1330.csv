@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,1350,<=50K
+Male,40,Asian-Pac-Islander,Married-spouse-absent,Bachelors,Cambodia,Private,Prof-specialty,1819,>50K
+Male,26,Asian-Pac-Islander,Never-married,Bachelors,Japan,Private,Prof-specialty,1929,<=50K
+Male,24,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,6386,<=50K
+Male,21,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Prof-specialty,6889,<=50K
+Male,27,Asian-Pac-Islander,Separated,Bachelors,Philippines,Private,Prof-specialty,7080,>50K
+Male,35,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Prof-specialty,12176,<=50K
+Male,25,Asian-Pac-Islander,Never-married,Bachelors,Taiwan,Private,Prof-specialty,17798,<=50K
+Male,29,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Prof-specialty,21048,>50K
+Male,27,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,21983,>50K
+Male,27,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,22293,<=50K
+Male,28,Asian-Pac-Islander,Never-married,Bachelors,Hong,Private,Prof-specialty,29945,<=50K
+Male,23,Asian-Pac-Islander,Never-married,Bachelors,Ireland,Private,Prof-specialty,29954,<=50K

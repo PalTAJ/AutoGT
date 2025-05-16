@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,63,White,Widowed,1st-4th,El-Salvador,Self-emp-not-inc,Other-service,1186,<=50K
+Female,66,White,Married-spouse-absent,5th-6th,Puerto-Rico,Private,Handlers-cleaners,1643,<=50K
+Female,64,White,Divorced,1st-4th,United-States,Private,Priv-house-serv,12334,<=50K
+Female,63,White,Never-married,5th-6th,United-States,Self-emp-not-inc,Sales,12677,<=50K
+Female,64,White,Separated,5th-6th,Cuba,Private,Other-service,15155,<=50K
+Female,67,White,Widowed,1st-4th,Ecuador,Private,Machine-op-inspct,16487,<=50K
+Female,71,White,Divorced,1st-4th,United-States,Self-emp-not-inc,Craft-repair,17716,<=50K
+Female,66,White,Widowed,Preschool,Guatemala,Private,Priv-house-serv,25160,<=50K
+Female,63,White,Widowed,1st-4th,Portugal,Private,Machine-op-inspct,26005,<=50K
+Female,61,White,Widowed,1st-4th,United-States,Private,Handlers-cleaners,29426,<=50K
+Female,65,White,Widowed,5th-6th,Italy,Private,Machine-op-inspct,29785,<=50K

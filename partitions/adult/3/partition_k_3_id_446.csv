@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Married-civ-spouse,11th,United-States,Private,Machine-op-inspct,1623,<=50K
+Male,34,White,Married-civ-spouse,11th,United-States,Private,Machine-op-inspct,6876,<=50K
+Male,31,White,Married-civ-spouse,11th,United-States,Private,Machine-op-inspct,29641,<=50K

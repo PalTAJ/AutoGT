@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,48,White,Divorced,Assoc-voc,United-States,State-gov,Prof-specialty,2441,>50K
+Female,46,White,Never-married,Prof-school,United-States,State-gov,Prof-specialty,8324,>50K
+Female,50,White,Divorced,Assoc-acdm,United-States,Local-gov,Prof-specialty,23065,<=50K
+Female,46,White,Divorced,Assoc-voc,United-States,State-gov,Tech-support,29206,<=50K

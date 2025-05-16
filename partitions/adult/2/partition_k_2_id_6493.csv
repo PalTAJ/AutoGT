@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,56,White,Separated,10th,United-States,Private,Other-service,6787,<=50K
+Female,50,White,Separated,10th,United-States,Private,Adm-clerical,25757,<=50K

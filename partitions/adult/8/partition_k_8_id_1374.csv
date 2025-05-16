@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,White,Divorced,HS-grad,United-States,Private,Prof-specialty,253,<=50K
+Female,22,White,Never-married,HS-grad,Dominican-Republic,Self-emp-not-inc,Prof-specialty,1678,>50K
+Female,21,White,Never-married,HS-grad,United-States,Private,Prof-specialty,2656,<=50K
+Female,28,White,Never-married,HS-grad,United-States,Private,Prof-specialty,3292,<=50K
+Female,23,White,Never-married,HS-grad,Canada,Private,Prof-specialty,3311,<=50K
+Female,22,White,Never-married,HS-grad,United-States,Private,Prof-specialty,5791,<=50K
+Female,26,White,Never-married,10th,United-States,Self-emp-not-inc,Prof-specialty,7592,<=50K
+Female,21,White,Never-married,HS-grad,United-States,Private,Prof-specialty,8514,<=50K
+Female,28,White,Never-married,HS-grad,United-States,Private,Prof-specialty,10231,<=50K
+Female,21,White,Never-married,11th,United-States,Private,Prof-specialty,10484,<=50K
+Female,29,White,Divorced,HS-grad,United-States,Private,Prof-specialty,12191,<=50K
+Female,22,White,Never-married,HS-grad,United-States,Private,Prof-specialty,13422,<=50K
+Female,30,White,Never-married,HS-grad,United-States,Private,Prof-specialty,16219,<=50K
+Female,24,White,Never-married,HS-grad,United-States,Private,Prof-specialty,17354,<=50K
+Female,29,White,Never-married,HS-grad,United-States,Private,Prof-specialty,20018,<=50K
+Female,21,White,Never-married,HS-grad,United-States,Private,Prof-specialty,27959,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Divorced,Assoc-acdm,United-States,Local-gov,Tech-support,15838,<=50K
+Male,54,White,Divorced,Assoc-voc,United-States,Local-gov,Craft-repair,18695,<=50K
+Male,60,White,Divorced,Assoc-voc,United-States,Local-gov,Prof-specialty,26442,>50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,18,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Other-service,15344,<=50K
+Female,19,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Other-service,26491,<=50K

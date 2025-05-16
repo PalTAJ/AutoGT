@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,Asian-Pac-Islander,Married-spouse-absent,9th,China,Private,Machine-op-inspct,4982,<=50K
+Female,50,Asian-Pac-Islander,Divorced,HS-grad,Vietnam,Self-emp-not-inc,Prof-specialty,18866,<=50K
+Female,44,Asian-Pac-Islander,Never-married,HS-grad,Laos,Private,Machine-op-inspct,26224,<=50K

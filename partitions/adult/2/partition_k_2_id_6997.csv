@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,66,Black,Divorced,10th,United-States,State-gov,Other-service,4248,<=50K
+Female,68,Black,Separated,10th,United-States,Local-gov,Other-service,10126,<=50K

@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,4769,<=50K
+Female,46,White,Never-married,Assoc-acdm,Cuba,Private,Adm-clerical,8168,<=50K
+Female,41,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,13251,<=50K
+Female,48,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,20364,<=50K
+Female,44,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,20456,<=50K
+Female,47,White,Separated,Assoc-acdm,United-States,Private,Adm-clerical,21390,<=50K
+Female,46,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,24786,<=50K
+Female,49,White,Separated,Assoc-acdm,United-States,Private,Adm-clerical,25203,<=50K
+Female,46,White,Widowed,Assoc-acdm,United-States,Private,Adm-clerical,28342,<=50K
+Female,43,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,28524,<=50K
+Female,48,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,28705,<=50K
+Female,47,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,29440,<=50K

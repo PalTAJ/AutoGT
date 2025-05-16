@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,White,Married-civ-spouse,5th-6th,Italy,Private,Other-service,17000,<=50K
+Female,51,White,Married-civ-spouse,5th-6th,United-States,Private,Craft-repair,17676,<=50K
+Female,52,White,Married-civ-spouse,5th-6th,El-Salvador,Private,Sales,26359,<=50K

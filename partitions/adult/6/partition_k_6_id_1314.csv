@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Divorced,Prof-school,United-States,State-gov,Prof-specialty,4756,<=50K
+Male,44,White,Never-married,Prof-school,United-States,Local-gov,Prof-specialty,8448,>50K
+Male,44,White,Divorced,Prof-school,United-States,Federal-gov,Prof-specialty,12814,>50K
+Male,44,White,Divorced,Assoc-voc,United-States,Federal-gov,Tech-support,14312,<=50K
+Male,45,White,Divorced,Assoc-acdm,United-States,Local-gov,Tech-support,15838,<=50K
+Male,43,White,Divorced,Assoc-voc,United-States,Federal-gov,Craft-repair,16995,<=50K
+Male,44,White,Never-married,Assoc-voc,United-States,Local-gov,Craft-repair,17964,<=50K
+Male,44,White,Never-married,Assoc-voc,United-States,Local-gov,Tech-support,19335,<=50K
+Male,41,White,Separated,Assoc-acdm,United-States,Local-gov,Craft-repair,26634,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Married-civ-spouse,Some-college,Puerto-Rico,Federal-gov,Adm-clerical,18734,>50K
+Male,42,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Adm-clerical,27707,>50K

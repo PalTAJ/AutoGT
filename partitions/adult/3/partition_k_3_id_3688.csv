@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,Other,Never-married,5th-6th,El-Salvador,Local-gov,Other-service,13415,<=50K
+Female,36,Other,Separated,5th-6th,Mexico,Private,Priv-house-serv,17384,<=50K
+Female,36,Other,Never-married,1st-4th,El-Salvador,Private,Other-service,25088,<=50K
+Female,28,Other,Married-spouse-absent,1st-4th,Dominican-Republic,Private,Other-service,29525,<=50K

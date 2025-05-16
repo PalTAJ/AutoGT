@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Married-civ-spouse,Preschool,United-States,Local-gov,Other-service,857,<=50K
+Male,52,White,Married-civ-spouse,Preschool,El-Salvador,Private,Other-service,3767,<=50K
+Male,58,White,Married-civ-spouse,1st-4th,Cuba,Private,Other-service,5352,<=50K
+Male,53,White,Married-civ-spouse,5th-6th,Mexico,Local-gov,Other-service,7168,<=50K
+Male,53,White,Married-civ-spouse,Preschool,Mexico,Private,Other-service,10498,<=50K
+Male,51,White,Married-civ-spouse,1st-4th,Mexico,Private,Other-service,17778,<=50K
+Male,53,White,Married-civ-spouse,1st-4th,Mexico,Local-gov,Other-service,20914,<=50K
+Male,59,White,Married-civ-spouse,5th-6th,El-Salvador,Self-emp-not-inc,Other-service,23692,<=50K
+Male,54,White,Married-civ-spouse,1st-4th,Mexico,Private,Other-service,25200,<=50K
+Male,54,White,Married-civ-spouse,1st-4th,Mexico,Private,Other-service,27256,<=50K
+Male,57,White,Married-civ-spouse,5th-6th,Italy,Private,Other-service,28768,<=50K

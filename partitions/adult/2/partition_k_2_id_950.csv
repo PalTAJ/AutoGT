@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,4263,>50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,9871,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,12607,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,16338,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,17249,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Separated,Assoc-acdm,United-States,Private,Prof-specialty,3614,<=50K
+Female,40,White,Separated,Assoc-acdm,United-States,Private,Tech-support,30004,<=50K

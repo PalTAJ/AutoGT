@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,White,Divorced,HS-grad,Ecuador,Private,Priv-house-serv,3813,<=50K
+Female,46,White,Never-married,10th,Ecuador,Private,Other-service,6527,<=50K

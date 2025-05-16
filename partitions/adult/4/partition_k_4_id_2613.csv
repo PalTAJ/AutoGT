@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,34,White,Married-spouse-absent,HS-grad,United-States,Private,Machine-op-inspct,8094,<=50K
+Female,29,White,Married-spouse-absent,HS-grad,El-Salvador,Private,Machine-op-inspct,8929,<=50K
+Female,28,White,Married-spouse-absent,HS-grad,United-States,Private,Tech-support,11118,<=50K
+Female,21,White,Married-spouse-absent,HS-grad,Dominican-Republic,Private,Machine-op-inspct,14713,<=50K
+Female,38,White,Married-spouse-absent,HS-grad,United-States,Private,Craft-repair,19191,<=50K
+Female,36,White,Married-spouse-absent,7th-8th,Puerto-Rico,Private,Machine-op-inspct,20796,<=50K

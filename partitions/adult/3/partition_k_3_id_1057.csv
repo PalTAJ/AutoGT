@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Never-married,HS-grad,United-States,Private,Tech-support,11518,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Private,Tech-support,13375,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Tech-support,16729,<=50K
+Male,23,White,Never-married,HS-grad,United-States,Private,Tech-support,19730,<=50K
+Male,22,White,Never-married,HS-grad,United-States,Private,Tech-support,21658,<=50K

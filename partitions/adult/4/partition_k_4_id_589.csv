@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Never-married,Bachelors,United-States,Private,Machine-op-inspct,2010,<=50K
+Male,23,White,Never-married,Bachelors,United-States,Private,Machine-op-inspct,2693,<=50K
+Male,23,White,Never-married,Bachelors,United-States,Private,Machine-op-inspct,20114,<=50K
+Male,23,White,Never-married,Bachelors,United-States,Private,Machine-op-inspct,28044,<=50K

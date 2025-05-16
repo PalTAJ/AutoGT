@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Divorced,Prof-school,United-States,Private,Farming-fishing,23051,<=50K
+Male,41,White,Divorced,Assoc-voc,United-States,Self-emp-not-inc,Farming-fishing,27567,<=50K

@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,White,Separated,HS-grad,United-States,Private,Adm-clerical,5267,<=50K
+Female,41,White,Separated,HS-grad,United-States,Private,Adm-clerical,5758,<=50K
+Female,44,White,Separated,HS-grad,Puerto-Rico,Private,Adm-clerical,5908,<=50K
+Female,43,White,Separated,HS-grad,United-States,Private,Other-service,7066,<=50K
+Female,43,White,Separated,HS-grad,United-States,Private,Other-service,12893,<=50K
+Female,45,White,Separated,HS-grad,United-States,Private,Adm-clerical,14976,<=50K
+Female,43,White,Separated,HS-grad,United-States,Private,Transport-moving,19417,<=50K
+Female,41,White,Separated,HS-grad,Mexico,Private,Other-service,19669,<=50K
+Female,44,White,Separated,HS-grad,United-States,Private,Other-service,20895,<=50K
+Female,42,White,Separated,HS-grad,United-States,Private,Other-service,22238,<=50K
+Female,41,White,Separated,HS-grad,United-States,Private,Other-service,23671,<=50K
+Female,41,White,Separated,HS-grad,United-States,Private,Adm-clerical,30013,<=50K

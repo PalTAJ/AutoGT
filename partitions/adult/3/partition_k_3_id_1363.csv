@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,Asian-Pac-Islander,Never-married,11th,United-States,Local-gov,Other-service,1085,<=50K
+Male,26,Asian-Pac-Islander,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,14698,<=50K
+Male,29,Asian-Pac-Islander,Never-married,HS-grad,Thailand,State-gov,Other-service,22431,<=50K
+Male,29,Asian-Pac-Islander,Never-married,HS-grad,United-States,Local-gov,Handlers-cleaners,26802,<=50K

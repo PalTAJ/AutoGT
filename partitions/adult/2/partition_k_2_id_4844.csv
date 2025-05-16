@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Divorced,Prof-school,United-States,Private,Prof-specialty,10777,<=50K
+Female,27,White,Divorced,Prof-school,United-States,Private,Prof-specialty,21432,<=50K

@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,3504,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,6742,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,7929,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,12452,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,13173,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,13316,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,13888,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,15109,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,16161,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,19116,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,19489,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,20199,<=50K
+Female,25,White,Never-married,Bachelors,Guatemala,Private,Prof-specialty,23762,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Prof-specialty,24985,<=50K

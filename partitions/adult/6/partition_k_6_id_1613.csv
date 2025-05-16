@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Married-civ-spouse,Some-college,Germany,Private,Sales,707,<=50K
+Female,25,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,1737,<=50K
+Female,23,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,6947,<=50K
+Female,23,White,Married-civ-spouse,Some-college,United-States,Private,Sales,12792,<=50K
+Female,23,White,Married-civ-spouse,Some-college,United-States,Private,Sales,17383,<=50K
+Female,22,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,23184,<=50K
+Female,22,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,23759,<=50K
+Female,23,White,Married-civ-spouse,Some-college,United-States,Private,Sales,25528,<=50K

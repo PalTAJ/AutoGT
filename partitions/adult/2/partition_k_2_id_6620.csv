@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,Asian-Pac-Islander,Divorced,HS-grad,United-States,Private,Other-service,1898,<=50K
+Female,49,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Adm-clerical,12331,<=50K

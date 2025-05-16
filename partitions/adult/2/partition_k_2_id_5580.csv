@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Separated,5th-6th,United-States,Private,Other-service,5068,<=50K
+Female,33,White,Separated,5th-6th,Mexico,Private,Other-service,15567,<=50K
+Female,37,White,Separated,5th-6th,Mexico,Private,Other-service,24342,<=50K

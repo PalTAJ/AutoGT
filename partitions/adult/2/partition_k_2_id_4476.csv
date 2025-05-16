@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,64,Black,Married-civ-spouse,7th-8th,United-States,Private,Craft-repair,26470,<=50K
+Male,62,Black,Married-civ-spouse,10th,United-States,Private,Craft-repair,27619,<=50K

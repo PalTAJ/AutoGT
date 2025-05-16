@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,White,Never-married,12th,United-States,Private,Exec-managerial,4345,<=50K
+Male,31,White,Never-married,12th,United-States,Private,Sales,7347,<=50K
+Male,31,White,Never-married,12th,United-States,Private,Sales,9475,<=50K
+Male,39,White,Never-married,12th,United-States,Private,Handlers-cleaners,25778,<=50K

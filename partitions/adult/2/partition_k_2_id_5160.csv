@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,454,<=50K
+Female,40,White,Never-married,Prof-school,Cuba,Private,Exec-managerial,11599,<=50K
+Female,32,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,12353,<=50K

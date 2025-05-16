@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,62,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Private,Sales,2939,>50K
+Male,64,Asian-Pac-Islander,Married-civ-spouse,Masters,China,Private,Prof-specialty,5875,<=50K
+Male,63,Asian-Pac-Islander,Married-civ-spouse,Bachelors,China,Self-emp-not-inc,Prof-specialty,6635,>50K
+Male,63,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Private,Craft-repair,8218,<=50K
+Male,66,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Craft-repair,10459,<=50K
+Male,66,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,12763,<=50K
+Male,64,Asian-Pac-Islander,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Other-service,17207,>50K
+Male,61,Asian-Pac-Islander,Married-civ-spouse,Doctorate,Taiwan,Self-emp-inc,Exec-managerial,21859,>50K
+Male,64,Asian-Pac-Islander,Married-civ-spouse,Doctorate,China,Federal-gov,Prof-specialty,24232,>50K
+Male,61,Asian-Pac-Islander,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,25030,>50K
+Male,61,Asian-Pac-Islander,Married-civ-spouse,Masters,India,Private,Prof-specialty,25642,>50K
+Male,62,Asian-Pac-Islander,Married-civ-spouse,Masters,South,Self-emp-inc,Prof-specialty,25828,<=50K
+Male,63,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Protective-serv,26202,>50K

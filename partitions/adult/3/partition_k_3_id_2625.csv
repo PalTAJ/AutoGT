@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,9901,<=50K
+Male,53,Amer-Indian-Eskimo,Divorced,Bachelors,United-States,Federal-gov,Tech-support,14017,<=50K
+Male,46,Amer-Indian-Eskimo,Divorced,Masters,United-States,Local-gov,Prof-specialty,27371,<=50K

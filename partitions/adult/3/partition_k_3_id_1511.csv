@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,Black,Never-married,HS-grad,United-States,Private,Other-service,736,<=50K
+Male,24,Black,Never-married,HS-grad,United-States,Self-emp-inc,Other-service,6827,>50K
+Male,25,Black,Separated,HS-grad,United-States,Private,Other-service,7482,<=50K
+Male,23,Black,Never-married,12th,United-States,Private,Other-service,9650,<=50K
+Male,22,Black,Never-married,HS-grad,United-States,Private,Other-service,10088,<=50K
+Male,23,Black,Never-married,HS-grad,United-States,Private,Other-service,12142,<=50K
+Male,24,Black,Never-married,HS-grad,United-States,Private,Other-service,12514,<=50K
+Male,21,Black,Never-married,10th,United-States,Private,Other-service,14936,<=50K
+Male,22,Black,Never-married,HS-grad,United-States,Private,Other-service,15111,<=50K
+Male,25,Black,Never-married,HS-grad,Japan,Private,Other-service,15179,<=50K
+Male,23,Black,Never-married,HS-grad,United-States,Private,Other-service,15988,<=50K
+Male,21,Black,Never-married,HS-grad,United-States,Private,Other-service,16399,<=50K
+Male,21,Black,Never-married,HS-grad,United-States,Private,Other-service,18611,<=50K
+Male,24,Black,Never-married,HS-grad,United-States,Private,Other-service,21163,<=50K
+Male,23,Black,Never-married,HS-grad,United-States,Private,Other-service,21250,<=50K
+Male,22,Black,Never-married,HS-grad,United-States,Private,Other-service,26611,<=50K

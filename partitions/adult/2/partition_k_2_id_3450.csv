@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-civ-spouse,5th-6th,Italy,Self-emp-not-inc,Sales,1985,>50K
+Male,53,White,Married-civ-spouse,1st-4th,Italy,Self-emp-not-inc,Exec-managerial,18142,>50K

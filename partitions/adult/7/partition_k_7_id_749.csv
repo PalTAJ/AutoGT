@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Tech-support,727,<=50K
+Male,45,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Machine-op-inspct,1014,>50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Prof-specialty,9689,>50K
+Male,50,White,Married-civ-spouse,Bachelors,Italy,Self-emp-inc,Prof-specialty,15465,>50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Prof-specialty,19272,<=50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Prof-specialty,22806,>50K
+Male,44,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Craft-repair,29425,>50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Other,Never-married,HS-grad,Ecuador,Private,Machine-op-inspct,10889,<=50K
+Male,27,Other,Never-married,HS-grad,Nicaragua,Private,Craft-repair,29888,<=50K

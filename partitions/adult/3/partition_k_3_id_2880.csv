@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,65,White,Married-civ-spouse,HS-grad,United-States,Without-pay,Transport-moving,18600,<=50K
+Male,72,White,Married-civ-spouse,HS-grad,United-States,Without-pay,Other-service,25713,<=50K
+Male,67,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Philippines,Without-pay,Adm-clerical,27022,<=50K

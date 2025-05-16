@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,74,White,Widowed,Some-college,United-States,Federal-gov,Transport-moving,2012,<=50K
+Female,76,White,Widowed,Some-college,United-States,Local-gov,Adm-clerical,13989,<=50K

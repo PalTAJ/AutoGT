@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,58,Black,Widowed,1st-4th,United-States,Local-gov,Handlers-cleaners,12648,<=50K
+Male,58,Black,Separated,1st-4th,United-States,Private,Farming-fishing,22640,<=50K

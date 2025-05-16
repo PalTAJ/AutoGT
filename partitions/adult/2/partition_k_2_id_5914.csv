@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,Black,Separated,5th-6th,Puerto-Rico,Private,Sales,9618,<=50K
+Female,34,Black,Never-married,Preschool,United-States,Local-gov,Adm-clerical,25244,<=50K

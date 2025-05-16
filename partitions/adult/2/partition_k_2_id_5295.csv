@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,White,Divorced,Bachelors,Germany,Local-gov,Protective-serv,9829,<=50K
+Female,40,White,Divorced,Bachelors,England,Local-gov,Tech-support,16545,>50K
+Female,31,White,Never-married,Bachelors,Germany,Local-gov,Prof-specialty,28886,<=50K

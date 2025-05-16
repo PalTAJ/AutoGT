@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,Some-college,United-States,Local-gov,Transport-moving,15431,<=50K
+Male,21,White,Never-married,Masters,United-States,State-gov,Transport-moving,22444,<=50K
+Male,39,White,Never-married,Assoc-acdm,United-States,Local-gov,Transport-moving,23264,<=50K
+Male,27,White,Never-married,Bachelors,United-States,Federal-gov,Transport-moving,24754,<=50K
+Male,22,White,Never-married,Some-college,United-States,State-gov,Transport-moving,28564,<=50K

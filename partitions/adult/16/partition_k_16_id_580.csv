@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Never-married,HS-grad,United-States,State-gov,Adm-clerical,1234,<=50K
+Male,51,White,Divorced,HS-grad,United-States,State-gov,Craft-repair,1841,<=50K
+Male,51,White,Never-married,HS-grad,United-States,State-gov,Transport-moving,8985,<=50K
+Male,42,White,Separated,HS-grad,United-States,State-gov,Adm-clerical,10481,<=50K
+Male,41,White,Divorced,HS-grad,United-States,State-gov,Protective-serv,13360,>50K
+Male,43,White,Never-married,HS-grad,United-States,State-gov,Craft-repair,14221,<=50K
+Male,44,White,Never-married,HS-grad,United-States,State-gov,Craft-repair,14283,<=50K
+Male,53,White,Divorced,HS-grad,United-States,State-gov,Exec-managerial,14614,<=50K
+Male,45,White,Divorced,HS-grad,United-States,State-gov,Transport-moving,14647,<=50K
+Male,42,White,Never-married,HS-grad,United-States,State-gov,Protective-serv,14873,>50K
+Male,43,White,Never-married,HS-grad,United-States,State-gov,Transport-moving,16079,<=50K
+Male,41,White,Divorced,HS-grad,United-States,State-gov,Craft-repair,17487,<=50K
+Male,47,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,21827,<=50K
+Male,48,White,Divorced,HS-grad,United-States,State-gov,Craft-repair,23871,>50K
+Male,54,White,Never-married,12th,United-States,State-gov,Other-service,27956,<=50K
+Male,46,White,Divorced,HS-grad,United-States,State-gov,Exec-managerial,28213,<=50K

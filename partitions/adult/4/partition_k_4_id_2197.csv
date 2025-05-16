@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,65,Other,Widowed,11th,United-States,Private,Other-service,329,<=50K
+Male,68,White,Never-married,11th,United-States,Self-emp-not-inc,Farming-fishing,737,<=50K
+Male,68,White,Divorced,11th,United-States,Private,Transport-moving,6290,<=50K
+Male,63,White,Never-married,11th,United-States,Private,Farming-fishing,26613,<=50K

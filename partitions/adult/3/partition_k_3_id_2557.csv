@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Never-married,Preschool,Dominican-Republic,Private,Machine-op-inspct,9530,<=50K
+Male,56,White,Separated,5th-6th,United-States,Private,Machine-op-inspct,10689,<=50K
+Male,56,White,Separated,1st-4th,United-States,Private,Machine-op-inspct,11205,<=50K
+Male,54,White,Married-spouse-absent,5th-6th,Mexico,Private,Machine-op-inspct,23962,<=50K

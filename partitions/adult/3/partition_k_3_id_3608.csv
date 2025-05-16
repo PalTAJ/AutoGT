@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Separated,HS-grad,United-States,Local-gov,Protective-serv,7299,<=50K
+Female,35,White,Divorced,HS-grad,United-States,State-gov,Protective-serv,21150,<=50K
+Female,30,White,Divorced,HS-grad,United-States,Local-gov,Protective-serv,21510,<=50K

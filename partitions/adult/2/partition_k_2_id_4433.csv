@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,76,White,Widowed,HS-grad,United-States,Private,Other-service,12953,<=50K
+Male,74,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Other-service,13058,<=50K

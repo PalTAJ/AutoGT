@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,Other,Never-married,HS-grad,United-States,Private,Sales,1235,<=50K
+Male,23,Other,Never-married,10th,United-States,Private,Handlers-cleaners,8424,<=50K
+Male,28,Other,Never-married,Masters,Cuba,Private,Exec-managerial,13019,<=50K
+Male,28,Other,Separated,HS-grad,United-States,Private,Handlers-cleaners,14815,<=50K
+Male,21,Other,Never-married,10th,Dominican-Republic,Private,Handlers-cleaners,15679,<=50K
+Male,33,Other,Never-married,Assoc-acdm,United-States,Private,Sales,20146,<=50K
+Male,23,Other,Never-married,Some-college,Peru,Private,Exec-managerial,22841,<=50K
+Male,28,Other,Never-married,Some-college,India,Private,Sales,23055,<=50K

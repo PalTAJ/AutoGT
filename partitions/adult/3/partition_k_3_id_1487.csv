@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Black,Never-married,Bachelors,United-States,Self-emp-not-inc,Sales,3365,>50K
+Male,24,Black,Never-married,Some-college,United-States,Self-emp-not-inc,Exec-managerial,14783,<=50K
+Male,22,Black,Never-married,Some-college,United-States,Self-emp-not-inc,Sales,28828,>50K

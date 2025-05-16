@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Divorced,Bachelors,United-States,Federal-gov,Protective-serv,4361,>50K
+Male,32,White,Divorced,Assoc-acdm,United-States,Federal-gov,Protective-serv,7937,<=50K
+Male,34,White,Divorced,Some-college,United-States,Federal-gov,Protective-serv,10988,<=50K
+Male,28,White,Never-married,Bachelors,United-States,Federal-gov,Protective-serv,18144,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,Black,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,4736,<=50K
+Female,35,Black,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,25445,<=50K
+Female,31,Black,Married-civ-spouse,HS-grad,United-States,Private,Other-service,30036,<=50K

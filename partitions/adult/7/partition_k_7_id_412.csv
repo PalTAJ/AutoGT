@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Never-married,Some-college,Mexico,Private,Sales,1891,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Sales,4032,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Sales,7556,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Sales,8283,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Sales,14379,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Sales,17008,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Sales,21030,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Sales,23502,<=50K
+Male,24,White,Never-married,Some-college,Greece,Private,Sales,24242,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Sales,26999,<=50K

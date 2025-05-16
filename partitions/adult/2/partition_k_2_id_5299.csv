@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Divorced,Assoc-voc,Columbia,Private,Other-service,20526,<=50K
+Female,38,White,Divorced,Some-college,Columbia,Private,Adm-clerical,24278,<=50K

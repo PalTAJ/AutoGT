@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Married-civ-spouse,12th,United-States,State-gov,Other-service,10877,<=50K
+Female,31,White,Married-civ-spouse,12th,United-States,State-gov,Tech-support,16568,>50K
+Female,30,White,Married-civ-spouse,12th,United-States,Local-gov,Adm-clerical,25075,<=50K

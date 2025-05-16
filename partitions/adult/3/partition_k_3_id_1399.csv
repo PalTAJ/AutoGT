@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,Other,Never-married,Assoc-acdm,United-States,Private,Other-service,7271,<=50K
+Male,38,Other,Married-spouse-absent,Bachelors,India,Private,Transport-moving,10937,<=50K
+Male,32,Other,Never-married,Bachelors,United-States,Private,Other-service,12116,<=50K
+Male,25,Other,Never-married,Some-college,United-States,Private,Adm-clerical,16999,<=50K
+Male,40,Other,Married-spouse-absent,Bachelors,Mexico,Private,Other-service,25313,<=50K

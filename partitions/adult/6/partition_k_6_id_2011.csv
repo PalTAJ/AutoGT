@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,60,White,Divorced,Bachelors,United-States,Private,Prof-specialty,262,<=50K
+Female,58,White,Never-married,Bachelors,United-States,Private,Prof-specialty,16639,<=50K
+Female,56,White,Never-married,Bachelors,Cuba,Private,Prof-specialty,17662,<=50K
+Female,60,White,Divorced,Bachelors,United-States,Private,Prof-specialty,17934,>50K
+Female,58,White,Never-married,Bachelors,Canada,Private,Prof-specialty,21787,<=50K
+Female,56,White,Never-married,Bachelors,Mexico,Private,Prof-specialty,22977,<=50K
+Female,58,White,Divorced,Some-college,United-States,Private,Prof-specialty,23622,<=50K
+Female,59,White,Divorced,Some-college,United-States,Private,Prof-specialty,26465,<=50K
+Female,58,White,Divorced,Bachelors,United-States,Private,Prof-specialty,27106,<=50K
+Female,56,White,Married-spouse-absent,Bachelors,United-States,Private,Prof-specialty,27519,<=50K

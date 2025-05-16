@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,Other,Divorced,Bachelors,United-States,Private,Other-service,14470,<=50K
+Female,25,Other,Never-married,Some-college,United-States,Private,Other-service,21650,<=50K
+Female,25,Other,Never-married,Some-college,Ecuador,Private,Other-service,26656,<=50K
+Female,31,Other,Divorced,Masters,United-States,Private,Other-service,30145,<=50K

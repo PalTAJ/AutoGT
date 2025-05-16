@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Widowed,HS-grad,United-States,Local-gov,Protective-serv,906,>50K
+Male,41,White,Divorced,HS-grad,United-States,State-gov,Protective-serv,13360,>50K
+Male,42,White,Never-married,HS-grad,United-States,State-gov,Protective-serv,14873,>50K
+Male,51,White,Divorced,HS-grad,United-States,Local-gov,Protective-serv,15917,<=50K
+Male,51,White,Divorced,HS-grad,United-States,Local-gov,Protective-serv,28356,<=50K

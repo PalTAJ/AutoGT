@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,198,<=50K
+Male,54,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,4489,>50K
+Male,56,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,7016,<=50K
+Male,58,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,7076,<=50K
+Male,42,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Tech-support,9516,>50K
+Male,52,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Craft-repair,11471,<=50K
+Male,45,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Exec-managerial,11965,>50K
+Male,52,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Sales,15898,>50K
+Male,43,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,17505,<=50K
+Male,57,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,20359,<=50K
+Male,55,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Exec-managerial,21916,<=50K
+Male,57,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,29311,<=50K

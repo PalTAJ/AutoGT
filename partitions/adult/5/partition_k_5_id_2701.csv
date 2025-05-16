@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,76,White,Widowed,7th-8th,United-States,Private,Protective-serv,3334,<=50K
+Female,80,White,Widowed,7th-8th,United-States,Private,Other-service,5924,<=50K
+Female,76,White,Widowed,7th-8th,United-States,Private,Other-service,10627,<=50K
+Female,77,White,Widowed,7th-8th,United-States,Private,Priv-house-serv,12120,<=50K
+Female,79,White,Widowed,7th-8th,United-States,Private,Priv-house-serv,18374,<=50K
+Female,76,White,Widowed,7th-8th,United-States,Private,Priv-house-serv,19315,<=50K

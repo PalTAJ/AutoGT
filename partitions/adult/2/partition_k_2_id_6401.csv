@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,White,Never-married,Doctorate,Italy,State-gov,Exec-managerial,6707,>50K
+Female,49,White,Divorced,Bachelors,France,Local-gov,Prof-specialty,15570,<=50K
+Female,46,White,Separated,Prof-school,Germany,Federal-gov,Prof-specialty,25816,>50K

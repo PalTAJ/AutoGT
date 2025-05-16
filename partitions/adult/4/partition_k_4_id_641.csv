@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Never-married,Prof-school,Italy,Self-emp-not-inc,Prof-specialty,2692,>50K
+Male,28,White,Never-married,Assoc-acdm,France,Private,Prof-specialty,4245,<=50K
+Male,32,White,Never-married,Assoc-voc,Ireland,Private,Craft-repair,15733,<=50K
+Male,29,White,Never-married,Prof-school,Germany,Private,Prof-specialty,23454,>50K

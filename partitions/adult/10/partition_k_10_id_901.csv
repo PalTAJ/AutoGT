@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,Black,Married-civ-spouse,HS-grad,England,Private,Other-service,3600,<=50K
+Male,56,Black,Married-civ-spouse,9th,United-States,Private,Transport-moving,5589,<=50K
+Male,59,Black,Married-civ-spouse,10th,United-States,Private,Transport-moving,9511,>50K
+Male,56,Black,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,13730,<=50K
+Male,57,Black,Married-civ-spouse,12th,United-States,Private,Transport-moving,16977,>50K
+Male,57,Black,Married-civ-spouse,12th,United-States,Private,Adm-clerical,19900,<=50K
+Male,56,Black,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,20294,<=50K
+Male,59,Black,Married-civ-spouse,Prof-school,United-States,Private,Transport-moving,23899,>50K
+Male,57,Black,Married-civ-spouse,5th-6th,United-States,Private,Transport-moving,25739,<=50K
+Male,58,Black,Married-civ-spouse,7th-8th,United-States,Private,Transport-moving,26027,<=50K
+Male,56,Black,Married-civ-spouse,7th-8th,United-States,Private,Other-service,28916,<=50K
+Male,56,Black,Married-civ-spouse,10th,United-States,Private,Adm-clerical,29748,<=50K

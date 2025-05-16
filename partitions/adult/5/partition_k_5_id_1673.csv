@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,Black,Married-civ-spouse,Some-college,United-States,State-gov,Adm-clerical,1387,<=50K
+Male,45,Black,Married-civ-spouse,Some-college,United-States,Federal-gov,Adm-clerical,16776,<=50K
+Male,42,Black,Married-civ-spouse,Some-college,United-States,State-gov,Protective-serv,20948,<=50K
+Male,44,Black,Married-civ-spouse,Some-college,United-States,Local-gov,Protective-serv,24079,<=50K
+Male,42,Black,Married-civ-spouse,Some-college,United-States,Federal-gov,Transport-moving,27614,<=50K

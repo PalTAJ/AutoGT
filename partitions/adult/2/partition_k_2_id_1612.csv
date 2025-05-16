@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,21,White,Never-married,HS-grad,Mexico,Private,Machine-op-inspct,5045,<=50K
+Male,22,White,Never-married,HS-grad,Mexico,Private,Machine-op-inspct,27224,<=50K

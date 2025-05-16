@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-civ-spouse,Masters,Germany,Private,Exec-managerial,6056,>50K
+Male,34,White,Married-civ-spouse,Masters,France,Private,Exec-managerial,11196,<=50K
+Male,29,White,Married-civ-spouse,Masters,Germany,Private,Exec-managerial,19606,<=50K
+Male,31,White,Married-civ-spouse,Masters,France,Private,Exec-managerial,19979,>50K
+Male,28,White,Married-civ-spouse,Masters,France,Private,Sales,20084,>50K

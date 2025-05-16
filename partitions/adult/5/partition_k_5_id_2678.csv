@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,75,White,Widowed,Assoc-voc,Columbia,Private,Adm-clerical,211,<=50K
+Female,74,White,Divorced,Some-college,United-States,Private,Adm-clerical,484,<=50K
+Female,74,White,Widowed,Some-college,United-States,Federal-gov,Transport-moving,2012,<=50K
+Female,72,White,Widowed,Assoc-voc,United-States,Private,Adm-clerical,2490,<=50K
+Female,71,White,Never-married,Some-college,United-States,Private,Other-service,2932,<=50K
+Female,74,White,Widowed,Bachelors,United-States,Private,Other-service,8362,<=50K
+Female,73,White,Widowed,Some-college,United-States,Private,Priv-house-serv,10303,<=50K
+Female,72,White,Separated,Assoc-voc,United-States,Private,Other-service,13600,<=50K
+Female,71,White,Never-married,Masters,United-States,Private,Other-service,14944,<=50K
+Female,71,White,Never-married,Assoc-voc,United-States,Private,Adm-clerical,22178,<=50K
+Female,72,White,Widowed,Some-college,United-States,Private,Adm-clerical,28416,<=50K

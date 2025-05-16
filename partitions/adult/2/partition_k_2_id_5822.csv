@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,Black,Never-married,Assoc-acdm,United-States,Local-gov,Adm-clerical,10844,<=50K
+Female,22,Black,Never-married,Assoc-acdm,Haiti,Local-gov,Adm-clerical,16840,<=50K
+Female,25,Black,Never-married,Assoc-acdm,United-States,Local-gov,Adm-clerical,29027,<=50K

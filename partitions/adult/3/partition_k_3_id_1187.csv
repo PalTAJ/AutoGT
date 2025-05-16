@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Divorced,9th,United-States,Private,Transport-moving,9444,<=50K
+Male,31,White,Never-married,9th,Puerto-Rico,Private,Farming-fishing,10744,<=50K
+Male,33,White,Separated,9th,United-States,Private,Adm-clerical,14601,<=50K
+Male,33,White,Never-married,9th,El-Salvador,Private,Other-service,15874,<=50K
+Male,31,White,Never-married,9th,United-States,Private,Other-service,17892,<=50K
+Male,40,White,Never-married,9th,United-States,Private,Transport-moving,24908,<=50K

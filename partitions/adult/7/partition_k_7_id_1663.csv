@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,Black,Never-married,HS-grad,United-States,Private,Sales,1219,<=50K
+Female,22,Black,Widowed,11th,United-States,Private,Sales,1667,<=50K
+Female,25,Black,Never-married,HS-grad,United-States,Private,Sales,2699,<=50K
+Female,22,Black,Never-married,HS-grad,United-States,Private,Sales,10016,<=50K
+Female,23,Black,Never-married,HS-grad,Jamaica,Private,Sales,10670,<=50K
+Female,22,Black,Never-married,HS-grad,United-States,Private,Sales,14323,<=50K
+Female,21,Black,Separated,10th,United-States,Private,Sales,18431,<=50K
+Female,22,Black,Never-married,HS-grad,United-States,Private,Sales,18994,<=50K
+Female,22,Black,Never-married,HS-grad,United-States,Private,Sales,24246,<=50K
+Female,22,Black,Never-married,HS-grad,United-States,Private,Sales,24621,<=50K

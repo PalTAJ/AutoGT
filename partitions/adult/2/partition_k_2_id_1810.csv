@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Never-married,HS-grad,United-States,Local-gov,Protective-serv,3681,<=50K
+Male,34,White,Never-married,HS-grad,United-States,Local-gov,Protective-serv,5831,<=50K
+Male,31,White,Never-married,HS-grad,United-States,Local-gov,Protective-serv,8894,<=50K
+Male,40,White,Never-married,HS-grad,United-States,Local-gov,Protective-serv,21194,<=50K

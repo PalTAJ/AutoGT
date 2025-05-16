@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,48,Black,Never-married,HS-grad,Jamaica,Private,Tech-support,14439,<=50K
+Female,43,Black,Divorced,HS-grad,United-States,Private,Tech-support,24143,<=50K
+Female,51,Black,Widowed,HS-grad,United-States,Private,Tech-support,28432,<=50K
+Female,56,Black,Divorced,HS-grad,United-States,Private,Tech-support,30012,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,58,White,Married-spouse-absent,HS-grad,United-States,Self-emp-not-inc,Other-service,2919,<=50K
+Female,47,White,Married-spouse-absent,7th-8th,United-States,Private,Other-service,4243,<=50K
+Female,59,White,Married-spouse-absent,HS-grad,Puerto-Rico,Private,Adm-clerical,5944,<=50K
+Female,45,White,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,11616,<=50K
+Female,46,White,Married-spouse-absent,7th-8th,Guatemala,Private,Priv-house-serv,11887,<=50K
+Female,60,White,Married-spouse-absent,HS-grad,United-States,Private,Other-service,14884,<=50K
+Female,52,White,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,19416,<=50K
+Female,51,White,Married-spouse-absent,HS-grad,United-States,Private,Other-service,21756,<=50K

@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,White,Divorced,HS-grad,United-States,Private,Transport-moving,431,<=50K
+Male,52,White,Married-spouse-absent,HS-grad,Mexico,Private,Farming-fishing,6187,<=50K
+Male,52,White,Never-married,HS-grad,United-States,Private,Other-service,6303,<=50K
+Male,52,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,12994,<=50K
+Male,52,White,Divorced,HS-grad,United-States,Private,Other-service,13340,<=50K
+Male,52,White,Divorced,HS-grad,United-States,Private,Transport-moving,15650,<=50K
+Male,52,White,Divorced,HS-grad,United-States,Private,Other-service,16587,<=50K
+Male,52,White,Divorced,HS-grad,United-States,Private,Other-service,18227,<=50K
+Male,52,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Transport-moving,19407,<=50K
+Male,52,White,Divorced,HS-grad,United-States,Private,Transport-moving,25184,<=50K
+Male,52,White,Widowed,HS-grad,United-States,Private,Transport-moving,25275,<=50K

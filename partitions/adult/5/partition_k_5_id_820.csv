@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,White,Married-spouse-absent,HS-grad,Guatemala,Private,Handlers-cleaners,4561,<=50K
+Male,40,White,Married-spouse-absent,HS-grad,Poland,Private,Handlers-cleaners,10876,<=50K
+Male,32,White,Married-spouse-absent,HS-grad,United-States,Private,Handlers-cleaners,20680,<=50K
+Male,33,White,Married-spouse-absent,HS-grad,United-States,Private,Sales,23219,<=50K
+Male,38,White,Married-spouse-absent,9th,Mexico,Private,Handlers-cleaners,23830,<=50K
+Male,34,White,Married-spouse-absent,12th,Mexico,Private,Handlers-cleaners,29932,<=50K

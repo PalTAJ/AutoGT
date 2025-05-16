@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Married-civ-spouse,Assoc-voc,Mexico,Private,Handlers-cleaners,3924,<=50K
+Male,30,White,Married-civ-spouse,Assoc-voc,United-States,Private,Handlers-cleaners,4899,<=50K
+Male,23,White,Married-civ-spouse,Assoc-voc,United-States,Private,Handlers-cleaners,7325,<=50K
+Male,26,White,Married-civ-spouse,Assoc-voc,United-States,Private,Handlers-cleaners,7725,<=50K
+Male,23,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Handlers-cleaners,17707,<=50K
+Male,29,White,Married-civ-spouse,Assoc-voc,United-States,Private,Handlers-cleaners,21796,<=50K

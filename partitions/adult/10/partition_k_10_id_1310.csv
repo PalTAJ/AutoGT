@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Never-married,Masters,United-States,Private,Sales,3552,<=50K
+Female,45,White,Divorced,Masters,United-States,Self-emp-inc,Sales,6070,>50K
+Female,41,White,Divorced,Doctorate,United-States,Private,Sales,6494,>50K
+Female,47,White,Divorced,Masters,United-States,Private,Sales,6561,<=50K
+Female,53,White,Divorced,Masters,United-States,Private,Sales,7968,<=50K
+Female,55,White,Widowed,Masters,United-States,Self-emp-inc,Sales,8715,<=50K
+Female,44,White,Separated,Masters,United-States,Private,Sales,8828,<=50K
+Female,59,White,Never-married,Masters,United-States,Private,Sales,19182,>50K
+Female,50,White,Divorced,Masters,United-States,Private,Sales,19806,<=50K
+Female,56,White,Divorced,Masters,United-States,Self-emp-not-inc,Sales,20658,<=50K
+Female,50,White,Divorced,Masters,United-States,Private,Sales,21574,>50K
+Female,58,White,Widowed,Masters,United-States,Private,Sales,29057,<=50K
+Female,50,White,Divorced,Masters,United-States,Private,Sales,30112,>50K

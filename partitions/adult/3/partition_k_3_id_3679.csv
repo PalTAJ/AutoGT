@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,Other,Married-civ-spouse,HS-grad,Columbia,Private,Machine-op-inspct,12015,<=50K
+Female,34,Other,Married-civ-spouse,HS-grad,Columbia,Private,Machine-op-inspct,14949,<=50K
+Female,33,Other,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,19078,<=50K
+Female,32,Other,Married-civ-spouse,HS-grad,United-States,Private,Other-service,19676,<=50K

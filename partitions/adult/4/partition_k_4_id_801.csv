@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,White,Never-married,Assoc-acdm,United-States,State-gov,Exec-managerial,10352,<=50K
+Male,21,White,Never-married,Some-college,United-States,State-gov,Exec-managerial,12605,<=50K
+Male,25,White,Never-married,Some-college,United-States,State-gov,Handlers-cleaners,12992,<=50K
+Male,38,White,Never-married,Bachelors,United-States,State-gov,Exec-managerial,15464,<=50K
+Male,28,White,Never-married,Bachelors,United-States,State-gov,Exec-managerial,16793,<=50K
+Male,21,White,Never-married,Some-college,United-States,State-gov,Exec-managerial,18017,<=50K
+Male,25,White,Never-married,Masters,United-States,State-gov,Exec-managerial,18389,<=50K
+Male,27,White,Never-married,Masters,Scotland,State-gov,Exec-managerial,20762,<=50K
+Male,25,White,Never-married,Bachelors,United-States,State-gov,Exec-managerial,23615,<=50K
+Male,21,White,Never-married,Some-college,United-States,State-gov,Exec-managerial,27844,<=50K
+Male,21,White,Never-married,Some-college,United-States,State-gov,Handlers-cleaners,28134,<=50K

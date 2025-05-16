@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Divorced,Some-college,United-States,Federal-gov,Transport-moving,5179,<=50K
+Male,45,White,Divorced,Some-college,United-States,Federal-gov,Adm-clerical,7474,<=50K
+Male,42,White,Divorced,Bachelors,United-States,Federal-gov,Adm-clerical,10763,<=50K

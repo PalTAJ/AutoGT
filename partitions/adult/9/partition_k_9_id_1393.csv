@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,58,White,Divorced,Some-college,France,Private,Other-service,464,<=50K
+Female,54,White,Never-married,Some-college,United-States,Private,Other-service,4911,<=50K
+Female,56,White,Widowed,Bachelors,United-States,Private,Other-service,5495,<=50K
+Female,56,White,Divorced,Some-college,United-States,Private,Other-service,5674,<=50K
+Female,52,White,Widowed,Bachelors,United-States,Private,Other-service,10135,>50K
+Female,54,White,Never-married,Bachelors,United-States,Private,Other-service,12226,<=50K
+Female,55,White,Widowed,Some-college,United-States,Private,Other-service,12570,<=50K
+Female,56,White,Divorced,Bachelors,United-States,Private,Other-service,13849,<=50K
+Female,55,White,Divorced,Some-college,United-States,Private,Other-service,17605,<=50K
+Female,57,White,Widowed,Some-college,United-States,Private,Other-service,18196,<=50K
+Female,59,White,Divorced,Some-college,United-States,Private,Other-service,23329,<=50K
+Female,55,White,Divorced,Some-college,United-States,Private,Other-service,25491,<=50K
+Female,57,White,Divorced,Some-college,United-States,Private,Other-service,28721,<=50K
+Female,54,White,Divorced,Some-college,United-States,Private,Other-service,29339,<=50K

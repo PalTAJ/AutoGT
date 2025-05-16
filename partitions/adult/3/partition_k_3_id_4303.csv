@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,45,Black,Divorced,Some-college,Trinadad&Tobago,Private,Tech-support,11394,<=50K
+Female,56,Black,Separated,Some-college,United-States,Private,Tech-support,16396,<=50K
+Female,41,Black,Divorced,Some-college,United-States,Private,Tech-support,28775,<=50K

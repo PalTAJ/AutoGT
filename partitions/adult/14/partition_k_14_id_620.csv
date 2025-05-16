@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,White,Divorced,Some-college,United-States,Federal-gov,Adm-clerical,4076,<=50K
+Male,59,White,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,4392,<=50K
+Male,52,White,Never-married,Masters,United-States,State-gov,Adm-clerical,6121,>50K
+Male,52,White,Separated,Some-college,United-States,State-gov,Protective-serv,6340,<=50K
+Male,55,White,Divorced,Some-college,United-States,State-gov,Adm-clerical,9235,<=50K
+Male,57,White,Never-married,Bachelors,United-States,Federal-gov,Adm-clerical,9812,<=50K
+Male,57,White,Divorced,Some-college,United-States,Federal-gov,Other-service,11895,<=50K
+Male,57,White,Divorced,Bachelors,United-States,State-gov,Adm-clerical,12411,<=50K
+Male,59,White,Separated,Some-college,United-States,Local-gov,Protective-serv,14159,>50K
+Male,57,White,Divorced,Some-college,United-States,Federal-gov,Adm-clerical,20515,<=50K
+Male,53,White,Divorced,Some-college,United-States,Federal-gov,Farming-fishing,23943,<=50K
+Male,53,White,Divorced,Some-college,United-States,Federal-gov,Adm-clerical,24679,<=50K
+Male,51,White,Widowed,Bachelors,United-States,State-gov,Adm-clerical,26746,<=50K
+Male,55,White,Never-married,Some-college,United-States,Federal-gov,Adm-clerical,29571,<=50K
+Male,56,White,Divorced,Bachelors,United-States,Federal-gov,Adm-clerical,29685,<=50K

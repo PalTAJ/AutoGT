@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-civ-spouse,HS-grad,United-States,State-gov,Other-service,2514,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,State-gov,Other-service,3436,>50K
+Male,49,White,Married-civ-spouse,10th,United-States,State-gov,Other-service,10968,<=50K

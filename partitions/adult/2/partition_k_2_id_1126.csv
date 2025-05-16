@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Never-married,Bachelors,United-States,Private,Prof-specialty,1227,<=50K
+Male,39,White,Never-married,Bachelors,United-States,Private,Prof-specialty,4983,>50K
+Male,37,White,Never-married,Bachelors,United-States,Private,Prof-specialty,7114,>50K
+Male,36,White,Never-married,Bachelors,United-States,Private,Prof-specialty,10257,<=50K
+Male,38,White,Never-married,Bachelors,United-States,Private,Prof-specialty,12620,<=50K
+Male,39,White,Never-married,Bachelors,United-States,Private,Prof-specialty,12760,>50K
+Male,40,White,Never-married,Bachelors,United-States,Private,Prof-specialty,13971,<=50K
+Male,37,White,Never-married,Bachelors,United-States,Private,Prof-specialty,14894,<=50K
+Male,37,White,Never-married,Bachelors,United-States,Private,Prof-specialty,14972,>50K
+Male,36,White,Never-married,Bachelors,United-States,Private,Prof-specialty,20224,<=50K

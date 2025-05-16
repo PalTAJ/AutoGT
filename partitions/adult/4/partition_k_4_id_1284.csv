@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,58,>50K
+Male,44,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,1551,>50K
+Male,45,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,2857,>50K
+Male,45,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,4838,>50K
+Male,44,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,11019,>50K
+Male,45,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,11112,>50K
+Male,41,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,11814,>50K
+Male,41,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,16480,>50K
+Male,42,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,16695,<=50K
+Male,43,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,20720,>50K
+Male,45,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,20884,>50K
+Male,42,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,25384,>50K

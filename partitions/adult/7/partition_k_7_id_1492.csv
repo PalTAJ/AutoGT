@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,21,White,Never-married,Some-college,United-States,Private,Exec-managerial,899,<=50K
+Female,25,White,Never-married,Some-college,Yugoslavia,Private,Exec-managerial,4075,<=50K
+Female,24,White,Never-married,Some-college,United-States,Private,Exec-managerial,5308,<=50K
+Female,25,White,Never-married,Some-college,United-States,Private,Exec-managerial,6064,<=50K
+Female,21,White,Never-married,Some-college,United-States,Private,Exec-managerial,6617,<=50K
+Female,21,White,Never-married,Some-college,United-States,Private,Exec-managerial,7985,<=50K
+Female,22,White,Never-married,Some-college,United-States,Private,Exec-managerial,11383,<=50K
+Female,25,White,Divorced,Some-college,United-States,Private,Exec-managerial,13380,<=50K
+Female,23,White,Never-married,Some-college,United-States,Private,Exec-managerial,17226,<=50K
+Female,21,White,Never-married,Some-college,United-States,Private,Exec-managerial,17656,<=50K
+Female,25,White,Never-married,Some-college,United-States,Private,Exec-managerial,18205,<=50K
+Female,23,White,Divorced,Some-college,United-States,Private,Exec-managerial,18670,<=50K
+Female,23,White,Never-married,Some-college,United-States,Private,Exec-managerial,25510,<=50K
+Female,23,White,Never-married,Some-college,United-States,Private,Exec-managerial,28455,<=50K

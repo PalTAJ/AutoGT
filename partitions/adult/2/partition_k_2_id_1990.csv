@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Vietnam,Private,Adm-clerical,3406,<=50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,7th-8th,Cambodia,Private,Other-service,7391,<=50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,HS-grad,China,Private,Other-service,13034,<=50K

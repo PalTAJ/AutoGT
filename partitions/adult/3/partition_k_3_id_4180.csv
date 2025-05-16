@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,56,White,Separated,10th,United-States,Private,Other-service,6787,<=50K
+Female,59,White,Separated,HS-grad,United-States,Private,Other-service,6900,<=50K
+Female,60,White,Separated,HS-grad,United-States,Private,Other-service,23749,<=50K
+Female,58,White,Separated,HS-grad,Dominican-Republic,Private,Other-service,29436,<=50K

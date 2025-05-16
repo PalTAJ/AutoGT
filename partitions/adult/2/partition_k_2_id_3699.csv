@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Divorced,Some-college,Scotland,Private,Exec-managerial,1455,<=50K
+Male,51,White,Divorced,Assoc-acdm,Germany,Private,Exec-managerial,4348,<=50K

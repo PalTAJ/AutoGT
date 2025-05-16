@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,White,Never-married,5th-6th,Mexico,Private,Farming-fishing,2864,<=50K
+Male,20,White,Married-spouse-absent,5th-6th,Mexico,Private,Farming-fishing,2936,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Philippines,Private,Other-service,13516,<=50K
+Female,36,Asian-Pac-Islander,Married-civ-spouse,HS-grad,China,Local-gov,Adm-clerical,14599,>50K
+Female,36,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Taiwan,Private,Other-service,27992,<=50K

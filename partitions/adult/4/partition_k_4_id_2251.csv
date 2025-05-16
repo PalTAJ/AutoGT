@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,Asian-Pac-Islander,Never-married,Some-college,Vietnam,Private,Adm-clerical,3907,<=50K
+Female,20,Asian-Pac-Islander,Never-married,Some-college,Vietnam,Private,Adm-clerical,4416,<=50K
+Female,20,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Adm-clerical,5411,<=50K
+Female,20,Asian-Pac-Islander,Never-married,Some-college,South,Self-emp-not-inc,Prof-specialty,6506,<=50K
+Female,20,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Sales,12538,<=50K
+Female,20,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Adm-clerical,13647,<=50K
+Female,19,Asian-Pac-Islander,Never-married,Some-college,Philippines,Private,Sales,22191,<=50K
+Female,19,Asian-Pac-Islander,Never-married,Some-college,South,Self-emp-inc,Other-service,23383,<=50K
+Female,20,Asian-Pac-Islander,Never-married,Some-college,United-States,Local-gov,Protective-serv,25808,<=50K

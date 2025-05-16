@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Separated,Assoc-acdm,United-States,State-gov,Other-service,4518,<=50K
+Female,37,Black,Never-married,Assoc-voc,United-States,Local-gov,Other-service,16771,<=50K

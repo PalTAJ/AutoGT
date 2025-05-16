@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,Black,Never-married,HS-grad,United-States,Private,Exec-managerial,3984,<=50K
+Female,30,Black,Never-married,HS-grad,Jamaica,Private,Exec-managerial,13618,<=50K
+Female,31,Black,Divorced,HS-grad,United-States,Private,Exec-managerial,14448,<=50K
+Female,27,Black,Never-married,HS-grad,United-States,Private,Exec-managerial,24055,<=50K

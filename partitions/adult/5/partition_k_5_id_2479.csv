@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,White,Separated,Some-college,United-States,Private,Sales,6092,<=50K
+Female,41,White,Separated,Bachelors,United-States,Private,Sales,6662,<=50K
+Female,44,White,Separated,Masters,United-States,Private,Sales,8828,<=50K
+Female,57,White,Separated,Some-college,United-States,Private,Sales,14844,<=50K
+Female,51,White,Separated,Some-college,United-States,Self-emp-inc,Sales,24542,<=50K
+Female,48,White,Separated,Some-college,United-States,Self-emp-not-inc,Sales,29158,<=50K
+Female,43,White,Separated,Assoc-voc,United-States,Private,Sales,29389,<=50K
+Female,52,White,Separated,Assoc-voc,United-States,Private,Sales,30092,<=50K

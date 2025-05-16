@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Separated,5th-6th,Guatemala,Private,Farming-fishing,711,<=50K
+Male,38,White,Never-married,5th-6th,United-States,Self-emp-not-inc,Transport-moving,4591,<=50K
+Male,36,White,Never-married,5th-6th,United-States,Private,Other-service,10278,<=50K
+Male,40,White,Never-married,1st-4th,El-Salvador,Private,Other-service,11672,<=50K
+Male,37,White,Married-spouse-absent,1st-4th,Mexico,Private,Farming-fishing,19007,<=50K
+Male,37,White,Never-married,1st-4th,United-States,Private,Other-service,19928,<=50K
+Male,40,White,Married-spouse-absent,Preschool,United-States,Private,Adm-clerical,20878,<=50K
+Male,36,White,Never-married,1st-4th,Mexico,Private,Farming-fishing,25807,<=50K

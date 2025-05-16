@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Married-civ-spouse,9th,United-States,Self-emp-not-inc,Craft-repair,2634,<=50K
+Male,42,White,Married-civ-spouse,9th,Mexico,Private,Craft-repair,7164,<=50K
+Male,47,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,8107,<=50K
+Male,48,White,Married-civ-spouse,9th,United-States,Private,Craft-repair,12242,<=50K
+Male,50,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,13101,<=50K
+Male,46,White,Married-civ-spouse,9th,Guatemala,Private,Machine-op-inspct,13209,<=50K
+Male,49,White,Married-civ-spouse,9th,United-States,Private,Craft-repair,14139,<=50K
+Male,50,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,19721,<=50K
+Male,41,White,Married-civ-spouse,9th,United-States,Private,Craft-repair,19744,<=50K
+Male,48,White,Married-civ-spouse,9th,Poland,Private,Machine-op-inspct,20880,<=50K
+Male,46,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,22895,<=50K
+Male,50,White,Married-civ-spouse,9th,United-States,Private,Craft-repair,26386,<=50K
+Male,49,White,Married-civ-spouse,9th,Canada,Self-emp-not-inc,Craft-repair,26492,<=50K

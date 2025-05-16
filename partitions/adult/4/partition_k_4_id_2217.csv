@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,90,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,2121,<=50K
+Male,90,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,4681,<=50K
+Male,90,Black,Never-married,Masters,United-States,Private,Exec-managerial,4953,>50K
+Male,90,White,Never-married,Bachelors,United-States,Private,Exec-managerial,11093,<=50K
+Male,90,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,20589,<=50K

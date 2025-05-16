@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Married-civ-spouse,11th,United-States,State-gov,Farming-fishing,9005,<=50K
+Male,43,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Farming-fishing,20798,>50K
+Male,42,White,Married-civ-spouse,HS-grad,El-Salvador,Local-gov,Farming-fishing,25121,<=50K

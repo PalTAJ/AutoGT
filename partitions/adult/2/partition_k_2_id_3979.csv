@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,Amer-Indian-Eskimo,Divorced,11th,Germany,Private,Machine-op-inspct,1308,<=50K
+Male,46,Amer-Indian-Eskimo,Divorced,11th,United-States,Private,Prof-specialty,26796,>50K

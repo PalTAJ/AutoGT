@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Federal-gov,Handlers-cleaners,17151,<=50K
+Male,26,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Local-gov,Handlers-cleaners,17601,<=50K
+Male,27,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,State-gov,Transport-moving,18618,>50K

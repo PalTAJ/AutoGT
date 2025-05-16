@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Separated,HS-grad,United-States,Private,Adm-clerical,6926,<=50K
+Male,43,White,Separated,HS-grad,Mexico,Private,Transport-moving,7024,<=50K
+Male,43,White,Separated,HS-grad,United-States,Private,Transport-moving,16494,<=50K
+Male,41,White,Separated,9th,United-States,Private,Other-service,19794,<=50K

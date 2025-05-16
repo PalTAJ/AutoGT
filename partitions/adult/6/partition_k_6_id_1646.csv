@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Divorced,Doctorate,United-States,Private,Prof-specialty,8110,<=50K
+Female,28,White,Divorced,Masters,United-States,Private,Prof-specialty,11491,<=50K
+Female,34,White,Divorced,Masters,United-States,Private,Prof-specialty,12377,<=50K
+Female,39,White,Divorced,Masters,United-States,Private,Prof-specialty,14789,<=50K
+Female,34,White,Divorced,Masters,United-States,Private,Prof-specialty,16265,>50K
+Female,29,White,Divorced,Doctorate,United-States,Private,Prof-specialty,27423,>50K

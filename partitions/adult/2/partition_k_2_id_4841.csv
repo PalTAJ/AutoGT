@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Divorced,Assoc-acdm,United-States,Private,Tech-support,984,<=50K
+Female,37,White,Divorced,Assoc-acdm,United-States,Private,Tech-support,30147,<=50K

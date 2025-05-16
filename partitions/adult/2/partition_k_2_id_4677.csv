@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Adm-clerical,8270,>50K
+Female,30,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Adm-clerical,17307,>50K
+Female,28,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Adm-clerical,26789,>50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Divorced,Doctorate,France,State-gov,Prof-specialty,11408,>50K
+Male,43,White,Divorced,Bachelors,Germany,Local-gov,Exec-managerial,27305,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,HS-grad,United-States,Self-emp-inc,Sales,10654,<=50K
+Male,40,White,Never-married,HS-grad,United-States,Self-emp-inc,Sales,11036,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Self-emp-inc,Sales,17053,<=50K
+Male,26,White,Never-married,HS-grad,United-States,Self-emp-inc,Sales,18867,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Self-emp-inc,Sales,27402,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Married-civ-spouse,Bachelors,Canada,Private,Prof-specialty,544,>50K
+Male,38,White,Married-civ-spouse,Bachelors,Canada,Private,Prof-specialty,23593,<=50K

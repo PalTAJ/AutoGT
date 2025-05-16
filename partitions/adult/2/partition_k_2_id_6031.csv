@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,White,Married-civ-spouse,HS-grad,Italy,Self-emp-not-inc,Other-service,748,<=50K
+Female,47,White,Married-civ-spouse,HS-grad,Iran,Self-emp-not-inc,Adm-clerical,9356,<=50K

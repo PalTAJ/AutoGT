@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,66,White,Widowed,Assoc-voc,United-States,Private,Prof-specialty,4759,<=50K
+Female,67,White,Divorced,Assoc-voc,United-States,Private,Prof-specialty,9071,<=50K
+Female,68,White,Widowed,Prof-school,United-States,Private,Prof-specialty,11387,<=50K
+Female,64,White,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,21651,<=50K

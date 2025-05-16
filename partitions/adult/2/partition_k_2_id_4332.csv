@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,62,White,Married-civ-spouse,12th,Germany,Private,Farming-fishing,11674,<=50K
+Male,64,White,Married-civ-spouse,HS-grad,France,Private,Farming-fishing,27303,<=50K

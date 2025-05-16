@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,White,Never-married,Bachelors,United-States,Private,Adm-clerical,2689,<=50K
+Female,28,White,Never-married,Bachelors,El-Salvador,Private,Adm-clerical,4996,<=50K
+Female,28,White,Never-married,Bachelors,United-States,Private,Adm-clerical,6237,<=50K
+Female,28,White,Never-married,Bachelors,United-States,Private,Adm-clerical,7757,<=50K
+Female,28,White,Never-married,Bachelors,United-States,Private,Adm-clerical,10029,<=50K
+Female,28,White,Never-married,Bachelors,United-States,Private,Adm-clerical,14058,<=50K

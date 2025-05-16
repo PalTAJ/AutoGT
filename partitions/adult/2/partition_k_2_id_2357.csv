@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,Black,Separated,HS-grad,United-States,Private,Other-service,7482,<=50K
+Male,25,Black,Separated,HS-grad,United-States,Private,Protective-serv,23795,<=50K

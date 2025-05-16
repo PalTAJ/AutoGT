@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,3715,<=50K
+Male,37,Black,Never-married,Some-college,United-States,Self-emp-not-inc,Prof-specialty,6351,<=50K
+Male,28,Black,Never-married,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,23984,>50K
+Male,28,Black,Never-married,Some-college,United-States,Self-emp-not-inc,Machine-op-inspct,25192,<=50K

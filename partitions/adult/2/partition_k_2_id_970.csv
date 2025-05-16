@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,867,>50K
+Male,39,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,929,>50K
+Male,39,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,5141,>50K
+Male,40,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,7771,<=50K
+Male,38,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,10525,<=50K
+Male,38,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,12910,>50K
+Male,40,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,13127,<=50K
+Male,39,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,13367,<=50K
+Male,39,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,13885,>50K
+Male,40,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,14239,>50K
+Male,39,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,18102,>50K
+Male,40,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,21471,<=50K
+Male,38,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,27179,<=50K
+Male,37,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,27756,>50K
+Male,40,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,27857,<=50K

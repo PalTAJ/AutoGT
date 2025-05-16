@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,Black,Never-married,Some-college,United-States,State-gov,Protective-serv,1316,<=50K
+Male,25,Black,Never-married,Some-college,United-States,State-gov,Transport-moving,4339,<=50K
+Male,33,Black,Separated,Some-college,United-States,State-gov,Adm-clerical,6094,<=50K
+Male,37,Black,Divorced,Assoc-acdm,United-States,State-gov,Protective-serv,6754,<=50K
+Male,21,Black,Never-married,Some-college,United-States,State-gov,Other-service,12480,<=50K
+Male,22,Black,Never-married,Some-college,Haiti,State-gov,Other-service,13871,<=50K
+Male,25,Black,Never-married,Bachelors,United-States,State-gov,Protective-serv,14089,<=50K
+Male,27,Black,Divorced,Some-college,Jamaica,State-gov,Adm-clerical,14930,<=50K
+Male,39,Black,Never-married,Some-college,United-States,State-gov,Transport-moving,21669,<=50K
+Male,29,Black,Divorced,Some-college,United-States,State-gov,Adm-clerical,21814,<=50K

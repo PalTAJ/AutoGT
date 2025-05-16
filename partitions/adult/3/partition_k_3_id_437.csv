@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Married-civ-spouse,Assoc-voc,Germany,Private,Sales,2053,>50K
+Male,38,White,Married-civ-spouse,Assoc-acdm,Italy,Private,Exec-managerial,25874,<=50K
+Male,30,White,Married-civ-spouse,Assoc-voc,Germany,Self-emp-not-inc,Sales,28599,<=50K

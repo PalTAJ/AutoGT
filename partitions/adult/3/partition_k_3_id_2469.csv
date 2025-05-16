@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,48,White,Never-married,11th,Puerto-Rico,Private,Machine-op-inspct,33,<=50K
+Male,48,White,Never-married,HS-grad,Dominican-Republic,Private,Machine-op-inspct,4448,<=50K
+Male,50,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,26231,<=50K

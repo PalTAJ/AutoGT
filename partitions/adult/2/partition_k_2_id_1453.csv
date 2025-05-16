@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Divorced,Bachelors,Puerto-Rico,Local-gov,Prof-specialty,9078,<=50K
+Male,32,White,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,10182,<=50K
+Male,35,White,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,21615,<=50K

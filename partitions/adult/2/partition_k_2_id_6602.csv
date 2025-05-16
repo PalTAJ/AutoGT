@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,White,Divorced,1st-4th,Cuba,Private,Priv-house-serv,9094,<=50K
+Female,45,White,Divorced,5th-6th,Mexico,Private,Priv-house-serv,12821,<=50K
+Female,43,White,Divorced,5th-6th,Mexico,Private,Priv-house-serv,16502,<=50K
+Female,41,White,Divorced,5th-6th,Puerto-Rico,Private,Other-service,24182,<=50K

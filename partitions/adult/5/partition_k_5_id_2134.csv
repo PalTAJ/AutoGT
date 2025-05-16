@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,White,Never-married,Bachelors,United-States,Federal-gov,Exec-managerial,3348,<=50K
+Female,37,White,Divorced,Bachelors,United-States,Federal-gov,Exec-managerial,4136,<=50K
+Female,31,White,Never-married,Bachelors,Cuba,Federal-gov,Exec-managerial,6511,<=50K
+Female,32,White,Never-married,Bachelors,United-States,Federal-gov,Exec-managerial,16129,<=50K
+Female,27,White,Never-married,Bachelors,United-States,Federal-gov,Exec-managerial,25416,<=50K

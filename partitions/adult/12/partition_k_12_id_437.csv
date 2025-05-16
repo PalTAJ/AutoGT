@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,Black,Separated,Bachelors,United-States,Local-gov,Prof-specialty,1781,<=50K
+Male,33,Black,Never-married,Some-college,United-States,Private,Prof-specialty,5302,<=50K
+Male,37,Black,Never-married,Some-college,United-States,Self-emp-not-inc,Prof-specialty,6351,<=50K
+Male,34,Black,Divorced,Some-college,Germany,Private,Prof-specialty,15072,>50K
+Male,31,Black,Never-married,Masters,United-States,Private,Prof-specialty,15148,<=50K
+Male,39,Black,Separated,Bachelors,United-States,Local-gov,Prof-specialty,15182,<=50K
+Male,34,Black,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,17332,<=50K
+Male,33,Black,Never-married,Bachelors,United-States,Private,Prof-specialty,18310,>50K
+Male,33,Black,Never-married,Masters,United-States,Private,Prof-specialty,19297,<=50K
+Male,39,Black,Never-married,Some-college,United-States,Private,Prof-specialty,19303,>50K
+Male,39,Black,Divorced,Masters,Dominican-Republic,Local-gov,Prof-specialty,23780,<=50K
+Male,35,Black,Divorced,Assoc-voc,United-States,Private,Prof-specialty,25600,<=50K
+Male,36,Black,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,26019,<=50K
+Male,38,Black,Divorced,Masters,Jamaica,Local-gov,Prof-specialty,27868,<=50K

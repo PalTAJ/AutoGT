@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,55,Black,Divorced,5th-6th,United-States,Private,Other-service,805,<=50K
+Male,51,Black,Never-married,HS-grad,Haiti,Private,Other-service,8375,<=50K
+Male,51,Black,Divorced,HS-grad,Haiti,Private,Other-service,11646,<=50K
+Male,53,Black,Divorced,HS-grad,United-States,Private,Other-service,14685,<=50K
+Male,54,Black,Separated,10th,United-States,Private,Transport-moving,17098,>50K
+Male,54,Black,Divorced,HS-grad,United-States,Private,Transport-moving,18261,<=50K

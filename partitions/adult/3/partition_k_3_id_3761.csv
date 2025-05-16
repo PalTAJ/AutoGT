@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,Black,Never-married,HS-grad,United-States,Private,Other-service,2030,<=50K
+Female,35,Black,Never-married,12th,Trinadad&Tobago,Self-emp-not-inc,Other-service,2920,<=50K
+Female,35,Black,Never-married,HS-grad,Jamaica,Private,Other-service,13870,<=50K
+Female,35,Black,Never-married,10th,United-States,Private,Other-service,14361,<=50K
+Female,35,Black,Never-married,HS-grad,United-States,Private,Other-service,23580,<=50K

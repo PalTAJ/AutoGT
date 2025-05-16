@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,Other,Never-married,1st-4th,Dominican-Republic,Private,Other-service,5052,<=50K
+Male,26,Other,Separated,5th-6th,Mexico,Private,Craft-repair,20379,<=50K
+Male,24,Other,Never-married,1st-4th,Mexico,Private,Farming-fishing,26505,<=50K

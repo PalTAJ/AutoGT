@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,3808,<=50K
+Male,38,White,Divorced,HS-grad,United-States,State-gov,Other-service,14066,<=50K
+Male,26,White,Never-married,HS-grad,United-States,State-gov,Protective-serv,15549,<=50K
+Male,23,White,Never-married,HS-grad,United-States,State-gov,Protective-serv,18448,<=50K
+Male,32,White,Never-married,HS-grad,United-States,State-gov,Transport-moving,22952,<=50K
+Male,27,White,Never-married,HS-grad,United-States,State-gov,Protective-serv,26892,<=50K
+Male,38,White,Never-married,HS-grad,United-States,State-gov,Other-service,27954,<=50K

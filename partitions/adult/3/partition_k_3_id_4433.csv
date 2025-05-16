@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,61,White,Widowed,HS-grad,United-States,Local-gov,Adm-clerical,1213,<=50K
+Female,61,White,Never-married,HS-grad,Puerto-Rico,Federal-gov,Adm-clerical,13008,<=50K
+Female,61,White,Widowed,11th,United-States,State-gov,Other-service,14422,>50K

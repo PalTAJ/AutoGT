@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,64,White,Never-married,9th,United-States,Local-gov,Adm-clerical,5403,<=50K
+Male,64,White,Divorced,HS-grad,United-States,Local-gov,Transport-moving,11793,<=50K
+Male,62,White,Divorced,HS-grad,United-States,Local-gov,Transport-moving,17922,<=50K
+Male,68,White,Widowed,HS-grad,United-States,Local-gov,Protective-serv,26765,<=50K

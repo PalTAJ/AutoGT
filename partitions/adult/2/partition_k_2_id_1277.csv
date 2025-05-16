@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,1638,<=50K
+Male,32,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,4874,<=50K
+Male,33,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,5685,<=50K
+Male,39,White,Separated,Assoc-acdm,United-States,Private,Adm-clerical,24528,<=50K

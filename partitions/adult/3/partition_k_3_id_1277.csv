@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Never-married,HS-grad,Ecuador,Private,Machine-op-inspct,3651,<=50K
+Male,23,White,Never-married,HS-grad,Columbia,Private,Craft-repair,10992,<=50K
+Male,24,White,Married-spouse-absent,HS-grad,Peru,Private,Transport-moving,12682,<=50K
+Male,25,White,Never-married,10th,Nicaragua,Private,Other-service,18204,<=50K

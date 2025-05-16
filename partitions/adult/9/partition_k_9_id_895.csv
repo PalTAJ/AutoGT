@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Divorced,Some-college,United-States,Private,Exec-managerial,745,<=50K
+Male,43,White,Never-married,Some-college,United-States,Private,Exec-managerial,1534,<=50K
+Male,44,White,Separated,Some-college,United-States,Private,Exec-managerial,1725,>50K
+Male,42,White,Divorced,Some-college,United-States,Private,Exec-managerial,2188,<=50K
+Male,44,White,Divorced,Some-college,United-States,Private,Exec-managerial,6285,<=50K
+Male,45,White,Divorced,Some-college,United-States,Private,Exec-managerial,6589,<=50K
+Male,44,White,Separated,Some-college,England,Private,Exec-managerial,9484,<=50K
+Male,49,White,Divorced,Some-college,United-States,Private,Exec-managerial,10188,<=50K
+Male,47,White,Divorced,Some-college,United-States,Private,Exec-managerial,10255,<=50K
+Male,49,White,Divorced,Some-college,United-States,Private,Exec-managerial,14004,>50K
+Male,46,White,Divorced,Some-college,United-States,Private,Exec-managerial,17839,<=50K
+Male,48,White,Divorced,Some-college,United-States,Private,Exec-managerial,19791,>50K
+Male,42,White,Separated,Some-college,Canada,Private,Exec-managerial,20416,<=50K
+Male,41,White,Never-married,Some-college,United-States,Private,Exec-managerial,21311,<=50K
+Male,41,White,Divorced,Some-college,United-States,Private,Exec-managerial,28849,<=50K
+Male,50,White,Divorced,Some-college,United-States,Private,Exec-managerial,29018,<=50K

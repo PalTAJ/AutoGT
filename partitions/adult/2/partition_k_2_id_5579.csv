@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Never-married,5th-6th,Mexico,Private,Adm-clerical,24841,<=50K
+Female,33,White,Never-married,5th-6th,Mexico,Private,Other-service,26168,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,Asian-Pac-Islander,Never-married,HS-grad,England,Private,Exec-managerial,150,<=50K
+Female,38,Asian-Pac-Islander,Divorced,10th,Portugal,Private,Machine-op-inspct,17655,<=50K

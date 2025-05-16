@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,Black,Separated,9th,United-States,Private,Handlers-cleaners,3130,<=50K
+Female,41,Black,Never-married,11th,United-States,Private,Handlers-cleaners,14717,<=50K
+Female,42,Black,Divorced,HS-grad,United-States,Private,Handlers-cleaners,16478,<=50K
+Female,43,Black,Separated,HS-grad,United-States,Private,Handlers-cleaners,17014,<=50K
+Female,46,Black,Divorced,11th,United-States,Private,Handlers-cleaners,19483,<=50K
+Female,51,Black,Widowed,11th,United-States,Private,Handlers-cleaners,25556,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,54,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Tech-support,1071,>50K
+Male,55,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Tech-support,1286,<=50K
+Male,52,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Tech-support,8983,>50K

@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,70,White,Never-married,Some-college,United-States,Private,Adm-clerical,2309,<=50K
+Female,67,White,Divorced,Some-college,United-States,Private,Adm-clerical,4751,<=50K
+Female,69,White,Widowed,Some-college,United-States,State-gov,Adm-clerical,5214,<=50K
+Female,70,White,Widowed,Some-college,United-States,Local-gov,Adm-clerical,5945,<=50K
+Female,69,White,Widowed,Some-college,United-States,Private,Adm-clerical,7124,<=50K
+Female,68,White,Divorced,Some-college,United-States,Private,Priv-house-serv,7150,<=50K
+Female,68,White,Divorced,Some-college,United-States,Private,Adm-clerical,8409,<=50K
+Female,68,White,Widowed,Some-college,United-States,Private,Other-service,14076,<=50K
+Female,68,White,Divorced,Some-college,United-States,Self-emp-not-inc,Transport-moving,14495,<=50K
+Female,69,White,Widowed,Some-college,United-States,Self-emp-not-inc,Farming-fishing,16468,<=50K
+Female,68,White,Never-married,Some-college,United-States,Private,Adm-clerical,16773,<=50K
+Female,67,White,Widowed,Some-college,United-States,Private,Adm-clerical,20286,<=50K
+Female,69,White,Widowed,Some-college,United-States,Private,Adm-clerical,20692,<=50K
+Female,66,White,Divorced,Some-college,United-States,Private,Adm-clerical,23187,<=50K
+Female,68,White,Married-spouse-absent,Some-college,United-States,Without-pay,Farming-fishing,26725,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,White,Separated,Some-college,United-States,State-gov,Protective-serv,6340,<=50K
+Male,59,White,Separated,Some-college,United-States,Local-gov,Protective-serv,14159,>50K

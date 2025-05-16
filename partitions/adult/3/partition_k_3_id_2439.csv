@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Separated,Some-college,England,Private,Exec-managerial,9484,<=50K
+Male,42,White,Married-spouse-absent,Bachelors,Poland,Self-emp-not-inc,Exec-managerial,13518,<=50K
+Male,44,White,Married-spouse-absent,Some-college,Poland,Private,Handlers-cleaners,21536,<=50K
+Male,43,White,Divorced,Bachelors,Germany,Local-gov,Exec-managerial,27305,<=50K

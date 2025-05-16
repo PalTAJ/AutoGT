@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,61,Black,Never-married,5th-6th,United-States,Private,Handlers-cleaners,2553,<=50K
+Male,61,White,Divorced,5th-6th,United-States,Private,Transport-moving,2796,<=50K
+Male,68,White,Never-married,Preschool,United-States,Private,Machine-op-inspct,12257,<=50K
+Male,68,White,Separated,5th-6th,Italy,Private,Other-service,13047,<=50K
+Male,61,Asian-Pac-Islander,Married-spouse-absent,Preschool,China,Private,Other-service,19803,<=50K
+Male,68,White,Married-spouse-absent,5th-6th,United-States,Private,Sales,20707,<=50K
+Male,63,White,Divorced,1st-4th,United-States,Private,Transport-moving,24268,<=50K
+Male,64,White,Divorced,5th-6th,United-States,Private,Craft-repair,25414,<=50K

@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,White,Widowed,Some-college,United-States,Private,Sales,8265,<=50K
+Female,55,White,Widowed,Masters,United-States,Self-emp-inc,Sales,8715,<=50K
+Female,49,White,Widowed,Some-college,United-States,Private,Sales,9957,<=50K
+Female,58,White,Widowed,Some-college,United-States,Self-emp-inc,Sales,10990,>50K
+Female,52,White,Widowed,Some-college,United-States,Private,Sales,13434,<=50K
+Female,60,White,Widowed,Some-college,United-States,Private,Sales,15478,<=50K
+Female,60,White,Widowed,Some-college,United-States,Private,Sales,19664,<=50K
+Female,53,White,Widowed,Some-college,United-States,Private,Sales,21377,<=50K
+Female,54,White,Widowed,Bachelors,United-States,Private,Sales,22954,<=50K
+Female,53,White,Widowed,Some-college,United-States,Self-emp-inc,Sales,23747,<=50K
+Female,44,White,Widowed,Some-college,United-States,Private,Sales,25978,<=50K
+Female,55,White,Widowed,Bachelors,United-States,Self-emp-not-inc,Sales,26425,<=50K
+Female,45,White,Widowed,Assoc-acdm,Cuba,Private,Sales,28153,<=50K
+Female,49,White,Widowed,Bachelors,United-States,Self-emp-not-inc,Sales,28967,<=50K
+Female,58,White,Widowed,Masters,United-States,Private,Sales,29057,<=50K
+Female,53,White,Widowed,Some-college,United-States,Self-emp-inc,Sales,29498,<=50K

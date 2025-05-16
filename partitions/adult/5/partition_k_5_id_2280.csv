@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Other,Never-married,HS-grad,United-States,Private,Other-service,1490,<=50K
+Female,32,Other,Divorced,HS-grad,United-States,Private,Other-service,4947,<=50K
+Female,33,Other,Never-married,Some-college,United-States,Private,Adm-clerical,12328,<=50K
+Female,33,Other,Never-married,5th-6th,El-Salvador,Local-gov,Other-service,13415,<=50K
+Female,33,Other,Divorced,HS-grad,United-States,Private,Adm-clerical,15395,<=50K
+Female,32,Other,Separated,9th,Mexico,Private,Other-service,16802,<=50K
+Female,31,Other,Divorced,Masters,United-States,Private,Other-service,30145,<=50K

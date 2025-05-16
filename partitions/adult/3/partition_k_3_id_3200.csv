@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,White,Never-married,Assoc-voc,United-States,Private,Prof-specialty,8876,<=50K
+Female,36,White,Never-married,Assoc-voc,United-States,Private,Tech-support,14282,<=50K
+Female,38,White,Never-married,Assoc-voc,United-States,Private,Tech-support,15461,<=50K
+Female,38,White,Never-married,Assoc-voc,United-States,Private,Tech-support,15800,<=50K
+Female,38,White,Never-married,Assoc-voc,United-States,Private,Tech-support,19132,<=50K

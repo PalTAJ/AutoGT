@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Married-spouse-absent,HS-grad,Poland,Private,Craft-repair,2970,<=50K
+Male,44,White,Never-married,HS-grad,England,Private,Exec-managerial,14637,>50K
+Male,41,White,Never-married,HS-grad,Poland,Private,Transport-moving,15949,<=50K
+Male,42,White,Separated,HS-grad,Poland,Private,Handlers-cleaners,23788,<=50K
+Male,44,White,Divorced,HS-grad,Portugal,Self-emp-inc,Craft-repair,24885,<=50K
+Male,43,White,Never-married,HS-grad,Poland,Private,Handlers-cleaners,26508,<=50K

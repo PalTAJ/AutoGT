@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,17,White,Never-married,10th,United-States,Private,Handlers-cleaners,1428,<=50K
+Male,17,White,Never-married,10th,United-States,Private,Handlers-cleaners,16398,<=50K
+Male,17,White,Never-married,10th,El-Salvador,Private,Handlers-cleaners,18042,<=50K
+Male,17,White,Never-married,10th,United-States,Private,Handlers-cleaners,22259,<=50K
+Male,17,White,Never-married,10th,United-States,Private,Handlers-cleaners,22990,<=50K
+Male,17,White,Never-married,10th,United-States,Private,Handlers-cleaners,26482,<=50K
+Male,17,White,Never-married,10th,United-States,Private,Handlers-cleaners,28108,<=50K

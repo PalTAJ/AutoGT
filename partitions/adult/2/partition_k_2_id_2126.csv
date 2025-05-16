@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,Other,Married-spouse-absent,HS-grad,Mexico,Private,Farming-fishing,3075,<=50K
+Male,37,Other,Married-spouse-absent,HS-grad,Mexico,Private,Farming-fishing,5562,<=50K

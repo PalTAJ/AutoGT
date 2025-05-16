@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,70,White,Married-civ-spouse,10th,United-States,Private,Machine-op-inspct,17101,<=50K
+Male,67,White,Married-civ-spouse,10th,United-States,Self-emp-inc,Craft-repair,29077,<=50K

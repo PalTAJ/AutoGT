@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,69,Black,Widowed,1st-4th,United-States,Private,Priv-house-serv,7664,<=50K
+Female,67,Black,Widowed,1st-4th,United-States,Self-emp-not-inc,Other-service,10939,<=50K
+Female,74,Black,Widowed,1st-4th,United-States,Private,Priv-house-serv,12534,<=50K
+Female,66,Black,Divorced,5th-6th,United-States,Private,Priv-house-serv,27227,<=50K
+Female,64,Black,Widowed,5th-6th,United-States,Private,Other-service,27407,<=50K

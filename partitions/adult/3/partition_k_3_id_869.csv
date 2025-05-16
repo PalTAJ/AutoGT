@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,White,Divorced,Bachelors,United-States,Private,Protective-serv,4659,<=50K
+Male,37,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Protective-serv,5995,>50K
+Male,31,White,Never-married,Some-college,United-States,Private,Protective-serv,21087,<=50K

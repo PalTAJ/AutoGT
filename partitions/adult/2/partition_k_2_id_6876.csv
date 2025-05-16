@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,63,White,Married-spouse-absent,Assoc-acdm,United-States,Private,Adm-clerical,18334,<=50K
+Female,68,White,Married-spouse-absent,Some-college,United-States,Without-pay,Farming-fishing,26725,<=50K

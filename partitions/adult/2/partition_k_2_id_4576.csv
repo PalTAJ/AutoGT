@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,White,Never-married,12th,Mexico,Private,Adm-clerical,1897,<=50K
+Female,20,White,Never-married,12th,United-States,Private,Adm-clerical,20981,<=50K

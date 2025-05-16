@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,Asian-Pac-Islander,Married-spouse-absent,HS-grad,Japan,Private,Prof-specialty,2815,>50K
+Male,45,Asian-Pac-Islander,Divorced,HS-grad,United-States,Private,Craft-repair,8196,>50K
+Male,49,Asian-Pac-Islander,Never-married,12th,United-States,Private,Transport-moving,12430,<=50K
+Male,45,Asian-Pac-Islander,Never-married,10th,Vietnam,Private,Machine-op-inspct,14011,<=50K
+Male,45,Asian-Pac-Islander,Married-spouse-absent,HS-grad,Thailand,Self-emp-not-inc,Craft-repair,19877,<=50K
+Male,59,Asian-Pac-Islander,Married-spouse-absent,10th,India,Private,Protective-serv,20782,<=50K
+Male,59,Asian-Pac-Islander,Divorced,HS-grad,China,Private,Other-service,21759,<=50K
+Male,46,Asian-Pac-Islander,Married-spouse-absent,10th,China,Private,Other-service,23173,<=50K
+Male,41,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Exec-managerial,23595,<=50K
+Male,49,Asian-Pac-Islander,Never-married,7th-8th,Laos,Private,Machine-op-inspct,25682,<=50K

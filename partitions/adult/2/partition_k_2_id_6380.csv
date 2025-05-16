@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,White,Never-married,Masters,United-States,Federal-gov,Adm-clerical,20166,>50K
+Female,56,White,Divorced,Masters,United-States,Federal-gov,Adm-clerical,27851,<=50K

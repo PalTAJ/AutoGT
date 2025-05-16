@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,Black,Separated,Some-college,Jamaica,Private,Adm-clerical,9042,<=50K
+Female,39,Black,Separated,Some-college,United-States,Private,Adm-clerical,11664,<=50K
+Female,33,Black,Separated,Assoc-voc,United-States,Private,Adm-clerical,17251,<=50K
+Female,31,Black,Separated,Some-college,United-States,Private,Adm-clerical,18098,<=50K
+Female,39,Black,Separated,Some-college,United-States,Private,Adm-clerical,21369,<=50K
+Female,30,Black,Separated,Some-college,United-States,Private,Adm-clerical,23585,<=50K

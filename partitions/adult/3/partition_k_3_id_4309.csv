@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,Black,Separated,Assoc-voc,United-States,Private,Machine-op-inspct,16457,<=50K
+Female,46,Black,Divorced,Assoc-voc,United-States,Private,Tech-support,25348,<=50K
+Female,51,Black,Divorced,Assoc-voc,United-States,Private,Tech-support,28617,<=50K

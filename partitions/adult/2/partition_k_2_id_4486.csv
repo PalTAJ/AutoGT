@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,63,Black,Divorced,Bachelors,Outlying-US(Guam-USVI-etc),Local-gov,Craft-repair,14932,<=50K
+Male,61,Black,Divorced,Bachelors,United-States,Private,Sales,17102,>50K

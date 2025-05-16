@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,Other,Married-civ-spouse,Bachelors,Puerto-Rico,Private,Sales,4695,<=50K
+Male,37,Other,Married-civ-spouse,Bachelors,Puerto-Rico,Self-emp-not-inc,Exec-managerial,8379,>50K
+Male,33,Other,Married-civ-spouse,Assoc-acdm,Japan,Private,Sales,28540,>50K

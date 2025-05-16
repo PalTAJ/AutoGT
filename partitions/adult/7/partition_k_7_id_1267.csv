@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,66,White,Married-civ-spouse,Some-college,United-States,Private,Sales,1939,>50K
+Male,67,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,4012,<=50K
+Male,67,White,Married-civ-spouse,Some-college,United-States,Private,Sales,4964,<=50K
+Male,69,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,10860,>50K
+Male,66,White,Married-civ-spouse,Some-college,United-States,Private,Sales,12882,>50K
+Male,67,White,Married-civ-spouse,Some-college,Cuba,Private,Handlers-cleaners,15163,>50K
+Male,66,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,15364,<=50K
+Male,69,White,Married-civ-spouse,Some-college,United-States,Private,Sales,15611,<=50K
+Male,66,White,Married-civ-spouse,Some-college,United-States,Private,Sales,20145,<=50K
+Male,66,White,Married-civ-spouse,Some-college,United-States,Private,Sales,20180,<=50K
+Male,68,White,Married-civ-spouse,Some-college,United-States,Private,Sales,22723,>50K
+Male,66,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,23534,<=50K
+Male,66,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,27488,<=50K

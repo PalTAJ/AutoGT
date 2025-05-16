@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,White,Divorced,Assoc-acdm,United-States,Private,Exec-managerial,7824,>50K
+Male,39,White,Divorced,Prof-school,United-States,Private,Exec-managerial,14484,<=50K
+Male,36,White,Divorced,Assoc-acdm,United-States,Private,Exec-managerial,16826,<=50K
+Male,39,White,Divorced,Assoc-acdm,United-States,Private,Exec-managerial,21762,<=50K

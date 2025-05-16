@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,HS-grad,Japan,Private,Protective-serv,5034,<=50K
+Male,23,White,Never-married,11th,Philippines,Private,Other-service,5139,<=50K

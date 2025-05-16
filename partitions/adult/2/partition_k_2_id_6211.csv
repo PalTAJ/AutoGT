@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,White,Widowed,Some-college,United-States,Private,Other-service,12570,<=50K
+Female,57,White,Widowed,Some-college,United-States,Private,Other-service,18196,<=50K

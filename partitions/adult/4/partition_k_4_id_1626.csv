@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,4882,<=50K
+Male,58,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,6044,<=50K
+Male,58,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,16117,<=50K
+Male,58,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,21540,>50K

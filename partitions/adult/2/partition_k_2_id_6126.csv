@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,White,Separated,Assoc-voc,Dominican-Republic,Private,Prof-specialty,19028,<=50K
+Female,42,White,Separated,Assoc-voc,United-States,Private,Prof-specialty,20525,<=50K

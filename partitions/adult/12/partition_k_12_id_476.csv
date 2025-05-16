@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,54,White,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,3948,<=50K
+Male,52,White,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,4130,<=50K
+Male,57,White,Married-civ-spouse,Bachelors,Poland,Private,Machine-op-inspct,4862,>50K
+Male,59,White,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,5113,<=50K
+Male,51,White,Married-civ-spouse,Bachelors,United-States,Private,Machine-op-inspct,5852,<=50K
+Male,58,White,Married-civ-spouse,Bachelors,United-States,Private,Machine-op-inspct,8316,>50K
+Male,56,White,Married-civ-spouse,Bachelors,United-States,Private,Machine-op-inspct,9342,<=50K
+Male,51,White,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,11068,>50K
+Male,56,White,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,18090,<=50K
+Male,55,White,Married-civ-spouse,Bachelors,United-States,Private,Machine-op-inspct,18340,<=50K
+Male,53,White,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,19880,<=50K
+Male,52,White,Married-civ-spouse,Bachelors,United-States,Private,Machine-op-inspct,23917,>50K

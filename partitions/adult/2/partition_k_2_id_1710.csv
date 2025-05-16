@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Never-married,HS-grad,El-Salvador,Private,Other-service,1728,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Other-service,13309,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Other-service,14580,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Other-service,15610,<=50K
+Male,24,White,Never-married,HS-grad,Mexico,Private,Other-service,16000,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Other-service,18011,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Other-service,18814,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Other-service,27265,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Other-service,30014,<=50K

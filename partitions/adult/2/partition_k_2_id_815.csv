@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Married-civ-spouse,HS-grad,Guatemala,Private,Other-service,19377,<=50K
+Male,23,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,19735,<=50K
+Male,23,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,20357,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Never-married,Bachelors,United-States,Self-emp-inc,Farming-fishing,495,<=50K
+Female,26,White,Never-married,Some-college,United-States,Private,Farming-fishing,710,<=50K
+Female,31,White,Never-married,Some-college,United-States,Private,Farming-fishing,2454,<=50K
+Female,24,White,Never-married,Bachelors,United-States,Private,Farming-fishing,3826,<=50K
+Female,25,White,Never-married,Some-college,United-States,Self-emp-not-inc,Farming-fishing,7247,<=50K
+Female,21,White,Never-married,Assoc-voc,United-States,Private,Farming-fishing,11352,<=50K
+Female,26,White,Never-married,Some-college,United-States,Private,Farming-fishing,25060,<=50K
+Female,23,White,Never-married,Some-college,United-States,Private,Farming-fishing,28038,<=50K

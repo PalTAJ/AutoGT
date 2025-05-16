@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,White,Married-spouse-absent,HS-grad,Jamaica,Private,Adm-clerical,4110,<=50K
+Female,30,White,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,12924,<=50K
+Female,27,White,Married-spouse-absent,HS-grad,Mexico,Private,Farming-fishing,13539,<=50K
+Female,29,White,Married-spouse-absent,HS-grad,France,Private,Other-service,19871,<=50K
+Female,22,White,Married-spouse-absent,HS-grad,United-States,Private,Other-service,21517,<=50K
+Female,28,White,Married-spouse-absent,11th,United-States,Private,Other-service,22116,<=50K
+Female,29,White,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,22383,<=50K
+Female,29,White,Married-spouse-absent,10th,Mexico,Private,Adm-clerical,24719,<=50K
+Female,27,White,Married-spouse-absent,HS-grad,United-States,Private,Other-service,26108,<=50K
+Female,30,White,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,29255,<=50K

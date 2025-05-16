@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Never-married,HS-grad,France,Self-emp-not-inc,Exec-managerial,9002,<=50K
+Male,29,White,Never-married,12th,England,Private,Exec-managerial,18903,<=50K
+Male,22,White,Never-married,HS-grad,Yugoslavia,Private,Exec-managerial,28311,<=50K

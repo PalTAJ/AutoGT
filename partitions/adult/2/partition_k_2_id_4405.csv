@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,63,White,Divorced,Assoc-acdm,United-States,Private,Exec-managerial,3967,>50K
+Male,62,White,Widowed,Bachelors,United-States,Private,Exec-managerial,14202,>50K
+Male,65,White,Never-married,Bachelors,United-States,Private,Exec-managerial,21359,<=50K
+Male,64,White,Divorced,Bachelors,United-States,Private,Exec-managerial,27392,>50K
+Male,64,White,Divorced,Bachelors,United-States,Private,Exec-managerial,27492,>50K

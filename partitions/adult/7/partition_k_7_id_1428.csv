@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Never-married,Bachelors,Germany,Private,Prof-specialty,259,<=50K
+Female,30,White,Never-married,Bachelors,Poland,Private,Prof-specialty,642,<=50K
+Female,33,White,Divorced,Bachelors,Germany,Private,Prof-specialty,3736,<=50K
+Female,29,White,Never-married,Bachelors,Poland,Private,Prof-specialty,11450,<=50K
+Female,30,White,Divorced,Some-college,England,Private,Prof-specialty,11485,<=50K
+Female,39,White,Widowed,Bachelors,Poland,Private,Prof-specialty,15598,>50K
+Female,38,White,Separated,Some-college,Germany,Private,Prof-specialty,18265,<=50K

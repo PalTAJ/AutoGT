@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,Asian-Pac-Islander,Divorced,HS-grad,Philippines,Private,Handlers-cleaners,4152,<=50K
+Female,31,Asian-Pac-Islander,Never-married,HS-grad,Vietnam,Private,Handlers-cleaners,7295,<=50K
+Female,32,Asian-Pac-Islander,Separated,HS-grad,South,Private,Handlers-cleaners,25763,<=50K

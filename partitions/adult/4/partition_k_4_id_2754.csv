@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,Other,Divorced,Some-college,United-States,Private,Craft-repair,216,<=50K
+Female,26,Other,Never-married,Assoc-voc,Jamaica,Private,Prof-specialty,6144,<=50K
+Female,29,Other,Never-married,Bachelors,United-States,Private,Prof-specialty,6671,<=50K
+Female,24,Other,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,8570,<=50K
+Female,25,Other,Never-married,Some-college,United-States,Private,Tech-support,10874,<=50K
+Female,27,Other,Never-married,Bachelors,United-States,Private,Prof-specialty,12688,<=50K
+Female,29,Other,Never-married,Bachelors,United-States,Private,Prof-specialty,22618,<=50K
+Female,26,Other,Separated,Assoc-acdm,United-States,Private,Craft-repair,22672,<=50K

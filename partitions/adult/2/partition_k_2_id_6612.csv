@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,Asian-Pac-Islander,Married-civ-spouse,Some-college,Philippines,Federal-gov,Exec-managerial,2146,>50K
+Female,41,Asian-Pac-Islander,Married-civ-spouse,Masters,Taiwan,Local-gov,Prof-specialty,10714,>50K
+Female,41,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Federal-gov,Adm-clerical,17638,>50K

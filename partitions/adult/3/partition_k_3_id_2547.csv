@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,453,<=50K
+Male,48,White,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,16603,<=50K
+Male,47,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,21827,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,58,Black,Married-spouse-absent,HS-grad,Honduras,State-gov,Other-service,6667,<=50K
+Female,47,Black,Married-spouse-absent,HS-grad,Puerto-Rico,Federal-gov,Adm-clerical,18202,<=50K
+Female,45,Black,Married-spouse-absent,HS-grad,United-States,Local-gov,Adm-clerical,23370,<=50K

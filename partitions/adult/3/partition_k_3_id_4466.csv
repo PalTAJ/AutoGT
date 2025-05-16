@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,66,White,Married-spouse-absent,5th-6th,Puerto-Rico,Private,Handlers-cleaners,1643,<=50K
+Female,63,White,Never-married,5th-6th,United-States,Self-emp-not-inc,Sales,12677,<=50K
+Female,61,White,Widowed,1st-4th,United-States,Private,Handlers-cleaners,29426,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,Other,Married-civ-spouse,HS-grad,Mexico,Private,Machine-op-inspct,7105,<=50K
+Male,31,Other,Married-civ-spouse,Bachelors,Mexico,Private,Machine-op-inspct,16542,<=50K
+Male,33,Other,Married-civ-spouse,Bachelors,Ecuador,Private,Machine-op-inspct,25280,<=50K
+Male,40,Other,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,26535,>50K

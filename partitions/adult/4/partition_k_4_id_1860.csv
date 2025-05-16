@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Divorced,Assoc-voc,United-States,State-gov,Tech-support,9816,>50K
+Male,44,White,Divorced,Assoc-voc,United-States,Federal-gov,Tech-support,14312,<=50K
+Male,45,White,Divorced,Assoc-acdm,United-States,Local-gov,Tech-support,15838,<=50K
+Male,44,White,Never-married,Assoc-voc,United-States,Local-gov,Tech-support,19335,<=50K
+Male,57,White,Never-married,Assoc-voc,United-States,Federal-gov,Tech-support,21413,<=50K

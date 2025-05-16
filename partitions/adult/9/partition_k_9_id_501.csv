@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,Asian-Pac-Islander,Never-married,HS-grad,United-States,Local-gov,Transport-moving,4391,<=50K
+Male,35,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Transport-moving,4993,<=50K
+Male,33,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Transport-moving,11216,<=50K
+Male,34,Asian-Pac-Islander,Never-married,11th,Philippines,Private,Other-service,12689,<=50K
+Male,34,Asian-Pac-Islander,Never-married,HS-grad,Japan,Private,Other-service,12890,<=50K
+Male,34,Asian-Pac-Islander,Separated,HS-grad,United-States,Private,Transport-moving,13190,<=50K
+Male,35,Asian-Pac-Islander,Divorced,HS-grad,United-States,Local-gov,Farming-fishing,17611,<=50K
+Male,33,Asian-Pac-Islander,Never-married,HS-grad,Vietnam,Self-emp-inc,Other-service,21834,<=50K
+Male,31,Asian-Pac-Islander,Never-married,HS-grad,United-States,State-gov,Protective-serv,23297,<=50K

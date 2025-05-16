@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Separated,HS-grad,United-States,Private,Other-service,3065,<=50K
+Male,22,White,Separated,HS-grad,United-States,Private,Other-service,24284,<=50K
+Male,21,White,Separated,HS-grad,United-States,Private,Farming-fishing,27329,<=50K

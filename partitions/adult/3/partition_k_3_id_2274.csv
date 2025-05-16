@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Divorced,Some-college,United-States,Private,Craft-repair,873,<=50K
+Male,43,White,Divorced,Some-college,United-States,Private,Craft-repair,16156,<=50K
+Male,43,White,Divorced,Some-college,United-States,Private,Craft-repair,18632,<=50K
+Male,43,White,Divorced,Some-college,United-States,Private,Craft-repair,27376,<=50K

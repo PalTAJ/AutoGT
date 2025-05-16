@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Never-married,Some-college,United-States,Private,Protective-serv,5255,<=50K
+Male,28,White,Never-married,Some-college,Honduras,Private,Protective-serv,25127,<=50K
+Male,30,White,Never-married,Some-college,United-States,Private,Protective-serv,27434,<=50K

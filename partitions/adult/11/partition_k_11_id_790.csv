@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-spouse-absent,9th,El-Salvador,Private,Handlers-cleaners,574,<=50K
+Male,49,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,6992,<=50K
+Male,47,White,Divorced,11th,United-States,Private,Handlers-cleaners,8516,<=50K
+Male,49,White,Separated,9th,United-States,Private,Handlers-cleaners,13242,<=50K
+Male,48,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,15014,<=50K
+Male,46,White,Never-married,7th-8th,United-States,Private,Handlers-cleaners,18646,<=50K
+Male,50,White,Divorced,12th,United-States,Private,Handlers-cleaners,21469,<=50K
+Male,48,White,Divorced,HS-grad,United-States,Private,Handlers-cleaners,22048,<=50K
+Male,46,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,24031,<=50K
+Male,46,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,26709,<=50K
+Male,50,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,26840,<=50K
+Male,46,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,27694,<=50K

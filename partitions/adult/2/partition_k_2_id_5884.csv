@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,Black,Separated,HS-grad,United-States,Private,Transport-moving,4217,<=50K
+Female,35,Black,Separated,HS-grad,United-States,Private,Transport-moving,14396,<=50K
+Female,38,Black,Separated,HS-grad,United-States,Private,Transport-moving,28061,<=50K

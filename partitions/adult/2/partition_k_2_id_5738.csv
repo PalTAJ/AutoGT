@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,Black,Married-spouse-absent,Some-college,Dominican-Republic,Private,Craft-repair,1937,<=50K
+Female,38,Black,Married-spouse-absent,Some-college,United-States,Private,Prof-specialty,12361,<=50K
+Female,28,Black,Married-spouse-absent,Bachelors,United-States,Private,Tech-support,24658,<=50K

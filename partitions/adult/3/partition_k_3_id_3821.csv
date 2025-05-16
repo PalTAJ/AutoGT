@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,Black,Never-married,Some-college,United-States,State-gov,Protective-serv,320,<=50K
+Female,32,Black,Never-married,Some-college,United-States,State-gov,Protective-serv,17150,<=50K
+Female,39,Black,Never-married,Some-college,United-States,Local-gov,Protective-serv,20210,>50K
+Female,36,Black,Never-married,Assoc-voc,United-States,Local-gov,Protective-serv,23522,>50K
+Female,25,Black,Never-married,Bachelors,United-States,State-gov,Protective-serv,26412,<=50K
+Female,36,Black,Never-married,Bachelors,United-States,State-gov,Protective-serv,28555,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Married-civ-spouse,Doctorate,Iran,Private,Prof-specialty,3111,>50K
+Male,57,White,Married-civ-spouse,Assoc-acdm,Iran,Self-emp-not-inc,Other-service,13099,<=50K
+Male,59,White,Married-civ-spouse,Masters,Iran,Private,Tech-support,29277,<=50K

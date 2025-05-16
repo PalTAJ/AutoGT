@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,Asian-Pac-Islander,Widowed,Bachelors,Japan,Local-gov,Prof-specialty,19397,<=50K
+Female,36,Asian-Pac-Islander,Divorced,Prof-school,Philippines,State-gov,Prof-specialty,20298,<=50K

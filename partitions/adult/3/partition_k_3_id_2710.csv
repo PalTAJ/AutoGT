@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,Black,Separated,Masters,United-States,Local-gov,Exec-managerial,16093,>50K
+Male,55,Black,Divorced,Bachelors,United-States,State-gov,Exec-managerial,25311,<=50K
+Male,57,Black,Divorced,Prof-school,United-States,Federal-gov,Exec-managerial,29412,>50K

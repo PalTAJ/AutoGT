@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Asian-Pac-Islander,Never-married,Masters,Taiwan,Local-gov,Prof-specialty,2661,<=50K
+Male,26,Asian-Pac-Islander,Never-married,Prof-school,India,State-gov,Prof-specialty,6037,<=50K
+Male,27,Asian-Pac-Islander,Never-married,Masters,China,State-gov,Prof-specialty,7447,<=50K
+Male,26,Asian-Pac-Islander,Never-married,Bachelors,India,State-gov,Prof-specialty,17199,<=50K
+Male,24,Asian-Pac-Islander,Never-married,Masters,India,State-gov,Prof-specialty,19189,<=50K
+Male,25,Asian-Pac-Islander,Never-married,Bachelors,India,Local-gov,Adm-clerical,27069,<=50K

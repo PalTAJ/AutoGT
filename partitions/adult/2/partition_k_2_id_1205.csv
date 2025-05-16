@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Separated,Assoc-voc,United-States,Private,Craft-repair,494,<=50K
+Male,33,White,Separated,Assoc-voc,United-States,Private,Craft-repair,25442,>50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,White,Married-civ-spouse,Assoc-acdm,Mexico,State-gov,Prof-specialty,21241,<=50K
+Male,60,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,22716,>50K

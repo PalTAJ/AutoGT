@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,White,Married-spouse-absent,Some-college,Cuba,Private,Other-service,4805,<=50K
+Female,44,White,Married-spouse-absent,Bachelors,Cuba,Private,Adm-clerical,13292,<=50K

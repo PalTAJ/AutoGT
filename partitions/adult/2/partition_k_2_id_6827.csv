@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,62,White,Married-civ-spouse,Assoc-voc,United-States,Private,Exec-managerial,25927,>50K
+Female,67,White,Married-civ-spouse,Assoc-acdm,United-States,Self-emp-not-inc,Exec-managerial,26884,>50K

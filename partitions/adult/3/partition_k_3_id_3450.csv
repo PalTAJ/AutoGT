@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Never-married,Masters,United-States,Federal-gov,Exec-managerial,183,>50K
+Female,40,White,Never-married,Masters,United-States,State-gov,Exec-managerial,9536,<=50K
+Female,37,White,Never-married,Masters,United-States,Federal-gov,Exec-managerial,10833,<=50K
+Female,26,White,Never-married,Masters,United-States,State-gov,Exec-managerial,29769,<=50K

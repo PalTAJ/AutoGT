@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,61,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,6045,>50K
+Male,62,White,Married-civ-spouse,Assoc-voc,United-States,Private,Prof-specialty,16443,>50K
+Male,62,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,28130,>50K
+Male,64,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,28184,<=50K
+Male,61,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,28734,>50K

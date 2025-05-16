@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,Black,Married-civ-spouse,1st-4th,Puerto-Rico,Private,Other-service,14128,<=50K
+Male,54,Black,Married-civ-spouse,1st-4th,Haiti,Private,Craft-repair,19551,>50K

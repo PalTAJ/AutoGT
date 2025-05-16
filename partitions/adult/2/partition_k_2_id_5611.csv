@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,Asian-Pac-Islander,Never-married,Assoc-voc,United-States,Private,Adm-clerical,13657,<=50K
+Female,24,Asian-Pac-Islander,Never-married,Assoc-voc,United-States,Private,Adm-clerical,21736,<=50K

@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,1418,<=50K
+Female,30,White,Separated,HS-grad,United-States,State-gov,Adm-clerical,3142,<=50K
+Female,26,White,Divorced,11th,United-States,State-gov,Other-service,8551,<=50K
+Female,25,White,Never-married,HS-grad,United-States,State-gov,Adm-clerical,12573,<=50K
+Female,23,White,Never-married,HS-grad,United-States,State-gov,Other-service,14696,<=50K
+Female,21,White,Never-married,HS-grad,United-States,State-gov,Adm-clerical,28103,<=50K

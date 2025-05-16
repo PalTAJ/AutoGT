@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Separated,Some-college,United-States,Private,Adm-clerical,1113,<=50K
+Male,36,White,Divorced,Some-college,United-States,Private,Adm-clerical,11145,<=50K
+Male,39,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Adm-clerical,11849,<=50K
+Male,40,White,Never-married,Bachelors,United-States,Private,Adm-clerical,13060,<=50K
+Male,36,White,Never-married,Some-college,United-States,Private,Adm-clerical,13107,<=50K
+Male,36,White,Never-married,Assoc-voc,United-States,Private,Adm-clerical,14091,>50K
+Male,36,White,Never-married,Masters,United-States,Private,Adm-clerical,15390,>50K
+Male,36,White,Divorced,Bachelors,United-States,Private,Adm-clerical,17453,>50K
+Male,39,White,Never-married,Some-college,United-States,Private,Adm-clerical,22433,<=50K
+Male,36,White,Divorced,Some-college,United-States,Private,Adm-clerical,23122,<=50K
+Male,39,White,Divorced,Bachelors,United-States,Private,Adm-clerical,24160,<=50K
+Male,39,White,Separated,Assoc-acdm,United-States,Private,Adm-clerical,24528,<=50K
+Male,36,White,Divorced,Some-college,Canada,Private,Adm-clerical,25865,<=50K
+Male,39,White,Divorced,Bachelors,United-States,Private,Adm-clerical,26652,<=50K

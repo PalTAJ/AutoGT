@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Never-married,Bachelors,United-States,Private,Other-service,4900,<=50K
+Male,25,White,Never-married,Bachelors,United-States,Private,Other-service,5075,<=50K
+Male,23,White,Never-married,Bachelors,United-States,Private,Other-service,7803,<=50K
+Male,21,White,Never-married,Bachelors,United-States,Private,Other-service,12086,<=50K
+Male,23,White,Never-married,Bachelors,United-States,Private,Other-service,12376,<=50K
+Male,22,White,Never-married,Bachelors,United-States,Private,Other-service,13960,<=50K
+Male,25,White,Never-married,Bachelors,United-States,Private,Other-service,14013,<=50K
+Male,25,White,Never-married,Bachelors,United-States,Private,Other-service,16813,<=50K
+Male,25,White,Never-married,Bachelors,United-States,Private,Other-service,18002,<=50K
+Male,23,White,Never-married,Bachelors,United-States,Private,Other-service,20128,<=50K
+Male,25,White,Never-married,Bachelors,United-States,Private,Other-service,21806,<=50K
+Male,23,White,Never-married,Bachelors,Ecuador,Private,Other-service,27222,<=50K
+Male,24,White,Never-married,Bachelors,United-States,Private,Other-service,28101,<=50K

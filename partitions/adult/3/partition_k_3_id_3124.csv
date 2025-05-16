@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Married-civ-spouse,Some-college,Germany,Private,Sales,707,<=50K
+Female,39,White,Married-civ-spouse,Bachelors,Poland,Private,Handlers-cleaners,3706,>50K
+Female,36,White,Married-civ-spouse,Bachelors,Germany,Private,Exec-managerial,6554,<=50K
+Female,35,White,Married-civ-spouse,Bachelors,Poland,Private,Other-service,8498,<=50K
+Female,39,White,Married-civ-spouse,Bachelors,Germany,Private,Prof-specialty,11342,>50K
+Female,40,White,Married-civ-spouse,Some-college,Scotland,Private,Other-service,15910,<=50K
+Female,30,White,Married-civ-spouse,Assoc-voc,Germany,Private,Tech-support,29713,<=50K

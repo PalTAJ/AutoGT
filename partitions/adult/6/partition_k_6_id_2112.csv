@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Divorced,HS-grad,United-States,Private,Adm-clerical,457,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Other-service,2576,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Adm-clerical,4729,<=50K
+Female,41,White,Divorced,11th,Guatemala,Private,Priv-house-serv,6059,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Adm-clerical,7160,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Other-service,11838,<=50K
+Female,41,White,Divorced,HS-grad,Guatemala,Private,Priv-house-serv,16782,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Adm-clerical,18051,<=50K
+Female,41,White,Divorced,9th,United-States,Private,Other-service,23545,<=50K
+Female,41,White,Divorced,HS-grad,United-States,Private,Other-service,30041,<=50K

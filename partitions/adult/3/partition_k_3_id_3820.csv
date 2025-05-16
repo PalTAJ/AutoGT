@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,Black,Never-married,HS-grad,United-States,Local-gov,Transport-moving,2087,<=50K
+Female,30,Black,Never-married,Some-college,United-States,Local-gov,Transport-moving,18145,<=50K
+Female,38,Black,Widowed,Some-college,United-States,Local-gov,Transport-moving,20013,<=50K
+Female,28,Black,Never-married,HS-grad,United-States,Local-gov,Transport-moving,21110,<=50K

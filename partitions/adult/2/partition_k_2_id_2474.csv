@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,25904,<=50K
+Male,54,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,27595,<=50K

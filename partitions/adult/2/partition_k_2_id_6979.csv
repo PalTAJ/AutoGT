@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,67,Black,Divorced,Bachelors,United-States,Local-gov,Adm-clerical,20613,<=50K
+Female,67,Black,Divorced,Some-college,United-States,Local-gov,Adm-clerical,22030,<=50K

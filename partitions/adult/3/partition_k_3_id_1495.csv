@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,Assoc-acdm,United-States,State-gov,Prof-specialty,13554,>50K
+Male,25,Black,Never-married,Some-college,United-States,State-gov,Tech-support,20047,<=50K
+Male,27,Black,Never-married,Bachelors,United-States,State-gov,Prof-specialty,27783,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Never-married,Some-college,United-States,State-gov,Prof-specialty,22168,<=50K
+Male,30,White,Never-married,Some-college,United-States,State-gov,Prof-specialty,27710,<=50K

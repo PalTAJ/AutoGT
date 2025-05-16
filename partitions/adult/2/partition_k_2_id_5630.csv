@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,Asian-Pac-Islander,Never-married,Bachelors,Vietnam,Local-gov,Tech-support,18097,<=50K
+Female,23,Asian-Pac-Islander,Never-married,Bachelors,China,Local-gov,Prof-specialty,29833,<=50K

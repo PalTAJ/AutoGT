@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,White,Divorced,Some-college,United-States,Private,Adm-clerical,1727,<=50K
+Female,30,White,Divorced,Some-college,Canada,Private,Adm-clerical,4810,<=50K
+Female,30,White,Never-married,Some-college,United-States,Private,Other-service,5789,<=50K
+Female,30,White,Divorced,Some-college,United-States,Private,Adm-clerical,6235,<=50K
+Female,30,White,Divorced,Some-college,United-States,Self-emp-not-inc,Other-service,10528,<=50K
+Female,30,White,Divorced,Some-college,United-States,Private,Other-service,14931,<=50K
+Female,30,White,Never-married,Some-college,United-States,Private,Adm-clerical,17991,<=50K
+Female,30,White,Divorced,Some-college,United-States,Private,Other-service,20369,<=50K
+Female,30,White,Divorced,Some-college,United-States,Private,Adm-clerical,21146,<=50K
+Female,30,White,Never-married,Some-college,United-States,Private,Adm-clerical,21490,<=50K
+Female,30,White,Never-married,Some-college,United-States,Private,Other-service,22706,<=50K
+Female,30,White,Divorced,Some-college,United-States,Private,Adm-clerical,23640,<=50K
+Female,30,White,Never-married,Some-college,United-States,Self-emp-not-inc,Adm-clerical,24030,<=50K
+Female,30,White,Never-married,Some-college,United-States,Private,Other-service,24138,<=50K
+Female,30,White,Separated,Some-college,United-States,Private,Adm-clerical,24452,<=50K

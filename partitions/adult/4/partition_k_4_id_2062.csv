@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,Black,Never-married,Some-college,United-States,Local-gov,Other-service,1193,<=50K
+Male,47,Black,Never-married,Some-college,United-States,Local-gov,Protective-serv,3043,<=50K
+Male,47,Black,Never-married,Some-college,United-States,Local-gov,Adm-clerical,10646,<=50K
+Male,46,Black,Divorced,Bachelors,United-States,Local-gov,Protective-serv,12946,>50K
+Male,43,Black,Separated,Some-college,United-States,Local-gov,Craft-repair,24091,<=50K
+Male,56,Black,Divorced,Some-college,United-States,Local-gov,Protective-serv,27218,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,Asian-Pac-Islander,Never-married,HS-grad,England,Private,Exec-managerial,150,<=50K
+Female,37,Asian-Pac-Islander,Divorced,HS-grad,South,Self-emp-not-inc,Exec-managerial,13336,>50K
+Female,29,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Exec-managerial,28717,<=50K

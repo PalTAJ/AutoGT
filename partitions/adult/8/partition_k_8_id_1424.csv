@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,23,White,Never-married,HS-grad,United-States,Local-gov,Prof-specialty,10034,<=50K
+Female,24,White,Never-married,HS-grad,United-States,Local-gov,Tech-support,10203,<=50K
+Female,22,White,Never-married,HS-grad,United-States,Local-gov,Other-service,14737,<=50K
+Female,23,White,Never-married,HS-grad,United-States,Local-gov,Other-service,17427,<=50K
+Female,25,White,Divorced,HS-grad,United-States,Local-gov,Tech-support,17479,<=50K
+Female,25,White,Divorced,HS-grad,United-States,Local-gov,Adm-clerical,18705,<=50K
+Female,23,White,Never-married,HS-grad,United-States,Local-gov,Other-service,19383,<=50K
+Female,23,White,Divorced,HS-grad,Cuba,Local-gov,Adm-clerical,25601,<=50K

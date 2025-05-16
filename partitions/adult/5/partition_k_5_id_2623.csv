@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,Black,Never-married,Some-college,Jamaica,Private,Adm-clerical,1848,<=50K
+Female,53,Black,Never-married,Some-college,United-States,Private,Adm-clerical,6642,<=50K
+Female,52,Black,Married-spouse-absent,Bachelors,Haiti,Private,Other-service,10734,<=50K
+Female,58,Black,Never-married,Some-college,United-States,Private,Adm-clerical,13236,<=50K
+Female,58,Black,Divorced,Some-college,United-States,Private,Adm-clerical,18386,<=50K
+Female,58,Black,Divorced,Some-college,United-States,Private,Other-service,23090,<=50K
+Female,54,Black,Never-married,Bachelors,United-States,Private,Other-service,24602,<=50K
+Female,58,Black,Divorced,Some-college,United-States,Private,Adm-clerical,24831,>50K
+Female,60,Black,Widowed,Some-college,United-States,Private,Protective-serv,29700,<=50K

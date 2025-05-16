@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Divorced,Bachelors,England,Private,Prof-specialty,29039,>50K
+Male,41,White,Divorced,Some-college,Italy,Private,Machine-op-inspct,29933,<=50K

@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Separated,Assoc-acdm,United-States,Private,Other-service,4114,<=50K
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Other-service,4202,<=50K
+Male,29,White,Never-married,Assoc-acdm,United-States,Self-emp-not-inc,Other-service,12583,<=50K
+Male,26,White,Never-married,Assoc-voc,United-States,Private,Other-service,14085,<=50K
+Male,30,White,Widowed,Prof-school,United-States,Private,Other-service,19386,<=50K
+Male,26,White,Never-married,Assoc-acdm,United-States,Private,Other-service,29366,<=50K

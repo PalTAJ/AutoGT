@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,1695,<=50K
+Male,23,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,3316,<=50K
+Male,24,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,12808,<=50K
+Male,21,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,16584,<=50K
+Male,24,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,19051,<=50K
+Male,24,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Craft-repair,20079,<=50K
+Male,25,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,20444,<=50K
+Male,24,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,22167,<=50K
+Male,23,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,23298,>50K
+Male,25,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,24670,<=50K
+Male,24,White,Married-civ-spouse,Assoc-voc,Guatemala,Private,Craft-repair,26578,<=50K

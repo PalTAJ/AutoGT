@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,Black,Married-spouse-absent,10th,United-States,Private,Transport-moving,8608,<=50K
+Male,45,Black,Married-spouse-absent,HS-grad,United-States,Private,Farming-fishing,18830,<=50K
+Male,41,Black,Married-spouse-absent,HS-grad,United-States,Private,Transport-moving,28955,<=50K

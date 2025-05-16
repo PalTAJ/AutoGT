@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Black,Never-married,Some-college,United-States,Local-gov,Adm-clerical,8617,<=50K
+Male,31,Black,Never-married,Bachelors,United-States,Local-gov,Protective-serv,9126,<=50K
+Male,36,Black,Never-married,Bachelors,United-States,Local-gov,Protective-serv,22023,<=50K

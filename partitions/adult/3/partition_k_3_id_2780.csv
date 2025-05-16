@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,62,White,Married-civ-spouse,Masters,Italy,Federal-gov,Adm-clerical,14513,>50K
+Male,77,White,Married-civ-spouse,Doctorate,United-States,Self-emp-inc,Farming-fishing,18404,>50K
+Male,63,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Farming-fishing,18698,<=50K

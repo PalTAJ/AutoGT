@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,White,Separated,HS-grad,United-States,Private,Other-service,744,<=50K
+Female,30,White,Separated,HS-grad,United-States,Private,Adm-clerical,2046,<=50K
+Female,30,White,Separated,HS-grad,United-States,Private,Adm-clerical,3102,<=50K
+Female,30,White,Separated,HS-grad,United-States,Private,Adm-clerical,3656,<=50K
+Female,27,White,Separated,HS-grad,United-States,Private,Other-service,7506,<=50K
+Female,29,White,Separated,10th,Guatemala,Private,Farming-fishing,8780,<=50K
+Female,26,White,Separated,HS-grad,United-States,Private,Adm-clerical,9364,<=50K
+Female,29,White,Separated,HS-grad,United-States,Private,Adm-clerical,11778,<=50K
+Female,28,White,Separated,HS-grad,United-States,Private,Other-service,13874,<=50K
+Female,29,White,Separated,HS-grad,United-States,Private,Other-service,21811,<=50K
+Female,29,White,Separated,HS-grad,United-States,Private,Adm-clerical,22516,<=50K
+Female,26,White,Separated,11th,United-States,Private,Other-service,22578,<=50K
+Female,30,White,Separated,HS-grad,United-States,Private,Other-service,24530,<=50K
+Female,30,White,Separated,HS-grad,United-States,Private,Farming-fishing,25955,<=50K

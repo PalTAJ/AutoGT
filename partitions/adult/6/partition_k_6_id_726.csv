@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,1350,<=50K
+Male,24,Asian-Pac-Islander,Never-married,Bachelors,China,Private,Machine-op-inspct,1568,<=50K
+Male,24,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,6386,<=50K
+Male,21,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Prof-specialty,6889,<=50K
+Male,23,Asian-Pac-Islander,Never-married,Some-college,Vietnam,Private,Machine-op-inspct,14273,<=50K
+Male,23,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Machine-op-inspct,14956,<=50K
+Male,25,Asian-Pac-Islander,Never-married,Bachelors,Taiwan,Private,Prof-specialty,17798,<=50K
+Male,23,Asian-Pac-Islander,Never-married,Assoc-voc,United-States,Private,Prof-specialty,18064,<=50K
+Male,24,Asian-Pac-Islander,Separated,Assoc-acdm,United-States,Private,Craft-repair,27249,>50K
+Male,23,Asian-Pac-Islander,Never-married,Bachelors,Ireland,Private,Prof-specialty,29954,<=50K

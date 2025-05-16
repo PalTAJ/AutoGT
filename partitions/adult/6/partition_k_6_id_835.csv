@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,679,>50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,1729,>50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,13341,>50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,16484,>50K
+Male,44,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,17195,<=50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,18050,>50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,20370,>50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,20936,<=50K
+Male,45,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,21371,>50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,22425,>50K
+Male,44,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,24084,>50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,25128,>50K
+Male,44,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,25157,>50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,27122,>50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,29202,>50K

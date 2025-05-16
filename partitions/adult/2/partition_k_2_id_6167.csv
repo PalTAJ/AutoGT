@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,54,White,Divorced,Some-college,United-States,Private,Adm-clerical,2865,<=50K
+Female,54,White,Divorced,Some-college,United-States,Private,Adm-clerical,3779,<=50K
+Female,54,White,Divorced,Some-college,United-States,Private,Adm-clerical,21741,<=50K

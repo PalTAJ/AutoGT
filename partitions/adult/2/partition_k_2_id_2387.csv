@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,Black,Never-married,HS-grad,United-States,Local-gov,Handlers-cleaners,24993,<=50K
+Male,25,Black,Never-married,HS-grad,United-States,Local-gov,Handlers-cleaners,28276,<=50K

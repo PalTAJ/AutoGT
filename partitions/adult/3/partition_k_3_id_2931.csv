@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,90,White,Married-civ-spouse,Masters,United-States,Local-gov,Exec-managerial,4921,>50K
+Male,90,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Other-service,17355,<=50K
+Male,90,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Craft-repair,26381,<=50K
+Male,90,White,Married-civ-spouse,7th-8th,United-States,Local-gov,Protective-serv,29983,<=50K

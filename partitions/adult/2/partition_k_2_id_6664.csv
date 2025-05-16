@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,Black,Married-civ-spouse,Some-college,United-States,Private,Tech-support,5832,<=50K
+Female,47,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Prof-specialty,14438,>50K
+Female,42,Black,Married-civ-spouse,Bachelors,United-States,Private,Craft-repair,22139,>50K
+Female,41,Black,Married-civ-spouse,Bachelors,Haiti,Private,Prof-specialty,29178,>50K

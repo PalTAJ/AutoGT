@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,Black,Divorced,Masters,Dominican-Republic,Local-gov,Prof-specialty,23780,<=50K
+Male,38,Black,Divorced,Masters,Jamaica,Local-gov,Prof-specialty,27868,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,Black,Never-married,Some-college,United-States,State-gov,Protective-serv,1316,<=50K
+Male,25,Black,Never-married,Bachelors,United-States,State-gov,Protective-serv,14089,<=50K

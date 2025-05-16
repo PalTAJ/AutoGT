@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,White,Married-civ-spouse,Assoc-acdm,Columbia,Private,Adm-clerical,3601,<=50K
+Male,60,White,Married-civ-spouse,Some-college,Columbia,Private,Craft-repair,11558,<=50K
+Male,42,White,Married-civ-spouse,Masters,Ecuador,Private,Sales,14952,<=50K
+Male,49,White,Married-civ-spouse,Bachelors,Columbia,Private,Prof-specialty,29922,<=50K

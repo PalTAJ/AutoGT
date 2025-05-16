@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,White,Widowed,Some-college,Poland,Local-gov,Other-service,15116,<=50K
+Female,60,White,Widowed,Some-college,England,Federal-gov,Exec-managerial,25410,<=50K

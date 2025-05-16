@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,White,Divorced,HS-grad,Portugal,Local-gov,Protective-serv,702,<=50K
+Male,40,White,Divorced,HS-grad,Greece,Private,Other-service,2548,<=50K
+Male,31,White,Never-married,HS-grad,Ireland,Private,Farming-fishing,26558,<=50K

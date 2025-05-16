@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Separated,Bachelors,United-States,Private,Adm-clerical,3922,<=50K
+Male,59,White,Separated,Some-college,United-States,Private,Adm-clerical,20646,<=50K
+Male,53,White,Separated,Some-college,Cuba,Private,Adm-clerical,21899,<=50K
+Male,59,White,Separated,Some-college,United-States,Private,Adm-clerical,29689,<=50K

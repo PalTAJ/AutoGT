@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,White,Divorced,Some-college,Iran,Private,Craft-repair,969,<=50K
+Male,34,White,Never-married,Doctorate,Taiwan,Private,Prof-specialty,8135,>50K

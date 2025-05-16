@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,67,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,844,>50K
+Male,67,White,Married-civ-spouse,12th,United-States,Self-emp-inc,Exec-managerial,10444,<=50K
+Male,70,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,16181,<=50K
+Male,67,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Exec-managerial,17861,>50K
+Male,66,White,Married-civ-spouse,7th-8th,United-States,Self-emp-inc,Exec-managerial,27746,<=50K

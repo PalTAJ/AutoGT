@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Never-married,Bachelors,United-States,Federal-gov,Exec-managerial,4925,<=50K
+Female,39,Black,Separated,Some-college,United-States,State-gov,Exec-managerial,5692,<=50K
+Female,35,Black,Divorced,Some-college,United-States,State-gov,Exec-managerial,6263,<=50K
+Female,38,Black,Divorced,Some-college,United-States,Local-gov,Exec-managerial,8541,<=50K
+Female,38,Black,Divorced,Some-college,United-States,Federal-gov,Handlers-cleaners,11252,<=50K
+Female,39,Black,Divorced,Bachelors,United-States,Federal-gov,Exec-managerial,11428,<=50K
+Female,38,Black,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,11560,<=50K
+Female,38,Black,Married-spouse-absent,Some-college,United-States,Local-gov,Exec-managerial,14848,<=50K
+Female,36,Black,Never-married,Some-college,United-States,Local-gov,Exec-managerial,16571,<=50K
+Female,36,Black,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,19523,>50K
+Female,21,Black,Never-married,Some-college,United-States,State-gov,Sales,21424,<=50K
+Female,32,Black,Divorced,Assoc-acdm,United-States,Local-gov,Exec-managerial,23377,<=50K
+Female,39,Black,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,28221,<=50K
+Female,40,Black,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,29184,<=50K

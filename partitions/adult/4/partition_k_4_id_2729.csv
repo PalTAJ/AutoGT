@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Adm-clerical,2340,<=50K
+Female,23,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Adm-clerical,3447,<=50K
+Female,25,Asian-Pac-Islander,Never-married,Bachelors,United-States,Self-emp-inc,Adm-clerical,4080,<=50K
+Female,22,Asian-Pac-Islander,Married-spouse-absent,Some-college,United-States,Private,Adm-clerical,6460,<=50K
+Female,24,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Adm-clerical,11720,<=50K
+Female,28,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Adm-clerical,14827,<=50K
+Female,21,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Adm-clerical,16886,<=50K
+Female,25,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Adm-clerical,20383,<=50K
+Female,23,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Adm-clerical,21727,<=50K
+Female,24,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Adm-clerical,26680,<=50K

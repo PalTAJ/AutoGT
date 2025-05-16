@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Never-married,Bachelors,Portugal,Private,Adm-clerical,6782,<=50K
+Female,23,White,Never-married,Some-college,Greece,Private,Adm-clerical,27864,<=50K
+Female,34,White,Never-married,Some-college,Germany,Private,Adm-clerical,29773,<=50K

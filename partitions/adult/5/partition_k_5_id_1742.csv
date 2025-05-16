@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,67,White,Married-civ-spouse,Some-college,United-States,State-gov,Transport-moving,4176,<=50K
+Male,69,White,Married-civ-spouse,Some-college,United-States,Local-gov,Other-service,16421,<=50K
+Male,69,White,Married-civ-spouse,Prof-school,United-States,State-gov,Adm-clerical,21238,>50K
+Male,67,White,Married-civ-spouse,Some-college,United-States,State-gov,Farming-fishing,23626,<=50K
+Male,69,White,Married-civ-spouse,Some-college,United-States,State-gov,Transport-moving,26284,<=50K
+Male,67,White,Married-civ-spouse,Some-college,United-States,State-gov,Protective-serv,28902,>50K

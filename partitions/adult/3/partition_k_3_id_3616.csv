@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Never-married,HS-grad,Peru,Private,Sales,6260,<=50K
+Female,37,White,Never-married,HS-grad,Nicaragua,Private,Handlers-cleaners,8823,<=50K
+Female,25,White,Never-married,HS-grad,Columbia,Private,Sales,24416,<=50K
+Female,32,White,Separated,11th,Nicaragua,Self-emp-not-inc,Handlers-cleaners,26374,<=50K

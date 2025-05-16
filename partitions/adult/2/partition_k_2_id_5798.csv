@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Separated,Bachelors,United-States,Private,Sales,65,<=50K
+Female,30,Black,Separated,Some-college,United-States,Private,Sales,4658,<=50K

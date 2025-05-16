@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,1363,>50K
+Male,47,Black,Married-civ-spouse,Some-college,United-States,Local-gov,Prof-specialty,5570,>50K
+Male,45,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,6454,<=50K
+Male,46,Black,Married-civ-spouse,Bachelors,United-States,State-gov,Prof-specialty,20558,>50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,67,White,Never-married,Masters,United-States,Private,Other-service,6255,<=50K
+Female,67,White,Divorced,Masters,United-States,Local-gov,Adm-clerical,13623,<=50K
+Female,71,White,Never-married,Masters,United-States,Private,Other-service,14944,<=50K
+Female,68,White,Never-married,Masters,United-States,Private,Adm-clerical,18928,<=50K

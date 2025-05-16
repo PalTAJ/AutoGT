@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,34,Black,Married-civ-spouse,Some-college,Haiti,Private,Protective-serv,2107,<=50K
+Female,33,Black,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,6857,<=50K
+Female,35,Black,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,6892,<=50K
+Female,31,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,23816,<=50K

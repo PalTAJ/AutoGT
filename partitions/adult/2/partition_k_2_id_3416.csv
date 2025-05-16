@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Married-civ-spouse,1st-4th,Mexico,Private,Craft-repair,1049,<=50K
+Male,42,White,Married-civ-spouse,Preschool,Nicaragua,Private,Craft-repair,22768,<=50K
+Male,42,White,Married-civ-spouse,5th-6th,United-States,Private,Craft-repair,28229,<=50K

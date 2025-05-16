@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,Amer-Indian-Eskimo,Never-married,Some-college,United-States,Private,Sales,197,<=50K
+Female,31,Amer-Indian-Eskimo,Divorced,Assoc-voc,United-States,Private,Sales,12801,<=50K
+Female,34,Amer-Indian-Eskimo,Never-married,Bachelors,United-States,Private,Exec-managerial,20610,<=50K

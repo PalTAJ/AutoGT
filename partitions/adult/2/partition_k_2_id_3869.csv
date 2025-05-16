@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Never-married,HS-grad,Iran,Private,Other-service,6079,<=50K
+Male,41,White,Divorced,HS-grad,Japan,Private,Craft-repair,13468,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Married-civ-spouse,HS-grad,Germany,Private,Other-service,1817,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,Ireland,Private,Other-service,5154,<=50K
+Male,35,White,Married-civ-spouse,HS-grad,Yugoslavia,Private,Other-service,6718,>50K
+Male,38,White,Married-civ-spouse,HS-grad,Italy,Self-emp-not-inc,Other-service,21391,<=50K
+Male,27,White,Married-civ-spouse,HS-grad,Poland,Private,Other-service,28913,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Divorced,Some-college,United-States,State-gov,Protective-serv,4231,<=50K
+Male,39,White,Divorced,Bachelors,Mexico,State-gov,Protective-serv,6647,>50K
+Male,31,White,Divorced,Some-college,United-States,State-gov,Protective-serv,27819,>50K

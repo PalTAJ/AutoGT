@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Married-civ-spouse,Some-college,United-States,Local-gov,Transport-moving,357,<=50K
+Female,24,White,Married-civ-spouse,Some-college,United-States,State-gov,Adm-clerical,4672,<=50K
+Female,24,White,Married-civ-spouse,Some-college,United-States,Local-gov,Adm-clerical,5429,<=50K
+Female,25,White,Married-civ-spouse,Some-college,United-States,State-gov,Other-service,6773,<=50K
+Female,37,White,Married-civ-spouse,Some-college,United-States,Local-gov,Tech-support,7267,>50K
+Female,25,White,Married-civ-spouse,Some-college,United-States,State-gov,Exec-managerial,9451,<=50K
+Female,40,White,Married-civ-spouse,Some-college,United-States,Local-gov,Adm-clerical,10909,>50K
+Female,24,White,Married-civ-spouse,Some-college,United-States,State-gov,Prof-specialty,14143,<=50K
+Female,34,White,Married-civ-spouse,Some-college,United-States,Local-gov,Other-service,16122,<=50K
+Female,34,White,Married-AF-spouse,Some-college,United-States,Federal-gov,Adm-clerical,16753,>50K
+Female,33,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,17087,<=50K
+Female,32,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,19443,<=50K
+Female,32,White,Married-civ-spouse,Some-college,France,Local-gov,Protective-serv,19851,>50K
+Female,36,White,Married-civ-spouse,Some-college,United-States,State-gov,Exec-managerial,23960,>50K
+Female,23,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Adm-clerical,24422,<=50K
+Female,22,White,Married-civ-spouse,Some-college,United-States,State-gov,Adm-clerical,29827,<=50K

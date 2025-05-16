@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,Asian-Pac-Islander,Never-married,11th,United-States,Local-gov,Other-service,1085,<=50K
+Male,23,Asian-Pac-Islander,Never-married,HS-grad,South,Private,Sales,2941,<=50K
+Male,23,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Sales,4374,<=50K
+Male,22,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Adm-clerical,7400,<=50K
+Male,23,Asian-Pac-Islander,Never-married,11th,Vietnam,Private,Craft-repair,7972,>50K
+Male,23,Asian-Pac-Islander,Never-married,HS-grad,Philippines,Private,Machine-op-inspct,8655,<=50K
+Male,22,Asian-Pac-Islander,Never-married,10th,United-States,Private,Transport-moving,8940,<=50K
+Male,23,Asian-Pac-Islander,Never-married,9th,Philippines,Private,Other-service,10526,<=50K
+Male,23,Asian-Pac-Islander,Never-married,HS-grad,Vietnam,Private,Craft-repair,18307,<=50K
+Male,23,Asian-Pac-Islander,Never-married,HS-grad,Philippines,Private,Craft-repair,20238,<=50K
+Male,23,Asian-Pac-Islander,Never-married,HS-grad,Vietnam,Private,Tech-support,20403,<=50K
+Male,22,Asian-Pac-Islander,Never-married,9th,Philippines,Private,Handlers-cleaners,22894,<=50K
+Male,24,Asian-Pac-Islander,Never-married,HS-grad,South,Private,Sales,23685,<=50K

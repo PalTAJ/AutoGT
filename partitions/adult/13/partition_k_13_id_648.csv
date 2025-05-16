@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,11480,>50K
+Male,59,White,Married-spouse-absent,Prof-school,United-States,Private,Prof-specialty,13487,<=50K
+Male,58,White,Never-married,Prof-school,United-States,Self-emp-inc,Prof-specialty,13501,>50K
+Male,59,White,Never-married,Prof-school,United-States,Private,Prof-specialty,14472,<=50K
+Male,53,White,Divorced,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,18721,>50K
+Male,51,White,Divorced,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,23436,>50K
+Male,51,White,Divorced,Prof-school,United-States,Self-emp-inc,Prof-specialty,24197,>50K
+Male,59,White,Divorced,Assoc-voc,United-States,Self-emp-inc,Prof-specialty,24253,>50K
+Male,51,White,Divorced,Assoc-acdm,United-States,Private,Tech-support,25039,<=50K
+Male,57,White,Divorced,Assoc-acdm,United-States,Private,Machine-op-inspct,28866,<=50K
+Male,53,White,Separated,Assoc-voc,Poland,Self-emp-not-inc,Craft-repair,28867,<=50K
+Male,55,White,Widowed,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,29266,>50K
+Male,59,White,Divorced,Assoc-acdm,United-States,Self-emp-not-inc,Tech-support,29532,<=50K

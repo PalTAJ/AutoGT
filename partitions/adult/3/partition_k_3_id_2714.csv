@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,Black,Separated,HS-grad,United-States,Private,Craft-repair,6379,<=50K
+Male,41,Black,Separated,12th,United-States,Private,Craft-repair,17911,<=50K
+Male,42,Black,Separated,9th,United-States,Private,Craft-repair,23474,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Widowed,Some-college,United-States,Self-emp-not-inc,Craft-repair,7141,<=50K
+Female,54,White,Widowed,Some-college,United-States,Private,Craft-repair,13577,<=50K
+Female,56,White,Widowed,Some-college,United-States,Private,Craft-repair,22371,<=50K

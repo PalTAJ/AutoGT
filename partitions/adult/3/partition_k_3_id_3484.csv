@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Separated,HS-grad,Mexico,Private,Craft-repair,12262,<=50K
+Female,31,White,Separated,7th-8th,United-States,Private,Craft-repair,17670,<=50K
+Female,32,White,Separated,10th,United-States,Private,Craft-repair,19739,<=50K

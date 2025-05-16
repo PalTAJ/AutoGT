@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,Black,Separated,Assoc-voc,United-States,Private,Exec-managerial,4569,<=50K
+Female,41,Black,Divorced,Assoc-acdm,Jamaica,Private,Exec-managerial,18919,<=50K
+Female,41,Black,Divorced,Assoc-acdm,United-States,Private,Exec-managerial,22978,<=50K

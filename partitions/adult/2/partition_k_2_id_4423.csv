@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,79,White,Married-spouse-absent,HS-grad,United-States,Private,Prof-specialty,7865,<=50K
+Male,63,White,Married-spouse-absent,HS-grad,United-States,Private,Craft-repair,9108,<=50K
+Male,61,White,Married-spouse-absent,7th-8th,Guatemala,Private,Machine-op-inspct,14661,<=50K
+Male,61,White,Married-spouse-absent,12th,United-States,Private,Prof-specialty,23046,<=50K

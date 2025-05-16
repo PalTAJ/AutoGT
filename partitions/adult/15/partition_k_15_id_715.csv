@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Married-civ-spouse,Assoc-acdm,United-States,Local-gov,Craft-repair,1291,>50K
+Female,36,White,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Adm-clerical,1319,>50K
+Female,24,White,Married-civ-spouse,Assoc-acdm,United-States,Local-gov,Other-service,1861,<=50K
+Female,38,White,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Adm-clerical,2638,>50K
+Female,31,White,Married-civ-spouse,Assoc-acdm,United-States,Local-gov,Adm-clerical,4406,<=50K
+Female,24,White,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Exec-managerial,13323,<=50K
+Female,33,White,Married-civ-spouse,Prof-school,United-States,Federal-gov,Prof-specialty,15858,>50K
+Female,29,White,Married-civ-spouse,Assoc-voc,Nicaragua,Local-gov,Tech-support,17129,>50K
+Female,37,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,19213,>50K
+Female,28,White,Married-civ-spouse,Assoc-acdm,United-States,Local-gov,Adm-clerical,27601,>50K
+Female,37,White,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Exec-managerial,27925,>50K
+Female,36,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,28565,>50K
+Female,28,White,Married-civ-spouse,Assoc-voc,United-States,Local-gov,Prof-specialty,29181,>50K
+Female,40,White,Married-civ-spouse,Assoc-voc,United-States,Federal-gov,Prof-specialty,29346,>50K
+Female,39,White,Married-civ-spouse,Assoc-voc,United-States,Local-gov,Adm-clerical,29488,<=50K
+Female,39,White,Married-civ-spouse,Assoc-acdm,United-States,Local-gov,Adm-clerical,30146,>50K

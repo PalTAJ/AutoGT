@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,Black,Divorced,HS-grad,United-States,Local-gov,Tech-support,13564,<=50K
+Female,50,Black,Widowed,HS-grad,United-States,State-gov,Tech-support,19948,<=50K

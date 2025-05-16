@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,85,White,Widowed,HS-grad,United-States,Private,Sales,7731,<=50K
+Male,83,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Exec-managerial,15095,<=50K
+Male,83,White,Divorced,HS-grad,United-States,Self-emp-inc,Sales,17771,<=50K

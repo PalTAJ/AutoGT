@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,White,Never-married,Some-college,United-States,Private,Adm-clerical,2426,<=50K
+Female,32,White,Divorced,Some-college,United-States,Private,Farming-fishing,3053,<=50K
+Female,32,White,Divorced,Some-college,United-States,Private,Adm-clerical,3337,<=50K
+Female,32,White,Never-married,Some-college,United-States,Private,Adm-clerical,5408,<=50K
+Female,32,White,Never-married,Some-college,United-States,Private,Adm-clerical,7034,<=50K
+Female,32,White,Divorced,Some-college,United-States,Private,Adm-clerical,8884,<=50K
+Female,32,White,Divorced,Some-college,United-States,Private,Adm-clerical,10416,<=50K
+Female,32,White,Married-spouse-absent,Some-college,United-States,Private,Transport-moving,17551,<=50K
+Female,32,White,Never-married,Some-college,United-States,Private,Adm-clerical,19572,<=50K
+Female,32,White,Never-married,Some-college,United-States,Private,Adm-clerical,22921,<=50K
+Female,32,White,Divorced,Some-college,United-States,Self-emp-not-inc,Other-service,25770,<=50K
+Female,32,White,Never-married,Some-college,United-States,Private,Other-service,26748,<=50K
+Female,32,White,Never-married,Some-college,United-States,Private,Adm-clerical,29568,<=50K

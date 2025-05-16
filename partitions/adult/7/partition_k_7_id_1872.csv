@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,Black,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,1254,<=50K
+Female,47,Black,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,2028,>50K
+Female,47,Black,Married-civ-spouse,11th,United-States,Private,Machine-op-inspct,2697,<=50K
+Female,47,Black,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,3107,>50K
+Female,47,Black,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,4147,<=50K
+Female,43,Black,Married-civ-spouse,HS-grad,Trinadad&Tobago,Private,Machine-op-inspct,4194,<=50K
+Female,43,Black,Married-civ-spouse,Some-college,United-States,Private,Tech-support,5832,<=50K
+Female,59,Black,Married-civ-spouse,HS-grad,Jamaica,Private,Prof-specialty,10564,<=50K
+Female,43,Black,Married-AF-spouse,HS-grad,United-States,Private,Craft-repair,13093,>50K
+Female,47,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Prof-specialty,14438,>50K
+Female,46,Black,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,20231,<=50K
+Female,42,Black,Married-civ-spouse,Bachelors,United-States,Private,Craft-repair,22139,>50K
+Female,41,Black,Married-civ-spouse,Bachelors,Haiti,Private,Prof-specialty,29178,>50K

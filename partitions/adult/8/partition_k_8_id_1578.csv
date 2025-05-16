@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,45,White,Widowed,Assoc-voc,United-States,Private,Exec-managerial,238,<=50K
+Female,49,White,Never-married,Assoc-voc,Columbia,Private,Exec-managerial,2748,<=50K
+Female,49,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,3935,<=50K
+Female,46,White,Divorced,Assoc-voc,United-States,Private,Exec-managerial,5254,<=50K
+Female,49,White,Divorced,Assoc-voc,United-States,Private,Sales,8258,<=50K
+Female,46,White,Divorced,Assoc-voc,United-States,Private,Sales,13733,<=50K
+Female,48,White,Divorced,Assoc-voc,United-States,Self-emp-not-inc,Exec-managerial,19029,<=50K
+Female,46,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,22816,<=50K
+Female,45,White,Never-married,Assoc-voc,United-States,Private,Sales,23770,<=50K
+Female,50,White,Widowed,Assoc-voc,United-States,Private,Exec-managerial,24613,<=50K
+Female,45,White,Divorced,Assoc-voc,United-States,Private,Exec-managerial,26469,<=50K
+Female,45,White,Divorced,Assoc-voc,United-States,Self-emp-inc,Sales,27513,<=50K
+Female,43,White,Separated,Assoc-voc,United-States,Private,Sales,29389,<=50K
+Female,45,White,Divorced,Assoc-voc,United-States,Private,Handlers-cleaners,29840,<=50K

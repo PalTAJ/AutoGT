@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Married-civ-spouse,HS-grad,Greece,Self-emp-inc,Exec-managerial,3693,<=50K
+Male,59,White,Married-civ-spouse,HS-grad,Greece,Self-emp-not-inc,Exec-managerial,7256,<=50K
+Male,49,White,Married-civ-spouse,HS-grad,Hungary,Private,Exec-managerial,7903,<=50K
+Male,42,White,Married-civ-spouse,HS-grad,Italy,Self-emp-inc,Exec-managerial,16463,>50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Never-married,Some-college,United-States,Private,Farming-fishing,12983,<=50K
+Male,42,White,Never-married,Some-college,United-States,Private,Other-service,23326,<=50K
+Male,42,White,Divorced,Some-college,United-States,Private,Farming-fishing,23995,<=50K

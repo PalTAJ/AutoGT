@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,73,White,Widowed,HS-grad,United-States,State-gov,Adm-clerical,8389,<=50K
+Female,73,Asian-Pac-Islander,Divorced,7th-8th,United-States,State-gov,Other-service,8838,<=50K
+Female,75,White,Divorced,HS-grad,United-States,Local-gov,Adm-clerical,12481,<=50K
+Female,72,White,Divorced,11th,Canada,Federal-gov,Adm-clerical,12858,<=50K
+Female,80,Amer-Indian-Eskimo,Widowed,HS-grad,United-States,Local-gov,Other-service,18086,<=50K
+Female,76,White,Widowed,HS-grad,United-States,Local-gov,Other-service,23519,<=50K

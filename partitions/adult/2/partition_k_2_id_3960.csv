@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,Asian-Pac-Islander,Married-spouse-absent,10th,India,Private,Protective-serv,20782,<=50K
+Male,59,Asian-Pac-Islander,Divorced,HS-grad,China,Private,Other-service,21759,<=50K
+Male,46,Asian-Pac-Islander,Married-spouse-absent,10th,China,Private,Other-service,23173,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,Black,Separated,HS-grad,United-States,Local-gov,Adm-clerical,469,<=50K
+Female,49,Black,Separated,10th,United-States,Local-gov,Other-service,581,<=50K
+Female,46,Black,Separated,9th,United-States,Local-gov,Other-service,5654,<=50K
+Female,50,Black,Never-married,HS-grad,United-States,Local-gov,Other-service,25554,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,White,Never-married,Masters,Poland,Private,Other-service,1259,<=50K
+Female,43,White,Never-married,Some-college,United-States,Private,Other-service,7721,<=50K
+Female,42,White,Never-married,Some-college,United-States,Private,Other-service,8223,<=50K
+Female,44,White,Never-married,Some-college,United-States,Private,Other-service,25205,<=50K

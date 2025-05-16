@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,Asian-Pac-Islander,Married-spouse-absent,9th,Vietnam,Private,Adm-clerical,9589,<=50K
+Female,33,Asian-Pac-Islander,Married-spouse-absent,HS-grad,Thailand,Private,Other-service,9830,<=50K
+Female,28,Asian-Pac-Islander,Married-spouse-absent,HS-grad,Philippines,Private,Other-service,12221,<=50K

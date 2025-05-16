@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Private,Prof-specialty,23214,<=50K
+Female,50,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Private,Machine-op-inspct,26683,<=50K

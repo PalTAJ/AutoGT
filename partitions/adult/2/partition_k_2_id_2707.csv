@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-civ-spouse,Bachelors,Canada,Private,Exec-managerial,20962,>50K
+Male,45,White,Married-civ-spouse,Bachelors,Canada,Private,Exec-managerial,23078,>50K

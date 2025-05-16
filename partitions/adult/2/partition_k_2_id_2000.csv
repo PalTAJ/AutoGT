@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,1350,<=50K
+Male,24,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,6386,<=50K
+Male,25,Asian-Pac-Islander,Never-married,Bachelors,Taiwan,Private,Prof-specialty,17798,<=50K
+Male,23,Asian-Pac-Islander,Never-married,Bachelors,Ireland,Private,Prof-specialty,29954,<=50K

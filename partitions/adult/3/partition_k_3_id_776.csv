@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,White,Separated,Assoc-acdm,United-States,Private,Craft-repair,3512,<=50K
+Male,33,White,Married-spouse-absent,Assoc-acdm,United-States,Private,Craft-repair,4682,<=50K
+Male,34,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,10042,<=50K
+Male,33,White,Never-married,Assoc-acdm,United-States,Private,Craft-repair,11143,<=50K
+Male,35,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,16426,>50K
+Male,31,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,29871,>50K

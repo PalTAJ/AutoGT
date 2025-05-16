@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Married-civ-spouse,HS-grad,Ecuador,Private,Sales,8627,<=50K
+Male,34,White,Married-civ-spouse,HS-grad,Nicaragua,Private,Craft-repair,11339,<=50K
+Male,31,White,Married-civ-spouse,HS-grad,Columbia,Self-emp-not-inc,Prof-specialty,12432,<=50K
+Male,32,White,Married-civ-spouse,11th,Columbia,Private,Handlers-cleaners,22814,<=50K

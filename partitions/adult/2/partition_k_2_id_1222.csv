@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,White,Never-married,Bachelors,England,Private,Prof-specialty,10989,<=50K
+Male,29,White,Never-married,Bachelors,England,Private,Prof-specialty,28062,<=50K

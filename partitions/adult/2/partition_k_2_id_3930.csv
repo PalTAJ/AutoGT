@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Private,Exec-managerial,6106,<=50K
+Male,54,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Private,Exec-managerial,9443,>50K
+Male,44,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Self-emp-not-inc,Exec-managerial,20566,>50K

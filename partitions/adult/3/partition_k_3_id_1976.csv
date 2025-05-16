@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Married-civ-spouse,Bachelors,France,Private,Exec-managerial,3366,>50K
+Male,53,White,Married-civ-spouse,Bachelors,Greece,Private,Exec-managerial,13750,<=50K
+Male,59,White,Married-civ-spouse,Bachelors,Italy,Private,Handlers-cleaners,17929,>50K

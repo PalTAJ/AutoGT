@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,48,White,Widowed,12th,United-States,Private,Handlers-cleaners,13203,<=50K
+Female,55,White,Widowed,11th,United-States,Private,Handlers-cleaners,15292,<=50K
+Female,54,White,Widowed,HS-grad,United-States,Private,Handlers-cleaners,16423,<=50K
+Female,48,White,Widowed,HS-grad,United-States,Private,Handlers-cleaners,18605,<=50K
+Female,60,White,Widowed,HS-grad,United-States,Private,Handlers-cleaners,24337,<=50K

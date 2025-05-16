@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Never-married,5th-6th,El-Salvador,Private,Other-service,459,<=50K
+Male,29,White,Never-married,1st-4th,El-Salvador,Private,Other-service,9016,<=50K
+Male,27,White,Never-married,5th-6th,El-Salvador,Private,Other-service,10015,<=50K
+Male,25,White,Never-married,1st-4th,El-Salvador,Private,Other-service,18693,<=50K

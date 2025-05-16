@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,White,Divorced,9th,Canada,Private,Other-service,1550,<=50K
+Female,58,White,Divorced,9th,United-States,Private,Other-service,7659,<=50K

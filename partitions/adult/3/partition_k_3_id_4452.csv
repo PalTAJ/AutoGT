@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,71,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Adm-clerical,3326,<=50K
+Female,79,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Other-service,4323,<=50K
+Female,73,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Other-service,13277,<=50K
+Female,74,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,21248,<=50K

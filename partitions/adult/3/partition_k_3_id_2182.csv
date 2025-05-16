@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-civ-spouse,7th-8th,Puerto-Rico,Self-emp-not-inc,Sales,21480,<=50K
+Male,42,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Sales,23955,<=50K
+Male,49,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Sales,24981,<=50K

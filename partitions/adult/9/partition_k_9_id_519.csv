@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Handlers-cleaners,1651,<=50K
+Male,25,Black,Married-civ-spouse,Some-college,United-States,Private,Sales,3814,<=50K
+Male,25,Black,Married-civ-spouse,Assoc-acdm,Jamaica,Private,Handlers-cleaners,3998,<=50K
+Male,28,Black,Married-civ-spouse,Some-college,Mexico,Private,Handlers-cleaners,6995,<=50K
+Male,30,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,7618,>50K
+Male,29,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,19243,<=50K
+Male,24,Black,Married-civ-spouse,Bachelors,United-States,Private,Sales,24161,<=50K
+Male,21,Black,Married-civ-spouse,Some-college,United-States,Private,Handlers-cleaners,24315,<=50K
+Male,30,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,25772,<=50K
+Male,29,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,26759,>50K

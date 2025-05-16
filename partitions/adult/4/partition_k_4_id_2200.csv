@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,61,White,Divorced,7th-8th,United-States,Private,Other-service,7729,<=50K
+Male,61,White,Never-married,7th-8th,United-States,Private,Other-service,16319,<=50K
+Male,61,Black,Widowed,7th-8th,United-States,Private,Farming-fishing,22687,<=50K
+Male,76,White,Widowed,7th-8th,United-States,Private,Protective-serv,24560,<=50K
+Male,71,White,Widowed,7th-8th,United-States,Private,Transport-moving,25655,<=50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,21,White,Never-married,Preschool,Mexico,Private,Farming-fishing,7452,<=50K
+Male,21,White,Never-married,Preschool,Mexico,Private,Farming-fishing,13948,<=50K
+Male,22,White,Never-married,5th-6th,Mexico,Private,Farming-fishing,15830,<=50K
+Male,24,White,Never-married,Preschool,Mexico,Private,Farming-fishing,17066,<=50K
+Male,25,White,Never-married,Preschool,Mexico,Private,Farming-fishing,21258,<=50K
+Male,23,White,Never-married,1st-4th,Mexico,Private,Farming-fishing,28809,<=50K
+Male,24,White,Married-spouse-absent,5th-6th,Mexico,Private,Farming-fishing,29952,<=50K

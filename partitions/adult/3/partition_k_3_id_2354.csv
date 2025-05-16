@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,White,Widowed,Assoc-voc,United-States,Private,Adm-clerical,4542,<=50K
+Male,60,White,Divorced,Assoc-voc,United-States,Private,Other-service,10460,<=50K
+Male,58,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,14742,<=50K

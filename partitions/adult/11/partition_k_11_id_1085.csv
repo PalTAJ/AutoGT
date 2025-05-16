@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,2292,<=50K
+Female,27,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,3743,<=50K
+Female,27,White,Separated,HS-grad,Japan,Private,Handlers-cleaners,8555,<=50K
+Female,28,White,Divorced,HS-grad,United-States,Private,Handlers-cleaners,9207,<=50K
+Female,26,White,Divorced,HS-grad,United-States,Private,Handlers-cleaners,11382,<=50K
+Female,30,White,Married-spouse-absent,11th,United-States,Private,Handlers-cleaners,15783,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,16235,<=50K
+Female,30,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,16563,<=50K
+Female,26,White,Divorced,10th,United-States,Private,Handlers-cleaners,17435,<=50K
+Female,27,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,19275,<=50K
+Female,28,White,Never-married,HS-grad,United-States,Private,Handlers-cleaners,29421,<=50K

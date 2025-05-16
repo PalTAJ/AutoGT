@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,Black,Separated,11th,United-States,Local-gov,Machine-op-inspct,388,<=50K
+Male,36,Black,Separated,11th,United-States,Private,Machine-op-inspct,10719,<=50K
+Male,25,Black,Separated,11th,United-States,Private,Machine-op-inspct,14227,<=50K
+Male,40,Black,Separated,11th,United-States,Private,Machine-op-inspct,19413,<=50K

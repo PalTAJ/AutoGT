@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,73,White,Widowed,Some-college,United-States,Federal-gov,Tech-support,17334,<=50K
+Female,72,White,Widowed,Some-college,United-States,Federal-gov,Tech-support,22514,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Divorced,Some-college,United-States,Federal-gov,Tech-support,5635,<=50K
+Male,46,White,Divorced,Some-college,United-States,Federal-gov,Machine-op-inspct,11906,<=50K

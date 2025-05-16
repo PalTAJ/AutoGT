@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,White,Never-married,Some-college,United-States,Private,Adm-clerical,3205,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Adm-clerical,4182,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Other-service,4456,<=50K
+Female,33,White,Separated,Some-college,United-States,Private,Adm-clerical,7394,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Other-service,8021,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Adm-clerical,8763,<=50K
+Female,33,White,Never-married,Some-college,United-States,Private,Other-service,9272,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Adm-clerical,9787,<=50K
+Female,33,White,Never-married,Some-college,United-States,Private,Adm-clerical,10712,<=50K
+Female,33,White,Widowed,Some-college,United-States,Private,Adm-clerical,15098,<=50K
+Female,33,White,Never-married,Some-college,United-States,Private,Adm-clerical,18637,<=50K
+Female,33,White,Never-married,Some-college,United-States,Private,Adm-clerical,21139,>50K
+Female,33,White,Never-married,Some-college,United-States,Private,Adm-clerical,21296,<=50K
+Female,33,White,Separated,Some-college,United-States,Private,Other-service,21629,<=50K
+Female,33,White,Separated,Some-college,El-Salvador,Private,Other-service,23213,<=50K
+Female,33,White,Never-married,Some-college,Puerto-Rico,Private,Adm-clerical,28781,<=50K

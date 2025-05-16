@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,White,Never-married,1st-4th,Guatemala,Private,Priv-house-serv,5359,<=50K
+Female,25,White,Never-married,5th-6th,Mexico,Private,Adm-clerical,7812,<=50K
+Female,21,White,Never-married,5th-6th,Mexico,Private,Priv-house-serv,8206,<=50K
+Female,22,White,Never-married,5th-6th,El-Salvador,Private,Priv-house-serv,9107,<=50K
+Female,25,White,Never-married,1st-4th,Guatemala,Private,Priv-house-serv,12105,<=50K
+Female,23,White,Never-married,5th-6th,Mexico,Private,Priv-house-serv,12921,<=50K
+Female,24,White,Never-married,5th-6th,Mexico,Private,Machine-op-inspct,15348,<=50K
+Female,24,White,Never-married,Preschool,United-States,Private,Machine-op-inspct,19820,<=50K
+Female,25,White,Never-married,1st-4th,Guatemala,Private,Priv-house-serv,20663,<=50K
+Female,23,White,Never-married,Preschool,United-States,Private,Other-service,23272,<=50K

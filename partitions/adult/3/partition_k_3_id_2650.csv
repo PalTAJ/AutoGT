@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Sales,13773,<=50K
+Male,41,Black,Married-civ-spouse,Assoc-acdm,India,Private,Exec-managerial,14838,>50K
+Male,50,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Handlers-cleaners,20862,>50K

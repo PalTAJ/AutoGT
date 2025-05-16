@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,Other,Married-civ-spouse,7th-8th,Puerto-Rico,Private,Handlers-cleaners,375,<=50K
+Male,21,Other,Married-civ-spouse,HS-grad,United-States,Private,Sales,5738,<=50K
+Male,26,Other,Married-civ-spouse,12th,Dominican-Republic,Self-emp-inc,Sales,25187,<=50K
+Male,25,Other,Married-civ-spouse,HS-grad,United-States,Private,Sales,26009,<=50K
+Male,24,Other,Married-civ-spouse,11th,United-States,Private,Handlers-cleaners,26669,<=50K

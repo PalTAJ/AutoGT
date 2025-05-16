@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,2500,>50K
+Male,24,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,3624,<=50K
+Male,29,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,6933,<=50K
+Male,23,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,12393,<=50K
+Male,22,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,14729,<=50K
+Male,30,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,19240,<=50K
+Male,23,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,20168,<=50K
+Male,31,White,Separated,Bachelors,United-States,Federal-gov,Prof-specialty,29806,<=50K
+Male,28,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,29999,<=50K

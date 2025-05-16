@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,White,Widowed,Assoc-acdm,United-States,Private,Other-service,2096,<=50K
+Female,52,White,Separated,Assoc-voc,United-States,Private,Other-service,2317,<=50K
+Female,42,White,Divorced,Assoc-voc,United-States,Private,Other-service,4418,<=50K
+Female,60,White,Divorced,Assoc-acdm,United-States,Private,Other-service,8126,<=50K
+Female,52,White,Divorced,Assoc-voc,United-States,Private,Other-service,12525,<=50K
+Female,45,White,Divorced,Assoc-voc,United-States,Private,Other-service,15503,<=50K
+Female,47,White,Never-married,Assoc-voc,United-States,Private,Other-service,15982,<=50K
+Female,48,White,Divorced,Assoc-voc,United-States,Private,Other-service,16892,<=50K
+Female,41,White,Divorced,Assoc-voc,United-States,Self-emp-not-inc,Other-service,23442,<=50K

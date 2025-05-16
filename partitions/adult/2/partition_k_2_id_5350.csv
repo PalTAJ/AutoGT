@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,14556,<=50K
+Female,40,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,15850,<=50K
+Female,40,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,21256,<=50K

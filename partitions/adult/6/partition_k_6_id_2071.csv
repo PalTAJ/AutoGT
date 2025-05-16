@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,45,White,Widowed,Assoc-voc,United-States,Private,Exec-managerial,238,<=50K
+Female,42,White,Widowed,Some-college,United-States,Private,Exec-managerial,1603,<=50K
+Female,49,White,Widowed,Some-college,United-States,Private,Exec-managerial,2447,>50K
+Female,45,White,Widowed,Some-college,United-States,Private,Exec-managerial,7886,<=50K
+Female,47,White,Widowed,Assoc-acdm,United-States,Self-emp-inc,Exec-managerial,22877,<=50K
+Female,50,White,Widowed,Assoc-voc,United-States,Private,Exec-managerial,24613,<=50K

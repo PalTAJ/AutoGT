@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,Asian-Pac-Islander,Never-married,Bachelors,India,Self-emp-not-inc,Prof-specialty,1010,<=50K
+Male,39,Asian-Pac-Islander,Never-married,Some-college,United-States,Self-emp-not-inc,Craft-repair,4212,<=50K
+Male,32,Asian-Pac-Islander,Divorced,Bachelors,Iran,Self-emp-not-inc,Craft-repair,19866,<=50K
+Male,24,Asian-Pac-Islander,Never-married,Some-college,United-States,Self-emp-not-inc,Prof-specialty,21643,>50K
+Male,24,Asian-Pac-Islander,Never-married,Some-college,United-States,Self-emp-not-inc,Prof-specialty,28656,<=50K

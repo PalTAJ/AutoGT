@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Never-married,Some-college,United-States,Private,Exec-managerial,7266,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Exec-managerial,7362,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Exec-managerial,12403,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Exec-managerial,13607,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Exec-managerial,13786,<=50K
+Male,24,White,Never-married,Some-college,United-States,Private,Exec-managerial,14372,<=50K

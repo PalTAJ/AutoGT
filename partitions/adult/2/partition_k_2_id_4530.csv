@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,White,Never-married,Some-college,United-States,Private,Transport-moving,3150,<=50K
+Female,20,White,Never-married,Some-college,United-States,Private,Transport-moving,29116,<=50K

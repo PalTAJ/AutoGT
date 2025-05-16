@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,Other,Never-married,Some-college,Peru,Private,Exec-managerial,22841,<=50K
+Male,29,Other,Never-married,Some-college,Ecuador,Local-gov,Adm-clerical,27047,<=50K

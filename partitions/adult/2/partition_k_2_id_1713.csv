@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,HS-grad,Mexico,Private,Other-service,69,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Private,Other-service,157,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Private,Other-service,9181,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Private,Other-service,19508,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Private,Other-service,22260,<=50K

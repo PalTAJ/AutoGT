@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,Black,Married-civ-spouse,5th-6th,Trinadad&Tobago,Private,Craft-repair,21771,<=50K
+Male,57,Black,Married-civ-spouse,5th-6th,United-States,Private,Transport-moving,25739,<=50K
+Male,51,Black,Married-civ-spouse,5th-6th,United-States,Private,Handlers-cleaners,29068,<=50K

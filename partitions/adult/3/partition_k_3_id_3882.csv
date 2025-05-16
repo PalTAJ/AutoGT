@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,1545,<=50K
+Female,50,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,17721,<=50K
+Female,50,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,17995,>50K
+Female,50,White,Married-civ-spouse,HS-grad,El-Salvador,Private,Machine-op-inspct,21512,<=50K

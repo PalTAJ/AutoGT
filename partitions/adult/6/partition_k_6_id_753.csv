@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,Amer-Indian-Eskimo,Never-married,11th,United-States,Private,Other-service,2566,<=50K
+Male,28,Amer-Indian-Eskimo,Never-married,10th,Mexico,Private,Other-service,3163,<=50K
+Male,28,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Other-service,5393,<=50K
+Male,27,Amer-Indian-Eskimo,Divorced,10th,United-States,Private,Transport-moving,6421,<=50K
+Male,22,Amer-Indian-Eskimo,Never-married,10th,United-States,Private,Transport-moving,7513,<=50K
+Male,36,Amer-Indian-Eskimo,Never-married,11th,United-States,Private,Transport-moving,7643,<=50K
+Male,30,Amer-Indian-Eskimo,Divorced,10th,United-States,Private,Other-service,15925,<=50K
+Male,24,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Other-service,17080,<=50K
+Male,23,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Protective-serv,18384,<=50K
+Male,25,Amer-Indian-Eskimo,Never-married,10th,United-States,Private,Farming-fishing,20827,<=50K
+Male,22,Amer-Indian-Eskimo,Never-married,12th,United-States,Private,Farming-fishing,24484,<=50K
+Male,21,Amer-Indian-Eskimo,Never-married,9th,United-States,Private,Other-service,25871,<=50K

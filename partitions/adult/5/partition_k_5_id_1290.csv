@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,3391,>50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,3606,>50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,3902,>50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,4625,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,5950,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,9087,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,15090,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,15449,>50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,15779,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,20225,>50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,20605,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,22859,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,25129,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,25939,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,Asian-Pac-Islander,Married-civ-spouse,5th-6th,Laos,Private,Machine-op-inspct,5482,<=50K
+Male,54,Asian-Pac-Islander,Married-civ-spouse,Preschool,India,Private,Craft-repair,22406,<=50K
+Male,54,Asian-Pac-Islander,Married-civ-spouse,Preschool,China,Private,Craft-repair,24651,<=50K

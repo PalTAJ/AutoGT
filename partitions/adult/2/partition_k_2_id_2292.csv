@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,Black,Never-married,Bachelors,United-States,Local-gov,Tech-support,14417,>50K
+Male,34,Black,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,17332,<=50K
+Male,26,Black,Never-married,Bachelors,England,Local-gov,Prof-specialty,18253,<=50K
+Male,36,Black,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,26019,<=50K

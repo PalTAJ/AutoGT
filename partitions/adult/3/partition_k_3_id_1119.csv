@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Never-married,HS-grad,United-States,Local-gov,Machine-op-inspct,17303,<=50K
+Male,38,White,Never-married,HS-grad,Canada,Local-gov,Craft-repair,17973,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Local-gov,Prof-specialty,21344,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Local-gov,Craft-repair,22273,<=50K
+Male,37,White,Never-married,HS-grad,United-States,Local-gov,Craft-repair,28584,<=50K

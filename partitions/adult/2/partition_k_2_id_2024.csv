@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,Asian-Pac-Islander,Never-married,Bachelors,Taiwan,Private,Sales,992,<=50K
+Male,23,Asian-Pac-Islander,Never-married,Bachelors,Taiwan,Private,Sales,3768,<=50K
+Male,25,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Sales,20179,<=50K
+Male,25,Asian-Pac-Islander,Never-married,Bachelors,Vietnam,Private,Sales,24912,<=50K

@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Divorced,HS-grad,United-States,Private,Craft-repair,146,<=50K
+Male,28,White,Divorced,HS-grad,United-States,Private,Craft-repair,474,<=50K
+Male,26,White,Divorced,HS-grad,United-States,Private,Craft-repair,590,<=50K
+Male,29,White,Divorced,11th,United-States,Private,Craft-repair,3598,<=50K
+Male,30,White,Divorced,HS-grad,United-States,Private,Craft-repair,5100,<=50K
+Male,29,White,Divorced,HS-grad,United-States,Private,Craft-repair,5848,<=50K
+Male,29,White,Divorced,HS-grad,United-States,Private,Craft-repair,7860,<=50K
+Male,30,White,Divorced,HS-grad,United-States,Private,Craft-repair,8087,<=50K
+Male,26,White,Divorced,HS-grad,United-States,Private,Craft-repair,14271,<=50K
+Male,27,White,Divorced,HS-grad,United-States,Private,Craft-repair,14550,<=50K
+Male,26,White,Divorced,HS-grad,United-States,Private,Craft-repair,14740,<=50K
+Male,26,White,Divorced,HS-grad,United-States,Private,Craft-repair,16989,<=50K
+Male,27,White,Divorced,HS-grad,United-States,Private,Craft-repair,19173,<=50K
+Male,26,White,Divorced,HS-grad,United-States,Private,Craft-repair,23230,<=50K
+Male,27,White,Divorced,11th,United-States,Private,Craft-repair,29013,<=50K

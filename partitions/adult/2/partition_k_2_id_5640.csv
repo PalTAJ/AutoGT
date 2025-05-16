@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,Asian-Pac-Islander,Separated,11th,India,State-gov,Adm-clerical,1958,<=50K
+Female,36,Asian-Pac-Islander,Separated,HS-grad,Philippines,Private,Adm-clerical,8195,<=50K
+Female,33,Asian-Pac-Islander,Separated,HS-grad,China,Private,Other-service,8801,<=50K

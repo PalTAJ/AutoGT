@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,White,Divorced,1st-4th,Portugal,Private,Craft-repair,2371,<=50K
+Male,57,White,Divorced,5th-6th,United-States,Private,Transport-moving,4198,<=50K
+Male,52,White,Married-spouse-absent,5th-6th,Mexico,Private,Craft-repair,4419,<=50K
+Male,57,White,Never-married,5th-6th,Cuba,Private,Other-service,8441,<=50K
+Male,59,White,Never-married,Preschool,Dominican-Republic,Private,Machine-op-inspct,9530,<=50K
+Male,56,White,Separated,5th-6th,United-States,Private,Machine-op-inspct,10689,<=50K
+Male,56,White,Separated,1st-4th,United-States,Private,Machine-op-inspct,11205,<=50K
+Male,52,White,Divorced,5th-6th,United-States,Private,Farming-fishing,16622,<=50K
+Male,54,White,Married-spouse-absent,5th-6th,Mexico,Private,Machine-op-inspct,23962,<=50K
+Male,52,White,Never-married,5th-6th,United-States,Private,Handlers-cleaners,26736,<=50K

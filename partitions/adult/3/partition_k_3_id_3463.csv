@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Never-married,Bachelors,Columbia,Private,Adm-clerical,13070,<=50K
+Female,39,White,Never-married,Masters,Columbia,Self-emp-not-inc,Prof-specialty,22331,<=50K
+Female,33,White,Separated,Some-college,Columbia,Private,Tech-support,23238,<=50K
+Female,38,White,Divorced,Some-college,Columbia,Private,Adm-clerical,24278,<=50K

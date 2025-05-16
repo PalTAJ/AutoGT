@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Separated,Bachelors,United-States,Local-gov,Prof-specialty,2977,<=50K
+Male,50,White,Separated,Bachelors,United-States,Local-gov,Prof-specialty,8088,>50K
+Male,41,White,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,8919,<=50K
+Male,46,White,Separated,Bachelors,United-States,Local-gov,Prof-specialty,11840,<=50K
+Male,54,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,13194,<=50K
+Male,41,White,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,15008,<=50K
+Male,41,White,Never-married,Some-college,United-States,Local-gov,Prof-specialty,17697,<=50K
+Male,46,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,19117,>50K
+Male,47,White,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,19919,<=50K
+Male,42,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,20402,<=50K
+Male,44,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,21423,<=50K
+Male,44,White,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,27516,<=50K
+Male,43,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,28227,<=50K
+Male,50,White,Widowed,Some-college,United-States,Local-gov,Prof-specialty,28908,<=50K

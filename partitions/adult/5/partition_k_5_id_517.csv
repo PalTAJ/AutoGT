@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Never-married,Assoc-voc,United-States,Private,Prof-specialty,46,<=50K
+Male,28,White,Never-married,Prof-school,United-States,Private,Prof-specialty,217,>50K
+Male,28,White,Divorced,Prof-school,United-States,Private,Prof-specialty,961,<=50K
+Male,28,White,Never-married,Assoc-acdm,France,Private,Prof-specialty,4245,<=50K
+Male,28,White,Never-married,Prof-school,United-States,Private,Prof-specialty,8146,<=50K
+Male,29,White,Never-married,Prof-school,United-States,Private,Prof-specialty,11088,<=50K
+Male,29,White,Never-married,Prof-school,United-States,Private,Prof-specialty,16815,<=50K
+Male,27,White,Never-married,Prof-school,United-States,Private,Prof-specialty,17790,<=50K
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,19252,<=50K
+Male,30,White,Divorced,Prof-school,United-States,Private,Prof-specialty,22726,>50K
+Male,29,White,Never-married,Prof-school,Germany,Private,Prof-specialty,23454,>50K
+Male,28,White,Never-married,Prof-school,Canada,Private,Prof-specialty,23897,<=50K
+Male,30,White,Never-married,Assoc-voc,United-States,Private,Prof-specialty,25123,<=50K
+Male,30,White,Never-married,Prof-school,United-States,Private,Prof-specialty,28570,<=50K

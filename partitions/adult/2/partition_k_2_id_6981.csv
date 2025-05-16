@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,66,Black,Widowed,Assoc-voc,United-States,Federal-gov,Other-service,10176,<=50K
+Female,68,Black,Widowed,Masters,United-States,Local-gov,Prof-specialty,18644,>50K
+Female,62,Black,Widowed,Assoc-voc,United-States,State-gov,Exec-managerial,24657,<=50K
+Female,66,Black,Widowed,Bachelors,United-States,Local-gov,Prof-specialty,25863,<=50K

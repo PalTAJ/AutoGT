@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,White,Widowed,Some-college,United-States,Self-emp-not-inc,Farming-fishing,10428,<=50K
+Female,47,White,Widowed,Some-college,United-States,Self-emp-not-inc,Other-service,11615,<=50K

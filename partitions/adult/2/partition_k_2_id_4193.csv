@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,61,White,Married-civ-spouse,Prof-school,England,Self-emp-not-inc,Prof-specialty,9111,>50K
+Male,66,White,Married-civ-spouse,Assoc-acdm,Yugoslavia,Private,Machine-op-inspct,12143,>50K
+Male,66,White,Married-civ-spouse,Assoc-acdm,Hungary,Self-emp-not-inc,Craft-repair,17464,<=50K

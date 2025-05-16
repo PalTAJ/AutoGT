@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,White,Divorced,Bachelors,Germany,Private,Prof-specialty,3736,<=50K
+Female,32,White,Never-married,Some-college,Holand-Netherlands,Private,Machine-op-inspct,18175,<=50K
+Female,34,White,Never-married,Assoc-voc,Germany,Private,Prof-specialty,23007,<=50K

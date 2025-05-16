@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Married-civ-spouse,Bachelors,Germany,Private,Prof-specialty,11342,>50K
+Female,30,White,Married-civ-spouse,Assoc-voc,Germany,Private,Tech-support,29713,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Never-married,Bachelors,United-States,Local-gov,Exec-managerial,3169,<=50K
+Female,31,White,Never-married,Bachelors,United-States,Local-gov,Sales,13692,<=50K
+Female,33,White,Never-married,Bachelors,United-States,Local-gov,Exec-managerial,28993,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,60,White,Married-civ-spouse,Assoc-voc,Germany,Self-emp-not-inc,Transport-moving,4307,>50K
+Female,58,White,Married-civ-spouse,Assoc-acdm,Poland,Private,Priv-house-serv,16410,<=50K

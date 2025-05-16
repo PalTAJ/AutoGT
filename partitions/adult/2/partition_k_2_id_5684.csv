@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,Other,Divorced,HS-grad,Germany,Private,Prof-specialty,3439,<=50K
+Female,26,Other,Never-married,HS-grad,Columbia,Private,Machine-op-inspct,6337,<=50K
+Female,24,Other,Separated,HS-grad,United-States,Private,Machine-op-inspct,28678,<=50K

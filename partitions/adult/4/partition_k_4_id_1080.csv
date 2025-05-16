@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,Other,Never-married,9th,Mexico,Private,Machine-op-inspct,3103,<=50K
+Male,29,Other,Never-married,HS-grad,Ecuador,Private,Machine-op-inspct,10889,<=50K
+Male,28,Other,Never-married,HS-grad,Puerto-Rico,Private,Machine-op-inspct,16178,<=50K
+Male,33,Other,Never-married,HS-grad,United-States,Private,Machine-op-inspct,19041,<=50K

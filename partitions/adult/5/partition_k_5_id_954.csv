@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Black,Never-married,Assoc-voc,United-States,Private,Protective-serv,8737,<=50K
+Male,34,Black,Divorced,HS-grad,United-States,Private,Protective-serv,13125,<=50K
+Male,36,Black,Never-married,11th,United-States,Private,Protective-serv,13787,>50K
+Male,32,Black,Divorced,Bachelors,United-States,Private,Protective-serv,19480,>50K
+Male,32,Black,Never-married,Bachelors,United-States,Private,Protective-serv,22748,<=50K
+Male,38,Black,Separated,HS-grad,United-States,Private,Protective-serv,22941,<=50K
+Male,37,Black,Never-married,Some-college,United-States,Private,Protective-serv,26524,<=50K
+Male,33,Black,Never-married,12th,United-States,Private,Protective-serv,28502,<=50K

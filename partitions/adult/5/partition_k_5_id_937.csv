@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,Black,Divorced,Bachelors,United-States,Self-emp-not-inc,Other-service,7993,>50K
+Male,40,Black,Divorced,Some-college,United-States,Private,Other-service,10270,>50K
+Male,24,Black,Divorced,Some-college,United-States,Private,Other-service,18737,<=50K
+Male,28,Black,Divorced,Some-college,United-States,Private,Other-service,23723,<=50K
+Male,25,Black,Divorced,Some-college,United-States,Private,Other-service,29645,<=50K

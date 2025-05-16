@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,56,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,1429,<=50K
+Female,50,White,Divorced,7th-8th,United-States,Private,Craft-repair,1600,<=50K
+Female,52,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,9130,<=50K
+Female,53,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,17857,<=50K
+Female,54,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,18920,<=50K
+Female,60,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,19550,<=50K
+Female,51,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,30045,<=50K

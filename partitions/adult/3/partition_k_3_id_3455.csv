@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,21,White,Never-married,Some-college,Germany,Private,Other-service,6209,<=50K
+Female,21,White,Never-married,Some-college,Germany,Private,Other-service,11816,<=50K
+Female,24,White,Never-married,Bachelors,France,Private,Priv-house-serv,15152,<=50K
+Female,23,White,Never-married,Some-college,Greece,Private,Adm-clerical,27864,<=50K

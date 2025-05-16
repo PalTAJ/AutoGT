@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,45,White,Divorced,Bachelors,United-States,Private,Sales,6319,<=50K
+Female,44,White,Divorced,Bachelors,United-States,Private,Sales,9568,<=50K
+Female,43,White,Divorced,Bachelors,United-States,Private,Sales,25386,<=50K

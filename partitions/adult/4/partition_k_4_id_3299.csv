@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,81,White,Widowed,Bachelors,Hungary,Self-emp-not-inc,Prof-specialty,12895,<=50K
+Female,90,White,Never-married,Bachelors,United-States,Private,Prof-specialty,17064,<=50K
+Female,90,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,19099,>50K
+Female,84,White,Widowed,HS-grad,United-States,Private,Prof-specialty,24771,<=50K

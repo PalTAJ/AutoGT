@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,7016,<=50K
+Male,58,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,7076,<=50K
+Male,43,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,17505,<=50K
+Male,57,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,29311,<=50K

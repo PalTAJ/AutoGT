@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Never-married,Some-college,United-States,Federal-gov,Exec-managerial,2073,<=50K
+Female,23,White,Never-married,Some-college,United-States,Federal-gov,Sales,19915,<=50K

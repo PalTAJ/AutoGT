@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,1750,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,3225,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,3957,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,5037,<=50K
+Female,26,White,Never-married,10th,United-States,Private,Adm-clerical,7231,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,8534,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,23810,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,26938,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,27933,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,28795,<=50K
+Female,26,White,Never-married,HS-grad,United-States,Private,Adm-clerical,29089,<=50K

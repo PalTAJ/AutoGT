@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,Asian-Pac-Islander,Never-married,Masters,United-States,Private,Exec-managerial,6331,<=50K
+Male,29,Asian-Pac-Islander,Never-married,Masters,United-States,Private,Exec-managerial,25425,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Never-married,10th,United-States,Private,Handlers-cleaners,5454,<=50K
+Male,28,White,Never-married,10th,United-States,Private,Handlers-cleaners,7169,<=50K
+Male,28,White,Never-married,10th,United-States,Private,Handlers-cleaners,23584,<=50K

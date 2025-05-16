@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Separated,Some-college,England,Private,Exec-managerial,9484,<=50K
+Male,47,White,Divorced,Doctorate,France,State-gov,Prof-specialty,11408,>50K
+Male,42,White,Married-spouse-absent,Bachelors,Poland,Self-emp-not-inc,Exec-managerial,13518,<=50K
+Male,45,White,Divorced,Bachelors,France,Self-emp-not-inc,Prof-specialty,21062,<=50K
+Male,44,White,Married-spouse-absent,Some-college,Poland,Private,Handlers-cleaners,21536,<=50K
+Male,46,White,Divorced,Bachelors,Portugal,Private,Adm-clerical,22360,<=50K
+Male,43,White,Divorced,Bachelors,Germany,Local-gov,Exec-managerial,27305,<=50K
+Male,43,White,Never-married,Prof-school,France,Private,Prof-specialty,28975,<=50K
+Male,46,White,Divorced,Bachelors,England,Private,Prof-specialty,29039,>50K
+Male,41,White,Divorced,Some-college,Italy,Private,Machine-op-inspct,29933,<=50K

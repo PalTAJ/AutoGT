@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,Black,Never-married,Some-college,Outlying-US(Guam-USVI-etc),Private,Handlers-cleaners,4131,<=50K
+Male,22,Black,Never-married,Some-college,United-States,Private,Handlers-cleaners,10624,<=50K
+Male,23,Black,Never-married,Some-college,United-States,Private,Handlers-cleaners,12904,<=50K
+Male,24,Black,Never-married,Some-college,United-States,Private,Handlers-cleaners,19317,<=50K
+Male,23,Black,Never-married,Some-college,United-States,Private,Handlers-cleaners,22398,<=50K

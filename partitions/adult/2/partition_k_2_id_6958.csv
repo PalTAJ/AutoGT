@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,73,White,Widowed,10th,Canada,Self-emp-inc,Sales,6266,<=50K
+Female,62,White,Widowed,10th,United-States,Private,Handlers-cleaners,7159,<=50K
+Female,65,White,Widowed,10th,United-States,Private,Sales,14759,<=50K

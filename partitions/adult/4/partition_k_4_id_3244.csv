@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,62,White,Widowed,Bachelors,United-States,Local-gov,Prof-specialty,774,<=50K
+Female,64,White,Never-married,Doctorate,United-States,State-gov,Prof-specialty,2767,>50K
+Female,64,White,Separated,Assoc-acdm,United-States,Federal-gov,Prof-specialty,2874,>50K
+Female,62,White,Widowed,Assoc-acdm,United-States,State-gov,Prof-specialty,16311,<=50K
+Female,62,White,Widowed,Doctorate,Iran,Local-gov,Prof-specialty,17701,<=50K
+Female,61,White,Widowed,Masters,United-States,Federal-gov,Prof-specialty,20637,<=50K
+Female,61,White,Divorced,Masters,United-States,Local-gov,Prof-specialty,25689,<=50K
+Female,61,White,Never-married,Masters,United-States,Local-gov,Prof-specialty,28563,<=50K
+Female,62,White,Divorced,Masters,United-States,Local-gov,Prof-specialty,28824,>50K
+Female,61,White,Divorced,Masters,United-States,Local-gov,Prof-specialty,29735,>50K

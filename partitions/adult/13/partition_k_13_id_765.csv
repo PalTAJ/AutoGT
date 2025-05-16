@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,70,White,Never-married,Some-college,United-States,Private,Tech-support,134,<=50K
+Male,66,Black,Separated,HS-grad,United-States,Private,Machine-op-inspct,928,<=50K
+Male,66,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Craft-repair,3473,<=50K
+Male,69,White,Never-married,10th,United-States,Private,Craft-repair,5066,<=50K
+Male,69,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,6414,<=50K
+Male,69,White,Widowed,Bachelors,United-States,Private,Prof-specialty,7751,>50K
+Male,66,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,7795,<=50K
+Male,67,White,Never-married,Masters,United-States,Private,Prof-specialty,9086,<=50K
+Male,69,White,Never-married,9th,United-States,Private,Craft-repair,10595,<=50K
+Male,68,White,Never-married,Preschool,United-States,Private,Machine-op-inspct,12257,<=50K
+Male,67,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,14308,<=50K
+Male,67,White,Widowed,Masters,United-States,Self-emp-not-inc,Prof-specialty,17933,>50K
+Male,66,White,Widowed,HS-grad,United-States,Private,Craft-repair,18471,<=50K
+Male,70,Asian-Pac-Islander,Widowed,Bachelors,Philippines,Private,Machine-op-inspct,21733,<=50K
+Male,70,White,Widowed,10th,United-States,Private,Craft-repair,23802,<=50K

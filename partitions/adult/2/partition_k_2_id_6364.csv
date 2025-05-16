@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,White,Widowed,Some-college,Mexico,Local-gov,Adm-clerical,8275,<=50K
+Female,54,White,Widowed,Some-college,Mexico,Local-gov,Adm-clerical,15942,<=50K

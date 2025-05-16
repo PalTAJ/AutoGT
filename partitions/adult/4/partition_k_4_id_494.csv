@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,1649,>50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,1818,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,2898,>50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,5893,>50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,8192,>50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,12859,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,16174,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,16552,>50K
+Male,33,White,Married-civ-spouse,HS-grad,Cuba,Private,Sales,17082,>50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,19246,<=50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,20190,>50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,22230,>50K
+Male,33,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,23208,>50K

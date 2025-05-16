@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Never-married,Bachelors,United-States,Private,Tech-support,2238,<=50K
+Male,26,White,Never-married,Bachelors,United-States,Private,Tech-support,13903,<=50K

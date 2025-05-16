@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,21,White,Never-married,Some-college,United-States,State-gov,Other-service,6158,<=50K
+Female,29,White,Never-married,Some-college,United-States,State-gov,Other-service,6242,<=50K
+Female,27,White,Separated,Some-college,United-States,State-gov,Other-service,8810,<=50K
+Female,29,White,Never-married,Some-college,United-States,State-gov,Other-service,11785,<=50K
+Female,22,White,Never-married,Some-college,United-States,State-gov,Other-service,20082,<=50K
+Female,21,White,Never-married,Some-college,United-States,State-gov,Other-service,20534,<=50K
+Female,25,White,Never-married,Bachelors,United-States,State-gov,Other-service,23680,<=50K
+Female,24,White,Never-married,Some-college,Canada,State-gov,Other-service,26228,<=50K

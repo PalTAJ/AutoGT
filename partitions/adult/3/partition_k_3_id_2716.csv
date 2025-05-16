@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,Black,Divorced,HS-grad,United-States,Private,Craft-repair,2684,<=50K
+Male,51,Black,Married-spouse-absent,7th-8th,Dominican-Republic,Private,Craft-repair,5385,<=50K
+Male,51,Black,Divorced,HS-grad,United-States,Private,Craft-repair,15381,<=50K
+Male,59,Black,Never-married,HS-grad,United-States,Private,Craft-repair,15396,<=50K
+Male,55,Black,Divorced,HS-grad,United-States,Private,Craft-repair,23315,>50K
+Male,51,Black,Never-married,HS-grad,United-States,Private,Craft-repair,25403,<=50K
+Male,53,Black,Never-married,9th,Jamaica,Private,Craft-repair,26250,<=50K

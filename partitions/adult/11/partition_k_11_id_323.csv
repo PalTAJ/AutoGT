@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Never-married,Bachelors,United-States,State-gov,Adm-clerical,0,<=50K
+Male,31,White,Married-spouse-absent,Some-college,United-States,State-gov,Other-service,706,<=50K
+Male,37,White,Never-married,Bachelors,United-States,State-gov,Adm-clerical,1025,<=50K
+Male,37,White,Separated,Some-college,United-States,State-gov,Adm-clerical,1157,<=50K
+Male,32,White,Never-married,Bachelors,United-States,State-gov,Adm-clerical,1722,<=50K
+Male,31,White,Never-married,Masters,United-States,State-gov,Adm-clerical,2240,<=50K
+Male,32,White,Never-married,Some-college,United-States,State-gov,Adm-clerical,6283,<=50K
+Male,39,White,Divorced,Bachelors,Mexico,State-gov,Protective-serv,6647,>50K
+Male,36,White,Divorced,Some-college,United-States,State-gov,Transport-moving,13432,<=50K
+Male,32,White,Married-spouse-absent,Some-college,United-States,State-gov,Farming-fishing,21941,<=50K
+Male,31,White,Never-married,Bachelors,United-States,State-gov,Adm-clerical,22072,<=50K
+Male,37,White,Divorced,Some-college,United-States,State-gov,Other-service,24023,<=50K
+Male,35,White,Never-married,Some-college,United-States,State-gov,Farming-fishing,24382,<=50K
+Male,33,White,Never-married,Some-college,United-States,State-gov,Other-service,27152,<=50K
+Male,31,White,Divorced,Some-college,United-States,State-gov,Protective-serv,27819,>50K

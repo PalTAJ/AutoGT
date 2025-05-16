@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,1868,<=50K
+Male,45,White,Married-civ-spouse,Some-college,Guatemala,Federal-gov,Tech-support,3044,>50K
+Male,49,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,6791,>50K

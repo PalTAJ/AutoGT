@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,Black,Never-married,12th,United-States,State-gov,Transport-moving,19177,<=50K
+Male,18,Black,Never-married,HS-grad,United-States,State-gov,Adm-clerical,24285,<=50K

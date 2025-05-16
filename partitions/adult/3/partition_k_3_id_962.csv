@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Separated,Some-college,United-States,Self-emp-not-inc,Handlers-cleaners,4237,<=50K
+Male,40,White,Separated,Some-college,United-States,Private,Handlers-cleaners,16847,<=50K
+Male,31,White,Separated,Some-college,United-States,Private,Handlers-cleaners,26835,<=50K

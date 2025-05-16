@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,69,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Machine-op-inspct,2280,<=50K
+Male,66,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,5825,>50K
+Male,70,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,8939,>50K
+Male,68,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,9253,>50K
+Male,66,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,13149,>50K
+Male,70,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,15361,>50K
+Male,68,White,Married-civ-spouse,Bachelors,Ireland,Private,Prof-specialty,20129,>50K
+Male,67,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,21544,<=50K
+Male,67,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,22577,>50K
+Male,69,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,24088,>50K
+Male,66,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,24893,<=50K
+Male,66,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,27143,>50K

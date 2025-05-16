@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,647,<=50K
+Male,35,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,3210,>50K
+Male,31,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Machine-op-inspct,5071,<=50K
+Male,34,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,6766,>50K
+Male,32,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,7264,<=50K
+Male,33,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,12269,>50K
+Male,33,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,13312,<=50K
+Male,32,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,14025,<=50K
+Male,32,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,18344,>50K
+Male,31,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,19589,<=50K
+Male,33,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,21279,<=50K
+Male,34,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,24529,<=50K
+Male,31,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,27163,<=50K
+Male,31,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,28869,<=50K

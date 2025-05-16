@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,54,White,Married-civ-spouse,HS-grad,England,Private,Machine-op-inspct,2186,>50K
+Male,54,White,Married-civ-spouse,HS-grad,Poland,Private,Machine-op-inspct,13296,>50K

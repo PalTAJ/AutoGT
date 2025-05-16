@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,White,Widowed,11th,El-Salvador,Private,Other-service,6942,<=50K
+Female,45,White,Widowed,11th,United-States,Private,Other-service,15796,<=50K
+Female,41,White,Widowed,11th,United-States,Private,Other-service,17436,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,1449,<=50K
+Male,31,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,13551,<=50K
+Male,32,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,15336,<=50K
+Male,32,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,18107,<=50K

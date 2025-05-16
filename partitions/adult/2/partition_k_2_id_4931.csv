@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Never-married,Masters,United-States,Private,Prof-specialty,12559,<=50K
+Female,40,White,Never-married,Masters,United-States,Private,Prof-specialty,14068,>50K
+Female,40,White,Never-married,Masters,United-States,Private,Prof-specialty,21192,<=50K
+Female,40,White,Never-married,Masters,United-States,Private,Prof-specialty,22589,<=50K

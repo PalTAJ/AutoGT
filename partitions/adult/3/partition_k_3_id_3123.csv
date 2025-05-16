@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Married-civ-spouse,Bachelors,Iran,Private,Prof-specialty,3804,>50K
+Female,40,White,Married-civ-spouse,Masters,Iran,Self-emp-inc,Exec-managerial,5790,>50K
+Female,30,White,Married-civ-spouse,Assoc-acdm,Thailand,Private,Exec-managerial,7429,>50K
+Female,32,White,Married-civ-spouse,Some-college,Japan,Private,Exec-managerial,24429,<=50K

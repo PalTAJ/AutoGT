@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-civ-spouse,Assoc-acdm,United-States,Local-gov,Handlers-cleaners,15947,<=50K
+Male,23,White,Married-civ-spouse,Assoc-voc,United-States,Federal-gov,Handlers-cleaners,19042,<=50K

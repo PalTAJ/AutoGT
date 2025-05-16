@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,61,Black,Never-married,9th,United-States,Private,Machine-op-inspct,6023,<=50K
+Female,63,Black,Widowed,HS-grad,Haiti,Private,Machine-op-inspct,14818,<=50K
+Female,69,Black,Divorced,7th-8th,United-States,Private,Machine-op-inspct,14840,<=50K
+Female,62,Black,Widowed,HS-grad,United-States,Private,Craft-repair,22982,<=50K
+Female,61,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,25397,<=50K
+Female,61,Black,Widowed,HS-grad,United-States,Private,Craft-repair,30059,<=50K

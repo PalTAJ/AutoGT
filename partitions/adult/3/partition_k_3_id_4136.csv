@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,45,White,Widowed,HS-grad,United-States,Private,Craft-repair,14481,<=50K
+Female,43,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,15322,<=50K
+Female,41,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,23853,<=50K
+Female,45,White,Widowed,HS-grad,United-States,Private,Craft-repair,28016,<=50K

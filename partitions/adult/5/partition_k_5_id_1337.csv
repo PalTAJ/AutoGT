@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,55,White,Married-civ-spouse,10th,United-States,Self-emp-not-inc,Craft-repair,1523,<=50K
+Male,53,White,Married-civ-spouse,10th,United-States,Self-emp-not-inc,Craft-repair,5752,<=50K
+Male,53,White,Married-civ-spouse,10th,United-States,Self-emp-not-inc,Craft-repair,12016,>50K
+Male,54,White,Married-civ-spouse,10th,United-States,Self-emp-not-inc,Craft-repair,12800,<=50K
+Male,52,White,Married-civ-spouse,10th,United-States,Self-emp-not-inc,Craft-repair,13716,<=50K

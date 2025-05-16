@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,Black,Never-married,Some-college,United-States,Local-gov,Other-service,6080,<=50K
+Male,28,Black,Never-married,Some-college,Haiti,Local-gov,Adm-clerical,6720,<=50K
+Male,30,Black,Never-married,Some-college,United-States,Local-gov,Protective-serv,17819,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,Black,Divorced,HS-grad,United-States,Local-gov,Transport-moving,4752,<=50K
+Female,45,Black,Divorced,HS-grad,United-States,Local-gov,Other-service,14578,<=50K

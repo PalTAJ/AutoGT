@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,Other,Married-civ-spouse,7th-8th,Puerto-Rico,Private,Handlers-cleaners,375,<=50K
+Male,24,Other,Married-civ-spouse,11th,United-States,Private,Handlers-cleaners,26669,<=50K

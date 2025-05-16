@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,2572,<=50K
+Female,23,White,Married-civ-spouse,Assoc-acdm,Puerto-Rico,Private,Other-service,17932,<=50K
+Female,24,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,19211,<=50K
+Female,24,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,22289,<=50K

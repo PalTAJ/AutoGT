@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-spouse-absent,Assoc-acdm,United-States,Private,Craft-repair,4682,<=50K
+Male,33,White,Married-spouse-absent,Assoc-acdm,United-States,Private,Machine-op-inspct,20188,<=50K

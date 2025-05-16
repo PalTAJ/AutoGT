@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,Some-college,United-States,Federal-gov,Armed-Forces,1195,<=50K
+Male,22,Black,Never-married,Some-college,United-States,Federal-gov,Adm-clerical,29636,<=50K

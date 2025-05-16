@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Black,Never-married,HS-grad,United-States,Private,Craft-repair,13223,<=50K
+Female,36,Black,Never-married,11th,United-States,Private,Craft-repair,29965,<=50K

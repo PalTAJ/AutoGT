@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,Black,Separated,Some-college,United-States,Private,Other-service,2176,<=50K
+Female,42,Black,Separated,Some-college,Haiti,Private,Other-service,9037,<=50K
+Female,51,Black,Separated,Assoc-acdm,United-States,Private,Other-service,15775,<=50K
+Female,42,Black,Separated,Some-college,United-States,Self-emp-not-inc,Other-service,18905,<=50K

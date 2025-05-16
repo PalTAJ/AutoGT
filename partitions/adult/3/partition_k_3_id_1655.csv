@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Craft-repair,4558,>50K
+Male,47,White,Married-civ-spouse,Doctorate,United-States,Self-emp-not-inc,Craft-repair,7839,<=50K
+Male,41,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Craft-repair,11948,<=50K

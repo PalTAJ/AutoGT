@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Married-civ-spouse,7th-8th,Cuba,Private,Transport-moving,2049,<=50K
+Male,53,White,Married-civ-spouse,7th-8th,United-States,Private,Transport-moving,3486,>50K
+Male,55,White,Married-civ-spouse,7th-8th,United-States,Private,Transport-moving,7427,<=50K
+Male,55,White,Married-civ-spouse,7th-8th,United-States,Private,Transport-moving,21515,<=50K

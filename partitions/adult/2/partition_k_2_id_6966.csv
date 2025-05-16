@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,63,White,Widowed,1st-4th,El-Salvador,Self-emp-not-inc,Other-service,1186,<=50K
+Female,64,White,Separated,5th-6th,Cuba,Private,Other-service,15155,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Divorced,Some-college,Poland,Private,Tech-support,7831,<=50K
+Female,38,White,Never-married,Assoc-voc,Portugal,Private,Craft-repair,10784,<=50K
+Female,39,White,Widowed,Bachelors,Poland,Private,Prof-specialty,15598,>50K
+Female,38,White,Separated,Some-college,Germany,Private,Prof-specialty,18265,<=50K

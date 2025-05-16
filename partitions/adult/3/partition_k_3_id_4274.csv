@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,Asian-Pac-Islander,Widowed,HS-grad,India,Private,Other-service,1218,>50K
+Female,47,Asian-Pac-Islander,Widowed,HS-grad,Thailand,Private,Priv-house-serv,8723,<=50K
+Female,59,Asian-Pac-Islander,Widowed,10th,Philippines,Private,Other-service,9103,<=50K

@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,White,Divorced,Some-college,United-States,Private,Tech-support,3317,<=50K
+Female,38,White,Divorced,Some-college,United-States,Private,Tech-support,3501,<=50K
+Female,25,White,Divorced,Some-college,United-States,Private,Tech-support,6029,<=50K
+Female,39,White,Divorced,Some-college,Poland,Private,Tech-support,7831,<=50K
+Female,27,White,Divorced,Some-college,United-States,Private,Tech-support,7930,<=50K
+Female,36,White,Divorced,Bachelors,United-States,Private,Tech-support,8571,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Tech-support,13570,<=50K
+Female,40,White,Divorced,Some-college,United-States,Private,Tech-support,16008,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Tech-support,19706,<=50K
+Female,25,White,Divorced,Some-college,United-States,Private,Tech-support,21246,<=50K
+Female,37,White,Divorced,Some-college,United-States,Private,Tech-support,21247,<=50K
+Female,36,White,Divorced,Some-college,United-States,Private,Tech-support,25841,<=50K
+Female,37,White,Divorced,Some-college,United-States,Private,Tech-support,26581,<=50K
+Female,39,White,Divorced,Bachelors,United-States,Private,Tech-support,29521,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Craft-repair,5064,<=50K
+Male,26,White,Never-married,Assoc-acdm,United-States,Private,Craft-repair,15224,<=50K
+Male,29,White,Never-married,Assoc-acdm,United-States,Private,Craft-repair,25112,<=50K
+Male,30,White,Never-married,Assoc-acdm,United-States,Private,Craft-repair,27147,>50K

@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Divorced,Some-college,United-States,Local-gov,Adm-clerical,3735,<=50K
+Female,43,White,Divorced,Some-college,United-States,Local-gov,Adm-clerical,4766,<=50K
+Female,43,White,Divorced,Some-college,United-States,Local-gov,Adm-clerical,7603,<=50K
+Female,45,White,Divorced,Some-college,United-States,Local-gov,Adm-clerical,7700,<=50K
+Female,43,White,Divorced,Some-college,United-States,Local-gov,Adm-clerical,9976,<=50K
+Female,41,White,Divorced,Bachelors,United-States,Local-gov,Protective-serv,11108,<=50K
+Female,41,White,Divorced,Some-college,United-States,Local-gov,Other-service,12154,<=50K
+Female,43,White,Divorced,Some-college,Mexico,Local-gov,Adm-clerical,12196,<=50K
+Female,44,White,Divorced,Some-college,United-States,Local-gov,Adm-clerical,14525,<=50K
+Female,43,White,Divorced,Some-college,United-States,Local-gov,Protective-serv,17992,<=50K
+Female,43,White,Divorced,Some-college,United-States,Local-gov,Other-service,18259,<=50K
+Female,41,White,Divorced,Some-college,United-States,Local-gov,Protective-serv,26663,<=50K
+Female,44,White,Divorced,Some-college,United-States,Local-gov,Other-service,29859,<=50K

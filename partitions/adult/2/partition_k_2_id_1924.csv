@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,5th-6th,Mexico,Private,Transport-moving,2398,<=50K
+Male,38,White,Never-married,5th-6th,United-States,Self-emp-not-inc,Transport-moving,4591,<=50K
+Male,26,White,Never-married,5th-6th,Mexico,Private,Transport-moving,26762,<=50K

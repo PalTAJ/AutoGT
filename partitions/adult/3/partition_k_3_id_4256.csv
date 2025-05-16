@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,Asian-Pac-Islander,Married-civ-spouse,Bachelors,China,Private,Machine-op-inspct,3347,<=50K
+Female,51,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Taiwan,Self-emp-inc,Exec-managerial,4785,<=50K
+Female,59,Asian-Pac-Islander,Married-civ-spouse,Masters,Philippines,Private,Craft-repair,11903,<=50K

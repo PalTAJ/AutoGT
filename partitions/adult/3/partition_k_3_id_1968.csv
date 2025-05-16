@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Married-civ-spouse,Bachelors,Iran,Private,Exec-managerial,220,>50K
+Male,47,White,Married-civ-spouse,Masters,Japan,Private,Exec-managerial,7594,>50K
+Male,46,White,Married-civ-spouse,Bachelors,India,Private,Sales,22386,>50K
+Male,47,White,Married-civ-spouse,Some-college,Iran,Self-emp-not-inc,Craft-repair,23328,>50K
+Male,47,White,Married-civ-spouse,Doctorate,Iran,Private,Prof-specialty,24618,>50K

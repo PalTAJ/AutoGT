@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,Other,Married-civ-spouse,7th-8th,Dominican-Republic,Private,Sales,2425,<=50K
+Male,43,Other,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,29486,>50K

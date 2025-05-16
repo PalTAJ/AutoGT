@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Never-married,Bachelors,United-States,Private,Sales,9656,<=50K
+Female,29,White,Never-married,Bachelors,United-States,Private,Sales,13791,<=50K
+Female,29,White,Never-married,Bachelors,United-States,Private,Sales,24559,>50K
+Female,29,White,Never-married,Bachelors,United-States,Private,Sales,27427,<=50K
+Female,29,White,Never-married,Bachelors,United-States,Self-emp-inc,Sales,29707,<=50K

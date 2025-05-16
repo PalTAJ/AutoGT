@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,White,Never-married,11th,United-States,Private,Other-service,387,<=50K
+Female,23,White,Never-married,11th,United-States,Private,Transport-moving,2278,<=50K
+Female,21,White,Never-married,11th,Mexico,Private,Priv-house-serv,3085,<=50K
+Female,34,White,Never-married,11th,Ireland,Private,Other-service,6723,<=50K
+Female,23,White,Never-married,11th,Puerto-Rico,Private,Farming-fishing,10824,<=50K
+Female,24,White,Never-married,11th,Germany,Private,Adm-clerical,14857,<=50K
+Female,33,White,Never-married,11th,United-States,Private,Adm-clerical,14990,<=50K
+Female,22,White,Never-married,11th,United-States,Private,Other-service,22157,<=50K
+Female,31,White,Never-married,11th,United-States,Private,Adm-clerical,22677,<=50K
+Female,21,White,Never-married,11th,United-States,Private,Adm-clerical,29603,<=50K

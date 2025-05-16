@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,68,White,Never-married,Preschool,United-States,Private,Machine-op-inspct,12257,<=50K
+Male,64,White,Divorced,5th-6th,United-States,Private,Craft-repair,25414,<=50K

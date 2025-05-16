@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,1672,>50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,3532,>50K
+Male,49,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,4400,>50K
+Male,47,White,Married-civ-spouse,Bachelors,Germany,Federal-gov,Adm-clerical,5318,>50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Adm-clerical,7033,>50K
+Male,44,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,9866,<=50K
+Male,45,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Adm-clerical,10179,<=50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Adm-clerical,12115,<=50K
+Male,44,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,19330,>50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,22401,>50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Adm-clerical,28662,>50K

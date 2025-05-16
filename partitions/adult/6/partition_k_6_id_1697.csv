@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,White,Never-married,Some-college,Mexico,Private,Other-service,2527,<=50K
+Female,24,White,Never-married,Some-college,United-States,Self-emp-not-inc,Other-service,6615,<=50K
+Female,24,White,Never-married,Some-college,United-States,Private,Other-service,7243,<=50K
+Female,24,White,Never-married,Some-college,United-States,Private,Other-service,8235,<=50K
+Female,24,White,Never-married,Some-college,United-States,Self-emp-not-inc,Other-service,10518,<=50K
+Female,24,White,Never-married,Some-college,United-States,Private,Other-service,17068,<=50K
+Female,24,White,Never-married,Some-college,United-States,Private,Other-service,25873,<=50K

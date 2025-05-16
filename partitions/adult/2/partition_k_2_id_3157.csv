@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,White,Married-civ-spouse,HS-grad,Canada,Self-emp-not-inc,Other-service,103,>50K
+Male,56,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Other-service,1325,>50K
+Male,58,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Other-service,7121,>50K
+Male,57,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Other-service,21125,<=50K

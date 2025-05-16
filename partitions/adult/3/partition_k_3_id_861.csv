@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,21,White,Never-married,Assoc-voc,United-States,Private,Transport-moving,5478,<=50K
+Male,22,White,Never-married,Assoc-acdm,United-States,Private,Transport-moving,12831,<=50K
+Male,25,White,Never-married,Assoc-voc,United-States,Self-emp-inc,Transport-moving,28515,<=50K
+Male,24,White,Never-married,Assoc-voc,United-States,Private,Transport-moving,29913,<=50K

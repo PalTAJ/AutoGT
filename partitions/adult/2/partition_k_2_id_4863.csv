@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Never-married,Some-college,United-States,Private,Tech-support,3023,<=50K
+Female,22,White,Never-married,Some-college,United-States,Private,Tech-support,7006,<=50K
+Female,22,White,Never-married,Some-college,United-States,Private,Tech-support,23010,<=50K
+Female,22,White,Never-married,Some-college,United-States,Private,Tech-support,24949,<=50K
+Female,22,White,Never-married,Some-college,United-States,Private,Tech-support,29750,<=50K

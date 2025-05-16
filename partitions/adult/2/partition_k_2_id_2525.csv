@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,White,Married-civ-spouse,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,4099,>50K
+Male,50,White,Married-civ-spouse,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,15064,>50K
+Male,50,White,Married-civ-spouse,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,17881,>50K
+Male,50,White,Married-civ-spouse,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,26556,>50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Married-civ-spouse,Some-college,Germany,Private,Sales,931,<=50K
+Male,30,White,Married-civ-spouse,Some-college,Poland,Private,Handlers-cleaners,23913,<=50K
+Male,26,White,Married-civ-spouse,Some-college,Germany,Private,Exec-managerial,29862,>50K

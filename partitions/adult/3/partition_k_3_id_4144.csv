@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Divorced,HS-grad,United-States,Private,Other-service,6823,<=50K
+Female,47,White,Divorced,HS-grad,Puerto-Rico,Private,Other-service,7333,<=50K
+Female,48,White,Divorced,HS-grad,United-States,Private,Other-service,7389,<=50K
+Female,47,White,Divorced,HS-grad,United-States,Private,Other-service,7404,<=50K
+Female,49,White,Divorced,HS-grad,United-States,Private,Other-service,7923,<=50K
+Female,49,White,Divorced,HS-grad,United-States,Private,Other-service,10846,<=50K
+Female,49,White,Divorced,HS-grad,United-States,Private,Other-service,18739,<=50K
+Female,47,White,Divorced,HS-grad,United-States,Private,Other-service,21384,<=50K
+Female,47,White,Divorced,HS-grad,United-States,Private,Other-service,21415,<=50K
+Female,47,White,Divorced,HS-grad,United-States,Private,Other-service,23029,<=50K
+Female,50,White,Divorced,HS-grad,United-States,Private,Other-service,28891,<=50K
+Female,47,White,Divorced,HS-grad,United-States,Private,Other-service,30037,<=50K

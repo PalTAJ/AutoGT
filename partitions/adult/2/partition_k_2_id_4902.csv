@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,White,Never-married,Some-college,United-States,Self-emp-not-inc,Prof-specialty,7246,<=50K
+Female,26,White,Never-married,Some-college,Mexico,Self-emp-not-inc,Prof-specialty,9601,<=50K
+Female,22,White,Never-married,Some-college,United-States,Self-emp-not-inc,Prof-specialty,12004,<=50K

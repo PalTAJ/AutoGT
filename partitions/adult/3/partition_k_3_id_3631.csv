@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,Asian-Pac-Islander,Married-civ-spouse,7th-8th,China,Private,Machine-op-inspct,1777,<=50K
+Female,29,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Vietnam,Private,Adm-clerical,19660,<=50K
+Female,29,Asian-Pac-Islander,Married-civ-spouse,11th,Philippines,Private,Handlers-cleaners,27743,<=50K
+Female,23,Asian-Pac-Islander,Married-civ-spouse,10th,Vietnam,Private,Machine-op-inspct,28083,<=50K
+Female,29,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Laos,Private,Machine-op-inspct,29034,<=50K
+Female,30,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Private,Sales,29282,<=50K
+Female,29,Asian-Pac-Islander,Married-civ-spouse,HS-grad,China,Private,Prof-specialty,29747,>50K

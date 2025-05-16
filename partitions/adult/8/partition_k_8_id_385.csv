@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,819,<=50K
+Male,40,White,Divorced,Some-college,Iran,Self-emp-not-inc,Exec-managerial,1274,>50K
+Male,31,White,Married-spouse-absent,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,2300,<=50K
+Male,40,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,7070,<=50K
+Male,31,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,10125,>50K
+Male,34,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Sales,11425,<=50K
+Male,33,White,Never-married,Some-college,United-States,Self-emp-not-inc,Sales,11652,<=50K
+Male,35,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,12363,<=50K
+Male,39,White,Divorced,Some-college,United-States,Self-emp-not-inc,Sales,21131,<=50K
+Male,33,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Sales,27615,>50K
+Male,38,White,Never-married,Some-college,United-States,Self-emp-not-inc,Sales,29443,<=50K

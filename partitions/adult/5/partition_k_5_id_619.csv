@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,3732,<=50K
+Male,22,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,9893,<=50K
+Male,29,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,10767,<=50K
+Male,28,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,15797,>50K
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,15861,<=50K
+Male,24,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,20005,<=50K
+Male,24,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,25799,<=50K

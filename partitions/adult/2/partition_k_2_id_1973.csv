@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Local-gov,Craft-repair,8510,<=50K
+Male,38,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Local-gov,Protective-serv,15423,>50K
+Male,35,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Local-gov,Sales,20264,>50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Black,Separated,HS-grad,United-States,Private,Priv-house-serv,3441,<=50K
+Female,38,Black,Never-married,11th,United-States,Private,Other-service,11702,<=50K
+Female,38,Black,Never-married,HS-grad,United-States,Private,Other-service,13439,<=50K
+Female,38,Black,Never-married,HS-grad,United-States,Private,Other-service,22628,<=50K
+Female,38,Black,Separated,HS-grad,United-States,Private,Other-service,24587,<=50K
+Female,38,Black,Never-married,HS-grad,United-States,Private,Other-service,26637,<=50K
+Female,38,Black,Separated,HS-grad,United-States,Private,Transport-moving,28061,<=50K
+Female,38,Black,Divorced,HS-grad,United-States,Private,Other-service,28277,<=50K

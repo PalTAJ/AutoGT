@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Transport-moving,2402,>50K
+Male,43,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Transport-moving,4000,<=50K

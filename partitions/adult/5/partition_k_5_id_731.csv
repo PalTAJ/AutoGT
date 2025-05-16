@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,HS-grad,United-States,State-gov,Prof-specialty,4170,<=50K
+Male,35,White,Never-married,HS-grad,United-States,State-gov,Tech-support,6687,<=50K
+Male,35,White,Divorced,HS-grad,United-States,State-gov,Machine-op-inspct,7884,<=50K
+Male,37,White,Separated,HS-grad,United-States,State-gov,Craft-repair,10292,<=50K
+Male,39,White,Divorced,HS-grad,United-States,State-gov,Prof-specialty,25148,<=50K
+Male,26,White,Never-married,HS-grad,United-States,State-gov,Craft-repair,28857,<=50K

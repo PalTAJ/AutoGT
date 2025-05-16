@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,189,<=50K
+Female,26,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,1418,<=50K
+Female,38,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,10873,<=50K
+Female,39,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,22456,<=50K
+Female,37,White,Divorced,HS-grad,Puerto-Rico,State-gov,Adm-clerical,22489,<=50K
+Female,38,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,26349,<=50K

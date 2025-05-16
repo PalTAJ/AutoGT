@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,69,White,Married-civ-spouse,9th,United-States,Private,Other-service,3204,<=50K
+Male,62,White,Married-civ-spouse,9th,United-States,Private,Other-service,15010,<=50K
+Male,62,White,Married-civ-spouse,9th,United-States,Private,Other-service,25749,<=50K

@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Never-married,HS-grad,United-States,Private,Other-service,452,<=50K
+Female,36,White,Never-married,HS-grad,United-States,Private,Other-service,700,<=50K
+Female,40,White,Never-married,HS-grad,United-States,Private,Other-service,3523,<=50K
+Female,39,White,Never-married,HS-grad,United-States,Private,Other-service,5611,<=50K
+Female,37,White,Never-married,12th,United-States,Private,Other-service,5874,<=50K
+Female,40,White,Never-married,HS-grad,United-States,Private,Other-service,10072,<=50K
+Female,37,White,Never-married,HS-grad,United-States,Private,Other-service,11239,<=50K
+Female,36,White,Never-married,HS-grad,United-States,Private,Other-service,15621,<=50K
+Female,36,White,Never-married,HS-grad,United-States,Private,Other-service,17041,<=50K
+Female,39,White,Never-married,10th,Mexico,Private,Other-service,17542,<=50K
+Female,38,White,Never-married,HS-grad,United-States,Private,Other-service,18613,<=50K
+Female,38,White,Never-married,12th,United-States,Private,Other-service,20074,<=50K
+Female,37,White,Never-married,HS-grad,United-States,Private,Other-service,20457,<=50K
+Female,36,White,Never-married,HS-grad,United-States,Self-emp-inc,Other-service,27244,<=50K

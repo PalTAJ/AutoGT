@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,Black,Separated,Some-college,United-States,Federal-gov,Craft-repair,4022,<=50K
+Male,56,Black,Separated,Some-college,United-States,Federal-gov,Other-service,19284,<=50K
+Male,56,Black,Never-married,Bachelors,United-States,Federal-gov,Transport-moving,19527,<=50K
+Male,53,Black,Divorced,HS-grad,United-States,Federal-gov,Craft-repair,20928,<=50K
+Male,52,Black,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,23826,<=50K
+Male,57,Black,Divorced,Prof-school,United-States,Federal-gov,Exec-managerial,29412,>50K

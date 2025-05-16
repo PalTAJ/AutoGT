@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,Asian-Pac-Islander,Divorced,Some-college,United-States,Private,Adm-clerical,672,<=50K
+Female,45,Asian-Pac-Islander,Never-married,Masters,Philippines,Private,Adm-clerical,1647,<=50K
+Female,49,Asian-Pac-Islander,Divorced,Some-college,United-States,Private,Adm-clerical,7044,<=50K
+Female,48,Asian-Pac-Islander,Never-married,Bachelors,Vietnam,Private,Other-service,8972,<=50K
+Female,46,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Adm-clerical,9614,<=50K
+Female,45,Asian-Pac-Islander,Widowed,Bachelors,Philippines,Private,Other-service,11949,<=50K
+Female,53,Asian-Pac-Islander,Never-married,Bachelors,Japan,Private,Other-service,12239,>50K
+Female,46,Asian-Pac-Islander,Divorced,Bachelors,South,Self-emp-not-inc,Other-service,13926,>50K
+Female,44,Asian-Pac-Islander,Divorced,Some-college,United-States,Private,Adm-clerical,16838,<=50K
+Female,45,Asian-Pac-Islander,Widowed,Assoc-voc,United-States,Private,Adm-clerical,23397,<=50K
+Female,49,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Other-service,23973,<=50K
+Female,48,Asian-Pac-Islander,Separated,Bachelors,Philippines,Private,Adm-clerical,29198,<=50K

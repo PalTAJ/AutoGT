@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,Black,Never-married,HS-grad,United-States,Federal-gov,Transport-moving,1697,<=50K
+Male,42,Black,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,6601,<=50K
+Male,52,Black,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,23826,<=50K

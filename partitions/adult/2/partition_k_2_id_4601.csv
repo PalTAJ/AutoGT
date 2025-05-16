@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,19,White,Never-married,HS-grad,United-States,State-gov,Tech-support,660,<=50K
+Female,20,White,Never-married,HS-grad,United-States,State-gov,Other-service,10022,<=50K
+Female,19,White,Never-married,HS-grad,United-States,State-gov,Adm-clerical,20468,<=50K
+Female,19,White,Never-married,HS-grad,United-States,State-gov,Adm-clerical,22006,<=50K

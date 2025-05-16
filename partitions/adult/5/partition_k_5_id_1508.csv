@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,White,Married-spouse-absent,Assoc-acdm,Iran,Private,Other-service,322,<=50K
+Male,51,White,Divorced,Assoc-voc,United-States,Private,Other-service,1094,<=50K
+Male,60,White,Widowed,Assoc-voc,United-States,Private,Adm-clerical,4542,<=50K
+Male,52,White,Divorced,Assoc-voc,United-States,Private,Other-service,7327,<=50K
+Male,60,White,Divorced,Assoc-voc,United-States,Private,Other-service,10460,<=50K
+Male,58,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,14742,<=50K
+Male,52,White,Never-married,Assoc-voc,United-States,Private,Farming-fishing,23357,<=50K

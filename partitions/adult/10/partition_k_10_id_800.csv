@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,58,White,Married-civ-spouse,1st-4th,Cuba,Private,Other-service,5352,<=50K
+Male,60,White,Married-civ-spouse,5th-6th,United-States,Private,Transport-moving,8292,<=50K
+Male,58,White,Married-civ-spouse,1st-4th,United-States,Self-emp-not-inc,Transport-moving,8311,<=50K
+Male,58,White,Married-civ-spouse,1st-4th,United-States,Private,Farming-fishing,10141,<=50K
+Male,57,White,Married-civ-spouse,5th-6th,United-States,Private,Transport-moving,11536,<=50K
+Male,60,White,Married-civ-spouse,5th-6th,United-States,Private,Transport-moving,13629,<=50K
+Male,60,White,Married-civ-spouse,5th-6th,United-States,Self-emp-not-inc,Farming-fishing,18137,<=50K
+Male,57,White,Married-civ-spouse,5th-6th,Mexico,Private,Farming-fishing,21189,<=50K
+Male,59,White,Married-civ-spouse,5th-6th,El-Salvador,Self-emp-not-inc,Other-service,23692,<=50K
+Male,59,White,Married-civ-spouse,5th-6th,Italy,Self-emp-inc,Farming-fishing,24469,<=50K
+Male,57,White,Married-civ-spouse,5th-6th,Italy,Private,Other-service,28768,<=50K

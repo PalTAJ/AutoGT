@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,White,Never-married,1st-4th,Mexico,Private,Machine-op-inspct,9562,<=50K
+Female,24,White,Never-married,5th-6th,Mexico,Private,Machine-op-inspct,15348,<=50K
+Female,24,White,Never-married,Preschool,United-States,Private,Machine-op-inspct,19820,<=50K

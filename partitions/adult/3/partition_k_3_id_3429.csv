@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,34,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,405,<=50K
+Female,33,White,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,3773,<=50K
+Female,31,White,Never-married,Some-college,United-States,Local-gov,Adm-clerical,8085,<=50K
+Female,39,White,Never-married,Some-college,United-States,Local-gov,Adm-clerical,16586,<=50K
+Female,34,White,Never-married,Some-college,United-States,Local-gov,Adm-clerical,17543,<=50K
+Female,38,White,Never-married,Bachelors,United-States,Local-gov,Protective-serv,23863,>50K

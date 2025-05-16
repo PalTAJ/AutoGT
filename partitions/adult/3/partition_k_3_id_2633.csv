@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,Other,Married-spouse-absent,HS-grad,Canada,Private,Transport-moving,17524,<=50K
+Male,45,Other,Widowed,HS-grad,Columbia,Private,Machine-op-inspct,19921,<=50K
+Male,42,Other,Divorced,Bachelors,Iran,Self-emp-not-inc,Exec-managerial,29632,<=50K

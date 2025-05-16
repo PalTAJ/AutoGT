@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,White,Divorced,HS-grad,England,Private,Adm-clerical,1127,<=50K
+Female,50,White,Divorced,HS-grad,United-States,Private,Adm-clerical,1287,<=50K
+Female,50,White,Widowed,HS-grad,United-States,Private,Other-service,3711,<=50K
+Female,50,White,Divorced,HS-grad,United-States,Private,Adm-clerical,6504,<=50K
+Female,50,White,Separated,HS-grad,United-States,Private,Other-service,8818,<=50K
+Female,50,White,Divorced,HS-grad,United-States,Private,Adm-clerical,13533,<=50K
+Female,50,White,Divorced,HS-grad,United-States,Private,Adm-clerical,16400,<=50K
+Female,50,White,Never-married,HS-grad,United-States,Private,Adm-clerical,18248,<=50K
+Female,50,White,Divorced,7th-8th,United-States,Private,Other-service,18829,<=50K
+Female,50,White,Separated,HS-grad,United-States,Private,Adm-clerical,20568,<=50K
+Female,50,White,Widowed,HS-grad,United-States,Private,Adm-clerical,21695,<=50K
+Female,50,White,Divorced,11th,United-States,Private,Other-service,25544,<=50K
+Female,50,White,Separated,10th,United-States,Private,Adm-clerical,25757,<=50K
+Female,50,White,Divorced,HS-grad,United-States,Private,Adm-clerical,26866,<=50K
+Female,50,White,Divorced,HS-grad,United-States,Private,Other-service,28891,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,Black,Never-married,Assoc-acdm,United-States,Private,Other-service,1258,<=50K
+Male,21,Black,Never-married,Assoc-acdm,Jamaica,Private,Other-service,3697,<=50K
+Male,23,Black,Never-married,Assoc-acdm,United-States,Private,Other-service,15253,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,Other,Married-civ-spouse,HS-grad,Mexico,Private,Farming-fishing,4607,<=50K
+Male,52,Other,Married-civ-spouse,11th,Dominican-Republic,Private,Machine-op-inspct,16336,<=50K
+Male,52,Other,Married-civ-spouse,HS-grad,Columbia,Private,Machine-op-inspct,25623,<=50K

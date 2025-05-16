@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,Some-college,United-States,Private,Other-service,2506,<=50K
+Male,25,White,Divorced,Some-college,United-States,Private,Other-service,8605,<=50K
+Male,25,White,Never-married,Some-college,United-States,Private,Other-service,15101,<=50K
+Male,25,White,Never-married,Some-college,United-States,Private,Other-service,17171,<=50K
+Male,25,White,Never-married,Some-college,Canada,Private,Other-service,17700,<=50K

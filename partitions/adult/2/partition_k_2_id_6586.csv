@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,White,Divorced,HS-grad,England,Private,Adm-clerical,1127,<=50K
+Female,42,White,Separated,HS-grad,Scotland,Private,Adm-clerical,7528,<=50K
+Female,47,White,Widowed,HS-grad,England,Private,Adm-clerical,24497,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Never-married,Some-college,United-States,Federal-gov,Exec-managerial,4598,<=50K
+Male,32,White,Never-married,Some-college,United-States,Federal-gov,Exec-managerial,19590,<=50K
+Male,35,White,Never-married,Bachelors,United-States,Federal-gov,Exec-managerial,28207,<=50K

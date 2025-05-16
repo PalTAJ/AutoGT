@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,White,Married-spouse-absent,Assoc-voc,United-States,Private,Handlers-cleaners,471,<=50K
+Male,43,White,Married-spouse-absent,Masters,United-States,Private,Exec-managerial,2429,<=50K
+Male,46,White,Married-spouse-absent,Masters,United-States,Private,Exec-managerial,9537,>50K
+Male,48,White,Married-spouse-absent,Bachelors,United-States,Self-emp-not-inc,Sales,9662,>50K
+Male,42,White,Married-spouse-absent,Bachelors,Poland,Self-emp-not-inc,Exec-managerial,13518,<=50K
+Male,43,White,Married-spouse-absent,Some-college,Mexico,Private,Sales,18789,<=50K
+Male,44,White,Married-spouse-absent,Some-college,Poland,Private,Handlers-cleaners,21536,<=50K
+Male,45,White,Married-spouse-absent,Bachelors,United-States,Private,Exec-managerial,23351,<=50K

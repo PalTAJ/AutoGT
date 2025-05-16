@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-civ-spouse,Bachelors,El-Salvador,Private,Other-service,3030,<=50K
+Male,46,White,Married-civ-spouse,Bachelors,United-States,Private,Other-service,11197,>50K
+Male,49,White,Married-civ-spouse,Bachelors,United-States,Private,Other-service,11893,<=50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,Private,Other-service,27007,<=50K

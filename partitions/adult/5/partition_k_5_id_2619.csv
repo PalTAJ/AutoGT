@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,Black,Never-married,Some-college,United-States,Private,Craft-repair,10328,<=50K
+Female,57,Black,Divorced,Assoc-acdm,United-States,Private,Prof-specialty,16139,<=50K
+Female,56,Black,Separated,Some-college,United-States,Private,Tech-support,16396,<=50K
+Female,56,Black,Divorced,Bachelors,Haiti,Private,Prof-specialty,17854,<=50K
+Female,51,Black,Divorced,Assoc-voc,United-States,Private,Tech-support,28617,<=50K

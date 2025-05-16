@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,Black,Divorced,Some-college,United-States,Private,Adm-clerical,16472,<=50K
+Male,24,Black,Divorced,Some-college,United-States,Private,Other-service,18737,<=50K
+Male,28,Black,Divorced,Some-college,United-States,Private,Other-service,23723,<=50K
+Male,25,Black,Divorced,Some-college,United-States,Private,Other-service,29645,<=50K

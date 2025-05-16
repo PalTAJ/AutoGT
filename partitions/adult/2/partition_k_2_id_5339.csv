@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,White,Never-married,10th,United-States,Private,Machine-op-inspct,12530,<=50K
+Female,28,White,Never-married,10th,United-States,Private,Machine-op-inspct,14207,<=50K
+Female,28,White,Never-married,10th,United-States,Private,Machine-op-inspct,18782,<=50K

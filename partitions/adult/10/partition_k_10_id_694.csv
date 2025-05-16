@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,54,White,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,6361,<=50K
+Male,60,White,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,8527,>50K
+Male,56,White,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,10519,<=50K
+Male,51,White,Married-civ-spouse,Some-college,United-States,State-gov,Sales,11740,>50K
+Male,51,White,Married-civ-spouse,Some-college,United-States,State-gov,Exec-managerial,14374,<=50K
+Male,58,White,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,15643,<=50K
+Male,59,White,Married-civ-spouse,Some-college,United-States,State-gov,Exec-managerial,16011,<=50K
+Male,54,White,Married-civ-spouse,Bachelors,Puerto-Rico,State-gov,Exec-managerial,20579,>50K
+Male,59,White,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,22503,>50K
+Male,51,White,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,27980,>50K
+Male,56,White,Married-civ-spouse,Some-college,United-States,State-gov,Exec-managerial,28036,>50K

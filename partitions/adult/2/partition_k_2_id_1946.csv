@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Asian-Pac-Islander,Married-civ-spouse,Bachelors,India,Private,Craft-repair,4134,<=50K
+Male,28,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Taiwan,Private,Prof-specialty,16906,<=50K
+Male,27,Asian-Pac-Islander,Married-civ-spouse,Bachelors,India,Private,Tech-support,24376,>50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Vietnam,Private,Craft-repair,25220,>50K

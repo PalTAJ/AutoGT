@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,White,Married-civ-spouse,Some-college,Cuba,Private,Adm-clerical,8636,>50K
+Female,59,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,10730,>50K
+Female,59,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,24585,>50K

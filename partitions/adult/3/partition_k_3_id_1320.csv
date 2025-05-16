@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Philippines,Private,Machine-op-inspct,13932,<=50K
+Male,27,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Laos,Private,Machine-op-inspct,14310,<=50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Vietnam,Private,Machine-op-inspct,25025,>50K

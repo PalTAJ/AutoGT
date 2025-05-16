@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,77,White,Married-spouse-absent,7th-8th,Italy,Self-emp-not-inc,Adm-clerical,6066,>50K
+Male,76,White,Widowed,HS-grad,United-States,Private,Adm-clerical,21790,<=50K
+Male,69,White,Widowed,HS-grad,United-States,Private,Adm-clerical,24027,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Separated,HS-grad,Puerto-Rico,Private,Handlers-cleaners,5194,<=50K
+Male,34,White,Separated,HS-grad,United-States,Self-emp-not-inc,Exec-managerial,5475,<=50K
+Male,32,White,Separated,HS-grad,United-States,Self-emp-not-inc,Sales,6994,<=50K
+Male,34,White,Separated,HS-grad,United-States,Private,Handlers-cleaners,15108,<=50K
+Male,33,White,Separated,10th,United-States,Private,Handlers-cleaners,20582,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,64,White,Separated,9th,United-States,Self-emp-not-inc,Transport-moving,15512,<=50K
+Male,61,White,Divorced,9th,United-States,Private,Other-service,19685,<=50K
+Male,68,Black,Divorced,9th,United-States,Private,Farming-fishing,21408,<=50K
+Male,63,Black,Separated,9th,United-States,Private,Farming-fishing,29479,<=50K

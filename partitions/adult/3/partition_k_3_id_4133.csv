@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Separated,HS-grad,United-States,Private,Machine-op-inspct,2440,<=50K
+Female,45,White,Separated,HS-grad,United-States,Private,Tech-support,6279,<=50K
+Female,41,White,Separated,HS-grad,Cuba,Private,Machine-op-inspct,18278,<=50K
+Female,43,White,Separated,HS-grad,United-States,Private,Machine-op-inspct,20000,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,1074,>50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,11635,<=50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Transport-moving,12493,<=50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Other-service,16367,<=50K
+Male,63,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,18091,<=50K

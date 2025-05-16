@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,White,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,303,>50K
+Female,42,White,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,1617,>50K
+Female,41,White,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,5443,>50K
+Female,42,White,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,5467,>50K
+Female,42,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Prof-specialty,7116,<=50K
+Female,42,White,Married-civ-spouse,Some-college,United-States,Private,Tech-support,7137,>50K
+Female,43,White,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,18187,>50K
+Female,41,White,Married-civ-spouse,Some-college,United-States,Private,Tech-support,21793,<=50K
+Female,48,White,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,26958,>50K
+Female,49,White,Married-civ-spouse,Some-college,United-States,Self-emp-inc,Prof-specialty,28293,>50K
+Female,42,White,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,29395,<=50K

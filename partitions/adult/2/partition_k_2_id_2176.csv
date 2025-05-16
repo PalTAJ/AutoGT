@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Black,Married-civ-spouse,Some-college,Trinadad&Tobago,Private,Machine-op-inspct,1648,<=50K
+Male,33,Black,Married-civ-spouse,Masters,Nicaragua,Federal-gov,Transport-moving,14574,<=50K

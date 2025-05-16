@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,Black,Never-married,HS-grad,United-States,State-gov,Exec-managerial,16377,<=50K
+Male,34,Black,Never-married,HS-grad,United-States,State-gov,Handlers-cleaners,20066,<=50K

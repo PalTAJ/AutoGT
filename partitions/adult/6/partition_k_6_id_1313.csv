@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,White,Divorced,Some-college,United-States,Federal-gov,Prof-specialty,4424,>50K
+Male,54,White,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,13194,<=50K
+Male,54,White,Divorced,Some-college,United-States,Local-gov,Craft-repair,15975,<=50K
+Male,58,White,Separated,Bachelors,United-States,Federal-gov,Prof-specialty,18290,>50K
+Male,55,White,Divorced,Bachelors,United-States,Federal-gov,Prof-specialty,19860,<=50K
+Male,58,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,23696,<=50K

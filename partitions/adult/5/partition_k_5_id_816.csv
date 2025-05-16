@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,12th,United-States,Private,Handlers-cleaners,2626,<=50K
+Male,36,White,Never-married,12th,United-States,Private,Exec-managerial,4345,<=50K
+Male,23,White,Never-married,12th,United-States,State-gov,Exec-managerial,6300,<=50K
+Male,24,White,Never-married,12th,United-States,Private,Sales,6956,<=50K
+Male,31,White,Never-married,12th,United-States,Private,Sales,7347,<=50K
+Male,22,White,Never-married,12th,United-States,State-gov,Exec-managerial,8951,>50K
+Male,31,White,Never-married,12th,United-States,Private,Sales,9475,<=50K
+Male,26,White,Never-married,12th,United-States,Private,Handlers-cleaners,11767,<=50K
+Male,21,White,Never-married,12th,United-States,Private,Handlers-cleaners,17554,<=50K
+Male,29,White,Never-married,12th,England,Private,Exec-managerial,18903,<=50K
+Male,29,White,Never-married,12th,Dominican-Republic,Private,Handlers-cleaners,19263,<=50K
+Male,24,White,Never-married,12th,United-States,Private,Sales,24281,<=50K
+Male,22,White,Never-married,12th,United-States,Private,Handlers-cleaners,25512,<=50K
+Male,39,White,Never-married,12th,United-States,Private,Handlers-cleaners,25778,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,Other,Never-married,10th,United-States,Private,Handlers-cleaners,8424,<=50K
+Male,21,Other,Never-married,10th,Dominican-Republic,Private,Handlers-cleaners,15679,<=50K

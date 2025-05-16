@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-civ-spouse,Bachelors,England,Private,Farming-fishing,2168,<=50K
+Male,39,White,Married-civ-spouse,Masters,Poland,Private,Transport-moving,4689,<=50K
+Male,31,White,Married-civ-spouse,Bachelors,Yugoslavia,Private,Other-service,11858,<=50K
+Male,32,White,Married-civ-spouse,Assoc-voc,Italy,Private,Adm-clerical,13809,<=50K
+Male,35,White,Married-civ-spouse,Some-college,Germany,Private,Transport-moving,13890,<=50K
+Male,35,White,Married-civ-spouse,Bachelors,Yugoslavia,Private,Farming-fishing,19043,>50K
+Male,31,White,Married-civ-spouse,Assoc-acdm,Italy,Private,Adm-clerical,21038,<=50K
+Male,40,White,Married-civ-spouse,Bachelors,England,Self-emp-not-inc,Adm-clerical,23313,<=50K

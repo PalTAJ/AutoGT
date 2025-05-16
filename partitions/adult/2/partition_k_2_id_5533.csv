@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Divorced,HS-grad,United-States,Federal-gov,Tech-support,8136,<=50K
+Female,25,White,Divorced,HS-grad,United-States,Local-gov,Tech-support,17479,<=50K
+Female,33,White,Divorced,HS-grad,United-States,Local-gov,Tech-support,20653,<=50K

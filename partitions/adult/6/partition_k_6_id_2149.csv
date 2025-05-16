@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,White,Separated,HS-grad,United-States,Private,Sales,943,<=50K
+Female,42,White,Separated,HS-grad,United-States,Private,Sales,1240,<=50K
+Female,45,White,Separated,HS-grad,United-States,Private,Sales,2119,<=50K
+Female,60,White,Separated,HS-grad,United-States,Private,Sales,4429,<=50K
+Female,42,White,Separated,HS-grad,United-States,Private,Sales,4722,<=50K
+Female,46,White,Separated,HS-grad,United-States,Private,Sales,5164,<=50K
+Female,53,White,Separated,HS-grad,United-States,Private,Sales,8859,<=50K
+Female,43,White,Separated,HS-grad,United-States,Private,Sales,17255,<=50K
+Female,45,White,Separated,HS-grad,United-States,Private,Exec-managerial,19006,<=50K
+Female,42,White,Separated,HS-grad,United-States,Private,Sales,20673,<=50K
+Female,51,White,Separated,HS-grad,United-States,Private,Handlers-cleaners,22245,<=50K
+Female,47,White,Separated,HS-grad,United-States,Private,Sales,23123,<=50K
+Female,54,White,Separated,HS-grad,United-States,Private,Sales,27030,<=50K
+Female,43,White,Separated,HS-grad,United-States,Private,Exec-managerial,27206,<=50K
+Female,47,White,Separated,HS-grad,United-States,Private,Exec-managerial,28208,<=50K

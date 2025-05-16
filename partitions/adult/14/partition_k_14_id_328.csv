@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Never-married,9th,United-States,Private,Sales,81,<=50K
+Male,22,White,Never-married,9th,United-States,Private,Handlers-cleaners,2737,<=50K
+Male,36,White,Divorced,9th,United-States,Private,Handlers-cleaners,3642,<=50K
+Male,33,White,Divorced,9th,United-States,Private,Handlers-cleaners,4306,<=50K
+Male,25,White,Separated,9th,El-Salvador,Private,Handlers-cleaners,4849,<=50K
+Male,23,White,Never-married,9th,Mexico,Private,Handlers-cleaners,6088,<=50K
+Male,24,White,Never-married,9th,United-States,Private,Handlers-cleaners,6293,<=50K
+Male,22,White,Never-married,9th,United-States,Private,Sales,8363,<=50K
+Male,21,White,Married-spouse-absent,9th,United-States,Private,Handlers-cleaners,10121,<=50K
+Male,31,White,Never-married,9th,United-States,Private,Sales,13372,>50K
+Male,21,White,Never-married,9th,Mexico,Private,Handlers-cleaners,19468,<=50K
+Male,39,White,Divorced,9th,United-States,Private,Handlers-cleaners,23301,<=50K
+Male,38,White,Married-spouse-absent,9th,Mexico,Private,Handlers-cleaners,23830,<=50K
+Male,36,White,Never-married,9th,United-States,Private,Handlers-cleaners,25728,<=50K

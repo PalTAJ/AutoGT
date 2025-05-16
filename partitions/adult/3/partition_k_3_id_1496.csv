@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,Black,Divorced,Assoc-acdm,United-States,State-gov,Protective-serv,6754,<=50K
+Male,27,Black,Divorced,Some-college,Jamaica,State-gov,Adm-clerical,14930,<=50K
+Male,33,Black,Divorced,Some-college,United-States,Federal-gov,Other-service,20244,<=50K
+Male,29,Black,Divorced,Some-college,United-States,State-gov,Adm-clerical,21814,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,White,Never-married,HS-grad,United-States,Without-pay,Farming-fishing,8550,<=50K
+Male,19,White,Never-married,HS-grad,United-States,Without-pay,Farming-fishing,20584,<=50K

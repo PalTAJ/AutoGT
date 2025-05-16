@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Handlers-cleaners,1373,<=50K
+Male,22,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Handlers-cleaners,5010,<=50K
+Male,27,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Sales,8957,<=50K
+Male,28,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Private,Sales,9273,>50K
+Male,25,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Sales,15012,<=50K
+Male,37,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Handlers-cleaners,17417,<=50K
+Male,23,Amer-Indian-Eskimo,Never-married,12th,United-States,Private,Handlers-cleaners,18858,<=50K
+Male,40,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Exec-managerial,22376,<=50K
+Male,22,Amer-Indian-Eskimo,Never-married,12th,United-States,Private,Handlers-cleaners,23764,<=50K
+Male,21,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Handlers-cleaners,26208,<=50K
+Male,30,Amer-Indian-Eskimo,Married-spouse-absent,11th,Mexico,Private,Handlers-cleaners,26997,<=50K

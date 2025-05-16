@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,Asian-Pac-Islander,Married-civ-spouse,Masters,South,Private,Prof-specialty,843,<=50K
+Female,43,Asian-Pac-Islander,Married-civ-spouse,5th-6th,Vietnam,Private,Machine-op-inspct,3562,>50K
+Female,49,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Philippines,Private,Other-service,6739,<=50K
+Female,43,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Thailand,Self-emp-not-inc,Machine-op-inspct,7017,<=50K
+Female,48,Asian-Pac-Islander,Married-civ-spouse,9th,China,Private,Machine-op-inspct,8374,<=50K
+Female,43,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Self-emp-not-inc,Sales,9956,<=50K
+Female,50,Asian-Pac-Islander,Married-civ-spouse,HS-grad,China,Private,Machine-op-inspct,10343,<=50K
+Female,42,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Taiwan,Private,Prof-specialty,10597,>50K
+Female,50,Asian-Pac-Islander,Married-civ-spouse,5th-6th,Philippines,Private,Machine-op-inspct,20196,<=50K
+Female,44,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Philippines,Private,Other-service,20343,<=50K
+Female,43,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Self-emp-inc,Sales,21953,>50K
+Female,45,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Prof-specialty,25509,>50K
+Female,42,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,28479,>50K
+Female,44,Asian-Pac-Islander,Married-civ-spouse,1st-4th,Vietnam,Private,Other-service,29686,<=50K

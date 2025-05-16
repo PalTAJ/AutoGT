@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,Black,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,3315,<=50K
+Female,25,Black,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,14943,<=50K
+Female,28,Black,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,26593,<=50K
+Female,25,Black,Never-married,Bachelors,United-States,Local-gov,Adm-clerical,30118,<=50K

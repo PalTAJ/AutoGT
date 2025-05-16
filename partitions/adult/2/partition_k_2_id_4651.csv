@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Prof-specialty,12695,<=50K
+Female,22,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Prof-specialty,22543,<=50K

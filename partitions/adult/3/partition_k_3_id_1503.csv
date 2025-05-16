@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,Black,Divorced,Some-college,United-States,Local-gov,Handlers-cleaners,479,<=50K
+Male,23,Black,Separated,Some-college,United-States,Local-gov,Exec-managerial,629,<=50K
+Male,30,Black,Separated,Some-college,United-States,Local-gov,Handlers-cleaners,17521,<=50K

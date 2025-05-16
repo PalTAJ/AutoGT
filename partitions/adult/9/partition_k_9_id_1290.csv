@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,Asian-Pac-Islander,Never-married,Some-college,Philippines,State-gov,Adm-clerical,604,<=50K
+Female,28,Asian-Pac-Islander,Separated,11th,India,State-gov,Adm-clerical,1958,<=50K
+Female,24,Asian-Pac-Islander,Married-spouse-absent,Masters,China,State-gov,Prof-specialty,4214,<=50K
+Female,35,Asian-Pac-Islander,Divorced,Some-college,Philippines,Federal-gov,Exec-managerial,7224,<=50K
+Female,22,Asian-Pac-Islander,Never-married,Some-college,Vietnam,Local-gov,Adm-clerical,16774,<=50K
+Female,25,Asian-Pac-Islander,Never-married,Bachelors,Vietnam,Local-gov,Tech-support,18097,<=50K
+Female,39,Asian-Pac-Islander,Widowed,Bachelors,Japan,Local-gov,Prof-specialty,19397,<=50K
+Female,36,Asian-Pac-Islander,Divorced,Prof-school,Philippines,State-gov,Prof-specialty,20298,<=50K
+Female,29,Asian-Pac-Islander,Never-married,Masters,Taiwan,State-gov,Prof-specialty,22247,<=50K
+Female,34,Asian-Pac-Islander,Married-spouse-absent,Some-college,Philippines,State-gov,Adm-clerical,23689,<=50K
+Female,23,Asian-Pac-Islander,Never-married,Bachelors,China,Local-gov,Prof-specialty,29833,<=50K

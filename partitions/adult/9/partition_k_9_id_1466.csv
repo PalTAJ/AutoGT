@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,White,Divorced,11th,United-States,Private,Adm-clerical,2956,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Private,Adm-clerical,4109,<=50K
+Female,59,White,Married-spouse-absent,HS-grad,Puerto-Rico,Private,Adm-clerical,5944,<=50K
+Female,59,White,Separated,HS-grad,United-States,Private,Other-service,6900,<=50K
+Female,59,White,Divorced,HS-grad,United-States,Private,Other-service,7689,<=50K
+Female,59,White,Divorced,HS-grad,United-States,Private,Other-service,12496,<=50K
+Female,59,White,Divorced,HS-grad,United-States,Private,Adm-clerical,15209,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Private,Other-service,15663,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Private,Adm-clerical,16113,<=50K
+Female,59,White,Divorced,HS-grad,United-States,Private,Adm-clerical,16135,<=50K
+Female,59,White,Divorced,HS-grad,United-States,Private,Other-service,16369,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Private,Adm-clerical,19978,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Private,Other-service,20843,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Private,Priv-house-serv,25407,<=50K

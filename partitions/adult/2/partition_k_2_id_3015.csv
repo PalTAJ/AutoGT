@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Married-civ-spouse,Bachelors,Italy,Private,Prof-specialty,1520,>50K
+Male,43,White,Married-civ-spouse,Bachelors,Italy,Private,Prof-specialty,17093,>50K
+Male,41,White,Married-civ-spouse,Bachelors,Germany,Private,Prof-specialty,27341,<=50K

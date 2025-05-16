@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,White,Divorced,Bachelors,Germany,Private,Prof-specialty,3736,<=50K
+Female,39,White,Widowed,Bachelors,Poland,Private,Prof-specialty,15598,>50K

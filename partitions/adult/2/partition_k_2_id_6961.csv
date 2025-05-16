@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,62,White,Widowed,HS-grad,Germany,Private,Adm-clerical,10366,<=50K
+Female,61,White,Widowed,12th,Italy,Private,Machine-op-inspct,21516,<=50K
+Female,64,White,Widowed,HS-grad,France,Private,Sales,29437,>50K

@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Never-married,Masters,United-States,Federal-gov,Exec-managerial,183,>50K
+Female,31,White,Never-married,Assoc-voc,United-States,Federal-gov,Exec-managerial,1252,<=50K
+Female,22,White,Never-married,Some-college,United-States,Federal-gov,Exec-managerial,2073,<=50K
+Female,26,White,Never-married,Bachelors,United-States,Federal-gov,Exec-managerial,3348,<=50K
+Female,37,White,Divorced,Bachelors,United-States,Federal-gov,Exec-managerial,4136,<=50K
+Female,31,White,Never-married,Bachelors,Cuba,Federal-gov,Exec-managerial,6511,<=50K
+Female,37,White,Never-married,Masters,United-States,Federal-gov,Exec-managerial,10833,<=50K
+Female,38,White,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,14330,<=50K
+Female,32,White,Never-married,Bachelors,United-States,Federal-gov,Exec-managerial,16129,<=50K
+Female,23,White,Never-married,Assoc-acdm,United-States,Federal-gov,Exec-managerial,17815,<=50K
+Female,23,White,Never-married,Some-college,United-States,Federal-gov,Sales,19915,<=50K
+Female,35,White,Never-married,Some-college,United-States,Federal-gov,Handlers-cleaners,22832,<=50K
+Female,27,White,Never-married,Bachelors,United-States,Federal-gov,Exec-managerial,25416,<=50K
+Female,38,White,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,27717,<=50K

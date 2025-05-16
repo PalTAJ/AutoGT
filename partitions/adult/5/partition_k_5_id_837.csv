@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,Asian-Pac-Islander,Married-civ-spouse,Some-college,Thailand,Self-emp-inc,Exec-managerial,245,>50K
+Male,34,Asian-Pac-Islander,Married-civ-spouse,Masters,Taiwan,Private,Exec-managerial,289,>50K
+Male,36,Asian-Pac-Islander,Married-civ-spouse,Masters,Taiwan,Private,Exec-managerial,2155,>50K
+Male,38,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Japan,Private,Exec-managerial,5490,>50K
+Male,28,Asian-Pac-Islander,Married-civ-spouse,Some-college,Philippines,Private,Exec-managerial,9267,<=50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,Doctorate,India,Private,Exec-managerial,12543,>50K
+Male,32,Asian-Pac-Islander,Married-civ-spouse,Bachelors,China,Private,Exec-managerial,13102,>50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,Some-college,China,Self-emp-inc,Exec-managerial,13825,<=50K
+Male,35,Asian-Pac-Islander,Married-civ-spouse,Masters,Hong,Private,Exec-managerial,14489,>50K
+Male,37,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Iran,Private,Exec-managerial,14706,<=50K
+Male,29,Asian-Pac-Islander,Married-civ-spouse,Masters,Japan,Private,Exec-managerial,15877,<=50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Hong,Private,Exec-managerial,18504,>50K
+Male,34,Asian-Pac-Islander,Married-civ-spouse,Masters,India,Private,Exec-managerial,24423,>50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,Bachelors,China,Private,Exec-managerial,27381,>50K
+Male,33,Asian-Pac-Islander,Married-civ-spouse,Prof-school,Japan,Private,Exec-managerial,29485,>50K

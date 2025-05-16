@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,19,White,Never-married,Some-college,Japan,State-gov,Adm-clerical,15000,<=50K
+Female,19,White,Never-married,Some-college,United-States,State-gov,Adm-clerical,22676,<=50K
+Female,19,White,Never-married,Some-college,United-States,State-gov,Adm-clerical,27353,<=50K
+Female,19,White,Never-married,Some-college,United-States,State-gov,Adm-clerical,27576,<=50K

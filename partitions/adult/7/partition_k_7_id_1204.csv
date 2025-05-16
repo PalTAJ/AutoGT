@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,Other,Married-civ-spouse,7th-8th,Dominican-Republic,Private,Sales,2425,<=50K
+Male,44,Other,Married-civ-spouse,Bachelors,Puerto-Rico,Private,Exec-managerial,2972,<=50K
+Male,41,Other,Married-civ-spouse,Assoc-voc,Mexico,Self-emp-inc,Sales,3068,<=50K
+Male,53,Other,Married-spouse-absent,12th,Dominican-Republic,Private,Handlers-cleaners,14403,<=50K
+Male,55,Other,Married-civ-spouse,Bachelors,India,Private,Exec-managerial,25292,<=50K
+Male,43,Other,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,29486,>50K
+Male,42,Other,Divorced,Bachelors,Iran,Self-emp-not-inc,Exec-managerial,29632,<=50K

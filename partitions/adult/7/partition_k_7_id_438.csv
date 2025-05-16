@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Never-married,Assoc-acdm,United-States,Private,Sales,316,<=50K
+Male,27,White,Never-married,Assoc-voc,United-States,Private,Sales,1593,<=50K
+Male,26,White,Never-married,Assoc-voc,United-States,Private,Sales,2979,<=50K
+Male,30,White,Divorced,Assoc-acdm,United-States,Private,Sales,8696,<=50K
+Male,30,White,Divorced,Prof-school,United-States,Private,Sales,9751,<=50K
+Male,28,White,Never-married,Assoc-voc,United-States,Private,Sales,9905,<=50K
+Male,26,White,Never-married,Assoc-acdm,United-States,Private,Sales,11170,<=50K
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Sales,11422,<=50K
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Sales,11530,<=50K
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Sales,11930,<=50K
+Male,28,White,Never-married,Assoc-voc,United-States,Private,Sales,15124,<=50K
+Male,28,White,Never-married,Assoc-acdm,United-States,Private,Sales,19989,<=50K
+Male,30,White,Never-married,Assoc-acdm,England,Private,Sales,20035,<=50K
+Male,29,White,Never-married,Assoc-acdm,Mexico,Private,Sales,22453,<=50K
+Male,28,White,Never-married,Assoc-acdm,United-States,Private,Sales,24573,<=50K
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Sales,26541,<=50K

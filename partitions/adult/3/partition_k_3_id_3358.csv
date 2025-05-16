@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Never-married,Bachelors,United-States,Private,Exec-managerial,5430,<=50K
+Female,29,White,Never-married,Bachelors,United-States,Private,Exec-managerial,7890,<=50K
+Female,29,White,Never-married,Bachelors,United-States,Private,Exec-managerial,9707,>50K
+Female,29,White,Never-married,Bachelors,United-States,Private,Exec-managerial,19965,>50K
+Female,29,White,Never-married,Bachelors,United-States,Private,Exec-managerial,27522,<=50K
+Female,29,White,Never-married,Bachelors,United-States,Private,Exec-managerial,29819,<=50K

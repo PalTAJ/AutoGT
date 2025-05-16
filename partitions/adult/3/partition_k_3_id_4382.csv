@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,Black,Widowed,10th,United-States,Local-gov,Other-service,232,<=50K
+Female,59,Black,Separated,HS-grad,United-States,Local-gov,Protective-serv,1916,<=50K
+Female,59,Black,Separated,HS-grad,United-States,Local-gov,Protective-serv,15153,<=50K

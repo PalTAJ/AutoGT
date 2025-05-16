@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,Other,Divorced,Some-college,United-States,Private,Craft-repair,216,<=50K
+Female,29,Other,Divorced,HS-grad,Germany,Private,Prof-specialty,3439,<=50K
+Female,26,Other,Never-married,Assoc-voc,Jamaica,Private,Prof-specialty,6144,<=50K
+Female,26,Other,Never-married,HS-grad,Columbia,Private,Machine-op-inspct,6337,<=50K
+Female,29,Other,Never-married,Bachelors,United-States,Private,Prof-specialty,6671,<=50K
+Female,24,Other,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,8570,<=50K
+Female,25,Other,Never-married,Some-college,United-States,Private,Tech-support,10874,<=50K
+Female,27,Other,Never-married,Bachelors,United-States,Private,Prof-specialty,12688,<=50K
+Female,31,Other,Never-married,7th-8th,Mexico,Private,Machine-op-inspct,17620,<=50K
+Female,39,Other,Married-spouse-absent,7th-8th,Dominican-Republic,Private,Machine-op-inspct,22286,<=50K
+Female,29,Other,Never-married,Bachelors,United-States,Private,Prof-specialty,22618,<=50K
+Female,26,Other,Separated,Assoc-acdm,United-States,Private,Craft-repair,22672,<=50K
+Female,24,Other,Separated,HS-grad,United-States,Private,Machine-op-inspct,28678,<=50K

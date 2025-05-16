@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,Black,Separated,Assoc-acdm,United-States,Private,Other-service,14436,<=50K
+Female,36,Black,Separated,Some-college,United-States,Private,Other-service,25185,<=50K
+Female,36,Black,Separated,Bachelors,United-States,Private,Other-service,26837,<=50K

@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,1950,<=50K
+Female,20,White,Never-married,9th,Nicaragua,Private,Machine-op-inspct,2522,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Self-emp-inc,Machine-op-inspct,4132,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,4703,<=50K
+Female,20,White,Never-married,7th-8th,Mexico,Private,Machine-op-inspct,6737,<=50K
+Female,20,White,Never-married,12th,Italy,Private,Prof-specialty,10092,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Private,Prof-specialty,13968,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,17323,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,17331,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Private,Craft-repair,18039,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,19282,<=50K
+Female,20,White,Never-married,7th-8th,United-States,Private,Machine-op-inspct,26061,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Married-civ-spouse,Assoc-voc,Japan,Private,Prof-specialty,7189,<=50K
+Male,39,White,Married-civ-spouse,Bachelors,Japan,Self-emp-not-inc,Prof-specialty,13332,>50K
+Male,36,White,Married-civ-spouse,Some-college,Japan,Private,Craft-repair,22176,<=50K

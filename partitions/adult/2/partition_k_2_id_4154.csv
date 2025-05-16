@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,Black,Divorced,7th-8th,United-States,Private,Handlers-cleaners,6327,<=50K
+Male,59,Black,Divorced,HS-grad,United-States,Private,Handlers-cleaners,8739,<=50K
+Male,45,Black,Divorced,HS-grad,United-States,Private,Sales,18724,<=50K

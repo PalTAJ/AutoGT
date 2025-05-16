@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,White,Divorced,Some-college,United-States,Private,Exec-managerial,382,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Sales,2758,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Exec-managerial,28673,<=50K
+Female,33,White,Divorced,Some-college,United-States,Private,Exec-managerial,29213,<=50K

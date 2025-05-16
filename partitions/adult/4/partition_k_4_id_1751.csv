@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,White,Married-civ-spouse,12th,Italy,Private,Craft-repair,3167,<=50K
+Male,59,White,Married-civ-spouse,HS-grad,Italy,Private,Machine-op-inspct,4404,<=50K
+Male,56,White,Married-civ-spouse,7th-8th,Portugal,Private,Craft-repair,13799,<=50K
+Male,56,White,Married-civ-spouse,HS-grad,Italy,Private,Machine-op-inspct,16301,>50K
+Male,60,White,Married-civ-spouse,7th-8th,Poland,Private,Machine-op-inspct,23195,<=50K

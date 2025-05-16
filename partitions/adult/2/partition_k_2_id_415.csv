@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Married-civ-spouse,Some-college,Mexico,Private,Adm-clerical,623,<=50K
+Male,40,White,Married-civ-spouse,Bachelors,Mexico,Private,Adm-clerical,25433,<=50K

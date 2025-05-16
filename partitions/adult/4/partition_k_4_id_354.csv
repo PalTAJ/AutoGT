@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,White,Married-civ-spouse,Bachelors,Peru,Private,Prof-specialty,2990,>50K
+Male,31,White,Married-civ-spouse,Assoc-voc,Columbia,Private,Machine-op-inspct,13352,<=50K
+Male,37,White,Married-civ-spouse,Masters,Ecuador,Private,Exec-managerial,15665,>50K
+Male,33,White,Married-civ-spouse,Some-college,Peru,Private,Transport-moving,20216,<=50K
+Male,33,White,Married-civ-spouse,Some-college,Peru,Private,Prof-specialty,26784,>50K

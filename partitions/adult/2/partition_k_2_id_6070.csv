@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,White,Divorced,Some-college,United-States,Self-emp-not-inc,Tech-support,4295,>50K
+Female,55,White,Divorced,Some-college,United-States,Private,Tech-support,26741,<=50K

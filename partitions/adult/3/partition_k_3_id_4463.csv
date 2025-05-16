@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,62,White,Widowed,HS-grad,United-States,Federal-gov,Exec-managerial,10589,<=50K
+Female,71,White,Widowed,HS-grad,United-States,Local-gov,Exec-managerial,14336,<=50K
+Female,63,White,Widowed,HS-grad,United-States,Federal-gov,Exec-managerial,16348,<=50K
+Female,74,White,Widowed,7th-8th,United-States,State-gov,Handlers-cleaners,24010,<=50K

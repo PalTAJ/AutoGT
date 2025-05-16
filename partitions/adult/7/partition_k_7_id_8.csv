@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,1675,<=50K
+Male,19,Black,Never-married,Some-college,United-States,Private,Sales,2356,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,6068,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,8431,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,8920,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,12017,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,16614,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,17673,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,19993,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,24033,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,24293,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,24363,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,25715,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,26583,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Sales,27062,<=50K
+Male,19,Asian-Pac-Islander,Never-married,Some-college,Laos,Private,Sales,28730,<=50K

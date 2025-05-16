@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,68,Black,Divorced,9th,United-States,Private,Farming-fishing,21408,<=50K
+Male,61,Black,Widowed,7th-8th,United-States,Private,Farming-fishing,22687,<=50K
+Male,63,Black,Separated,9th,United-States,Private,Farming-fishing,29479,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Separated,Bachelors,United-States,Private,Tech-support,7194,<=50K
+Male,42,White,Separated,Bachelors,United-States,Private,Tech-support,20122,<=50K

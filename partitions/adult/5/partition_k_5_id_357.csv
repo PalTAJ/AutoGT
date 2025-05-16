@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,325,<=50K
+Male,30,White,Married-civ-spouse,11th,Mexico,Private,Other-service,514,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,3288,<=50K
+Male,27,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,6288,<=50K
+Male,28,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,6516,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,13366,<=50K
+Male,27,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,16373,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,19533,<=50K
+Male,27,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,19540,<=50K
+Male,26,White,Married-civ-spouse,11th,United-States,Private,Other-service,20307,<=50K
+Male,30,White,Married-civ-spouse,9th,Mexico,Private,Other-service,23625,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Other-service,23656,<=50K
+Male,30,White,Married-civ-spouse,9th,United-States,Private,Other-service,23798,<=50K
+Male,28,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,24225,<=50K
+Male,26,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,24996,<=50K
+Male,28,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,25821,<=50K

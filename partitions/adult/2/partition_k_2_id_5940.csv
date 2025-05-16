@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,2021,>50K
+Female,49,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,2917,>50K
+Female,42,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,19092,>50K

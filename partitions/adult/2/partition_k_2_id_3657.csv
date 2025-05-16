@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Never-married,Prof-school,United-States,Local-gov,Prof-specialty,9008,<=50K
+Male,57,White,Never-married,Assoc-voc,United-States,Federal-gov,Tech-support,21413,<=50K

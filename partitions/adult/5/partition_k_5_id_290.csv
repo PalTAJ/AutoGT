@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Married-civ-spouse,Assoc-acdm,England,Local-gov,Protective-serv,8520,<=50K
+Male,34,White,Married-civ-spouse,Bachelors,Italy,State-gov,Adm-clerical,9450,<=50K
+Male,37,White,Married-civ-spouse,Assoc-acdm,France,Local-gov,Exec-managerial,21545,>50K
+Male,34,White,Married-civ-spouse,Doctorate,Germany,State-gov,Prof-specialty,23499,>50K
+Male,29,White,Married-civ-spouse,Bachelors,Germany,Local-gov,Prof-specialty,24916,>50K
+Male,32,White,Married-civ-spouse,Assoc-acdm,England,Local-gov,Protective-serv,25609,>50K

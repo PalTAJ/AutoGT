@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Asian-Pac-Islander,Divorced,10th,Portugal,Private,Machine-op-inspct,17655,<=50K
+Female,28,Asian-Pac-Islander,Divorced,HS-grad,United-States,Private,Tech-support,25768,<=50K
+Female,37,Asian-Pac-Islander,Divorced,HS-grad,Philippines,Private,Machine-op-inspct,29433,<=50K
+Female,40,Asian-Pac-Islander,Divorced,HS-grad,Japan,Private,Craft-repair,29992,<=50K

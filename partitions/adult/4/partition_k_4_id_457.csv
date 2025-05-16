@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Married-civ-spouse,11th,United-States,Private,Transport-moving,7490,<=50K
+Male,23,White,Married-civ-spouse,11th,United-States,Private,Transport-moving,10584,<=50K
+Male,25,White,Married-civ-spouse,11th,Poland,Private,Transport-moving,14672,>50K
+Male,25,White,Married-civ-spouse,11th,United-States,Private,Transport-moving,19057,<=50K

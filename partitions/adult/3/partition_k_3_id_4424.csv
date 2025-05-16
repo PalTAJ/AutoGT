@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,66,White,Never-married,Some-college,United-States,Self-emp-not-inc,Sales,8410,<=50K
+Female,70,White,Widowed,Some-college,United-States,Private,Sales,20356,<=50K
+Female,67,White,Widowed,Some-college,Nicaragua,Private,Sales,25040,<=50K
+Female,68,White,Divorced,Some-college,United-States,Private,Sales,25707,<=50K
+Female,66,White,Widowed,Some-college,United-States,Private,Sales,26606,>50K
+Female,68,White,Divorced,Some-college,United-States,Private,Sales,29594,<=50K

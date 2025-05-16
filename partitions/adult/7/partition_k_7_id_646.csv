@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,Black,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,1107,<=50K
+Male,33,Black,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,1511,<=50K
+Male,31,Black,Married-civ-spouse,Some-college,Trinadad&Tobago,Private,Machine-op-inspct,1648,<=50K
+Male,35,Black,Married-civ-spouse,Some-college,Jamaica,Private,Craft-repair,6128,>50K
+Male,33,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,9472,<=50K
+Male,33,Black,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,9580,>50K
+Male,34,Black,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,10232,>50K
+Male,34,Black,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,18563,<=50K
+Male,34,Black,Married-civ-spouse,Some-college,Jamaica,Private,Prof-specialty,18853,>50K
+Male,34,Black,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,23106,>50K
+Male,34,Black,Married-civ-spouse,Some-college,United-States,Private,Tech-support,24362,>50K
+Male,34,Black,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,24733,<=50K
+Male,33,Black,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,24957,>50K
+Male,35,Black,Married-civ-spouse,Assoc-voc,Jamaica,Private,Tech-support,27263,<=50K

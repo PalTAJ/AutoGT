@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Bachelors,India,State-gov,Prof-specialty,11,>50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Masters,China,State-gov,Prof-specialty,7822,<=50K
+Male,23,Asian-Pac-Islander,Married-civ-spouse,Some-college,Vietnam,State-gov,Adm-clerical,8744,<=50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Masters,Taiwan,State-gov,Prof-specialty,9198,<=50K
+Male,29,Asian-Pac-Islander,Married-civ-spouse,Masters,Taiwan,State-gov,Prof-specialty,9327,<=50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Masters,Taiwan,State-gov,Prof-specialty,21273,<=50K

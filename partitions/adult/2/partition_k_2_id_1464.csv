@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,White,Divorced,Bachelors,United-States,State-gov,Prof-specialty,6571,<=50K
+Male,40,White,Divorced,Bachelors,United-States,State-gov,Craft-repair,15360,<=50K
+Male,40,White,Divorced,Bachelors,United-States,State-gov,Prof-specialty,16242,<=50K

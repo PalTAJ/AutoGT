@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,Other,Married-civ-spouse,Bachelors,Puerto-Rico,Private,Exec-managerial,2972,<=50K
+Male,41,Other,Married-civ-spouse,Assoc-voc,Mexico,Self-emp-inc,Sales,3068,<=50K
+Male,55,Other,Married-civ-spouse,Bachelors,India,Private,Exec-managerial,25292,<=50K

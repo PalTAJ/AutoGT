@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,45,White,Married-civ-spouse,11th,United-States,Local-gov,Other-service,23548,<=50K
+Female,45,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,27781,>50K

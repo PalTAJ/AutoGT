@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,Black,Never-married,Bachelors,Puerto-Rico,State-gov,Protective-serv,10477,<=50K
+Male,45,Black,Married-spouse-absent,Some-college,Haiti,State-gov,Other-service,10819,<=50K
+Male,43,Black,Divorced,Some-college,United-States,State-gov,Adm-clerical,22513,>50K
+Male,45,Black,Never-married,Masters,United-States,State-gov,Adm-clerical,27166,<=50K

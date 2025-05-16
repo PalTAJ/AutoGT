@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,735,<=50K
+Male,43,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,1645,<=50K
+Male,43,White,Divorced,Assoc-voc,United-States,Private,Machine-op-inspct,2319,<=50K
+Male,45,White,Divorced,Assoc-acdm,United-States,Private,Machine-op-inspct,10192,<=50K
+Male,43,White,Divorced,Assoc-voc,United-States,Private,Prof-specialty,15135,<=50K
+Male,42,White,Divorced,Assoc-voc,United-States,Private,Craft-repair,17732,<=50K
+Male,44,White,Divorced,Prof-school,United-States,Private,Prof-specialty,18943,>50K
+Male,41,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,20028,<=50K
+Male,45,White,Divorced,Prof-school,United-States,Self-emp-inc,Prof-specialty,20245,>50K
+Male,44,White,Divorced,Prof-school,United-States,Private,Prof-specialty,21573,>50K
+Male,42,White,Divorced,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,23365,>50K
+Male,43,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,26417,<=50K
+Male,45,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,26910,<=50K
+Male,41,White,Divorced,Assoc-acdm,United-States,Private,Prof-specialty,28300,<=50K
+Male,43,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,28537,>50K
+Male,42,White,Divorced,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,29505,>50K

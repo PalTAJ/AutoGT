@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,White,Never-married,Doctorate,United-States,Federal-gov,Prof-specialty,82,>50K
+Female,42,White,Divorced,Doctorate,United-States,State-gov,Prof-specialty,5072,>50K
+Female,46,White,Never-married,Doctorate,United-States,Federal-gov,Prof-specialty,6112,>50K
+Female,43,White,Separated,Doctorate,United-States,State-gov,Prof-specialty,14766,>50K
+Female,44,White,Married-spouse-absent,Doctorate,United-States,Local-gov,Prof-specialty,18501,<=50K
+Female,47,White,Never-married,Doctorate,United-States,Local-gov,Prof-specialty,26189,<=50K
+Female,43,White,Never-married,Doctorate,United-States,State-gov,Prof-specialty,27368,<=50K

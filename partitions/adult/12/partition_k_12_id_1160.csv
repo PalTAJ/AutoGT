@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,White,Divorced,9th,Canada,Private,Other-service,1550,<=50K
+Female,53,White,Divorced,11th,United-States,Private,Other-service,2668,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Other-service,3155,<=50K
+Female,53,White,Divorced,11th,United-States,Private,Other-service,3302,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Adm-clerical,6024,<=50K
+Female,53,White,Separated,HS-grad,United-States,Private,Adm-clerical,11240,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Other-service,15221,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Adm-clerical,15624,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Adm-clerical,20546,<=50K
+Female,53,White,Divorced,10th,United-States,Private,Adm-clerical,22767,<=50K
+Female,53,White,Widowed,11th,United-States,Private,Other-service,23921,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Other-service,24388,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Priv-house-serv,24678,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Adm-clerical,28749,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Other-service,29342,<=50K
+Female,53,White,Divorced,12th,United-States,Private,Transport-moving,29698,<=50K

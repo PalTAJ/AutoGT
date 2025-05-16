@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,Other,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,47,<=50K
+Female,24,Other,Married-civ-spouse,Some-college,Puerto-Rico,Private,Machine-op-inspct,7280,<=50K
+Female,39,Other,Married-civ-spouse,Masters,United-States,State-gov,Prof-specialty,13683,>50K
+Female,29,Other,Married-civ-spouse,Assoc-acdm,United-States,Private,Sales,16919,>50K

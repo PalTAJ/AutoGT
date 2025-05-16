@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,71,White,Widowed,7th-8th,United-States,Private,Exec-managerial,15606,>50K
+Male,67,White,Widowed,HS-grad,United-States,Private,Exec-managerial,16460,>50K
+Male,63,White,Widowed,HS-grad,United-States,Private,Exec-managerial,28383,>50K

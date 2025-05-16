@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,851,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,3363,>50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,3429,>50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,4385,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,7195,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,8647,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,12117,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,13424,>50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,13537,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,17516,>50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,19869,<=50K
+Male,32,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,20772,<=50K

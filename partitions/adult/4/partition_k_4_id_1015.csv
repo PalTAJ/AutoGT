@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Vietnam,Private,Adm-clerical,3406,<=50K
+Male,37,Asian-Pac-Islander,Married-civ-spouse,Bachelors,China,Private,Other-service,3657,<=50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,7th-8th,Cambodia,Private,Other-service,7391,<=50K
+Male,38,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Trinadad&Tobago,Private,Adm-clerical,8825,<=50K
+Male,38,Asian-Pac-Islander,Married-civ-spouse,Some-college,Philippines,Private,Other-service,9954,<=50K
+Male,37,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,12681,<=50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,HS-grad,China,Private,Other-service,13034,<=50K
+Male,39,Asian-Pac-Islander,Married-civ-spouse,Some-college,Mexico,Private,Adm-clerical,20434,<=50K
+Male,39,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Private,Other-service,24463,>50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Trinadad&Tobago,Private,Transport-moving,25307,<=50K
+Male,39,Asian-Pac-Islander,Married-civ-spouse,5th-6th,Philippines,Private,Other-service,25499,<=50K
+Male,39,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,29183,>50K

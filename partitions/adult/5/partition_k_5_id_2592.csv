@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,White,Never-married,1st-4th,El-Salvador,Private,Machine-op-inspct,2625,<=50K
+Female,43,White,Never-married,5th-6th,Mexico,Private,Machine-op-inspct,4575,<=50K
+Female,43,White,Widowed,1st-4th,Mexico,Private,Prof-specialty,7134,<=50K
+Female,45,White,Divorced,5th-6th,Mexico,Private,Priv-house-serv,12821,<=50K
+Female,43,White,Divorced,5th-6th,Mexico,Private,Priv-house-serv,16502,<=50K
+Female,41,White,Married-spouse-absent,5th-6th,Mexico,Private,Priv-house-serv,16559,<=50K
+Female,41,White,Never-married,Preschool,United-States,Local-gov,Handlers-cleaners,20192,<=50K
+Female,43,White,Separated,5th-6th,Mexico,Private,Machine-op-inspct,21473,<=50K
+Female,41,White,Divorced,5th-6th,Puerto-Rico,Private,Other-service,24182,<=50K
+Female,45,White,Never-married,5th-6th,United-States,Private,Machine-op-inspct,25681,<=50K

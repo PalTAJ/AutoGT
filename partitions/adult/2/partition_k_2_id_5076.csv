@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,White,Divorced,Bachelors,Canada,Private,Exec-managerial,1266,<=50K
+Female,35,White,Divorced,Bachelors,United-States,Private,Exec-managerial,7377,<=50K
+Female,31,White,Divorced,Bachelors,United-States,Private,Exec-managerial,14300,<=50K
+Female,32,White,Divorced,Bachelors,United-States,Private,Exec-managerial,15181,>50K
+Female,32,White,Divorced,Bachelors,United-States,Private,Exec-managerial,15496,<=50K
+Female,33,White,Divorced,Bachelors,United-States,Private,Exec-managerial,19148,<=50K
+Female,35,White,Divorced,Bachelors,United-States,Private,Exec-managerial,21564,<=50K
+Female,32,White,Divorced,Bachelors,United-States,Private,Exec-managerial,24313,>50K
+Female,31,White,Divorced,Bachelors,United-States,Private,Exec-managerial,28178,>50K

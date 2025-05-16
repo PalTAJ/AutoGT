@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Divorced,Bachelors,United-States,Private,Sales,2271,<=50K
+Male,45,White,Divorced,Bachelors,United-States,Private,Sales,4560,>50K
+Male,43,White,Divorced,Bachelors,United-States,Private,Sales,8302,>50K
+Male,41,White,Divorced,Bachelors,United-States,Private,Sales,9748,<=50K
+Male,44,White,Divorced,Bachelors,United-States,Private,Sales,19632,>50K
+Male,45,White,Divorced,Bachelors,United-States,Private,Sales,21594,>50K
+Male,43,White,Divorced,Bachelors,United-States,Private,Sales,28709,>50K

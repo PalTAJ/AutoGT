@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Never-married,HS-grad,Peru,Private,Machine-op-inspct,8928,<=50K
+Female,49,White,Never-married,10th,Peru,Private,Other-service,12147,<=50K

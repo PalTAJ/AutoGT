@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,63,Black,Widowed,HS-grad,United-States,Federal-gov,Handlers-cleaners,1039,<=50K
+Male,67,Black,Divorced,HS-grad,United-States,Local-gov,Protective-serv,16871,<=50K
+Male,62,Black,Divorced,9th,United-States,Local-gov,Protective-serv,23951,<=50K

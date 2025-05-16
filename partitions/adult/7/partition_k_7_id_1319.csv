@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,71,Black,Separated,Some-college,United-States,Self-emp-not-inc,Sales,145,<=50K
+Male,74,White,Widowed,Some-college,United-States,Self-emp-inc,Exec-managerial,2831,<=50K
+Male,71,White,Widowed,Some-college,United-States,Private,Sales,5449,>50K
+Male,78,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,5542,>50K
+Male,76,White,Widowed,Some-college,United-States,Self-emp-not-inc,Sales,7597,<=50K
+Male,72,White,Divorced,Bachelors,United-States,Private,Sales,21532,<=50K
+Male,75,White,Widowed,Some-college,United-States,Self-emp-inc,Sales,28893,>50K
+Male,75,White,Widowed,Masters,United-States,Self-emp-not-inc,Sales,29957,<=50K

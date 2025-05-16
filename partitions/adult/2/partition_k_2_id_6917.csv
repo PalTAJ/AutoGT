@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,69,White,Widowed,HS-grad,United-States,Private,Adm-clerical,7665,<=50K
+Female,69,White,Widowed,HS-grad,United-States,Private,Adm-clerical,8993,<=50K
+Female,69,White,Widowed,HS-grad,United-States,Private,Adm-clerical,11223,<=50K
+Female,69,White,Widowed,HS-grad,United-States,Private,Other-service,23099,<=50K

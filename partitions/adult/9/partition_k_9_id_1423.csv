@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,54,White,Never-married,Some-college,Mexico,Local-gov,Prof-specialty,11191,<=50K
+Female,53,White,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,12104,<=50K
+Female,51,White,Divorced,Some-college,United-States,State-gov,Prof-specialty,12503,<=50K
+Female,55,White,Widowed,Bachelors,United-States,Local-gov,Prof-specialty,14879,<=50K
+Female,55,White,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,15808,<=50K
+Female,53,White,Never-married,Some-college,United-States,Federal-gov,Prof-specialty,16848,<=50K
+Female,55,White,Widowed,Bachelors,United-States,Local-gov,Prof-specialty,19699,>50K
+Female,53,White,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,23838,<=50K
+Female,51,White,Divorced,Some-college,United-States,State-gov,Prof-specialty,24275,<=50K

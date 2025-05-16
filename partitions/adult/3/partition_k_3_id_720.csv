@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Never-married,Some-college,United-States,Private,Craft-repair,505,<=50K
+Male,28,White,Never-married,Some-college,Mexico,Private,Craft-repair,4820,<=50K
+Male,28,White,Never-married,Some-college,United-States,Private,Craft-repair,7781,<=50K
+Male,28,White,Never-married,Some-college,United-States,Private,Craft-repair,11520,<=50K
+Male,28,White,Never-married,Some-college,United-States,Private,Craft-repair,16954,<=50K
+Male,28,White,Never-married,Some-college,United-States,Private,Craft-repair,26901,<=50K

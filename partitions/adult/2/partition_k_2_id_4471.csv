@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,72,Black,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,3597,<=50K
+Male,62,Black,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,22591,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,Amer-Indian-Eskimo,Never-married,Some-college,United-States,Private,Handlers-cleaners,5988,<=50K
+Male,24,Amer-Indian-Eskimo,Never-married,Some-college,Mexico,Private,Craft-repair,6600,<=50K
+Male,23,Amer-Indian-Eskimo,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,8159,<=50K
+Male,23,Amer-Indian-Eskimo,Never-married,Some-college,United-States,Federal-gov,Craft-repair,13069,<=50K
+Male,23,Amer-Indian-Eskimo,Never-married,Bachelors,Mexico,Private,Craft-repair,14092,<=50K
+Male,22,Amer-Indian-Eskimo,Never-married,Assoc-voc,United-States,Self-emp-not-inc,Farming-fishing,20091,<=50K
+Male,25,Amer-Indian-Eskimo,Never-married,Assoc-voc,United-States,Private,Craft-repair,23868,<=50K
+Male,25,Amer-Indian-Eskimo,Never-married,Some-college,United-States,Private,Handlers-cleaners,26318,<=50K

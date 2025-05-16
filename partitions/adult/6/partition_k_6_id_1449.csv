@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,Black,Divorced,Assoc-acdm,United-States,State-gov,Prof-specialty,4466,<=50K
+Male,41,Black,Never-married,Bachelors,Puerto-Rico,State-gov,Protective-serv,10477,<=50K
+Male,45,Black,Married-spouse-absent,Some-college,Haiti,State-gov,Other-service,10819,<=50K
+Male,46,Black,Never-married,HS-grad,United-States,State-gov,Transport-moving,11318,<=50K
+Male,44,Black,Separated,11th,United-States,State-gov,Tech-support,11876,<=50K
+Male,57,Black,Divorced,Bachelors,United-States,State-gov,Machine-op-inspct,19410,<=50K
+Male,45,Black,Divorced,Prof-school,United-States,State-gov,Prof-specialty,20250,>50K
+Male,58,Black,Divorced,HS-grad,United-States,State-gov,Other-service,20930,<=50K
+Male,43,Black,Divorced,Some-college,United-States,State-gov,Adm-clerical,22513,>50K
+Male,55,Black,Divorced,Bachelors,United-States,State-gov,Exec-managerial,25311,<=50K
+Male,45,Black,Never-married,Masters,United-States,State-gov,Adm-clerical,27166,<=50K
+Male,42,Black,Divorced,Bachelors,United-States,State-gov,Prof-specialty,28583,<=50K

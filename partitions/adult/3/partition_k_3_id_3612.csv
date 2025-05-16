@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,34,White,Never-married,11th,Ireland,Private,Other-service,6723,<=50K
+Female,31,White,Divorced,HS-grad,Germany,Private,Adm-clerical,7977,<=50K
+Female,40,White,Divorced,HS-grad,England,Private,Adm-clerical,16808,<=50K
+Female,31,White,Married-spouse-absent,HS-grad,Italy,Private,Other-service,20559,<=50K
+Female,34,White,Divorced,HS-grad,Germany,Private,Transport-moving,28956,<=50K

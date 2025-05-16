@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Married-civ-spouse,Bachelors,England,Self-emp-inc,Exec-managerial,1392,>50K
+Male,50,White,Married-civ-spouse,Bachelors,Italy,Self-emp-inc,Prof-specialty,15465,>50K
+Male,50,White,Married-civ-spouse,Some-college,Germany,Self-emp-inc,Exec-managerial,17143,>50K
+Male,50,White,Married-civ-spouse,Some-college,Germany,Self-emp-inc,Machine-op-inspct,28175,<=50K

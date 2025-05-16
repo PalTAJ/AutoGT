@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Never-married,HS-grad,United-States,Private,Other-service,1137,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Other-service,2587,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Other-service,5219,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Other-service,13696,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Other-service,15868,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Other-service,20021,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Other-service,23857,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Other-service,29914,<=50K

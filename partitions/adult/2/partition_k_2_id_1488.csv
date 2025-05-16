@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Divorced,Assoc-acdm,United-States,Federal-gov,Other-service,5557,<=50K
+Male,22,White,Never-married,Assoc-acdm,United-States,Federal-gov,Other-service,13128,<=50K

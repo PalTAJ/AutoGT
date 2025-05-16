@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Divorced,Bachelors,United-States,Federal-gov,Prof-specialty,6474,<=50K
+Male,44,White,Divorced,Bachelors,United-States,Federal-gov,Tech-support,24263,>50K

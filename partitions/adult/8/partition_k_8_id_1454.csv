@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,Black,Married-civ-spouse,Bachelors,Cuba,Private,Prof-specialty,4,<=50K
+Female,30,Black,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,583,>50K
+Female,30,Black,Married-civ-spouse,Some-college,United-States,Private,Tech-support,6380,<=50K
+Female,26,Black,Married-civ-spouse,Some-college,United-States,Private,Sales,9891,<=50K
+Female,27,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,10705,<=50K
+Female,27,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,11407,>50K
+Female,25,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,12912,>50K
+Female,23,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,16726,<=50K
+Female,25,Black,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,19733,<=50K
+Female,29,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,21634,<=50K
+Female,25,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,24876,>50K
+Female,25,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,25177,>50K
+Female,28,Black,Married-civ-spouse,Bachelors,United-States,Private,Sales,25516,>50K

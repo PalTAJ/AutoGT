@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Never-married,Bachelors,Iran,Private,Prof-specialty,4774,<=50K
+Male,30,White,Never-married,Bachelors,United-States,Private,Prof-specialty,5200,<=50K
+Male,30,White,Never-married,Bachelors,United-States,Private,Prof-specialty,5269,<=50K
+Male,30,White,Never-married,Bachelors,United-States,Private,Prof-specialty,9326,<=50K
+Male,30,White,Never-married,Bachelors,United-States,Private,Prof-specialty,10161,<=50K
+Male,30,White,Never-married,Bachelors,United-States,Private,Prof-specialty,11266,<=50K
+Male,30,White,Never-married,Bachelors,United-States,Private,Prof-specialty,19289,>50K

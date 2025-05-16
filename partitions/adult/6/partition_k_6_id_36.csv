@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,Black,Never-married,HS-grad,Haiti,Private,Sales,314,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Other-service,5914,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Other-service,6649,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Exec-managerial,8693,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Other-service,8813,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Other-service,9758,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Other-service,14087,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Farming-fishing,14987,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Other-service,16169,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Sales,21240,<=50K
+Male,19,Black,Never-married,11th,United-States,Private,Other-service,25538,<=50K
+Male,19,Black,Never-married,HS-grad,United-States,Private,Other-service,28074,<=50K

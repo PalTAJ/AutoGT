@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,White,Never-married,Some-college,United-States,Federal-gov,Tech-support,17621,<=50K
+Male,20,White,Never-married,Some-college,United-States,State-gov,Craft-repair,25797,<=50K
+Male,20,White,Never-married,Assoc-acdm,United-States,State-gov,Prof-specialty,28325,<=50K
+Male,20,White,Never-married,Some-college,United-States,State-gov,Prof-specialty,29000,<=50K

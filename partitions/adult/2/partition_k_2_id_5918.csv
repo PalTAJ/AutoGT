@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,5586,>50K
+Female,43,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,17263,<=50K

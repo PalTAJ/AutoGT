@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Never-married,Assoc-acdm,United-States,Private,Sales,5660,<=50K
+Female,32,White,Never-married,Prof-school,United-States,Private,Sales,24676,>50K

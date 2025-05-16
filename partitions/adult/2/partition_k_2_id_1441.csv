@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Never-married,Some-college,United-States,Federal-gov,Craft-repair,3485,<=50K
+Male,30,White,Never-married,Some-college,United-States,Federal-gov,Craft-repair,23719,<=50K

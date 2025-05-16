@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Separated,Some-college,United-States,Private,Tech-support,16186,<=50K
+Female,32,Black,Separated,Some-college,United-States,Private,Machine-op-inspct,21291,<=50K
+Female,31,Black,Separated,Assoc-voc,United-States,Private,Tech-support,25111,<=50K
+Female,32,Black,Separated,Some-college,United-States,Private,Tech-support,28643,<=50K
+Female,33,Black,Separated,Bachelors,Jamaica,Private,Prof-specialty,28763,<=50K

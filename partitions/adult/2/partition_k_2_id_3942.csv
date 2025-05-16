@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,Asian-Pac-Islander,Married-civ-spouse,9th,India,Private,Handlers-cleaners,18499,<=50K
+Male,50,Asian-Pac-Islander,Married-civ-spouse,12th,Cambodia,Private,Sales,25469,>50K

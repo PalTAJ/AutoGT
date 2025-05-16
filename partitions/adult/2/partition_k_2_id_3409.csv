@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,White,Married-civ-spouse,HS-grad,Greece,Self-emp-not-inc,Sales,7139,<=50K
+Male,59,White,Married-civ-spouse,HS-grad,England,Self-emp-not-inc,Sales,8558,>50K

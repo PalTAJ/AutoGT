@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Never-married,HS-grad,United-States,Federal-gov,Machine-op-inspct,3895,<=50K
+Male,23,White,Never-married,HS-grad,United-States,Federal-gov,Prof-specialty,8508,<=50K
+Male,28,White,Never-married,HS-grad,United-States,Federal-gov,Craft-repair,12719,<=50K

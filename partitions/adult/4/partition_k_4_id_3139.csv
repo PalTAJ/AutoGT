@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,60,White,Divorced,5th-6th,Puerto-Rico,Private,Machine-op-inspct,2301,<=50K
+Female,59,White,Divorced,5th-6th,United-States,Private,Machine-op-inspct,13056,<=50K
+Female,57,White,Separated,5th-6th,United-States,Private,Machine-op-inspct,14054,<=50K
+Female,57,White,Widowed,1st-4th,Columbia,Self-emp-not-inc,Craft-repair,27566,<=50K

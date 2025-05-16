@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,21,Asian-Pac-Islander,Never-married,Some-college,South,Private,Prof-specialty,21126,<=50K
+Female,22,Asian-Pac-Islander,Never-married,Some-college,South,Private,Prof-specialty,25064,<=50K

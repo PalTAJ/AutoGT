@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Married-civ-spouse,Assoc-voc,Puerto-Rico,Private,Other-service,53,<=50K
+Male,31,White,Married-civ-spouse,Assoc-voc,United-States,Private,Other-service,1588,<=50K
+Male,34,White,Married-civ-spouse,Assoc-voc,United-States,Private,Other-service,6579,>50K
+Male,32,White,Married-civ-spouse,Assoc-voc,United-States,Private,Other-service,29715,>50K

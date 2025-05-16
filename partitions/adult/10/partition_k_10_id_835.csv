@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Never-married,Masters,Dominican-Republic,Private,Exec-managerial,633,<=50K
+Male,43,White,Divorced,Masters,United-States,Private,Exec-managerial,1538,<=50K
+Male,41,White,Divorced,Masters,United-States,Self-emp-not-inc,Sales,2005,>50K
+Male,43,White,Married-spouse-absent,Masters,United-States,Private,Exec-managerial,2429,<=50K
+Male,41,White,Divorced,Masters,Peru,Self-emp-not-inc,Handlers-cleaners,9576,<=50K
+Male,42,White,Never-married,Masters,United-States,Private,Exec-managerial,11620,>50K
+Male,44,White,Divorced,Masters,Iran,Private,Sales,13608,<=50K
+Male,45,White,Divorced,Masters,United-States,Private,Exec-managerial,15791,>50K
+Male,45,White,Separated,Doctorate,United-States,Private,Exec-managerial,19634,>50K
+Male,44,White,Divorced,Masters,United-States,Private,Exec-managerial,24259,>50K
+Male,42,White,Never-married,Masters,United-States,Private,Exec-managerial,24784,<=50K
+Male,41,White,Never-married,Masters,United-States,Private,Exec-managerial,25630,>50K
+Male,44,White,Never-married,Masters,United-States,Private,Exec-managerial,27546,>50K
+Male,43,White,Widowed,Masters,United-States,Private,Exec-managerial,28414,>50K
+Male,42,White,Never-married,Masters,United-States,Private,Exec-managerial,28793,>50K

@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,Other,Married-spouse-absent,HS-grad,Mexico,Private,Farming-fishing,3075,<=50K
+Male,23,Other,Never-married,7th-8th,Mexico,Private,Farming-fishing,4333,<=50K
+Male,27,Other,Never-married,1st-4th,Dominican-Republic,Private,Other-service,5052,<=50K
+Male,28,Other,Never-married,Assoc-acdm,United-States,Private,Other-service,7271,<=50K
+Male,29,Other,Never-married,12th,United-States,Private,Other-service,7540,<=50K
+Male,22,Other,Never-married,Some-college,United-States,State-gov,Adm-clerical,9328,<=50K
+Male,25,Other,Never-married,Some-college,United-States,Private,Adm-clerical,16999,<=50K
+Male,28,Other,Never-married,HS-grad,United-States,Private,Transport-moving,17803,<=50K
+Male,24,Other,Never-married,Some-college,United-States,Local-gov,Protective-serv,19625,<=50K
+Male,22,Other,Never-married,HS-grad,Puerto-Rico,Private,Other-service,20120,<=50K
+Male,29,Other,Never-married,HS-grad,Dominican-Republic,Private,Transport-moving,21801,<=50K
+Male,24,Other,Never-married,1st-4th,Mexico,Private,Farming-fishing,26505,<=50K
+Male,29,Other,Never-married,Some-college,Ecuador,Local-gov,Adm-clerical,27047,<=50K
+Male,29,Other,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,29002,<=50K
+Male,28,Other,Never-married,HS-grad,Mexico,Private,Other-service,29299,<=50K

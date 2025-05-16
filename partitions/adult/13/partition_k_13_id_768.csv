@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,68,White,Never-married,11th,United-States,Self-emp-not-inc,Farming-fishing,737,<=50K
+Male,64,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Other-service,2035,<=50K
+Male,63,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Transport-moving,3340,<=50K
+Male,77,White,Married-spouse-absent,7th-8th,Italy,Self-emp-not-inc,Adm-clerical,6066,>50K
+Male,80,White,Widowed,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,9355,<=50K
+Male,74,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Other-service,13058,<=50K
+Male,64,White,Separated,9th,United-States,Self-emp-not-inc,Transport-moving,15512,<=50K
+Male,69,White,Never-married,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,16154,<=50K
+Male,67,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,24669,<=50K
+Male,76,White,Widowed,Some-college,United-States,Self-emp-not-inc,Transport-moving,25079,<=50K
+Male,76,White,Never-married,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,25486,<=50K
+Male,66,White,Widowed,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,26326,<=50K
+Male,68,White,Widowed,10th,United-States,Self-emp-not-inc,Farming-fishing,27891,<=50K
+Male,69,White,Married-spouse-absent,10th,United-States,Self-emp-not-inc,Farming-fishing,27983,<=50K
+Male,80,White,Never-married,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,29470,<=50K

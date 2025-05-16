@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,Asian-Pac-Islander,Never-married,HS-grad,Vietnam,Private,Craft-repair,5677,<=50K
+Male,26,Asian-Pac-Islander,Never-married,HS-grad,Hong,Private,Craft-repair,25998,<=50K

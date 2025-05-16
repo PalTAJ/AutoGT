@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,63,Black,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,3617,<=50K
+Female,65,Black,Never-married,Some-college,United-States,Local-gov,Prof-specialty,12915,<=50K

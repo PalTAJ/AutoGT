@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,Other,Married-civ-spouse,7th-8th,Dominican-Republic,Private,Sales,2425,<=50K
+Male,49,Other,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,6001,<=50K
+Male,41,Other,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,8372,<=50K
+Male,42,Other,Married-civ-spouse,10th,United-States,Private,Craft-repair,17111,>50K
+Male,44,Other,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,19680,<=50K
+Male,43,Other,Married-civ-spouse,HS-grad,Mexico,Private,Craft-repair,22089,<=50K
+Male,44,Other,Married-civ-spouse,7th-8th,Nicaragua,Private,Machine-op-inspct,23505,<=50K
+Male,42,Other,Married-civ-spouse,7th-8th,United-States,Private,Craft-repair,25010,<=50K
+Male,45,Other,Married-civ-spouse,HS-grad,Mexico,Private,Craft-repair,27190,<=50K
+Male,45,Other,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,28319,<=50K
+Male,43,Other,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,29486,>50K

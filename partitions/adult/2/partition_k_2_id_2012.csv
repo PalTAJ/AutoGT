@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,21,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Adm-clerical,3413,<=50K
+Male,24,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Adm-clerical,8304,<=50K
+Male,23,Asian-Pac-Islander,Never-married,Some-college,Puerto-Rico,Private,Adm-clerical,9560,<=50K
+Male,24,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Other-service,21783,<=50K
+Male,23,Asian-Pac-Islander,Never-married,Some-college,Dominican-Republic,Private,Other-service,25780,<=50K
+Male,22,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Transport-moving,27352,<=50K
+Male,21,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,28528,<=50K

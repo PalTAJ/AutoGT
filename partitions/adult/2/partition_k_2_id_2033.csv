@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,Asian-Pac-Islander,Never-married,Some-college,South,Self-emp-not-inc,Sales,5127,<=50K
+Male,29,Asian-Pac-Islander,Never-married,Some-college,South,Self-emp-not-inc,Exec-managerial,12577,<=50K

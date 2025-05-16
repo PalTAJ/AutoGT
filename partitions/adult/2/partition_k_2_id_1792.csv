@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Married-spouse-absent,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,19156,<=50K
+Male,37,White,Married-spouse-absent,11th,El-Salvador,Private,Other-service,22824,<=50K
+Male,38,White,Married-spouse-absent,11th,Mexico,Private,Transport-moving,23355,<=50K

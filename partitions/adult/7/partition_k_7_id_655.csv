@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,Black,Married-civ-spouse,Assoc-voc,United-States,Local-gov,Protective-serv,1764,<=50K
+Male,38,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Exec-managerial,8281,>50K
+Male,38,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Exec-managerial,15122,<=50K
+Male,34,Black,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,15161,<=50K
+Male,40,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Protective-serv,15373,>50K
+Male,29,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Exec-managerial,16001,>50K
+Male,33,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Protective-serv,19045,>50K
+Male,28,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Protective-serv,20699,>50K
+Male,39,Black,Married-civ-spouse,Assoc-acdm,United-States,Local-gov,Craft-repair,21318,>50K
+Male,24,Black,Married-civ-spouse,Some-college,United-States,Local-gov,Protective-serv,23132,<=50K
+Male,37,Black,Married-civ-spouse,Assoc-voc,United-States,Local-gov,Protective-serv,25354,<=50K
+Male,31,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Protective-serv,26101,>50K
+Male,38,Black,Married-civ-spouse,Prof-school,United-States,Local-gov,Prof-specialty,29410,>50K
+Male,23,Black,Married-civ-spouse,Some-college,United-States,Local-gov,Protective-serv,29821,<=50K

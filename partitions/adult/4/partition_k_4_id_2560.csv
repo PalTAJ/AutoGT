@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Never-married,Prof-school,United-States,Local-gov,Prof-specialty,2099,<=50K
+Female,23,White,Never-married,Assoc-voc,United-States,State-gov,Tech-support,4590,<=50K
+Female,29,White,Never-married,Assoc-voc,United-States,State-gov,Tech-support,4941,<=50K
+Female,27,White,Never-married,Assoc-acdm,United-States,Local-gov,Prof-specialty,11204,<=50K
+Female,27,White,Never-married,Assoc-voc,United-States,Local-gov,Tech-support,16425,<=50K
+Female,24,White,Never-married,Assoc-acdm,United-States,Local-gov,Prof-specialty,18006,<=50K
+Female,29,White,Never-married,Prof-school,United-States,Federal-gov,Prof-specialty,19805,<=50K
+Female,30,White,Never-married,Assoc-acdm,United-States,Federal-gov,Prof-specialty,20269,<=50K
+Female,22,White,Never-married,Assoc-acdm,United-States,State-gov,Prof-specialty,28959,<=50K

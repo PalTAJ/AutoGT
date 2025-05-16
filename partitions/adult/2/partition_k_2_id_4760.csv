@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,7120,<=50K
+Female,24,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,9975,<=50K
+Female,24,White,Married-civ-spouse,HS-grad,Ecuador,Private,Machine-op-inspct,24294,<=50K
+Female,24,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,29382,<=50K

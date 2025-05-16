@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,51,White,Divorced,Bachelors,England,Private,Prof-specialty,14669,<=50K
+Female,42,White,Never-married,Bachelors,England,Private,Prof-specialty,23070,<=50K

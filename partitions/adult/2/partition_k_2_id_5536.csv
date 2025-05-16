@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,23,White,Never-married,HS-grad,United-States,Local-gov,Prof-specialty,10034,<=50K
+Female,24,White,Never-married,HS-grad,United-States,Local-gov,Tech-support,10203,<=50K
+Female,24,White,Never-married,7th-8th,United-States,State-gov,Tech-support,14900,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Federal-gov,Machine-op-inspct,23094,<=50K

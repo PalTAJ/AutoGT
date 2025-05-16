@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,58,White,Divorced,HS-grad,United-States,Private,Adm-clerical,3034,<=50K
+Female,58,White,Widowed,HS-grad,United-States,Private,Adm-clerical,4188,<=50K
+Female,58,White,Divorced,9th,United-States,Private,Other-service,7659,<=50K
+Female,58,White,Widowed,HS-grad,United-States,Private,Adm-clerical,8019,<=50K
+Female,58,White,Widowed,7th-8th,Guatemala,Private,Farming-fishing,8503,<=50K
+Female,58,White,Divorced,HS-grad,United-States,Private,Adm-clerical,11297,<=50K
+Female,58,White,Divorced,HS-grad,United-States,Private,Adm-clerical,11762,<=50K
+Female,58,White,Divorced,HS-grad,United-States,Private,Other-service,16507,<=50K
+Female,58,White,Divorced,HS-grad,United-States,Private,Other-service,17085,<=50K
+Female,58,White,Widowed,11th,United-States,Private,Other-service,22137,<=50K
+Female,58,White,Never-married,HS-grad,United-States,Private,Adm-clerical,22656,<=50K
+Female,58,White,Divorced,HS-grad,United-States,Private,Adm-clerical,24598,<=50K
+Female,58,White,Never-married,HS-grad,United-States,Private,Adm-clerical,26220,<=50K
+Female,58,White,Widowed,HS-grad,United-States,Private,Adm-clerical,27854,>50K
+Female,58,White,Separated,HS-grad,Dominican-Republic,Private,Other-service,29436,<=50K
+Female,58,White,Widowed,HS-grad,United-States,Private,Adm-clerical,30159,<=50K

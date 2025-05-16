@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,19,Amer-Indian-Eskimo,Married-spouse-absent,10th,United-States,Self-emp-not-inc,Adm-clerical,5024,<=50K
+Female,19,Amer-Indian-Eskimo,Never-married,11th,South,Private,Adm-clerical,21218,<=50K

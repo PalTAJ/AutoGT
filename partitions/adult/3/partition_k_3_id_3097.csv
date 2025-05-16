@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Married-civ-spouse,Some-college,United-States,Local-gov,Tech-support,7267,>50K
+Female,33,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,17087,<=50K
+Female,32,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,19443,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,Black,Married-spouse-absent,9th,Jamaica,Private,Other-service,6,<=50K
+Female,44,Black,Married-spouse-absent,HS-grad,Jamaica,Private,Other-service,6076,<=50K
+Female,45,Black,Married-spouse-absent,HS-grad,United-States,Private,Other-service,10334,>50K

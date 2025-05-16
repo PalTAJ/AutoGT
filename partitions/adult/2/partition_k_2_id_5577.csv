@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Married-spouse-absent,1st-4th,Dominican-Republic,Private,Machine-op-inspct,2368,<=50K
+Female,36,White,Widowed,1st-4th,Mexico,Private,Other-service,17478,<=50K
+Female,37,White,Never-married,1st-4th,El-Salvador,Private,Other-service,24813,<=50K

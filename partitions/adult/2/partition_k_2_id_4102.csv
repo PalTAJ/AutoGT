@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,Black,Married-civ-spouse,5th-6th,Jamaica,Private,Other-service,13792,<=50K
+Male,44,Black,Married-civ-spouse,5th-6th,United-States,Private,Machine-op-inspct,27191,<=50K
+Male,46,Black,Married-civ-spouse,Preschool,Dominican-Republic,Private,Machine-op-inspct,29975,<=50K

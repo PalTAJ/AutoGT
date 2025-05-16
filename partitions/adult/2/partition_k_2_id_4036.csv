@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,Black,Married-civ-spouse,Assoc-voc,United-States,Local-gov,Craft-repair,108,>50K
+Male,44,Black,Married-civ-spouse,Assoc-voc,United-States,Federal-gov,Craft-repair,15123,>50K
+Male,43,Black,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,18049,<=50K

@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Separated,Bachelors,United-States,Private,Sales,65,<=50K
+Female,39,Black,Separated,5th-6th,Puerto-Rico,Private,Sales,9618,<=50K
+Female,40,Black,Separated,HS-grad,United-States,Private,Sales,13283,<=50K
+Female,36,Black,Separated,HS-grad,United-States,Private,Sales,16641,<=50K
+Female,34,Black,Separated,HS-grad,United-States,Private,Sales,21963,<=50K
+Female,36,Black,Separated,HS-grad,United-States,Private,Sales,29257,<=50K

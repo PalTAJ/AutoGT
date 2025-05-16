@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,Black,Never-married,Assoc-voc,United-States,Private,Other-service,13545,<=50K
+Female,28,Black,Never-married,Assoc-acdm,United-States,Private,Other-service,15325,<=50K
+Female,26,Black,Never-married,Assoc-acdm,United-States,Private,Other-service,27537,<=50K

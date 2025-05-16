@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Never-married,Some-college,United-States,Private,Sales,3037,<=50K
+Female,40,White,Never-married,Some-college,United-States,Private,Sales,3678,<=50K
+Female,40,White,Never-married,Some-college,United-States,Private,Sales,14040,<=50K
+Female,38,White,Never-married,Some-college,United-States,Private,Sales,24502,<=50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,5858,>50K
+Male,60,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,8819,<=50K
+Male,57,White,Married-civ-spouse,Bachelors,United-States,Private,Transport-moving,12664,<=50K
+Male,60,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,18430,>50K
+Male,59,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,19604,>50K
+Male,57,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Transport-moving,23730,>50K
+Male,60,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Transport-moving,26191,<=50K

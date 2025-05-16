@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,Black,Married-civ-spouse,HS-grad,Jamaica,Local-gov,Other-service,1956,>50K
+Female,50,Black,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,4793,>50K
+Female,57,Black,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,6446,>50K
+Female,52,Black,Married-civ-spouse,HS-grad,United-States,Local-gov,Other-service,9379,<=50K
+Female,46,Black,Married-civ-spouse,HS-grad,United-States,State-gov,Other-service,10831,<=50K
+Female,52,Black,Married-civ-spouse,Masters,United-States,State-gov,Prof-specialty,11257,>50K
+Female,44,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Protective-serv,17791,>50K
+Female,43,Black,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,19779,>50K
+Female,43,Black,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Prof-specialty,22882,<=50K
+Female,51,Black,Married-civ-spouse,Doctorate,United-States,Local-gov,Prof-specialty,24068,>50K
+Female,41,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,24577,>50K
+Female,41,Black,Married-civ-spouse,Some-college,United-States,Local-gov,Adm-clerical,24655,<=50K
+Female,47,Black,Married-civ-spouse,HS-grad,United-States,Federal-gov,Prof-specialty,25906,<=50K
+Female,58,Black,Married-civ-spouse,Some-college,United-States,Local-gov,Adm-clerical,29478,<=50K

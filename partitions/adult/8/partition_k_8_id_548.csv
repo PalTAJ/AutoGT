@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,Asian-Pac-Islander,Never-married,9th,Philippines,Private,Other-service,10526,<=50K
+Male,34,Asian-Pac-Islander,Never-married,11th,Philippines,Private,Other-service,12689,<=50K
+Male,34,Asian-Pac-Islander,Never-married,HS-grad,Japan,Private,Other-service,12890,<=50K
+Male,29,Asian-Pac-Islander,Never-married,HS-grad,Philippines,Private,Protective-serv,15766,<=50K
+Male,29,Asian-Pac-Islander,Married-spouse-absent,HS-grad,India,Self-emp-not-inc,Transport-moving,16525,>50K
+Male,33,Asian-Pac-Islander,Never-married,HS-grad,Vietnam,Self-emp-inc,Other-service,21834,<=50K
+Male,29,Asian-Pac-Islander,Never-married,HS-grad,Thailand,State-gov,Other-service,22431,<=50K
+Male,26,Asian-Pac-Islander,Divorced,HS-grad,Philippines,Private,Farming-fishing,28996,<=50K

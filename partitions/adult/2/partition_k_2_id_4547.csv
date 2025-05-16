@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,White,Never-married,Some-college,United-States,State-gov,Adm-clerical,6603,<=50K
+Female,20,White,Never-married,Some-college,United-States,State-gov,Adm-clerical,6988,<=50K
+Female,20,White,Never-married,Some-college,United-States,State-gov,Adm-clerical,14362,<=50K
+Female,20,White,Never-married,Some-college,United-States,State-gov,Adm-clerical,27417,<=50K

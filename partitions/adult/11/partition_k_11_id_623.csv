@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Exec-managerial,1205,<=50K
+Male,45,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Exec-managerial,4984,>50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Exec-managerial,8699,>50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Sales,11033,<=50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Handlers-cleaners,14718,<=50K
+Male,43,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Exec-managerial,15517,>50K
+Male,44,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Exec-managerial,18816,>50K
+Male,45,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Handlers-cleaners,20847,<=50K
+Male,45,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Exec-managerial,23738,>50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Exec-managerial,27273,>50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Federal-gov,Exec-managerial,27394,>50K

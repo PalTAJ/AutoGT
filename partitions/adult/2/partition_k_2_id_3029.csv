@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Married-civ-spouse,Some-college,Germany,Private,Handlers-cleaners,11122,>50K
+Male,41,White,Married-civ-spouse,Bachelors,Germany,Private,Handlers-cleaners,14921,<=50K
+Male,59,White,Married-civ-spouse,Bachelors,Italy,Private,Handlers-cleaners,17929,>50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Never-married,Assoc-voc,Cuba,Private,Other-service,15529,<=50K
+Male,32,White,Never-married,Assoc-voc,United-States,Private,Other-service,21403,<=50K
+Male,34,White,Never-married,Assoc-voc,United-States,Private,Other-service,26681,<=50K
+Male,35,White,Never-married,Assoc-voc,United-States,Private,Other-service,28089,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Widowed,HS-grad,United-States,State-gov,Exec-managerial,1141,<=50K
+Female,33,White,Never-married,HS-grad,United-States,Federal-gov,Exec-managerial,4340,<=50K
+Female,39,White,Never-married,HS-grad,United-States,Federal-gov,Exec-managerial,19858,<=50K
+Female,28,White,Never-married,HS-grad,Puerto-Rico,Federal-gov,Exec-managerial,26204,<=50K
+Female,32,White,Never-married,HS-grad,United-States,Federal-gov,Exec-managerial,27849,<=50K

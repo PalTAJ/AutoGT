@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,Other,Never-married,Bachelors,United-States,Private,Other-service,12116,<=50K
+Male,40,Other,Married-spouse-absent,Bachelors,Mexico,Private,Other-service,25313,<=50K

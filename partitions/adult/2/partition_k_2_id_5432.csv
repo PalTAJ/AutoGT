@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Never-married,HS-grad,United-States,Private,Adm-clerical,1960,<=50K
+Female,31,White,Never-married,10th,United-States,Private,Adm-clerical,8397,<=50K
+Female,31,White,Never-married,HS-grad,Puerto-Rico,Private,Adm-clerical,9624,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Adm-clerical,10385,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Adm-clerical,11057,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Adm-clerical,21198,<=50K
+Female,31,White,Never-married,11th,United-States,Private,Adm-clerical,22677,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Adm-clerical,24817,<=50K

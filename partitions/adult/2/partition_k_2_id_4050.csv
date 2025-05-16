@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,Black,Married-civ-spouse,Some-college,United-States,Federal-gov,Exec-managerial,15757,<=50K
+Male,46,Black,Married-civ-spouse,Some-college,United-States,Federal-gov,Exec-managerial,25286,<=50K
+Male,50,Black,Married-civ-spouse,Some-college,United-States,Federal-gov,Exec-managerial,27000,<=50K

@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,1691,<=50K
+Male,46,Asian-Pac-Islander,Married-civ-spouse,Assoc-acdm,India,Private,Adm-clerical,5718,<=50K
+Male,41,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Vietnam,Private,Other-service,8269,<=50K
+Male,42,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Other-service,9433,>50K
+Male,55,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Other-service,9497,<=50K
+Male,43,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Vietnam,Private,Adm-clerical,9554,<=50K
+Male,50,Asian-Pac-Islander,Married-civ-spouse,Some-college,Philippines,Private,Adm-clerical,10612,>50K
+Male,41,Asian-Pac-Islander,Married-civ-spouse,Assoc-voc,India,Private,Other-service,15670,>50K
+Male,46,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,20333,>50K
+Male,58,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,21199,<=50K
+Male,42,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,26809,>50K
+Male,48,Asian-Pac-Islander,Married-civ-spouse,Assoc-voc,Philippines,Private,Other-service,27800,>50K
+Male,41,Asian-Pac-Islander,Married-civ-spouse,Prof-school,Philippines,Private,Adm-clerical,29113,<=50K
+Male,41,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,29348,>50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,Amer-Indian-Eskimo,Widowed,Assoc-voc,United-States,State-gov,Exec-managerial,4704,<=50K
+Female,43,Amer-Indian-Eskimo,Widowed,Some-college,United-States,Federal-gov,Exec-managerial,13822,<=50K

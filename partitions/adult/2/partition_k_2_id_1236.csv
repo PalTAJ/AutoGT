@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,Some-college,United-States,Private,Other-service,2215,<=50K
+Male,26,White,Never-married,Some-college,United-States,Private,Other-service,4867,<=50K
+Male,27,White,Never-married,Some-college,United-States,Private,Other-service,8748,<=50K
+Male,27,White,Divorced,Some-college,United-States,Private,Other-service,9127,<=50K
+Male,30,White,Never-married,Some-college,United-States,Private,Other-service,9696,<=50K
+Male,26,White,Never-married,Some-college,United-States,Private,Other-service,10469,<=50K
+Male,26,White,Never-married,Some-college,United-States,Private,Other-service,16315,<=50K
+Male,27,White,Never-married,Some-college,United-States,Private,Other-service,16707,<=50K
+Male,26,White,Never-married,Some-college,United-States,Private,Other-service,19254,<=50K
+Male,29,White,Never-married,Some-college,United-States,Private,Other-service,20017,<=50K
+Male,27,White,Never-married,Some-college,United-States,Private,Other-service,23891,<=50K
+Male,28,White,Never-married,Some-college,United-States,Private,Other-service,25964,<=50K
+Male,28,White,Never-married,Some-college,United-States,Private,Other-service,28971,<=50K

@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,Asian-Pac-Islander,Married-civ-spouse,HS-grad,South,Self-emp-not-inc,Sales,1814,>50K
+Male,47,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Self-emp-not-inc,Prof-specialty,7197,<=50K
+Male,42,Asian-Pac-Islander,Married-civ-spouse,Masters,South,Federal-gov,Prof-specialty,11639,>50K
+Male,50,Asian-Pac-Islander,Married-civ-spouse,HS-grad,South,Private,Prof-specialty,11823,>50K
+Male,49,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Private,Sales,15846,>50K
+Male,50,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Self-emp-inc,Sales,17100,>50K
+Male,44,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Self-emp-not-inc,Exec-managerial,20566,>50K
+Male,48,Asian-Pac-Islander,Married-civ-spouse,HS-grad,South,Self-emp-not-inc,Exec-managerial,22059,<=50K
+Male,50,Asian-Pac-Islander,Married-civ-spouse,HS-grad,South,Self-emp-not-inc,Other-service,28301,<=50K

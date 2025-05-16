@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Machine-op-inspct,16839,<=50K
+Male,41,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Prof-specialty,27056,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,Black,Divorced,Assoc-acdm,United-States,State-gov,Prof-specialty,4466,<=50K
+Male,44,Black,Divorced,Assoc-acdm,United-States,Local-gov,Tech-support,6780,<=50K
+Male,53,Black,Never-married,Assoc-acdm,United-States,Local-gov,Adm-clerical,13403,<=50K
+Male,45,Black,Divorced,Prof-school,United-States,State-gov,Prof-specialty,20250,>50K
+Male,57,Black,Divorced,Prof-school,United-States,Federal-gov,Exec-managerial,29412,>50K

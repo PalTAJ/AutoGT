@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,73,White,Married-civ-spouse,Masters,Poland,Local-gov,Prof-specialty,7285,>50K
+Male,65,White,Married-civ-spouse,Masters,Greece,Local-gov,Prof-specialty,9857,<=50K

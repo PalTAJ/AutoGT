@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,67,White,Widowed,Bachelors,United-States,Private,Exec-managerial,895,>50K
+Male,68,White,Widowed,Some-college,United-States,Private,Sales,1742,<=50K
+Male,63,White,Never-married,Bachelors,United-States,Private,Sales,3323,<=50K
+Male,63,White,Divorced,Assoc-acdm,United-States,Private,Exec-managerial,3967,>50K
+Male,71,White,Widowed,Some-college,United-States,Private,Sales,5449,>50K
+Male,69,White,Divorced,Bachelors,United-States,Private,Handlers-cleaners,10642,<=50K
+Male,68,White,Divorced,Some-college,United-States,Private,Exec-managerial,11461,<=50K
+Male,62,White,Widowed,Bachelors,United-States,Private,Exec-managerial,14202,>50K
+Male,67,White,Married-spouse-absent,Masters,United-States,Private,Exec-managerial,18012,>50K
+Male,65,White,Divorced,Masters,United-States,Private,Sales,18833,<=50K
+Male,68,White,Widowed,Bachelors,United-States,Private,Sales,19675,>50K
+Male,65,White,Never-married,Bachelors,United-States,Private,Exec-managerial,21359,<=50K
+Male,72,White,Divorced,Bachelors,United-States,Private,Sales,21532,<=50K
+Male,62,White,Never-married,Masters,United-States,Private,Handlers-cleaners,25097,<=50K
+Male,64,White,Divorced,Bachelors,United-States,Private,Exec-managerial,27392,>50K
+Male,64,White,Divorced,Bachelors,United-States,Private,Exec-managerial,27492,>50K

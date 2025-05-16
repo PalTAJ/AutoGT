@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,876,>50K
+Male,43,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,1569,>50K
+Male,43,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,7010,>50K
+Male,43,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,8893,>50K
+Male,43,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,13891,>50K
+Male,43,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,14406,>50K
+Male,43,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,16676,>50K
+Male,43,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,28040,<=50K

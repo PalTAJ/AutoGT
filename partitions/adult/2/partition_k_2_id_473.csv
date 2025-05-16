@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-civ-spouse,Assoc-voc,United-States,Private,Protective-serv,19846,<=50K
+Male,33,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Protective-serv,29383,<=50K

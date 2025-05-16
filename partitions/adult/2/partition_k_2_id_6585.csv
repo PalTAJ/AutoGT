@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,White,Divorced,HS-grad,Scotland,Private,Machine-op-inspct,17665,<=50K
+Female,56,White,Divorced,7th-8th,Yugoslavia,Private,Machine-op-inspct,20569,<=50K
+Female,46,White,Separated,9th,Ireland,Private,Machine-op-inspct,24044,<=50K
+Female,55,White,Divorced,12th,Italy,Private,Machine-op-inspct,29902,<=50K

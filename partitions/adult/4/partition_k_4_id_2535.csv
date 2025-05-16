@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Never-married,Assoc-acdm,United-States,Private,Sales,340,<=50K
+Female,22,White,Never-married,Assoc-acdm,United-States,Private,Sales,6557,<=50K
+Female,23,White,Never-married,Assoc-acdm,United-States,Private,Sales,16307,<=50K
+Female,21,White,Never-married,Assoc-acdm,United-States,Private,Sales,26537,<=50K
+Female,24,White,Never-married,Assoc-acdm,United-States,Private,Sales,27072,<=50K
+Female,23,White,Never-married,Assoc-acdm,United-States,Private,Sales,27990,<=50K
+Female,25,White,Never-married,Assoc-acdm,Peru,Private,Sales,29595,<=50K

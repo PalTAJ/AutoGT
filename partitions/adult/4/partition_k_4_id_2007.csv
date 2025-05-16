@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,Other,Married-civ-spouse,Prof-school,United-States,Self-emp-inc,Prof-specialty,8044,>50K
+Male,57,Other,Married-civ-spouse,Some-college,Mexico,Private,Other-service,17324,<=50K
+Male,55,Other,Married-civ-spouse,Bachelors,India,Private,Exec-managerial,25292,<=50K
+Male,51,Other,Married-civ-spouse,Prof-school,India,Self-emp-not-inc,Prof-specialty,26196,>50K
+Male,60,Other,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,26847,>50K

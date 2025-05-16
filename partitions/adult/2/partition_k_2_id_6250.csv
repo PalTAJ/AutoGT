@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,White,Divorced,Some-college,United-States,Self-emp-not-inc,Exec-managerial,7770,<=50K
+Female,46,White,Divorced,Some-college,United-States,Self-emp-not-inc,Exec-managerial,10410,<=50K
+Female,48,White,Divorced,Some-college,United-States,Self-emp-not-inc,Handlers-cleaners,14847,<=50K
+Female,50,White,Divorced,Some-college,United-States,Self-emp-not-inc,Sales,14960,<=50K
+Female,48,White,Divorced,Some-college,United-States,Self-emp-not-inc,Sales,23539,<=50K

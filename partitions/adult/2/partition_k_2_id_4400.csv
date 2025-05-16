@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,61,White,Divorced,Bachelors,United-States,Private,Adm-clerical,5867,>50K
+Male,63,White,Never-married,Bachelors,United-States,Private,Adm-clerical,7808,<=50K
+Male,70,White,Divorced,Some-college,United-States,Private,Other-service,8038,<=50K
+Male,62,White,Never-married,Bachelors,United-States,Private,Farming-fishing,8897,<=50K
+Male,63,White,Divorced,Some-college,United-States,Private,Other-service,9675,<=50K
+Male,70,White,Divorced,Bachelors,United-States,Private,Adm-clerical,18440,<=50K
+Male,61,White,Divorced,Some-college,United-States,Private,Other-service,19936,<=50K
+Male,67,White,Divorced,Some-college,United-States,Private,Adm-clerical,20318,<=50K
+Male,62,White,Divorced,Assoc-voc,United-States,Private,Other-service,22233,<=50K
+Male,66,White,Widowed,Bachelors,United-States,Private,Other-service,25264,<=50K
+Male,75,White,Never-married,Masters,United-States,Private,Protective-serv,26885,<=50K
+Male,64,White,Separated,Some-college,United-States,Private,Other-service,27136,<=50K
+Male,62,White,Divorced,Some-college,United-States,Private,Adm-clerical,28503,<=50K

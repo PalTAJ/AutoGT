@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Separated,5th-6th,United-States,Private,Machine-op-inspct,9722,<=50K
+Female,32,White,Never-married,5th-6th,United-States,State-gov,Machine-op-inspct,19622,<=50K
+Female,37,White,Never-married,5th-6th,Mexico,Private,Machine-op-inspct,24783,<=50K

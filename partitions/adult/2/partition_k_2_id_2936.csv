@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Married-civ-spouse,Some-college,United-States,Local-gov,Protective-serv,12967,>50K
+Male,42,White,Married-civ-spouse,Some-college,United-States,Local-gov,Protective-serv,29208,>50K
+Male,42,White,Married-civ-spouse,Some-college,United-States,Local-gov,Protective-serv,29896,>50K

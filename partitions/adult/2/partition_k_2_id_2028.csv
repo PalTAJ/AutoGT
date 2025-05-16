@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,Asian-Pac-Islander,Never-married,Some-college,Philippines,Private,Handlers-cleaners,10401,<=50K
+Male,21,Asian-Pac-Islander,Never-married,Some-college,Philippines,Private,Handlers-cleaners,16166,<=50K

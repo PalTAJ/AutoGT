@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,White,Married-civ-spouse,Bachelors,United-States,State-gov,Protective-serv,373,>50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,1672,>50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,3532,>50K
+Male,49,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,4400,>50K
+Male,44,White,Married-civ-spouse,Bachelors,United-States,State-gov,Protective-serv,9436,>50K
+Male,44,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,9866,<=50K
+Male,50,White,Married-civ-spouse,Some-college,United-States,State-gov,Adm-clerical,12113,>50K
+Male,49,White,Married-civ-spouse,Some-college,United-States,State-gov,Farming-fishing,16555,<=50K
+Male,48,White,Married-civ-spouse,Some-college,United-States,State-gov,Protective-serv,17173,>50K
+Male,45,White,Married-civ-spouse,Some-college,United-States,State-gov,Adm-clerical,18727,<=50K
+Male,44,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,19330,>50K
+Male,47,White,Married-civ-spouse,Bachelors,United-States,State-gov,Other-service,21186,<=50K
+Male,42,White,Married-civ-spouse,Some-college,United-States,State-gov,Protective-serv,22108,>50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,22401,>50K
+Male,41,White,Married-civ-spouse,Bachelors,United-States,State-gov,Farming-fishing,24137,>50K
+Male,47,White,Married-civ-spouse,Some-college,United-States,State-gov,Other-service,29582,<=50K

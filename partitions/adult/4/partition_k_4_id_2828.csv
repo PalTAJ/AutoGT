@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Black,Never-married,HS-grad,United-States,Self-emp-not-inc,Sales,3258,<=50K
+Female,35,Black,Never-married,HS-grad,Germany,Self-emp-not-inc,Sales,7381,<=50K
+Female,36,Black,Never-married,Bachelors,United-States,Self-emp-not-inc,Sales,8835,<=50K
+Female,32,Black,Divorced,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,26671,<=50K

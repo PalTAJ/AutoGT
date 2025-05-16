@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,White,Never-married,9th,Mexico,Private,Priv-house-serv,5264,<=50K
+Male,17,White,Never-married,10th,United-States,Private,Priv-house-serv,25055,<=50K
+Male,17,White,Never-married,10th,United-States,Private,Priv-house-serv,28568,<=50K

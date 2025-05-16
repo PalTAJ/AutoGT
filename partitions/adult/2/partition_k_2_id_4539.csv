@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,18,White,Never-married,Some-college,United-States,Self-emp-not-inc,Exec-managerial,10466,<=50K
+Female,19,White,Never-married,Some-college,United-States,Self-emp-not-inc,Sales,26285,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,White,Never-married,1st-4th,Guatemala,Private,Craft-repair,11827,<=50K
+Male,32,White,Never-married,1st-4th,Guatemala,Private,Craft-repair,26674,<=50K
+Male,27,White,Never-married,1st-4th,Mexico,Private,Craft-repair,29518,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Never-married,Bachelors,United-States,Federal-gov,Armed-Forces,14924,<=50K
+Male,28,White,Never-married,Bachelors,United-States,Federal-gov,Protective-serv,18144,<=50K
+Male,27,White,Never-married,Bachelors,United-States,Federal-gov,Transport-moving,24754,<=50K

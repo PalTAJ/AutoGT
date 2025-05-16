@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,Other,Divorced,11th,Puerto-Rico,Private,Machine-op-inspct,487,<=50K
+Female,44,Other,Divorced,10th,United-States,Private,Adm-clerical,5510,<=50K

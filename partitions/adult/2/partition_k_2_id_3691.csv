@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Never-married,Masters,United-States,Federal-gov,Exec-managerial,18609,<=50K
+Male,51,White,Widowed,Masters,El-Salvador,Federal-gov,Sales,21867,>50K

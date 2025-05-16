@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,Black,Divorced,Bachelors,United-States,Private,Exec-managerial,3268,>50K
+Male,54,Black,Never-married,Some-college,United-States,Private,Sales,11870,<=50K
+Male,51,Black,Separated,Assoc-acdm,United-States,Self-emp-not-inc,Sales,22582,<=50K
+Male,57,Black,Never-married,Some-college,United-States,Private,Handlers-cleaners,23444,<=50K

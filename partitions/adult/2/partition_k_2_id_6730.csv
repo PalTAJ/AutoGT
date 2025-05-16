@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,Black,Divorced,Some-college,United-States,Local-gov,Adm-clerical,8706,<=50K
+Female,45,Black,Divorced,Some-college,United-States,Local-gov,Adm-clerical,9659,<=50K
+Female,41,Black,Divorced,Some-college,United-States,Local-gov,Adm-clerical,10726,<=50K
+Female,45,Black,Divorced,Some-college,United-States,Local-gov,Adm-clerical,15883,<=50K
+Female,45,Black,Divorced,Some-college,United-States,Local-gov,Adm-clerical,20932,<=50K
+Female,55,Black,Married-spouse-absent,Some-college,United-States,Local-gov,Adm-clerical,23087,<=50K

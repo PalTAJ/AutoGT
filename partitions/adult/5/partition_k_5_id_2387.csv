@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,1204,>50K
+Female,50,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,1545,<=50K
+Female,48,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,6309,<=50K
+Female,47,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Machine-op-inspct,7378,>50K
+Female,47,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,8188,<=50K
+Female,49,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,10342,<=50K
+Female,46,White,Married-civ-spouse,7th-8th,United-States,Private,Prof-specialty,10910,<=50K
+Female,49,White,Married-civ-spouse,7th-8th,Hong,Private,Machine-op-inspct,11185,<=50K
+Female,47,White,Married-civ-spouse,HS-grad,United-States,Private,Tech-support,14714,<=50K
+Female,46,White,Married-civ-spouse,HS-grad,United-States,Without-pay,Machine-op-inspct,15566,<=50K
+Female,46,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,15722,<=50K
+Female,50,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,17721,<=50K
+Female,50,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,17995,>50K
+Female,50,White,Married-civ-spouse,HS-grad,El-Salvador,Private,Machine-op-inspct,21512,<=50K
+Female,48,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Tech-support,22046,>50K
+Female,48,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,25992,<=50K

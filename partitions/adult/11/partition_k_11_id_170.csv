@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,37,<=50K
+Male,31,White,Married-civ-spouse,9th,Mexico,Private,Machine-op-inspct,3325,<=50K
+Male,25,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,3344,<=50K
+Male,33,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,5277,<=50K
+Male,25,White,Married-civ-spouse,9th,Mexico,Private,Machine-op-inspct,5330,<=50K
+Male,36,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,7838,<=50K
+Male,25,White,Married-civ-spouse,9th,Mexico,Private,Machine-op-inspct,9989,<=50K
+Male,40,White,Married-civ-spouse,9th,Mexico,Private,Machine-op-inspct,12085,<=50K
+Male,35,White,Married-civ-spouse,9th,Canada,Private,Machine-op-inspct,14250,<=50K
+Male,37,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,17185,>50K
+Male,28,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,18878,<=50K
+Male,29,White,Married-civ-spouse,9th,Mexico,Private,Machine-op-inspct,21325,<=50K
+Male,29,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,22552,<=50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,10th,United-States,Private,Other-service,442,<=50K
+Male,29,White,Never-married,10th,United-States,Private,Other-service,1636,<=50K
+Male,22,White,Never-married,10th,United-States,Private,Transport-moving,2153,<=50K
+Male,27,White,Never-married,10th,United-States,Private,Adm-clerical,15842,<=50K
+Male,28,White,Never-married,10th,United-States,Private,Transport-moving,22493,<=50K
+Male,25,White,Never-married,10th,United-States,Private,Transport-moving,28854,<=50K
+Male,28,White,Never-married,10th,United-States,Private,Transport-moving,29185,<=50K

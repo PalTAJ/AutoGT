@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,Black,Never-married,10th,United-States,Private,Machine-op-inspct,1340,<=50K
+Male,49,Black,Never-married,7th-8th,United-States,Private,Prof-specialty,4692,<=50K
+Male,49,Black,Never-married,HS-grad,United-States,Private,Craft-repair,12513,<=50K
+Male,49,Black,Divorced,10th,United-States,Private,Machine-op-inspct,18013,<=50K
+Male,47,Black,Separated,HS-grad,United-States,Private,Craft-repair,21118,<=50K
+Male,48,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,21206,<=50K
+Male,47,Black,Divorced,HS-grad,United-States,Private,Craft-repair,22542,>50K
+Male,46,Black,Divorced,10th,United-States,Private,Machine-op-inspct,24262,<=50K
+Male,50,Black,Separated,HS-grad,United-States,Private,Craft-repair,26002,<=50K
+Male,49,Black,Divorced,HS-grad,United-States,Private,Machine-op-inspct,26454,<=50K
+Male,49,Black,Never-married,10th,United-States,Self-emp-not-inc,Craft-repair,26682,<=50K
+Male,48,Black,Separated,HS-grad,United-States,Private,Craft-repair,26749,<=50K

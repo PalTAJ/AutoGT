@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,Black,Never-married,HS-grad,United-States,Private,Exec-managerial,3984,<=50K
+Female,26,Black,Never-married,Some-college,United-States,Private,Exec-managerial,4107,<=50K
+Female,26,Black,Never-married,Some-college,United-States,Private,Exec-managerial,5351,<=50K
+Female,26,Black,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,6865,<=50K
+Female,28,Black,Never-married,Assoc-voc,United-States,Private,Exec-managerial,10425,<=50K
+Female,29,Black,Never-married,Assoc-voc,United-States,Private,Exec-managerial,10571,<=50K
+Female,29,Black,Never-married,Bachelors,United-States,Private,Exec-managerial,12984,<=50K
+Female,30,Black,Never-married,HS-grad,Jamaica,Private,Exec-managerial,13618,<=50K
+Female,30,Black,Never-married,Some-college,United-States,Private,Exec-managerial,15319,<=50K
+Female,28,Black,Never-married,Some-college,Jamaica,Private,Exec-managerial,23341,<=50K
+Female,27,Black,Never-married,HS-grad,United-States,Private,Exec-managerial,24055,<=50K
+Female,28,Black,Never-married,Masters,United-States,Private,Exec-managerial,26458,<=50K
+Female,30,Black,Never-married,Some-college,United-States,Private,Exec-managerial,26904,<=50K
+Female,26,Black,Never-married,Assoc-voc,United-States,Private,Exec-managerial,29230,<=50K

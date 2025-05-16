@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,72,White,Married-civ-spouse,HS-grad,England,Private,Exec-managerial,16943,<=50K
+Female,67,White,Married-civ-spouse,HS-grad,England,Self-emp-inc,Prof-specialty,17186,>50K

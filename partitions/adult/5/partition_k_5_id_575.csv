@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,3387,<=50K
+Male,26,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,8231,<=50K
+Male,36,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,11149,<=50K
+Male,33,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,14490,<=50K
+Male,40,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,14913,<=50K
+Male,39,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,14917,>50K
+Male,37,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,15625,<=50K
+Male,39,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,16189,<=50K
+Male,32,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,23293,<=50K
+Male,23,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,29223,<=50K
+Male,36,White,Divorced,Bachelors,United-States,Private,Handlers-cleaners,29439,<=50K
+Male,28,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,30083,<=50K

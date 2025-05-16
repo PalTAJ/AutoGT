@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,Black,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,1470,>50K
+Male,57,Black,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Prof-specialty,7065,>50K
+Male,57,Black,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,8121,<=50K
+Male,57,Black,Married-civ-spouse,HS-grad,Trinadad&Tobago,Private,Tech-support,12245,>50K
+Male,57,Black,Married-civ-spouse,9th,United-States,Private,Craft-repair,15023,>50K
+Male,58,Black,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,15689,<=50K
+Male,56,Black,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,18450,<=50K
+Male,58,Black,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,28070,<=50K
+Male,57,Black,Married-civ-spouse,10th,United-States,Private,Machine-op-inspct,28214,<=50K

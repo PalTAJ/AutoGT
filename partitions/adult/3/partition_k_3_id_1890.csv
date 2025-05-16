@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,6783,>50K
+Male,42,White,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,10711,>50K
+Male,42,White,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,17088,<=50K

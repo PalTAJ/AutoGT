@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Divorced,Assoc-voc,United-States,Private,Exec-managerial,7458,<=50K
+Male,27,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,7596,<=50K
+Male,29,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,10767,<=50K
+Male,28,White,Divorced,Assoc-voc,United-States,Private,Exec-managerial,15038,>50K
+Male,28,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,15797,>50K
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Exec-managerial,15861,<=50K
+Male,29,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,17562,<=50K
+Male,27,White,Never-married,Assoc-voc,Greece,Private,Exec-managerial,19996,>50K
+Male,27,White,Never-married,Assoc-voc,United-States,Private,Exec-managerial,22681,<=50K

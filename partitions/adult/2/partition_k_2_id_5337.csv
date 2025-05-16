@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,603,<=50K
+Female,27,White,Never-married,10th,United-States,Private,Machine-op-inspct,1426,<=50K
+Female,27,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,5115,<=50K
+Female,27,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,10886,<=50K
+Female,27,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,12598,<=50K
+Female,27,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,20786,<=50K
+Female,27,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,26163,<=50K

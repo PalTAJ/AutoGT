@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Divorced,Assoc-acdm,United-States,Private,Tech-support,984,<=50K
+Female,40,White,Divorced,Assoc-acdm,United-States,Private,Prof-specialty,2812,<=50K
+Female,38,White,Divorced,Assoc-acdm,United-States,Private,Craft-repair,6098,<=50K
+Female,40,White,Divorced,Assoc-acdm,United-States,Self-emp-not-inc,Prof-specialty,6367,<=50K
+Female,40,White,Divorced,Assoc-acdm,United-States,Private,Prof-specialty,20832,<=50K
+Female,39,White,Divorced,Assoc-acdm,United-States,Private,Prof-specialty,24619,<=50K
+Female,37,White,Divorced,Assoc-acdm,United-States,Private,Tech-support,30147,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,Other,Never-married,HS-grad,United-States,Private,Adm-clerical,2345,<=50K
+Female,29,Other,Divorced,Bachelors,United-States,Private,Other-service,14470,<=50K
+Female,26,Other,Married-spouse-absent,Some-college,United-States,Private,Adm-clerical,18475,<=50K
+Female,29,Other,Married-spouse-absent,HS-grad,Columbia,Private,Other-service,20734,<=50K
+Female,28,Other,Married-spouse-absent,1st-4th,Dominican-Republic,Private,Other-service,29525,<=50K

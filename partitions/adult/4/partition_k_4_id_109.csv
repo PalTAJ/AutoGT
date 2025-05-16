@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,533,<=50K
+Male,30,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Machine-op-inspct,5388,<=50K
+Male,28,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,9179,<=50K
+Male,28,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,10500,>50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,11555,<=50K
+Male,28,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Prof-specialty,16050,<=50K
+Male,25,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,22937,>50K
+Male,29,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,25046,<=50K

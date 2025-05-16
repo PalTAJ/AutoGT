@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Married-civ-spouse,10th,United-States,Private,Transport-moving,4242,>50K
+Male,59,White,Married-civ-spouse,9th,United-States,Private,Transport-moving,4832,>50K
+Male,59,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,10344,>50K
+Male,59,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,14110,>50K
+Male,59,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Transport-moving,15931,>50K
+Male,59,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Transport-moving,16666,<=50K
+Male,59,White,Married-civ-spouse,10th,United-States,Private,Transport-moving,19016,>50K
+Male,59,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,21309,>50K
+Male,59,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,21595,<=50K
+Male,59,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Transport-moving,22953,<=50K
+Male,59,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,23542,<=50K
+Male,59,White,Married-civ-spouse,10th,Puerto-Rico,Private,Transport-moving,25076,<=50K
+Male,59,White,Married-civ-spouse,10th,United-States,Private,Transport-moving,25877,<=50K

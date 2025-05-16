@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,White,Widowed,10th,United-States,Private,Other-service,5608,<=50K
+Female,57,White,Divorced,HS-grad,United-States,Private,Adm-clerical,5646,<=50K
+Female,57,White,Divorced,HS-grad,United-States,Private,Adm-clerical,6232,<=50K
+Female,57,White,Divorced,HS-grad,United-States,Private,Adm-clerical,10039,<=50K
+Female,57,White,Widowed,HS-grad,United-States,Private,Adm-clerical,11296,<=50K
+Female,57,White,Widowed,HS-grad,United-States,Private,Other-service,13027,<=50K
+Female,57,White,Never-married,HS-grad,United-States,Private,Adm-clerical,15139,<=50K
+Female,57,White,Divorced,HS-grad,United-States,Private,Adm-clerical,15965,<=50K
+Female,57,White,Divorced,HS-grad,United-States,Private,Adm-clerical,16931,<=50K
+Female,57,White,Divorced,HS-grad,United-States,Private,Other-service,17826,<=50K
+Female,57,White,Divorced,HS-grad,United-States,Private,Other-service,18411,<=50K
+Female,57,White,Widowed,HS-grad,United-States,Private,Adm-clerical,22719,<=50K
+Female,57,White,Never-married,HS-grad,United-States,Private,Adm-clerical,22865,<=50K
+Female,57,White,Widowed,7th-8th,United-States,Private,Other-service,23025,<=50K

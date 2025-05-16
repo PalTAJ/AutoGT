@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,Black,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,21249,>50K
+Male,28,Black,Married-civ-spouse,Masters,Jamaica,State-gov,Exec-managerial,27320,<=50K
+Male,27,Black,Married-civ-spouse,Some-college,United-States,State-gov,Exec-managerial,28289,>50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,75,Black,Married-civ-spouse,1st-4th,United-States,Private,Other-service,13271,<=50K
+Female,77,Black,Married-civ-spouse,9th,United-States,Private,Priv-house-serv,18413,<=50K

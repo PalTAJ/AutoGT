@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,White,Divorced,HS-grad,France,Private,Priv-house-serv,7363,<=50K
+Female,55,White,Widowed,HS-grad,Italy,Private,Other-service,13713,<=50K
+Female,54,White,Never-married,HS-grad,Hungary,Private,Other-service,20997,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Separated,Some-college,United-States,Self-emp-not-inc,Sales,9999,<=50K
+Male,45,White,Separated,Some-college,United-States,Self-emp-not-inc,Sales,11279,<=50K
+Male,57,White,Separated,Some-college,United-States,Self-emp-not-inc,Sales,19139,<=50K

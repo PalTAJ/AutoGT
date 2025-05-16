@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Farming-fishing,3270,>50K
+Male,50,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Farming-fishing,7448,<=50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Farming-fishing,13333,<=50K
+Male,44,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Farming-fishing,17369,<=50K
+Male,43,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Farming-fishing,20466,<=50K
+Male,48,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Farming-fishing,25124,>50K
+Male,60,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Farming-fishing,27155,<=50K
+Male,41,White,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Farming-fishing,29826,<=50K

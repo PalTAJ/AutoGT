@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,Some-college,United-States,Private,Prof-specialty,610,<=50K
+Male,27,White,Never-married,Some-college,United-States,Private,Prof-specialty,2621,<=50K
+Male,30,White,Never-married,Some-college,Mexico,Private,Prof-specialty,2971,<=50K
+Male,26,White,Never-married,Some-college,El-Salvador,Private,Prof-specialty,8614,<=50K
+Male,28,White,Never-married,Some-college,United-States,Self-emp-not-inc,Prof-specialty,9304,<=50K
+Male,28,White,Divorced,Some-college,United-States,Private,Prof-specialty,9619,<=50K
+Male,29,White,Never-married,Some-college,United-States,Private,Prof-specialty,18673,<=50K
+Male,29,White,Never-married,Some-college,United-States,Private,Prof-specialty,24245,<=50K
+Male,30,White,Never-married,Some-college,United-States,Private,Prof-specialty,25624,<=50K

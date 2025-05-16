@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,5030,>50K
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,5532,>50K
+Male,27,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,9692,>50K
+Male,21,White,Married-civ-spouse,HS-grad,Mexico,Private,Prof-specialty,11888,>50K
+Male,26,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,12838,<=50K
+Male,26,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,13684,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,19901,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,21498,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,24128,>50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,24938,>50K

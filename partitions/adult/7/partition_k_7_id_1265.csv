@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,70,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,2443,>50K
+Male,68,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,3894,<=50K
+Male,66,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,13122,>50K
+Male,68,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,17602,>50K
+Male,66,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,17785,>50K
+Male,66,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,19141,>50K
+Male,70,White,Married-civ-spouse,Bachelors,Cuba,Private,Exec-managerial,19542,<=50K
+Male,69,White,Married-civ-spouse,Bachelors,United-States,Private,Handlers-cleaners,20395,<=50K
+Male,68,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,21362,>50K
+Male,68,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,22911,>50K
+Male,66,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,24325,>50K
+Male,70,White,Married-civ-spouse,Bachelors,United-States,Private,Handlers-cleaners,29085,>50K

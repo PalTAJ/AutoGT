@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,72,White,Married-civ-spouse,Doctorate,United-States,Local-gov,Exec-managerial,10119,<=50K
+Male,63,White,Married-civ-spouse,Doctorate,United-States,State-gov,Exec-managerial,10458,>50K
+Male,61,White,Married-civ-spouse,Doctorate,United-States,Local-gov,Exec-managerial,16196,<=50K

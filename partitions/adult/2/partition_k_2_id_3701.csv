@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Separated,Prof-school,Columbia,Private,Tech-support,7136,>50K
+Male,41,White,Divorced,Masters,Peru,Self-emp-not-inc,Handlers-cleaners,9576,<=50K
+Male,54,White,Separated,Some-college,Columbia,Private,Other-service,13033,<=50K
+Male,45,White,Never-married,Assoc-acdm,Columbia,Federal-gov,Adm-clerical,19531,<=50K
+Male,49,White,Married-spouse-absent,Bachelors,Columbia,Private,Transport-moving,29473,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,18,White,Never-married,12th,United-States,Local-gov,Protective-serv,2326,<=50K
+Male,18,White,Never-married,11th,United-States,Local-gov,Protective-serv,18323,<=50K
+Male,17,White,Never-married,11th,United-States,Local-gov,Protective-serv,24107,<=50K

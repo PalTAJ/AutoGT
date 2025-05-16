@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Divorced,HS-grad,United-States,Local-gov,Craft-repair,6200,<=50K
+Male,31,White,Divorced,HS-grad,United-States,Local-gov,Craft-repair,8673,<=50K
+Male,33,White,Divorced,HS-grad,United-States,Local-gov,Craft-repair,24973,<=50K

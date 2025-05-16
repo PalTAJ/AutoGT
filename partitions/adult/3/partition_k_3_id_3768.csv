@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Married-spouse-absent,HS-grad,Jamaica,Private,Priv-house-serv,7986,<=50K
+Female,22,Black,Married-spouse-absent,12th,United-States,Private,Other-service,11235,<=50K
+Female,29,Black,Married-spouse-absent,12th,United-States,Private,Other-service,14333,<=50K
+Female,35,Black,Married-spouse-absent,HS-grad,United-States,Private,Other-service,14851,<=50K
+Female,35,Black,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,19019,<=50K
+Female,37,Black,Married-spouse-absent,HS-grad,United-States,Self-emp-not-inc,Other-service,25791,<=50K
+Female,33,Black,Married-spouse-absent,HS-grad,United-States,Private,Other-service,27385,<=50K
+Female,32,Black,Married-spouse-absent,10th,United-States,Private,Other-service,28601,<=50K

@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Never-married,HS-grad,United-States,Private,Tech-support,3057,<=50K
+Male,39,White,Never-married,HS-grad,England,Private,Tech-support,3622,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Tech-support,9041,<=50K
+Male,23,White,Never-married,HS-grad,United-States,Private,Tech-support,11518,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Private,Tech-support,13375,<=50K
+Male,29,White,Never-married,HS-grad,United-States,Private,Tech-support,16314,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Tech-support,16729,<=50K
+Male,23,White,Never-married,HS-grad,United-States,Private,Tech-support,19730,<=50K
+Male,34,White,Never-married,HS-grad,United-States,Private,Tech-support,19830,<=50K
+Male,28,White,Never-married,HS-grad,United-States,Private,Tech-support,21208,<=50K
+Male,22,White,Never-married,HS-grad,United-States,Private,Tech-support,21658,<=50K
+Male,36,White,Never-married,HS-grad,United-States,Private,Tech-support,27803,<=50K
+Male,34,White,Never-married,HS-grad,United-States,Private,Tech-support,28629,<=50K
+Male,35,White,Never-married,HS-grad,United-States,Private,Tech-support,29050,<=50K
+Male,33,White,Never-married,HS-grad,United-States,Private,Tech-support,29775,<=50K

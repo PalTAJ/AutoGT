@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,White,Married-civ-spouse,Doctorate,Germany,Federal-gov,Prof-specialty,3991,>50K
+Male,54,White,Married-civ-spouse,Doctorate,England,State-gov,Prof-specialty,13145,>50K
+Male,52,White,Married-civ-spouse,Doctorate,Germany,State-gov,Prof-specialty,13884,>50K
+Male,56,White,Married-civ-spouse,Masters,Portugal,Federal-gov,Exec-managerial,25663,>50K

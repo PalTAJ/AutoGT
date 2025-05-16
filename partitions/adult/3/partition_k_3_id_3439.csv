@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,23,White,Married-spouse-absent,Some-college,Guatemala,Local-gov,Adm-clerical,6856,<=50K
+Female,29,White,Married-spouse-absent,Some-college,United-States,Federal-gov,Adm-clerical,24448,<=50K
+Female,28,White,Married-spouse-absent,Some-college,United-States,Local-gov,Adm-clerical,24706,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,64,White,Married-civ-spouse,1st-4th,United-States,Self-emp-inc,Sales,21324,<=50K
+Male,61,White,Married-civ-spouse,5th-6th,United-States,Private,Handlers-cleaners,23428,<=50K
+Male,61,Asian-Pac-Islander,Married-civ-spouse,5th-6th,Philippines,Private,Handlers-cleaners,28105,>50K

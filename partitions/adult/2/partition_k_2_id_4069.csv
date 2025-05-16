@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,Black,Married-civ-spouse,HS-grad,United-States,Private,Other-service,315,<=50K
+Male,43,Black,Married-civ-spouse,HS-grad,United-States,Private,Other-service,17154,>50K
+Male,45,Black,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,18671,>50K
+Male,42,Black,Married-civ-spouse,HS-grad,Haiti,Private,Other-service,20291,<=50K
+Male,44,Black,Married-civ-spouse,HS-grad,United-States,Self-emp-inc,Other-service,23406,<=50K
+Male,43,Black,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,23658,>50K
+Male,45,Black,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,24144,<=50K
+Male,41,Black,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,26234,<=50K
+Male,45,Black,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,28501,>50K

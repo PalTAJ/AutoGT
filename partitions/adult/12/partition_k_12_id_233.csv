@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Separated,Assoc-voc,United-States,Private,Craft-repair,494,<=50K
+Male,27,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,695,<=50K
+Male,30,White,Never-married,Assoc-voc,United-States,Self-emp-not-inc,Craft-repair,12215,<=50K
+Male,30,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,12916,>50K
+Male,26,White,Divorced,Assoc-voc,United-States,Private,Craft-repair,13772,<=50K
+Male,30,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,14584,<=50K
+Male,26,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,15074,<=50K
+Male,27,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,16078,<=50K
+Male,27,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,17773,<=50K
+Male,27,White,Never-married,Assoc-voc,United-States,Self-emp-not-inc,Craft-repair,20042,<=50K
+Male,29,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,25139,<=50K
+Male,30,White,Divorced,Assoc-voc,United-States,Self-emp-not-inc,Craft-repair,25507,<=50K
+Male,30,White,Never-married,Assoc-voc,United-States,Self-emp-not-inc,Craft-repair,27321,<=50K
+Male,27,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,27414,<=50K
+Male,29,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,29574,<=50K

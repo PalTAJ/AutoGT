@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,Amer-Indian-Eskimo,Never-married,Some-college,Mexico,Private,Craft-repair,6600,<=50K
+Male,28,Amer-Indian-Eskimo,Never-married,Some-college,United-States,Private,Craft-repair,8960,<=50K
+Male,23,Amer-Indian-Eskimo,Never-married,Bachelors,Mexico,Private,Craft-repair,14092,<=50K
+Male,26,Amer-Indian-Eskimo,Never-married,Some-college,United-States,Private,Craft-repair,16490,<=50K

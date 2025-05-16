@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,63,Asian-Pac-Islander,Widowed,5th-6th,Philippines,Private,Other-service,15273,<=50K
+Female,75,Asian-Pac-Islander,Never-married,Preschool,Philippines,Private,Priv-house-serv,15276,<=50K
+Female,71,Asian-Pac-Islander,Widowed,5th-6th,United-States,Private,Priv-house-serv,25783,<=50K

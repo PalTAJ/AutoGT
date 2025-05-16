@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Widowed,Some-college,United-States,Private,Sales,9957,<=50K
+Female,44,White,Widowed,Some-college,United-States,Private,Sales,25978,<=50K
+Female,49,White,Widowed,Bachelors,United-States,Self-emp-not-inc,Sales,28967,<=50K

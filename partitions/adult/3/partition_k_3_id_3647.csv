@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Asian-Pac-Islander,Divorced,Bachelors,Philippines,Private,Adm-clerical,10427,<=50K
+Female,39,Asian-Pac-Islander,Divorced,Bachelors,Philippines,Private,Adm-clerical,21520,<=50K
+Female,34,Asian-Pac-Islander,Never-married,Some-college,Japan,Private,Adm-clerical,29422,<=50K

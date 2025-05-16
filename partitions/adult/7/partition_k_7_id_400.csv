@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Married-spouse-absent,Some-college,United-States,Private,Transport-moving,3287,<=50K
+Male,33,White,Never-married,Some-college,United-States,Private,Transport-moving,5657,<=50K
+Male,35,White,Never-married,Some-college,United-States,Private,Transport-moving,7650,<=50K
+Male,36,White,Never-married,Some-college,United-States,Private,Transport-moving,9189,<=50K
+Male,34,White,Divorced,Some-college,United-States,Private,Transport-moving,9970,<=50K
+Male,39,White,Never-married,Some-college,United-States,Private,Transport-moving,14174,<=50K
+Male,32,White,Never-married,Bachelors,United-States,Private,Transport-moving,17208,<=50K
+Male,37,White,Divorced,Some-college,United-States,Private,Transport-moving,20834,<=50K
+Male,35,White,Never-married,Some-college,United-States,Private,Transport-moving,21120,<=50K
+Male,40,White,Divorced,Some-college,United-States,Private,Transport-moving,21345,>50K
+Male,40,White,Divorced,Some-college,United-States,Private,Transport-moving,21431,>50K
+Male,37,White,Never-married,Bachelors,United-States,Private,Transport-moving,25053,<=50K
+Male,38,White,Never-married,Some-college,United-States,Private,Transport-moving,25674,<=50K
+Male,39,White,Divorced,Some-college,United-States,Private,Transport-moving,29778,<=50K

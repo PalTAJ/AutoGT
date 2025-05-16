@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,Other,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,7786,<=50K
+Female,44,Other,Never-married,10th,Dominican-Republic,Private,Sales,17244,<=50K
+Female,53,Other,Never-married,12th,United-States,Private,Other-service,20908,<=50K

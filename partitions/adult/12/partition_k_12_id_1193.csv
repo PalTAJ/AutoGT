@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,Black,Never-married,Some-college,United-States,Private,Machine-op-inspct,7981,<=50K
+Female,45,Black,Divorced,Some-college,Trinadad&Tobago,Private,Tech-support,11394,<=50K
+Female,44,Black,Separated,Bachelors,United-States,Private,Machine-op-inspct,16071,<=50K
+Female,43,Black,Divorced,Some-college,United-States,Private,Prof-specialty,18382,<=50K
+Female,44,Black,Separated,Some-college,United-States,Private,Prof-specialty,19401,<=50K
+Female,42,Black,Divorced,Masters,United-States,Private,Tech-support,19879,>50K
+Female,42,Black,Separated,Some-college,United-States,Private,Machine-op-inspct,20110,<=50K
+Female,41,Black,Separated,Bachelors,United-States,Private,Prof-specialty,24640,>50K
+Female,43,Black,Divorced,Some-college,United-States,Private,Machine-op-inspct,27975,<=50K
+Female,45,Black,Divorced,Doctorate,United-States,Private,Prof-specialty,28307,>50K
+Female,44,Black,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,28429,<=50K
+Female,41,Black,Divorced,Some-college,United-States,Private,Tech-support,28775,<=50K
+Female,43,Black,Widowed,Masters,United-States,Private,Prof-specialty,29560,<=50K

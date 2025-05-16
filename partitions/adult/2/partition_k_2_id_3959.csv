@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,Asian-Pac-Islander,Married-spouse-absent,HS-grad,Japan,Private,Prof-specialty,2815,>50K
+Male,45,Asian-Pac-Islander,Married-spouse-absent,HS-grad,Thailand,Self-emp-not-inc,Craft-repair,19877,<=50K

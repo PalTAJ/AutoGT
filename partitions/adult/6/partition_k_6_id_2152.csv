@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,White,Widowed,10th,United-States,Self-emp-inc,Exec-managerial,6497,>50K
+Female,56,White,Widowed,HS-grad,Mexico,Private,Sales,7109,<=50K
+Female,58,White,Widowed,HS-grad,United-States,Private,Sales,8128,>50K
+Female,60,White,Widowed,HS-grad,United-States,Private,Sales,9736,<=50K
+Female,58,White,Widowed,HS-grad,United-States,Private,Sales,14865,>50K
+Female,57,White,Widowed,7th-8th,United-States,Private,Sales,14947,<=50K
+Female,57,White,Widowed,HS-grad,United-States,Private,Sales,19014,<=50K
+Female,56,White,Widowed,9th,United-States,Private,Sales,19215,<=50K
+Female,57,White,Widowed,HS-grad,United-States,Private,Exec-managerial,21602,<=50K
+Female,56,White,Widowed,HS-grad,United-States,Private,Sales,22522,<=50K
+Female,60,White,Widowed,10th,United-States,Private,Sales,22630,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Private,Exec-managerial,23817,<=50K
+Female,60,White,Widowed,HS-grad,United-States,Private,Handlers-cleaners,24337,<=50K
+Female,56,White,Widowed,12th,United-States,Self-emp-inc,Exec-managerial,27116,<=50K

@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,1962,<=50K
+Male,46,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,2316,<=50K
+Male,47,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,2421,>50K
+Male,46,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,4977,<=50K
+Male,49,White,Married-civ-spouse,Assoc-voc,Greece,Private,Craft-repair,6110,<=50K
+Male,50,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,17563,>50K
+Male,48,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,17914,<=50K
+Male,48,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,19967,>50K
+Male,49,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,21026,<=50K
+Male,47,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,24445,>50K
+Male,50,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,24900,>50K
+Male,48,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,25602,<=50K
+Male,46,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,27827,<=50K
+Male,46,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,28928,<=50K

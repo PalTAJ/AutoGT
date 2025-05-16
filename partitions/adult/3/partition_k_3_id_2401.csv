@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,White,Married-spouse-absent,Assoc-voc,United-States,Private,Handlers-cleaners,471,<=50K
+Male,46,White,Married-spouse-absent,Masters,United-States,Private,Exec-managerial,9537,>50K
+Male,48,White,Married-spouse-absent,Bachelors,United-States,Self-emp-not-inc,Sales,9662,>50K

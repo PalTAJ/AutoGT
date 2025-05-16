@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,Other,Divorced,Some-college,United-States,Private,Craft-repair,216,<=50K
+Female,25,Other,Never-married,Some-college,United-States,Private,Tech-support,10874,<=50K

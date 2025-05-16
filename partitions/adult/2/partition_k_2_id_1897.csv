@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Separated,HS-grad,Philippines,Private,Craft-repair,12650,<=50K
+Male,30,White,Never-married,HS-grad,Vietnam,Private,Machine-op-inspct,23848,<=50K

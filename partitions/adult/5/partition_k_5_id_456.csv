@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Married-civ-spouse,5th-6th,United-States,Private,Craft-repair,1190,<=50K
+Male,28,White,Married-civ-spouse,1st-4th,Mexico,Private,Machine-op-inspct,3618,<=50K
+Male,30,White,Married-civ-spouse,5th-6th,Mexico,Private,Craft-repair,13690,<=50K
+Male,28,White,Married-civ-spouse,5th-6th,Mexico,Private,Machine-op-inspct,15158,<=50K
+Male,22,White,Married-civ-spouse,5th-6th,Mexico,Private,Craft-repair,16112,<=50K
+Male,22,White,Married-civ-spouse,5th-6th,Mexico,Private,Craft-repair,18520,<=50K
+Male,30,White,Married-civ-spouse,5th-6th,Mexico,Private,Machine-op-inspct,24014,<=50K
+Male,22,White,Married-civ-spouse,5th-6th,Mexico,Private,Craft-repair,28351,<=50K

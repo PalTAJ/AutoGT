@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,970,<=50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,2017,<=50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,2825,<=50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,4002,>50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,7611,>50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,9297,<=50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,9581,>50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,13876,<=50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,15781,>50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,17943,>50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,19931,>50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,22429,>50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,24333,>50K
+Male,32,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,28801,>50K

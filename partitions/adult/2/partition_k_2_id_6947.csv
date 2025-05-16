@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,65,White,Widowed,11th,United-States,Private,Sales,13457,<=50K
+Female,63,White,Widowed,11th,United-States,Private,Sales,16379,<=50K
+Female,61,White,Widowed,11th,United-States,Private,Handlers-cleaners,30038,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Machine-op-inspct,345,>50K
+Male,40,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,2829,>50K
+Male,40,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Craft-repair,15388,<=50K
+Male,40,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,27087,<=50K

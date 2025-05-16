@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,White,Never-married,HS-grad,United-States,Local-gov,Farming-fishing,6246,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Local-gov,Farming-fishing,8648,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Local-gov,Farming-fishing,20677,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Local-gov,Farming-fishing,23667,<=50K
+Male,22,White,Never-married,HS-grad,United-States,Local-gov,Farming-fishing,24072,<=50K

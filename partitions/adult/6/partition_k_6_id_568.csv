@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,2629,<=50K
+Male,29,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,2734,<=50K
+Male,28,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,3683,<=50K
+Male,30,White,Divorced,12th,United-States,Private,Machine-op-inspct,3800,<=50K
+Male,27,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,6483,<=50K
+Male,29,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,7463,<=50K
+Male,26,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,9137,<=50K
+Male,24,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,9702,<=50K
+Male,29,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,10137,<=50K
+Male,21,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,12512,<=50K
+Male,26,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,14309,<=50K
+Male,29,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,15458,<=50K
+Male,29,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,16916,<=50K
+Male,24,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,23489,<=50K

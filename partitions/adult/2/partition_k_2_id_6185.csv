@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,45,White,Divorced,Bachelors,Germany,Private,Adm-clerical,15847,<=50K
+Female,43,White,Divorced,Bachelors,Germany,Private,Adm-clerical,24595,<=50K
+Female,44,White,Divorced,Some-college,Germany,Private,Adm-clerical,29139,<=50K

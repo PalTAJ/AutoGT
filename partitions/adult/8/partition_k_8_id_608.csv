@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,HS-grad,United-States,Self-emp-not-inc,Transport-moving,1704,<=50K
+Male,22,Black,Never-married,HS-grad,United-States,Private,Transport-moving,2175,<=50K
+Male,21,Black,Never-married,HS-grad,United-States,Private,Transport-moving,3514,<=50K
+Male,23,Black,Never-married,HS-grad,Haiti,Private,Transport-moving,3832,<=50K
+Male,21,Black,Never-married,HS-grad,United-States,Private,Transport-moving,6929,<=50K
+Male,26,Black,Never-married,12th,United-States,Private,Transport-moving,7829,<=50K
+Male,29,Black,Never-married,HS-grad,United-States,Private,Transport-moving,14156,<=50K
+Male,27,Black,Never-married,HS-grad,United-States,Private,Transport-moving,14593,<=50K
+Male,26,Black,Never-married,HS-grad,United-States,Private,Transport-moving,20801,<=50K
+Male,22,Black,Never-married,HS-grad,United-States,Private,Transport-moving,23360,<=50K
+Male,24,Black,Never-married,HS-grad,United-States,Private,Transport-moving,23401,<=50K
+Male,30,Black,Never-married,HS-grad,United-States,Private,Transport-moving,25163,<=50K
+Male,30,Black,Divorced,HS-grad,United-States,Private,Transport-moving,27431,<=50K
+Male,30,Black,Never-married,HS-grad,United-States,Private,Transport-moving,28887,<=50K

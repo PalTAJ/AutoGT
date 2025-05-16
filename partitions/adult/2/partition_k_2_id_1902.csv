@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,White,Never-married,HS-grad,Greece,Self-emp-not-inc,Other-service,1736,<=50K
+Male,30,White,Never-married,HS-grad,Ireland,Private,Other-service,11938,<=50K
+Male,28,White,Never-married,7th-8th,Portugal,Private,Adm-clerical,13631,<=50K

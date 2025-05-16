@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,4601,<=50K
+Male,45,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,4967,<=50K
+Male,44,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,5555,<=50K
+Male,41,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Other-service,6219,<=50K
+Male,46,Amer-Indian-Eskimo,Married-civ-spouse,5th-6th,United-States,Private,Transport-moving,15283,<=50K
+Male,47,Amer-Indian-Eskimo,Married-civ-spouse,11th,United-States,Private,Other-service,19448,<=50K
+Male,59,Amer-Indian-Eskimo,Married-civ-spouse,11th,United-States,Private,Transport-moving,19775,<=50K
+Male,47,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,19849,>50K
+Male,52,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,20415,>50K
+Male,46,Amer-Indian-Eskimo,Married-civ-spouse,Assoc-voc,United-States,Private,Transport-moving,22892,<=50K
+Male,60,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,24636,<=50K

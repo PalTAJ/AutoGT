@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,65,Other,Widowed,11th,United-States,Private,Other-service,329,<=50K
+Male,77,Other,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,11718,<=50K
+Male,63,Other,Married-civ-spouse,Preschool,Mexico,Private,Prof-specialty,18942,<=50K

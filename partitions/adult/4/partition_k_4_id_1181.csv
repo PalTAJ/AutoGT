@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,Black,Separated,Some-college,United-States,Private,Exec-managerial,2530,<=50K
+Male,26,Black,Separated,Some-college,United-States,Private,Sales,7199,<=50K
+Male,40,Black,Separated,Assoc-voc,United-States,Private,Sales,15903,<=50K
+Male,37,Black,Separated,Some-college,United-States,Private,Handlers-cleaners,22607,<=50K
+Male,29,Black,Separated,Some-college,United-States,Private,Handlers-cleaners,23275,<=50K
+Male,28,Black,Separated,Some-college,United-States,Private,Handlers-cleaners,25153,<=50K

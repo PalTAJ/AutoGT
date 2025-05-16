@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Widowed,Masters,United-States,State-gov,Protective-serv,154,<=50K
+Male,43,White,Divorced,Masters,United-States,Federal-gov,Protective-serv,2552,>50K
+Male,42,White,Divorced,Masters,United-States,Federal-gov,Adm-clerical,4865,<=50K
+Male,45,White,Divorced,Masters,United-States,State-gov,Protective-serv,5180,<=50K
+Male,52,White,Never-married,Masters,United-States,State-gov,Adm-clerical,6121,>50K
+Male,48,White,Divorced,Masters,United-States,State-gov,Protective-serv,23648,<=50K

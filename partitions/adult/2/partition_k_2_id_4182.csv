@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,65,White,Married-civ-spouse,Bachelors,England,Private,Craft-repair,11806,>50K
+Male,68,White,Married-civ-spouse,Bachelors,Ireland,Private,Prof-specialty,20129,>50K

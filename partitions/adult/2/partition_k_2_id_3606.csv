@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,58,White,Divorced,Masters,United-States,Self-emp-not-inc,Sales,2066,<=50K
+Male,54,White,Divorced,Masters,United-States,Self-emp-not-inc,Sales,5721,<=50K
+Male,56,White,Divorced,Masters,United-States,Self-emp-not-inc,Sales,14545,<=50K

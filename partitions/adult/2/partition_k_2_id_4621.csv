@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,18,Black,Never-married,Some-college,United-States,Private,Sales,11779,<=50K
+Female,18,Black,Never-married,Some-college,United-States,Private,Handlers-cleaners,22043,<=50K

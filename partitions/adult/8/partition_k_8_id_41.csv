@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,166,<=50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,741,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,5036,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,6108,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,7891,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,8779,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,11238,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,11418,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,13731,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,16365,<=50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,19982,<=50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,21609,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,23455,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,26948,>50K
+Male,33,White,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,27622,<=50K

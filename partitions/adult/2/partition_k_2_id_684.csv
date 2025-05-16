@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Married-civ-spouse,Assoc-acdm,France,Local-gov,Exec-managerial,21545,>50K
+Male,32,White,Married-civ-spouse,Assoc-acdm,England,Local-gov,Protective-serv,25609,>50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,White,Married-civ-spouse,7th-8th,Ecuador,Private,Craft-repair,268,<=50K
+Male,41,White,Married-civ-spouse,HS-grad,Peru,Private,Craft-repair,7477,<=50K
+Male,48,White,Married-civ-spouse,HS-grad,Peru,Self-emp-not-inc,Craft-repair,13084,<=50K
+Male,44,White,Married-civ-spouse,HS-grad,Ecuador,Private,Transport-moving,17722,<=50K
+Male,41,White,Married-civ-spouse,HS-grad,Peru,Private,Tech-support,24438,<=50K
+Male,43,White,Married-civ-spouse,HS-grad,Nicaragua,Private,Other-service,24568,<=50K
+Male,56,White,Married-civ-spouse,9th,Columbia,Self-emp-not-inc,Exec-managerial,26903,<=50K

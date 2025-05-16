@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Divorced,HS-grad,United-States,Federal-gov,Tech-support,8136,<=50K
+Female,23,White,Never-married,HS-grad,United-States,Local-gov,Prof-specialty,10034,<=50K
+Female,24,White,Never-married,HS-grad,United-States,Local-gov,Tech-support,10203,<=50K
+Female,40,White,Divorced,HS-grad,Puerto-Rico,Local-gov,Craft-repair,11969,<=50K
+Female,24,White,Never-married,7th-8th,United-States,State-gov,Tech-support,14900,<=50K
+Female,25,White,Divorced,HS-grad,United-States,Local-gov,Tech-support,17479,<=50K
+Female,35,White,Divorced,HS-grad,United-States,State-gov,Prof-specialty,20039,<=50K
+Female,35,White,Divorced,HS-grad,United-States,Federal-gov,Prof-specialty,20040,<=50K
+Female,38,White,Divorced,HS-grad,United-States,Federal-gov,Prof-specialty,20327,<=50K
+Female,33,White,Divorced,HS-grad,United-States,Local-gov,Tech-support,20653,<=50K
+Female,39,White,Divorced,HS-grad,United-States,Local-gov,Craft-repair,22479,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Federal-gov,Machine-op-inspct,23094,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,Asian-Pac-Islander,Married-civ-spouse,Masters,India,Private,Exec-managerial,2745,<=50K
+Male,43,Asian-Pac-Islander,Married-civ-spouse,Masters,India,Private,Exec-managerial,15536,>50K
+Male,44,Asian-Pac-Islander,Married-civ-spouse,Doctorate,Japan,Private,Exec-managerial,18927,>50K

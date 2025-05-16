@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,Asian-Pac-Islander,Never-married,HS-grad,China,Private,Tech-support,13147,>50K
+Male,34,Asian-Pac-Islander,Never-married,HS-grad,China,Private,Machine-op-inspct,13310,<=50K
+Male,35,Asian-Pac-Islander,Never-married,HS-grad,Cambodia,Private,Machine-op-inspct,19922,<=50K
+Male,33,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Craft-repair,23598,<=50K
+Male,32,Asian-Pac-Islander,Never-married,11th,India,Private,Craft-repair,26595,<=50K
+Male,37,Asian-Pac-Islander,Never-married,HS-grad,Hong,Private,Craft-repair,26698,<=50K
+Male,36,Asian-Pac-Islander,Never-married,HS-grad,South,Private,Craft-repair,27324,<=50K

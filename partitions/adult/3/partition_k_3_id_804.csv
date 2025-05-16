@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Never-married,Masters,United-States,Self-emp-not-inc,Prof-specialty,7641,<=50K
+Male,38,White,Never-married,Masters,United-States,Self-emp-not-inc,Prof-specialty,11060,>50K
+Male,32,White,Never-married,Masters,United-States,Self-emp-not-inc,Prof-specialty,28047,<=50K

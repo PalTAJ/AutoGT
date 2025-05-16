@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,58,White,Divorced,Some-college,United-States,Self-emp-not-inc,Craft-repair,8873,<=50K
+Male,51,White,Divorced,Some-college,Puerto-Rico,Self-emp-not-inc,Craft-repair,9667,>50K
+Male,58,White,Divorced,Some-college,United-States,Self-emp-not-inc,Craft-repair,12827,<=50K

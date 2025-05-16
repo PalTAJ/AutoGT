@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Taiwan,Self-emp-inc,Exec-managerial,3587,>50K
+Male,29,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Germany,Self-emp-inc,Sales,8941,<=50K
+Male,32,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Hong,Private,Sales,13164,<=50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,11th,Vietnam,Private,Handlers-cleaners,18082,<=50K
+Male,35,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Iran,Private,Sales,28731,>50K

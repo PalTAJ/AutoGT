@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,Asian-Pac-Islander,Married-spouse-absent,Some-college,Philippines,Private,Craft-repair,19355,<=50K
+Male,53,Asian-Pac-Islander,Never-married,Prof-school,Philippines,Self-emp-not-inc,Prof-specialty,29986,>50K

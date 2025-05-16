@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,Black,Never-married,Some-college,United-States,Federal-gov,Exec-managerial,1090,<=50K
+Female,59,Black,Never-married,Bachelors,Outlying-US(Guam-USVI-etc),State-gov,Exec-managerial,27887,<=50K

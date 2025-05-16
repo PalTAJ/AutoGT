@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,63,White,Widowed,Assoc-voc,United-States,Private,Adm-clerical,2334,<=50K
+Female,69,White,Divorced,Assoc-acdm,Germany,Private,Adm-clerical,9523,<=50K
+Female,63,White,Married-spouse-absent,Assoc-acdm,United-States,Private,Adm-clerical,18334,<=50K
+Female,66,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,24086,<=50K

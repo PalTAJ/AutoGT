@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,White,Divorced,Some-college,United-States,Private,Farming-fishing,3053,<=50K
+Female,39,White,Divorced,Some-college,United-States,Private,Farming-fishing,11455,<=50K

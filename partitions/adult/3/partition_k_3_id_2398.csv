@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,White,Widowed,Bachelors,United-States,Self-emp-inc,Sales,2943,>50K
+Male,41,White,Widowed,Bachelors,United-States,Private,Exec-managerial,4540,<=50K
+Male,48,White,Widowed,Some-college,United-States,Private,Sales,6026,>50K
+Male,43,White,Widowed,Masters,United-States,Private,Exec-managerial,28414,>50K

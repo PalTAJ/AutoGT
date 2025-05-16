@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,Other,Never-married,HS-grad,United-States,Private,Adm-clerical,2345,<=50K
+Female,29,Other,Divorced,HS-grad,Germany,Private,Prof-specialty,3439,<=50K
+Female,26,Other,Never-married,HS-grad,Columbia,Private,Machine-op-inspct,6337,<=50K
+Female,26,Other,Never-married,HS-grad,Mexico,Private,Exec-managerial,12320,<=50K
+Female,29,Other,Divorced,HS-grad,United-States,Federal-gov,Exec-managerial,13557,<=50K
+Female,29,Other,Married-spouse-absent,HS-grad,Columbia,Private,Other-service,20734,<=50K

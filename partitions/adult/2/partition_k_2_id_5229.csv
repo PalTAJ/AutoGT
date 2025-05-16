@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Divorced,Bachelors,Honduras,Local-gov,Adm-clerical,657,<=50K
+Female,39,White,Divorced,Bachelors,United-States,Local-gov,Adm-clerical,3254,<=50K

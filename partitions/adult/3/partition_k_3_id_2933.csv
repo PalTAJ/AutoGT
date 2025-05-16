@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,90,White,Never-married,11th,United-States,Private,Handlers-cleaners,3734,<=50K
+Male,90,White,Never-married,Bachelors,United-States,Private,Exec-managerial,11093,<=50K
+Male,90,White,Widowed,HS-grad,United-States,Private,Transport-moving,14226,<=50K
+Male,90,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Exec-managerial,22283,<=50K

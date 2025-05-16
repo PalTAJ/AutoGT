@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Divorced,Assoc-acdm,United-States,State-gov,Prof-specialty,22028,<=50K
+Female,37,White,Divorced,Assoc-acdm,United-States,State-gov,Prof-specialty,22758,<=50K

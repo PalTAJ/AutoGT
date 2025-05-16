@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,White,Never-married,Bachelors,Italy,Private,Other-service,11073,>50K
+Male,46,White,Divorced,Bachelors,Portugal,Private,Adm-clerical,22360,<=50K

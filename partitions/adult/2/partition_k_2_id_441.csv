@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Farming-fishing,2617,<=50K
+Male,33,White,Married-civ-spouse,Assoc-voc,United-States,Private,Farming-fishing,3115,<=50K
+Male,40,White,Married-civ-spouse,Assoc-voc,United-States,Private,Farming-fishing,21764,<=50K

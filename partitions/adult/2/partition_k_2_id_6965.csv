@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,67,White,Widowed,1st-4th,Ecuador,Private,Machine-op-inspct,16487,<=50K
+Female,71,White,Divorced,1st-4th,United-States,Self-emp-not-inc,Craft-repair,17716,<=50K
+Female,63,White,Widowed,1st-4th,Portugal,Private,Machine-op-inspct,26005,<=50K
+Female,65,White,Widowed,5th-6th,Italy,Private,Machine-op-inspct,29785,<=50K

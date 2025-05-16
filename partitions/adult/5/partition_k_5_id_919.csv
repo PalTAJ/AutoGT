@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,Black,Married-civ-spouse,9th,United-States,Federal-gov,Farming-fishing,21,<=50K
+Male,35,Black,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,1047,>50K
+Male,31,Black,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,9131,<=50K
+Male,33,Black,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,12529,<=50K
+Male,39,Black,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,12774,<=50K
+Male,35,Black,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,19030,>50K
+Male,37,Black,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,20099,<=50K
+Male,34,Black,Married-civ-spouse,HS-grad,United-States,State-gov,Transport-moving,20435,<=50K
+Male,35,Black,Married-civ-spouse,HS-grad,United-States,State-gov,Protective-serv,20540,<=50K
+Male,40,Black,Married-civ-spouse,HS-grad,United-States,Local-gov,Craft-repair,20747,<=50K
+Male,33,Black,Married-civ-spouse,HS-grad,United-States,Local-gov,Other-service,24456,<=50K
+Male,39,Black,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,28046,>50K
+Male,31,Black,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,28473,<=50K

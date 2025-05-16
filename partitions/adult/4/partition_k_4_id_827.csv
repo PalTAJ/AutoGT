@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Never-married,11th,United-States,Self-emp-not-inc,Craft-repair,7350,<=50K
+Male,28,White,Never-married,11th,Mexico,Self-emp-not-inc,Craft-repair,9623,<=50K
+Male,30,White,Never-married,11th,United-States,Self-emp-not-inc,Craft-repair,14549,>50K
+Male,23,White,Never-married,11th,Mexico,Self-emp-not-inc,Craft-repair,25299,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,17,White,Never-married,5th-6th,Mexico,Private,Other-service,311,<=50K
+Male,19,White,Never-married,5th-6th,Guatemala,Private,Other-service,5242,<=50K
+Male,20,White,Never-married,5th-6th,Mexico,Private,Other-service,9651,<=50K
+Male,18,White,Never-married,5th-6th,Mexico,Private,Other-service,12294,<=50K

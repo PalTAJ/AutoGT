@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,White,Married-civ-spouse,Masters,United-States,Federal-gov,Exec-managerial,3000,>50K
+Male,36,White,Married-civ-spouse,Masters,United-States,Federal-gov,Exec-managerial,16801,>50K
+Male,31,White,Married-civ-spouse,Masters,United-States,Federal-gov,Exec-managerial,29656,>50K

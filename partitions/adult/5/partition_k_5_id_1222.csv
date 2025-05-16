@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Craft-repair,45,<=50K
+Male,43,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,7680,>50K
+Male,47,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Tech-support,8093,>50K
+Male,46,White,Married-civ-spouse,Assoc-acdm,United-States,State-gov,Tech-support,11800,>50K
+Male,43,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,13635,>50K
+Male,53,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Prof-specialty,16888,>50K
+Male,50,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Prof-specialty,17569,<=50K
+Male,60,White,Married-civ-spouse,Assoc-acdm,Mexico,State-gov,Prof-specialty,21241,<=50K
+Male,44,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,21286,>50K
+Male,55,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,21907,>50K
+Male,41,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Prof-specialty,22523,>50K
+Male,60,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,22716,>50K
+Male,48,White,Married-civ-spouse,Prof-school,United-States,State-gov,Prof-specialty,24920,>50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,5300,<=50K
+Male,26,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,9223,<=50K
+Male,26,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,16206,>50K
+Male,26,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,19749,>50K
+Male,26,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,20156,<=50K

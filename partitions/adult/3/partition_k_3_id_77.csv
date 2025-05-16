@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,Black,Married-civ-spouse,Some-college,United-States,Private,Sales,8299,<=50K
+Male,20,Black,Married-civ-spouse,HS-grad,United-States,Private,Sales,20718,<=50K
+Male,20,Black,Married-civ-spouse,HS-grad,Puerto-Rico,Local-gov,Protective-serv,23509,<=50K

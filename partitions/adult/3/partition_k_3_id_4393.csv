@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,71,White,Divorced,Bachelors,United-States,Private,Tech-support,1229,<=50K
+Female,62,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,3228,>50K
+Female,66,White,Divorced,Bachelors,Cuba,Private,Prof-specialty,18837,<=50K

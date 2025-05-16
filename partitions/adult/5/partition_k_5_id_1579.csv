@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,White,Divorced,HS-grad,United-States,Private,Adm-clerical,1146,<=50K
+Male,47,White,Divorced,HS-grad,Honduras,Private,Adm-clerical,6413,<=50K
+Male,56,White,Divorced,HS-grad,United-States,Private,Adm-clerical,11918,<=50K
+Male,56,White,Divorced,9th,United-States,Private,Adm-clerical,14324,<=50K
+Male,54,White,Divorced,11th,United-States,Private,Adm-clerical,17046,>50K
+Male,55,White,Divorced,HS-grad,United-States,Private,Adm-clerical,18468,<=50K
+Male,49,White,Divorced,HS-grad,United-States,Private,Adm-clerical,25209,<=50K
+Male,42,White,Divorced,HS-grad,United-States,Private,Adm-clerical,25497,<=50K

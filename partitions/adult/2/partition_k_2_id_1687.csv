@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Divorced,HS-grad,Puerto-Rico,Self-emp-not-inc,Farming-fishing,7892,<=50K
+Male,35,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,12552,<=50K
+Male,34,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,17294,<=50K
+Male,32,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,22412,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Divorced,12th,Mexico,Private,Protective-serv,11000,<=50K
+Male,31,White,Divorced,12th,United-States,Private,Transport-moving,13630,<=50K
+Male,28,White,Divorced,12th,United-States,Private,Farming-fishing,24504,<=50K

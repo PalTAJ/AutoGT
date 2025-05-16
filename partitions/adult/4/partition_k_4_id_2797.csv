@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,5046,<=50K
+Female,37,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,9093,<=50K
+Female,40,Black,Divorced,Bachelors,United-States,Private,Adm-clerical,18749,<=50K
+Female,37,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,18839,<=50K
+Female,36,Black,Separated,Bachelors,United-States,Private,Other-service,26837,<=50K

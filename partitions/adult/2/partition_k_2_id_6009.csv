@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,White,Married-civ-spouse,11th,United-States,Private,Other-service,8583,<=50K
+Female,54,White,Married-civ-spouse,11th,United-States,Private,Other-service,12917,<=50K

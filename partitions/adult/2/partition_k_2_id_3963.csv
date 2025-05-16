@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,17328,<=50K
+Male,51,Amer-Indian-Eskimo,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,23350,>50K

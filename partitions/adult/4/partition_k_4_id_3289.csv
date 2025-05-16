@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,72,Asian-Pac-Islander,Married-civ-spouse,9th,United-States,Private,Exec-managerial,1845,>50K
+Female,73,Asian-Pac-Islander,Divorced,7th-8th,United-States,State-gov,Other-service,8838,<=50K
+Female,75,Asian-Pac-Islander,Never-married,Preschool,Philippines,Private,Priv-house-serv,15276,<=50K
+Female,71,Asian-Pac-Islander,Widowed,5th-6th,United-States,Private,Priv-house-serv,25783,<=50K

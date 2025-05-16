@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,White,Married-spouse-absent,Some-college,United-States,Private,Adm-clerical,5448,>50K
+Female,56,White,Married-spouse-absent,Some-college,United-States,Self-emp-not-inc,Farming-fishing,18486,>50K

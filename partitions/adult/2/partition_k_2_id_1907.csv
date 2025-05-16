@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Never-married,HS-grad,Poland,Local-gov,Farming-fishing,461,<=50K
+Male,34,White,Divorced,HS-grad,Portugal,Local-gov,Protective-serv,702,<=50K

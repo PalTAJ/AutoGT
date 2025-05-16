@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,Other,Divorced,1st-4th,Dominican-Republic,Private,Craft-repair,13777,<=50K
+Male,53,Other,Married-spouse-absent,12th,Dominican-Republic,Private,Handlers-cleaners,14403,<=50K
+Male,44,Other,Married-spouse-absent,HS-grad,Canada,Private,Transport-moving,17524,<=50K
+Male,45,Other,Widowed,HS-grad,Columbia,Private,Machine-op-inspct,19921,<=50K
+Male,58,Other,Divorced,Some-college,Mexico,Private,Machine-op-inspct,20748,<=50K
+Male,42,Other,Divorced,Bachelors,Iran,Self-emp-not-inc,Exec-managerial,29632,<=50K

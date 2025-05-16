@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Federal-gov,Prof-specialty,24247,<=50K
+Male,44,Amer-Indian-Eskimo,Married-civ-spouse,Bachelors,United-States,State-gov,Prof-specialty,28598,>50K

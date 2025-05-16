@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Separated,Masters,United-States,Private,Tech-support,25820,>50K
+Male,57,White,Separated,Masters,United-States,Private,Prof-specialty,29205,>50K

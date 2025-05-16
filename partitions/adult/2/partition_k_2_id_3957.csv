@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,Asian-Pac-Islander,Divorced,HS-grad,United-States,Private,Craft-repair,8196,>50K
+Male,49,Asian-Pac-Islander,Never-married,12th,United-States,Private,Transport-moving,12430,<=50K
+Male,41,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Exec-managerial,23595,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,Black,Never-married,Assoc-acdm,United-States,Private,Machine-op-inspct,19899,<=50K
+Male,23,Black,Never-married,Some-college,United-States,Private,Machine-op-inspct,19926,<=50K
+Male,25,Black,Never-married,Some-college,United-States,Private,Machine-op-inspct,20408,<=50K
+Male,28,Black,Never-married,Some-college,United-States,Self-emp-not-inc,Machine-op-inspct,25192,<=50K

@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,1074,>50K
+Male,64,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Adm-clerical,2466,<=50K
+Male,63,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Farming-fishing,9653,>50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,11635,<=50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Transport-moving,12493,<=50K
+Male,61,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Farming-fishing,12756,>50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Other-service,16367,<=50K
+Male,63,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,18091,<=50K
+Male,61,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Transport-moving,19220,<=50K
+Male,62,White,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Farming-fishing,19717,>50K

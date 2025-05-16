@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,2828,>50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,4616,<=50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,5487,<=50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,7934,>50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,9373,>50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,10271,>50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,11894,<=50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,13098,>50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,15708,>50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,16096,<=50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,21002,<=50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,26032,<=50K
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,29947,<=50K

@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,Black,Never-married,Assoc-voc,United-States,Private,Tech-support,4426,<=50K
+Female,25,Black,Never-married,Assoc-voc,United-States,Private,Tech-support,7984,<=50K
+Female,23,Black,Never-married,Assoc-voc,United-States,Private,Craft-repair,12487,<=50K
+Female,22,Black,Never-married,Assoc-voc,United-States,Private,Prof-specialty,12557,<=50K
+Female,27,Black,Never-married,Assoc-voc,United-States,Private,Machine-op-inspct,16481,<=50K
+Female,28,Black,Never-married,Assoc-voc,United-States,Private,Tech-support,25657,<=50K

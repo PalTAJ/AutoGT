@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,4338,<=50K
+Male,30,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,5585,<=50K
+Male,30,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,7368,<=50K
+Male,26,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,15659,<=50K
+Male,28,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,16874,<=50K
+Male,28,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,18997,<=50K
+Male,27,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,19420,<=50K

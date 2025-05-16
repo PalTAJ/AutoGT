@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,10,>50K
+Male,32,Black,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,2887,>50K
+Male,38,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,3381,<=50K
+Male,32,Black,Married-civ-spouse,Bachelors,England,Private,Exec-managerial,5637,>50K
+Male,30,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,7618,>50K
+Male,31,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,11229,>50K
+Male,33,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,11580,>50K
+Male,31,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,14514,>50K
+Male,34,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,15667,>50K
+Male,36,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,16820,>50K
+Male,29,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,19243,<=50K
+Male,34,Black,Married-civ-spouse,Some-college,Jamaica,Private,Exec-managerial,24582,<=50K
+Male,30,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,25772,<=50K
+Male,29,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,26759,>50K
+Male,37,Black,Married-civ-spouse,Some-college,Cuba,Private,Exec-managerial,28245,>50K

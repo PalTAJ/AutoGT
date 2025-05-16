@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Married-civ-spouse,Some-college,United-States,Local-gov,Transport-moving,357,<=50K
+Female,40,White,Married-civ-spouse,Some-college,United-States,Local-gov,Adm-clerical,10909,>50K
+Female,34,White,Married-civ-spouse,Some-college,United-States,Local-gov,Other-service,16122,<=50K
+Female,34,White,Married-AF-spouse,Some-college,United-States,Federal-gov,Adm-clerical,16753,>50K
+Female,32,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Adm-clerical,18961,<=50K
+Female,36,White,Married-civ-spouse,Bachelors,Germany,Local-gov,Adm-clerical,19048,>50K
+Female,32,White,Married-civ-spouse,Some-college,France,Local-gov,Protective-serv,19851,>50K
+Female,36,White,Married-civ-spouse,Bachelors,United-States,State-gov,Adm-clerical,29963,>50K

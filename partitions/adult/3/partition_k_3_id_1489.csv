@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,Black,Never-married,Assoc-acdm,United-States,Private,Sales,13,<=50K
+Male,34,Black,Never-married,Assoc-voc,United-States,Private,Handlers-cleaners,7481,<=50K
+Male,36,Black,Never-married,Assoc-acdm,United-States,Private,Sales,22091,>50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Japan,Private,Prof-specialty,1031,<=50K
+Male,45,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Japan,Private,Craft-repair,15494,>50K
+Male,48,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Tech-support,26037,>50K
+Male,45,Asian-Pac-Islander,Married-civ-spouse,Bachelors,China,Private,Prof-specialty,28771,<=50K

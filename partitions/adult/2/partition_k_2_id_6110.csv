@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,56,White,Never-married,Bachelors,Cuba,Private,Prof-specialty,17662,<=50K
+Female,56,White,Never-married,Bachelors,Mexico,Private,Prof-specialty,22977,<=50K

@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Married-spouse-absent,5th-6th,Mexico,Private,Farming-fishing,8909,<=50K
+Male,45,White,Divorced,5th-6th,United-States,Private,Transport-moving,9862,<=50K
+Male,41,White,Married-spouse-absent,5th-6th,Mexico,Private,Farming-fishing,13808,<=50K
+Male,42,White,Separated,5th-6th,El-Salvador,Private,Adm-clerical,14015,<=50K
+Male,42,White,Married-spouse-absent,5th-6th,Mexico,Private,Farming-fishing,16394,<=50K
+Male,50,White,Divorced,5th-6th,Cuba,Private,Other-service,16594,<=50K

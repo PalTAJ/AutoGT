@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Separated,Some-college,United-States,Private,Exec-managerial,1918,<=50K
+Female,40,White,Separated,Some-college,United-States,Private,Exec-managerial,10809,<=50K
+Female,40,White,Separated,Masters,United-States,Self-emp-not-inc,Exec-managerial,20229,<=50K
+Female,40,White,Separated,Some-college,United-States,Private,Exec-managerial,30064,<=50K

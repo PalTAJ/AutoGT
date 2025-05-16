@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,Other,Married-civ-spouse,Masters,Iran,Private,Prof-specialty,23763,>50K
+Male,33,Other,Married-civ-spouse,Assoc-acdm,Japan,Private,Sales,28540,>50K

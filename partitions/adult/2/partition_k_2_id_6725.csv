@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,Black,Divorced,Some-college,United-States,Federal-gov,Adm-clerical,17560,<=50K
+Female,45,Black,Never-married,Bachelors,United-States,Federal-gov,Protective-serv,20820,<=50K

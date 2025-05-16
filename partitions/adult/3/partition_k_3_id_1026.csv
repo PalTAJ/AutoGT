@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Never-married,Assoc-acdm,United-States,Federal-gov,Exec-managerial,153,<=50K
+Male,38,White,Never-married,Assoc-acdm,United-States,State-gov,Exec-managerial,10352,<=50K
+Male,40,White,Never-married,Prof-school,United-States,Local-gov,Exec-managerial,24691,>50K

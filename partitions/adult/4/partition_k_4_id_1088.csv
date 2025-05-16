@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,Black,Married-civ-spouse,Prof-school,Haiti,Private,Prof-specialty,5907,<=50K
+Male,33,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,9472,<=50K
+Male,36,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Machine-op-inspct,16524,<=50K
+Male,35,Black,Married-civ-spouse,Assoc-voc,Jamaica,Private,Tech-support,27263,<=50K
+Male,40,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,30121,<=50K

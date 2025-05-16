@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,White,Never-married,Masters,United-States,Private,Craft-repair,6060,<=50K
+Female,36,White,Never-married,Masters,United-States,Private,Prof-specialty,6139,<=50K
+Female,37,White,Never-married,Masters,United-States,Private,Prof-specialty,11872,>50K
+Female,40,White,Never-married,Masters,United-States,Private,Prof-specialty,12559,<=50K
+Female,39,White,Never-married,Masters,United-States,Self-emp-inc,Prof-specialty,13315,<=50K
+Female,40,White,Never-married,Masters,United-States,Private,Prof-specialty,14068,>50K
+Female,39,White,Never-married,Masters,United-States,Private,Prof-specialty,20512,>50K
+Female,36,White,Never-married,Masters,United-States,Private,Prof-specialty,20730,<=50K
+Female,40,White,Never-married,Masters,United-States,Private,Prof-specialty,21192,<=50K
+Female,39,White,Never-married,Masters,Columbia,Self-emp-not-inc,Prof-specialty,22331,<=50K
+Female,40,White,Never-married,Masters,United-States,Private,Prof-specialty,22589,<=50K
+Female,39,White,Never-married,Masters,United-States,Private,Prof-specialty,26957,<=50K
+Female,37,White,Never-married,Masters,United-States,Private,Prof-specialty,29768,<=50K

@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Other,Married-civ-spouse,HS-grad,United-States,Private,Other-service,2388,<=50K
+Male,25,Other,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,7011,<=50K
+Male,31,Other,Married-civ-spouse,Some-college,Puerto-Rico,Private,Other-service,8068,<=50K
+Male,29,Other,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,8242,<=50K
+Male,27,Other,Married-civ-spouse,Some-college,United-States,Private,Farming-fishing,8635,<=50K
+Male,26,Other,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,9945,<=50K
+Male,40,Other,Married-civ-spouse,5th-6th,Mexico,Private,Other-service,10756,<=50K
+Male,25,Other,Married-civ-spouse,12th,Mexico,Private,Farming-fishing,16554,<=50K
+Male,35,Other,Married-civ-spouse,HS-grad,Dominican-Republic,Private,Transport-moving,18546,<=50K
+Male,38,Other,Married-civ-spouse,HS-grad,Puerto-Rico,Private,Transport-moving,20147,<=50K
+Male,26,Other,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,23997,<=50K
+Male,28,Other,Married-civ-spouse,HS-grad,United-States,Private,Other-service,25451,<=50K
+Male,27,Other,Married-civ-spouse,Some-college,Ecuador,Self-emp-not-inc,Transport-moving,29067,>50K

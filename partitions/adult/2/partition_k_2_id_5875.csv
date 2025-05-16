@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Never-married,10th,United-States,Private,Adm-clerical,6499,<=50K
+Female,34,Black,Never-married,10th,United-States,Private,Other-service,8525,<=50K
+Female,35,Black,Never-married,10th,United-States,Private,Other-service,14361,<=50K
+Female,34,Black,Never-married,10th,Jamaica,Private,Other-service,29601,<=50K

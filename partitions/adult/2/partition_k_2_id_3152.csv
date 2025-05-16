@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,White,Married-civ-spouse,9th,Dominican-Republic,Private,Other-service,6535,<=50K
+Male,56,White,Married-civ-spouse,9th,United-States,Private,Other-service,7145,<=50K
+Male,59,White,Married-civ-spouse,9th,United-States,Private,Other-service,20990,<=50K
+Male,59,White,Married-civ-spouse,9th,United-States,Private,Other-service,21808,<=50K

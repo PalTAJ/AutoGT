@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,55,White,Never-married,Doctorate,England,Private,Prof-specialty,2183,<=50K
+Male,43,White,Never-married,Prof-school,France,Private,Prof-specialty,28975,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Craft-repair,10735,>50K
+Male,54,White,Married-civ-spouse,Assoc-acdm,Cuba,Private,Craft-repair,24820,<=50K

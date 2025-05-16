@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Prof-specialty,5766,<=50K
+Female,32,Asian-Pac-Islander,Married-civ-spouse,Prof-school,United-States,Private,Prof-specialty,8277,>50K
+Female,26,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,11953,<=50K
+Female,36,Asian-Pac-Islander,Married-civ-spouse,Bachelors,Philippines,Private,Prof-specialty,18073,>50K
+Female,30,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,20312,>50K
+Female,34,Asian-Pac-Islander,Married-civ-spouse,Masters,China,Private,Prof-specialty,20907,>50K
+Female,29,Asian-Pac-Islander,Married-civ-spouse,Masters,Hong,Private,Prof-specialty,25328,>50K
+Female,29,Asian-Pac-Islander,Married-civ-spouse,HS-grad,China,Private,Prof-specialty,29747,>50K

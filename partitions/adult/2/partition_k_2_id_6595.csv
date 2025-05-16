@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,White,Separated,7th-8th,Peru,Private,Other-service,10512,<=50K
+Female,46,White,Separated,HS-grad,Peru,Private,Handlers-cleaners,22742,<=50K

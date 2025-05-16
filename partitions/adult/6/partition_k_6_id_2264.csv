@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,70,Black,Widowed,7th-8th,United-States,Private,Other-service,11442,<=50K
+Female,68,Amer-Indian-Eskimo,Widowed,7th-8th,United-States,Private,Other-service,14997,<=50K
+Female,67,White,Widowed,7th-8th,United-States,Local-gov,Other-service,15245,<=50K
+Female,66,White,Widowed,7th-8th,United-States,Local-gov,Other-service,16523,<=50K
+Female,70,White,Widowed,7th-8th,United-States,Private,Other-service,17160,<=50K
+Female,66,Black,Widowed,7th-8th,United-States,Private,Other-service,18305,<=50K
+Female,66,White,Widowed,7th-8th,Germany,Private,Other-service,25938,<=50K

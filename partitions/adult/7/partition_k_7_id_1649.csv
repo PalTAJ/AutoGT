@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,Black,Never-married,Bachelors,United-States,Private,Other-service,4719,<=50K
+Female,25,Black,Never-married,Bachelors,United-States,Self-emp-not-inc,Adm-clerical,4871,<=50K
+Female,27,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,4981,<=50K
+Female,29,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,5447,<=50K
+Female,24,Black,Never-married,Bachelors,United-States,Private,Other-service,9793,<=50K
+Female,23,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,11998,<=50K
+Female,26,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,16390,<=50K
+Female,27,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,16543,<=50K
+Female,26,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,16788,<=50K
+Female,26,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,19885,<=50K
+Female,23,Black,Never-married,Bachelors,United-States,Private,Other-service,25417,<=50K
+Female,29,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,26755,<=50K
+Female,25,Black,Never-married,Bachelors,Jamaica,Private,Other-service,27454,<=50K
+Female,24,Black,Never-married,Bachelors,United-States,Private,Transport-moving,29171,<=50K

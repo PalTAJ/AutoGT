@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Never-married,Preschool,Mexico,Private,Other-service,2705,<=50K
+Female,39,White,Never-married,Preschool,United-States,Private,Other-service,20537,<=50K
+Female,40,White,Never-married,Preschool,United-States,Private,Other-service,29851,<=50K

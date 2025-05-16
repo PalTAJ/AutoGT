@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,Asian-Pac-Islander,Never-married,Some-college,Philippines,Private,Craft-repair,402,<=50K
+Male,26,Asian-Pac-Islander,Never-married,Bachelors,Japan,Private,Prof-specialty,1929,<=50K
+Male,27,Asian-Pac-Islander,Separated,Bachelors,Philippines,Private,Prof-specialty,7080,>50K
+Male,27,Asian-Pac-Islander,Never-married,Some-college,Cambodia,Private,Craft-repair,16104,<=50K
+Male,26,Asian-Pac-Islander,Never-married,Some-college,Philippines,Private,Machine-op-inspct,17348,<=50K
+Male,27,Asian-Pac-Islander,Never-married,Prof-school,India,Private,Prof-specialty,18467,<=50K
+Male,29,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Prof-specialty,21048,>50K
+Male,30,Asian-Pac-Islander,Divorced,Masters,India,Self-emp-not-inc,Prof-specialty,26696,>50K
+Male,26,Asian-Pac-Islander,Never-married,Masters,India,Private,Prof-specialty,28605,<=50K
+Male,26,Asian-Pac-Islander,Never-married,Some-college,Taiwan,Private,Craft-repair,29123,<=50K
+Male,28,Asian-Pac-Islander,Never-married,Bachelors,Hong,Private,Prof-specialty,29945,<=50K

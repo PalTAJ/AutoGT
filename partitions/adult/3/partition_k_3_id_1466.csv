@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,Black,Divorced,Assoc-voc,United-States,Private,Machine-op-inspct,18111,<=50K
+Male,37,Black,Divorced,Assoc-acdm,United-States,Private,Craft-repair,18377,<=50K
+Male,35,Black,Divorced,Assoc-voc,United-States,Private,Prof-specialty,25600,<=50K
+Male,29,Black,Divorced,Assoc-voc,United-States,Private,Tech-support,28939,>50K

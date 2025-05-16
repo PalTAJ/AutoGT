@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Never-married,Assoc-acdm,United-States,Local-gov,Protective-serv,28,<=50K
+Male,22,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,2539,<=50K
+Male,25,White,Never-married,Masters,United-States,Local-gov,Protective-serv,3220,<=50K
+Male,24,White,Separated,Some-college,United-States,Local-gov,Protective-serv,5756,<=50K
+Male,24,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,15058,<=50K
+Male,23,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,21231,>50K
+Male,24,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,21711,<=50K
+Male,24,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,27804,<=50K
+Male,25,White,Never-married,Assoc-voc,United-States,Local-gov,Protective-serv,29397,<=50K

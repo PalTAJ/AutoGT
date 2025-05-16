@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,White,Married-spouse-absent,Assoc-acdm,Iran,Private,Other-service,322,<=50K
+Male,41,White,Never-married,Some-college,Japan,Private,Craft-repair,941,<=50K
+Male,45,White,Widowed,Doctorate,Iran,Private,Prof-specialty,3112,>50K
+Male,44,White,Divorced,Masters,Iran,Private,Sales,13608,<=50K

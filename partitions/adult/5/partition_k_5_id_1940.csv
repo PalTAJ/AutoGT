@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,1923,>50K
+Female,32,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,11106,>50K
+Female,39,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,11994,>50K
+Female,36,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,13939,<=50K
+Female,40,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,26874,>50K

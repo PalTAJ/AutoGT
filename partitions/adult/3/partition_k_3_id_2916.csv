@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,67,Black,Widowed,HS-grad,United-States,Private,Handlers-cleaners,7784,<=50K
+Male,67,White,Widowed,HS-grad,United-States,Private,Exec-managerial,16460,>50K
+Male,63,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Sales,21681,<=50K
+Male,61,Black,Widowed,9th,United-States,Private,Exec-managerial,23080,<=50K
+Male,63,White,Widowed,HS-grad,United-States,Private,Exec-managerial,28383,>50K

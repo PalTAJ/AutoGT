@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Married-civ-spouse,1st-4th,United-States,Self-emp-not-inc,Sales,20293,<=50K
+Male,28,White,Married-civ-spouse,5th-6th,Mexico,Self-emp-not-inc,Handlers-cleaners,25366,<=50K

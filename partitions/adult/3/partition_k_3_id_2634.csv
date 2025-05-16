@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,Other,Divorced,1st-4th,Dominican-Republic,Private,Craft-repair,13777,<=50K
+Male,53,Other,Married-spouse-absent,12th,Dominican-Republic,Private,Handlers-cleaners,14403,<=50K
+Male,58,Other,Divorced,Some-college,Mexico,Private,Machine-op-inspct,20748,<=50K

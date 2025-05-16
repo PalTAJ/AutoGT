@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Married-civ-spouse,HS-grad,Columbia,Private,Exec-managerial,7307,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,Ecuador,Private,Craft-repair,10290,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,Peru,Private,Protective-serv,16832,<=50K

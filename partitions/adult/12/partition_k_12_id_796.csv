@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,Black,Never-married,HS-grad,United-States,Private,Sales,2052,<=50K
+Male,47,Black,Divorced,7th-8th,United-States,Private,Handlers-cleaners,6327,<=50K
+Male,55,Black,Never-married,HS-grad,United-States,Private,Handlers-cleaners,8233,<=50K
+Male,59,Black,Divorced,HS-grad,United-States,Private,Handlers-cleaners,8739,<=50K
+Male,43,Black,Never-married,HS-grad,United-States,Self-emp-inc,Exec-managerial,10224,<=50K
+Male,52,Black,Divorced,HS-grad,United-States,Self-emp-not-inc,Sales,11999,<=50K
+Male,49,Black,Separated,10th,United-States,Private,Exec-managerial,12603,<=50K
+Male,60,Black,Never-married,HS-grad,United-States,Self-emp-not-inc,Exec-managerial,15793,>50K
+Male,45,Black,Divorced,HS-grad,United-States,Private,Sales,18724,<=50K
+Male,42,Black,Never-married,7th-8th,United-States,Private,Handlers-cleaners,19519,<=50K
+Male,55,Black,Never-married,9th,United-States,Private,Handlers-cleaners,24665,<=50K
+Male,60,Black,Divorced,HS-grad,United-States,Self-emp-not-inc,Sales,25048,<=50K
+Male,41,Black,Separated,HS-grad,United-States,Private,Handlers-cleaners,28746,<=50K

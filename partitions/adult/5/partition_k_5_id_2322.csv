@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,Black,Never-married,HS-grad,United-States,Private,Other-service,2030,<=50K
+Female,35,Black,Never-married,12th,Trinadad&Tobago,Self-emp-not-inc,Other-service,2920,<=50K
+Female,35,Black,Never-married,HS-grad,Jamaica,Private,Other-service,13870,<=50K
+Female,35,Black,Widowed,10th,United-States,Private,Other-service,14000,<=50K
+Female,35,Black,Never-married,10th,United-States,Private,Other-service,14361,<=50K
+Female,35,Black,Separated,HS-grad,United-States,Private,Transport-moving,14396,<=50K
+Female,35,Black,Married-spouse-absent,HS-grad,United-States,Private,Other-service,14851,<=50K
+Female,35,Black,Separated,HS-grad,United-States,Private,Other-service,16271,<=50K
+Female,35,Black,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,19019,<=50K
+Female,35,Black,Separated,HS-grad,United-States,Private,Other-service,21504,<=50K
+Female,35,Black,Never-married,HS-grad,United-States,Private,Other-service,23580,<=50K
+Female,35,Black,Separated,11th,United-States,Private,Other-service,26211,<=50K
+Female,35,Black,Divorced,HS-grad,United-States,Private,Other-service,28593,<=50K

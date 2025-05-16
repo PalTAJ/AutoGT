@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,Other,Married-civ-spouse,HS-grad,Mexico,Private,Farming-fishing,4607,<=50K
+Male,41,Other,Married-civ-spouse,5th-6th,Nicaragua,Private,Other-service,8545,<=50K
+Male,57,Other,Married-civ-spouse,1st-4th,Dominican-Republic,Private,Other-service,8921,<=50K
+Male,42,Other,Married-civ-spouse,Some-college,United-States,Local-gov,Protective-serv,11374,>50K
+Male,57,Other,Married-civ-spouse,Some-college,Mexico,Private,Other-service,17324,<=50K
+Male,44,Other,Married-spouse-absent,HS-grad,Canada,Private,Transport-moving,17524,<=50K
+Male,43,Other,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,18106,<=50K
+Male,44,Other,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,19680,<=50K
+Male,45,Other,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,28319,<=50K
+Male,46,Other,Married-civ-spouse,Assoc-acdm,United-States,Private,Transport-moving,29664,<=50K

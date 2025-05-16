@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Married-civ-spouse,11th,United-States,Local-gov,Transport-moving,327,<=50K
+Male,47,White,Married-civ-spouse,11th,El-Salvador,Local-gov,Transport-moving,10762,<=50K

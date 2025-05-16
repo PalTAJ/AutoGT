@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,Black,Widowed,HS-grad,United-States,Local-gov,Craft-repair,2901,<=50K
+Male,51,Black,Divorced,HS-grad,United-States,Local-gov,Transport-moving,3545,<=50K
+Male,51,Black,Never-married,HS-grad,United-States,Local-gov,Other-service,3874,<=50K
+Male,53,Black,Separated,Some-college,United-States,Federal-gov,Craft-repair,4022,<=50K
+Male,51,Black,Separated,HS-grad,United-States,Local-gov,Protective-serv,5089,<=50K
+Male,58,Black,Widowed,1st-4th,United-States,Local-gov,Handlers-cleaners,12648,<=50K
+Male,53,Black,Never-married,Assoc-acdm,United-States,Local-gov,Adm-clerical,13403,<=50K
+Male,56,Black,Separated,Some-college,United-States,Federal-gov,Other-service,19284,<=50K
+Male,57,Black,Divorced,Bachelors,United-States,State-gov,Machine-op-inspct,19410,<=50K
+Male,56,Black,Never-married,Bachelors,United-States,Federal-gov,Transport-moving,19527,<=50K
+Male,53,Black,Divorced,HS-grad,United-States,Federal-gov,Craft-repair,20928,<=50K
+Male,58,Black,Divorced,HS-grad,United-States,State-gov,Other-service,20930,<=50K
+Male,52,Black,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,23826,<=50K
+Male,55,Black,Divorced,Bachelors,United-States,State-gov,Exec-managerial,25311,<=50K
+Male,56,Black,Divorced,Some-college,United-States,Local-gov,Protective-serv,27218,<=50K
+Male,57,Black,Divorced,Prof-school,United-States,Federal-gov,Exec-managerial,29412,>50K

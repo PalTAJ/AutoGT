@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Divorced,HS-grad,Vietnam,Private,Craft-repair,12632,<=50K
+Female,24,White,Divorced,HS-grad,Japan,Private,Other-service,22837,<=50K

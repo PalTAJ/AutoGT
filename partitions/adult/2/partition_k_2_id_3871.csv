@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,58,White,Never-married,10th,Greece,Self-emp-not-inc,Craft-repair,5398,<=50K
+Male,55,White,Married-spouse-absent,HS-grad,Poland,Private,Machine-op-inspct,11159,<=50K
+Male,59,White,Divorced,HS-grad,England,Self-emp-not-inc,Prof-specialty,15471,<=50K

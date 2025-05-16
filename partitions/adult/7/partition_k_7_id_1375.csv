@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Other-service,401,>50K
+Female,25,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,2572,<=50K
+Female,30,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Transport-moving,7741,>50K
+Female,25,White,Married-civ-spouse,Assoc-acdm,United-States,Self-emp-not-inc,Adm-clerical,14743,>50K
+Female,23,White,Married-civ-spouse,Assoc-acdm,Puerto-Rico,Private,Other-service,17932,<=50K
+Female,24,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,19211,<=50K
+Female,24,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,22289,<=50K
+Female,26,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,23657,<=50K

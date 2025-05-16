@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,Asian-Pac-Islander,Married-civ-spouse,HS-grad,South,Self-emp-not-inc,Sales,1814,>50K
+Male,48,Asian-Pac-Islander,Married-civ-spouse,HS-grad,South,Self-emp-not-inc,Exec-managerial,22059,<=50K
+Male,50,Asian-Pac-Islander,Married-civ-spouse,HS-grad,South,Self-emp-not-inc,Other-service,28301,<=50K

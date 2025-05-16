@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,White,Married-spouse-absent,Bachelors,United-States,Private,Other-service,4686,<=50K
+Male,42,White,Married-spouse-absent,Bachelors,United-States,Private,Transport-moving,24882,<=50K

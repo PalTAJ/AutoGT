@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,64,White,Widowed,Some-college,United-States,Private,Tech-support,2455,<=50K
+Female,62,White,Widowed,Bachelors,United-States,Private,Tech-support,18453,<=50K
+Female,64,White,Widowed,Some-college,United-States,Private,Tech-support,21242,<=50K

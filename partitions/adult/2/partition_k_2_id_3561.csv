@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,58,White,Never-married,Some-college,United-States,Private,Transport-moving,234,<=50K
+Male,57,White,Never-married,Some-college,United-States,Private,Protective-serv,14799,<=50K
+Male,58,White,Never-married,Some-college,United-States,Private,Farming-fishing,18579,<=50K

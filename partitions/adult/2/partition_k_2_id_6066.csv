@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,White,Married-civ-spouse,5th-6th,Italy,Private,Craft-repair,4987,<=50K
+Female,53,White,Married-civ-spouse,5th-6th,Italy,Private,Other-service,17000,<=50K

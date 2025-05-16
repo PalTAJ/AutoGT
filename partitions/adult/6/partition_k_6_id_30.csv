@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Handlers-cleaners,520,<=50K
+Male,20,Amer-Indian-Eskimo,Never-married,Some-college,United-States,Private,Machine-op-inspct,2207,<=50K
+Male,18,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Handlers-cleaners,12327,<=50K
+Male,19,Amer-Indian-Eskimo,Never-married,12th,United-States,Private,Handlers-cleaners,13131,<=50K
+Male,18,Amer-Indian-Eskimo,Never-married,11th,United-States,Private,Other-service,14386,<=50K
+Male,17,Amer-Indian-Eskimo,Never-married,11th,United-States,Private,Handlers-cleaners,28345,<=50K

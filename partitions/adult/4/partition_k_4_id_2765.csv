@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,850,<=50K
+Female,37,Black,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,4193,>50K
+Female,36,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,5724,>50K
+Female,38,Black,Married-civ-spouse,Some-college,United-States,Private,Other-service,9996,<=50K
+Female,40,Black,Married-civ-spouse,Some-college,Puerto-Rico,Private,Sales,14106,<=50K
+Female,39,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,24545,>50K

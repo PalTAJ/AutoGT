@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,69,Black,Widowed,HS-grad,United-States,Local-gov,Adm-clerical,18771,<=50K
+Female,66,Black,Widowed,HS-grad,United-States,Local-gov,Transport-moving,22099,<=50K
+Female,66,Black,Widowed,HS-grad,United-States,State-gov,Prof-specialty,28219,<=50K

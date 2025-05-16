@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,White,Widowed,HS-grad,Germany,Federal-gov,Sales,1052,<=50K
+Female,55,White,Divorced,HS-grad,England,Private,Sales,5055,<=50K
+Female,54,White,Separated,10th,Italy,Private,Sales,13615,<=50K
+Female,42,White,Divorced,HS-grad,England,Private,Exec-managerial,16296,<=50K
+Female,52,White,Divorced,HS-grad,Germany,Private,Sales,19309,<=50K
+Female,43,White,Never-married,9th,Portugal,Self-emp-inc,Sales,26160,<=50K

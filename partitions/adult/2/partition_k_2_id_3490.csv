@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Divorced,Masters,United-States,Self-emp-not-inc,Prof-specialty,2009,<=50K
+Male,49,White,Divorced,Masters,Mexico,Self-emp-inc,Prof-specialty,6006,>50K
+Male,47,White,Divorced,Masters,United-States,Private,Prof-specialty,7078,>50K
+Male,47,White,Divorced,Masters,United-States,Private,Tech-support,27520,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,Black,Separated,HS-grad,United-States,Private,Handlers-cleaners,11636,<=50K
+Male,33,Black,Separated,7th-8th,Haiti,Private,Handlers-cleaners,20919,<=50K
+Male,39,Black,Separated,HS-grad,United-States,Private,Handlers-cleaners,24887,<=50K

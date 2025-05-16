@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,Other,Never-married,HS-grad,United-States,Private,Adm-clerical,8260,<=50K
+Female,23,Other,Never-married,HS-grad,Guatemala,Private,Priv-house-serv,13329,<=50K

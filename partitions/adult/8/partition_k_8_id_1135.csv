@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,63,Black,Married-civ-spouse,Some-college,United-States,Private,Sales,1724,>50K
+Male,72,Black,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,3597,<=50K
+Male,75,Black,Married-civ-spouse,Doctorate,United-States,State-gov,Prof-specialty,5850,>50K
+Male,61,Black,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Sales,6484,>50K
+Male,75,Black,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Craft-repair,10464,<=50K
+Male,65,Black,Married-civ-spouse,Some-college,United-States,State-gov,Machine-op-inspct,13561,>50K
+Male,62,Black,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,22591,<=50K
+Male,70,Black,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Exec-managerial,22717,<=50K
+Male,66,Black,Married-civ-spouse,Doctorate,Jamaica,Local-gov,Prof-specialty,24942,>50K
+Male,65,Black,Married-civ-spouse,Some-college,United-States,Federal-gov,Exec-managerial,25736,>50K
+Male,66,Black,Married-civ-spouse,Prof-school,United-States,State-gov,Exec-managerial,27564,>50K
+Male,69,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,28683,>50K

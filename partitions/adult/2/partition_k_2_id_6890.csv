@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,68,White,Widowed,Assoc-voc,United-States,Private,Exec-managerial,7549,<=50K
+Female,69,White,Widowed,Assoc-voc,United-States,Private,Sales,27245,<=50K

@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,19,White,Married-AF-spouse,HS-grad,United-States,Private,Adm-clerical,35,<=50K
+Female,19,White,Married-AF-spouse,HS-grad,United-States,Federal-gov,Sales,2650,<=50K
+Female,20,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,3901,<=50K
+Female,20,White,Married-civ-spouse,HS-grad,Mexico,Private,Adm-clerical,6222,<=50K
+Female,20,White,Married-civ-spouse,HS-grad,Peru,Private,Other-service,6259,<=50K
+Female,20,White,Married-civ-spouse,11th,United-States,Private,Sales,6964,<=50K
+Female,19,Black,Married-civ-spouse,HS-grad,United-States,Private,Other-service,8542,<=50K
+Female,20,White,Married-civ-spouse,Some-college,United-States,Private,Sales,10066,<=50K
+Female,18,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,13395,<=50K
+Female,19,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,14223,<=50K
+Female,17,White,Married-civ-spouse,10th,United-States,Private,Sales,17426,<=50K
+Female,18,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Other-service,17808,<=50K
+Female,20,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,21175,<=50K
+Female,18,White,Married-civ-spouse,HS-grad,United-States,Private,Exec-managerial,21880,<=50K
+Female,18,White,Married-civ-spouse,HS-grad,United-States,Private,Priv-house-serv,24034,<=50K
+Female,19,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,29438,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,White,Divorced,Masters,United-States,State-gov,Prof-specialty,1685,<=50K
+Female,44,White,Never-married,Masters,United-States,State-gov,Prof-specialty,1706,<=50K
+Female,41,White,Divorced,Masters,United-States,State-gov,Prof-specialty,2637,<=50K
+Female,41,White,Never-married,Masters,United-States,State-gov,Prof-specialty,12152,<=50K

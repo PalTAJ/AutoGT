@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Married-civ-spouse,Bachelors,Japan,Self-emp-not-inc,Sales,2750,<=50K
+Male,30,White,Married-civ-spouse,Assoc-acdm,Iran,Self-emp-not-inc,Sales,6825,<=50K
+Male,36,White,Married-civ-spouse,Bachelors,Iran,Self-emp-not-inc,Exec-managerial,16544,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Sales,10153,>50K
+Male,32,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Sales,17410,<=50K

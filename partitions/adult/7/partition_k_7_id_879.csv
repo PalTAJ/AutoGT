@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,151,>50K
+Male,54,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,1282,<=50K
+Male,43,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,2912,<=50K
+Male,54,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,8414,>50K
+Male,52,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,16728,<=50K
+Male,50,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,18409,>50K
+Male,42,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,21744,>50K
+Male,55,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,22237,>50K
+Male,50,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,22411,>50K
+Male,55,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Sales,28596,<=50K
+Male,57,White,Married-civ-spouse,Doctorate,United-States,Self-emp-not-inc,Sales,29249,>50K
+Male,48,White,Married-civ-spouse,Masters,England,Self-emp-not-inc,Sales,29458,<=50K

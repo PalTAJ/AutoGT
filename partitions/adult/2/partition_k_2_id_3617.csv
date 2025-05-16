@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,White,Never-married,Bachelors,Cuba,Private,Exec-managerial,4887,<=50K
+Male,54,White,Never-married,Bachelors,United-States,Private,Exec-managerial,5110,>50K
+Male,56,White,Never-married,Bachelors,United-States,Private,Exec-managerial,9411,>50K

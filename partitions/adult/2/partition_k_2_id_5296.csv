@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,23,White,Never-married,Assoc-acdm,Poland,Federal-gov,Exec-managerial,8668,<=50K
+Female,27,White,Never-married,Assoc-acdm,Germany,State-gov,Adm-clerical,18679,<=50K
+Female,36,White,Married-spouse-absent,Assoc-voc,Germany,State-gov,Protective-serv,23058,<=50K

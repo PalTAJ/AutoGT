@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Married-civ-spouse,Bachelors,Philippines,Federal-gov,Prof-specialty,21154,>50K
+Male,41,White,Married-civ-spouse,Prof-school,India,Federal-gov,Prof-specialty,27907,>50K

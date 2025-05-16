@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,48,White,Separated,HS-grad,United-States,Self-emp-not-inc,Other-service,15039,<=50K
+Female,42,White,Separated,HS-grad,United-States,Self-emp-not-inc,Other-service,15559,<=50K
+Female,51,White,Separated,HS-grad,United-States,Self-emp-not-inc,Other-service,25180,<=50K
+Female,55,White,Separated,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,26362,<=50K
+Female,42,White,Separated,11th,United-States,Self-emp-not-inc,Other-service,28438,<=50K

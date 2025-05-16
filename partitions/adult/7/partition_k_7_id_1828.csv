@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,White,Separated,HS-grad,United-States,Private,Adm-clerical,1140,<=50K
+Female,52,White,Separated,HS-grad,United-States,Private,Adm-clerical,3322,<=50K
+Female,56,White,Separated,10th,United-States,Private,Other-service,6787,<=50K
+Female,59,White,Separated,HS-grad,United-States,Private,Other-service,6900,<=50K
+Female,54,White,Separated,HS-grad,Puerto-Rico,Private,Adm-clerical,7682,<=50K
+Female,55,White,Separated,HS-grad,United-States,Private,Adm-clerical,8515,<=50K
+Female,52,White,Separated,HS-grad,United-States,Private,Priv-house-serv,10336,<=50K
+Female,53,White,Separated,HS-grad,United-States,Private,Adm-clerical,11240,<=50K
+Female,51,White,Separated,HS-grad,United-States,Private,Adm-clerical,17883,<=50K
+Female,52,White,Separated,HS-grad,United-States,Private,Other-service,19000,<=50K
+Female,55,White,Separated,HS-grad,United-States,Private,Other-service,22593,<=50K
+Female,60,White,Separated,HS-grad,United-States,Private,Other-service,23749,<=50K
+Female,51,White,Separated,HS-grad,United-States,Self-emp-not-inc,Other-service,25180,<=50K
+Female,55,White,Separated,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,26362,<=50K
+Female,58,White,Separated,HS-grad,Dominican-Republic,Private,Other-service,29436,<=50K

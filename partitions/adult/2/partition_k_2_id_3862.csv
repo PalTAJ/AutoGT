@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Separated,HS-grad,United-States,Local-gov,Other-service,8969,<=50K
+Male,42,White,Separated,HS-grad,United-States,State-gov,Adm-clerical,10481,<=50K
+Male,41,White,Separated,HS-grad,United-States,Local-gov,Transport-moving,13550,<=50K

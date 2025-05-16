@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,4255,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,4857,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,9019,>50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,10620,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,11548,>50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,12877,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,14022,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,17456,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,20533,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,20693,>50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,24049,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,25732,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,26289,>50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,26627,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,29375,>50K

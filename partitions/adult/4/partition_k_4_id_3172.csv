@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,Black,Divorced,Some-college,United-States,Private,Adm-clerical,723,<=50K
+Female,42,Black,Separated,Some-college,United-States,Private,Adm-clerical,8184,<=50K
+Female,42,Black,Separated,Some-college,Haiti,Private,Other-service,9037,<=50K
+Female,42,Black,Separated,Some-college,United-States,Self-emp-not-inc,Other-service,18905,<=50K
+Female,42,Black,Divorced,Some-college,United-States,Private,Adm-clerical,20274,<=50K
+Female,42,Black,Never-married,Some-college,United-States,Private,Transport-moving,22533,<=50K
+Female,42,Black,Divorced,Some-college,United-States,Private,Adm-clerical,23736,<=50K

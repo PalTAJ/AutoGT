@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,White,Married-spouse-absent,HS-grad,United-States,Local-gov,Transport-moving,18417,<=50K
+Female,42,White,Married-spouse-absent,7th-8th,Puerto-Rico,Local-gov,Other-service,21721,<=50K
+Female,48,White,Married-spouse-absent,HS-grad,United-States,Federal-gov,Adm-clerical,23116,<=50K

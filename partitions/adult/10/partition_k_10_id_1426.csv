@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,65,White,Divorced,HS-grad,United-States,Private,Adm-clerical,212,<=50K
+Female,65,Black,Widowed,9th,United-States,Private,Priv-house-serv,572,<=50K
+Female,65,White,Widowed,7th-8th,United-States,Without-pay,Farming-fishing,1748,<=50K
+Female,65,Black,Widowed,HS-grad,United-States,Local-gov,Other-service,4673,<=50K
+Female,65,White,Divorced,HS-grad,Canada,Private,Adm-clerical,7577,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Adm-clerical,9578,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Other-service,13466,<=50K
+Female,65,White,Divorced,HS-grad,United-States,Private,Other-service,17114,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Adm-clerical,17557,<=50K
+Female,65,White,Widowed,7th-8th,United-States,State-gov,Other-service,22257,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Adm-clerical,22536,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Other-service,23205,<=50K
+Female,65,White,Divorced,HS-grad,United-States,Federal-gov,Adm-clerical,24748,<=50K
+Female,65,Black,Widowed,HS-grad,Jamaica,Private,Other-service,26024,<=50K
+Female,65,White,Widowed,11th,United-States,Private,Adm-clerical,28729,<=50K

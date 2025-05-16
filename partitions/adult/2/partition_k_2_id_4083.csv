@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,Black,Married-civ-spouse,HS-grad,United-States,Private,Sales,4211,>50K
+Male,44,Black,Married-civ-spouse,HS-grad,Jamaica,Self-emp-not-inc,Sales,12631,<=50K

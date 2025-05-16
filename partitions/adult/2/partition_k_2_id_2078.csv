@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,Amer-Indian-Eskimo,Separated,Some-college,United-States,Private,Tech-support,19565,<=50K
+Male,26,Amer-Indian-Eskimo,Separated,Some-college,United-States,Private,Sales,23140,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,Asian-Pac-Islander,Married-civ-spouse,Assoc-acdm,India,Private,Adm-clerical,5718,<=50K
+Male,41,Asian-Pac-Islander,Married-civ-spouse,Prof-school,Philippines,Private,Adm-clerical,29113,<=50K

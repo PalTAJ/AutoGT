@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,White,Never-married,11th,United-States,Private,Other-service,2643,<=50K
+Male,23,White,Never-married,11th,Philippines,Private,Other-service,5139,<=50K
+Male,22,White,Never-married,11th,United-States,Private,Adm-clerical,11959,<=50K
+Male,22,White,Never-married,11th,United-States,Private,Transport-moving,12933,<=50K
+Male,25,White,Never-married,11th,United-States,Private,Other-service,14062,<=50K
+Male,21,White,Never-married,11th,United-States,Private,Other-service,15244,<=50K
+Male,24,White,Never-married,11th,United-States,Private,Transport-moving,16030,<=50K
+Male,21,White,Never-married,11th,United-States,Private,Farming-fishing,18754,<=50K
+Male,24,White,Never-married,11th,United-States,Private,Transport-moving,18834,<=50K
+Male,24,White,Never-married,11th,United-States,Private,Farming-fishing,20815,<=50K
+Male,25,White,Never-married,11th,United-States,Private,Other-service,27367,<=50K
+Male,21,White,Never-married,11th,El-Salvador,Private,Other-service,28270,<=50K

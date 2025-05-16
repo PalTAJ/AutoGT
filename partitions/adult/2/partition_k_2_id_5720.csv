@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,Black,Never-married,Bachelors,United-States,Private,Tech-support,273,<=50K
+Female,27,Black,Never-married,Bachelors,France,Private,Tech-support,23961,<=50K

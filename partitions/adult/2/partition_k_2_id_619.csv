@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,White,Married-civ-spouse,Masters,United-States,Private,Sales,3250,>50K
+Male,36,White,Married-civ-spouse,Masters,United-States,Private,Sales,5397,>50K
+Male,39,White,Married-civ-spouse,Masters,United-States,Private,Sales,5817,>50K
+Male,36,White,Married-civ-spouse,Masters,United-States,Private,Sales,26218,>50K
+Male,36,White,Married-civ-spouse,Masters,United-States,Private,Sales,27871,>50K

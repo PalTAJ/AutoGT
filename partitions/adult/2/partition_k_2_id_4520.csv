@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,1563,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,3871,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,7312,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,9837,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,10748,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,12849,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,18681,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,19701,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,20366,<=50K
+Female,18,White,Never-married,Some-college,Mexico,Private,Other-service,22573,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,23818,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,24235,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,24356,<=50K
+Female,18,White,Never-married,Some-college,United-States,Private,Other-service,24386,<=50K

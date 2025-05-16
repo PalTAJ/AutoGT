@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,Black,Divorced,Assoc-voc,United-States,Federal-gov,Craft-repair,510,>50K
+Female,39,Black,Divorced,Bachelors,United-States,Federal-gov,Tech-support,13698,<=50K
+Female,36,Black,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,19548,<=50K
+Female,38,Black,Divorced,Some-college,United-States,Federal-gov,Tech-support,26484,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,White,Married-spouse-absent,Bachelors,United-States,Private,Exec-managerial,12369,<=50K
+Female,44,White,Married-spouse-absent,Bachelors,United-States,Private,Exec-managerial,16880,<=50K
+Female,48,White,Married-spouse-absent,Bachelors,United-States,Private,Exec-managerial,20818,>50K
+Female,47,White,Married-spouse-absent,Some-college,Puerto-Rico,Private,Exec-managerial,22270,<=50K

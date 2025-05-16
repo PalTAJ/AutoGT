@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Divorced,HS-grad,United-States,Self-emp-inc,Exec-managerial,50,<=50K
+Male,52,White,Divorced,HS-grad,United-States,Self-emp-inc,Exec-managerial,1663,<=50K
+Male,58,White,Never-married,HS-grad,United-States,Self-emp-inc,Sales,2135,<=50K
+Male,58,White,Divorced,HS-grad,United-States,Self-emp-inc,Sales,3728,<=50K
+Male,42,White,Divorced,HS-grad,United-States,Self-emp-inc,Sales,5399,<=50K
+Male,45,White,Divorced,HS-grad,United-States,Self-emp-inc,Exec-managerial,5560,<=50K
+Male,51,White,Divorced,11th,United-States,Self-emp-inc,Sales,6174,<=50K
+Male,59,White,Divorced,HS-grad,United-States,Self-emp-inc,Exec-managerial,7797,<=50K
+Male,51,White,Never-married,HS-grad,United-States,Self-emp-inc,Exec-managerial,20771,>50K
+Male,50,White,Married-spouse-absent,HS-grad,United-States,Self-emp-inc,Sales,21604,<=50K
+Male,51,White,Divorced,HS-grad,United-States,Self-emp-inc,Exec-managerial,25636,>50K
+Male,41,White,Separated,HS-grad,United-States,Self-emp-inc,Exec-managerial,26183,<=50K
+Male,50,White,Never-married,11th,United-States,Self-emp-inc,Exec-managerial,29770,>50K

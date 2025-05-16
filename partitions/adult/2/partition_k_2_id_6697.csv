@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,Black,Never-married,Some-college,United-States,Private,Adm-clerical,7314,<=50K
+Female,42,Black,Never-married,Some-college,United-States,Private,Transport-moving,22533,<=50K
+Female,43,Black,Never-married,Some-college,United-States,Private,Adm-clerical,23074,<=50K
+Female,44,Black,Never-married,Some-college,United-States,Private,Adm-clerical,23703,<=50K

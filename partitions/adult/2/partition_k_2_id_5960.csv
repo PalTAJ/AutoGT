@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,8607,<=50K
+Female,42,White,Married-civ-spouse,Some-college,El-Salvador,Private,Exec-managerial,12582,>50K
+Female,44,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,13558,>50K
+Female,41,White,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,14343,>50K

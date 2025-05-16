@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Widowed,Some-college,United-States,Private,Exec-managerial,3881,<=50K
+Female,38,White,Widowed,Some-college,United-States,Private,Exec-managerial,8468,>50K
+Female,40,White,Widowed,Bachelors,United-States,Private,Exec-managerial,22886,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,2249,<=50K
+Male,33,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,4910,>50K
+Male,40,Amer-Indian-Eskimo,Married-civ-spouse,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,9490,>50K
+Male,35,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,10904,<=50K
+Male,38,Amer-Indian-Eskimo,Married-civ-spouse,Bachelors,United-States,Private,Prof-specialty,16431,>50K
+Male,35,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,17092,<=50K
+Male,40,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Prof-specialty,19270,>50K
+Male,40,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,27674,<=50K

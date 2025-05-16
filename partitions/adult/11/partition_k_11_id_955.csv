@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,9638,<=50K
+Female,31,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,10699,<=50K
+Female,39,White,Divorced,Some-college,United-States,Private,Machine-op-inspct,12189,<=50K
+Female,36,White,Divorced,Some-college,United-States,Private,Machine-op-inspct,16665,<=50K
+Female,32,White,Never-married,Some-college,Holand-Netherlands,Private,Machine-op-inspct,18175,<=50K
+Female,34,White,Never-married,Bachelors,United-States,Private,Machine-op-inspct,20354,<=50K
+Female,32,White,Divorced,Bachelors,United-States,Private,Machine-op-inspct,21378,<=50K
+Female,38,White,Never-married,Bachelors,United-States,Private,Machine-op-inspct,22730,<=50K
+Female,32,White,Divorced,Some-college,United-States,Private,Machine-op-inspct,23483,<=50K
+Female,31,White,Never-married,Some-college,United-States,Private,Machine-op-inspct,24106,<=50K
+Female,39,White,Divorced,Some-college,United-States,Private,Machine-op-inspct,24312,<=50K
+Female,32,White,Divorced,Some-college,United-States,Private,Machine-op-inspct,26793,<=50K

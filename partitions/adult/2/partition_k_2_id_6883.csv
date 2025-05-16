@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,63,White,Divorced,Masters,United-States,Private,Exec-managerial,9079,>50K
+Female,74,White,Divorced,Masters,United-States,Private,Sales,27323,<=50K

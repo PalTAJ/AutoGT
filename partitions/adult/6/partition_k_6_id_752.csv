@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Craft-repair,557,<=50K
+Male,40,Amer-Indian-Eskimo,Divorced,10th,United-States,Private,Craft-repair,1343,<=50K
+Male,23,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Craft-repair,10320,<=50K
+Male,38,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Private,Craft-repair,11886,<=50K
+Male,40,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Craft-repair,12950,<=50K
+Male,31,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Craft-repair,14151,<=50K
+Male,32,Amer-Indian-Eskimo,Never-married,11th,United-States,Private,Craft-repair,15597,>50K
+Male,39,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Self-emp-not-inc,Craft-repair,16539,<=50K
+Male,37,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Craft-repair,18297,>50K
+Male,35,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Self-emp-not-inc,Craft-repair,19826,<=50K
+Male,31,Amer-Indian-Eskimo,Never-married,9th,United-States,Private,Craft-repair,20089,<=50K
+Male,34,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Private,Craft-repair,23592,>50K
+Male,38,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Self-emp-not-inc,Craft-repair,29563,<=50K
+Male,33,Amer-Indian-Eskimo,Separated,HS-grad,Hong,Private,Craft-repair,29868,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Exec-managerial,4637,>50K
+Male,44,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Exec-managerial,6681,<=50K
+Male,44,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Handlers-cleaners,8963,<=50K
+Male,41,Black,Married-civ-spouse,Assoc-voc,United-States,Self-emp-inc,Exec-managerial,18256,>50K

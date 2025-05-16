@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Divorced,Assoc-acdm,Poland,Private,Adm-clerical,16382,<=50K
+Female,38,White,Never-married,Masters,Italy,Private,Adm-clerical,16762,>50K
+Female,34,White,Never-married,Some-college,Germany,Private,Adm-clerical,29773,<=50K

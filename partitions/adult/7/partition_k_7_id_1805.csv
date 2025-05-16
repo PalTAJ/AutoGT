@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,51,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,932,<=50K
+Female,52,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,2967,<=50K
+Female,53,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,3061,<=50K
+Female,52,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,9130,<=50K
+Female,52,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,11841,<=50K
+Female,51,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,12636,<=50K
+Female,51,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,13881,<=50K
+Female,53,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,17857,<=50K
+Female,54,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,18920,<=50K
+Female,53,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,23610,<=50K
+Female,55,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,25819,<=50K
+Female,55,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,27457,<=50K
+Female,52,White,Separated,12th,Cuba,Private,Machine-op-inspct,28626,<=50K
+Female,51,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,30045,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,55,Asian-Pac-Islander,Divorced,Assoc-acdm,United-States,State-gov,Adm-clerical,22641,<=50K
+Male,44,Asian-Pac-Islander,Divorced,Assoc-voc,United-States,Local-gov,Tech-support,23004,<=50K

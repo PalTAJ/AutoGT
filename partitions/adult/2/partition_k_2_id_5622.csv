@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,Asian-Pac-Islander,Never-married,Bachelors,Haiti,Private,Handlers-cleaners,22337,<=50K
+Female,31,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Sales,26399,<=50K

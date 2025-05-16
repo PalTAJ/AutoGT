@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Divorced,Assoc-acdm,United-States,Local-gov,Protective-serv,5083,<=50K
+Male,33,White,Divorced,Assoc-acdm,United-States,Federal-gov,Other-service,5557,<=50K
+Male,32,White,Divorced,Assoc-acdm,United-States,Federal-gov,Protective-serv,7937,<=50K
+Male,29,White,Divorced,Assoc-voc,United-States,Local-gov,Protective-serv,17026,<=50K
+Male,29,White,Divorced,Assoc-voc,United-States,State-gov,Adm-clerical,21183,<=50K

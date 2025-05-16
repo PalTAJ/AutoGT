@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,73,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,5370,<=50K
+Male,73,White,Married-civ-spouse,12th,United-States,Self-emp-not-inc,Farming-fishing,6333,<=50K
+Male,73,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,8244,<=50K
+Male,73,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,15375,>50K
+Male,73,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Vietnam,Self-emp-not-inc,Farming-fishing,15999,<=50K
+Male,71,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,16853,<=50K
+Male,73,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Philippines,Private,Farming-fishing,17210,<=50K
+Male,73,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,23844,<=50K
+Male,72,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,26159,<=50K
+Male,75,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,27024,<=50K
+Male,75,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,27269,<=50K
+Male,71,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,27859,<=50K
+Male,75,White,Married-civ-spouse,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,28651,<=50K
+Male,71,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,29402,<=50K

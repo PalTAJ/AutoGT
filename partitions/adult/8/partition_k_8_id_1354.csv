@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,White,Never-married,Some-college,United-States,Federal-gov,Adm-clerical,343,<=50K
+Female,27,White,Never-married,Bachelors,United-States,Federal-gov,Adm-clerical,4828,<=50K
+Female,30,White,Never-married,Bachelors,United-States,Federal-gov,Protective-serv,13291,>50K
+Female,27,White,Never-married,Bachelors,United-States,Federal-gov,Protective-serv,16225,<=50K
+Female,22,White,Never-married,Some-college,United-States,Federal-gov,Adm-clerical,21795,<=50K
+Female,29,White,Never-married,Some-college,United-States,Federal-gov,Other-service,22200,>50K
+Female,29,White,Married-spouse-absent,Some-college,United-States,Federal-gov,Adm-clerical,24448,<=50K
+Female,29,White,Divorced,Assoc-acdm,United-States,Federal-gov,Adm-clerical,25993,<=50K
+Female,30,White,Never-married,Bachelors,United-States,Federal-gov,Adm-clerical,28632,<=50K

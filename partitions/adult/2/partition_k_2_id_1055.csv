@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,21,White,Married-civ-spouse,1st-4th,England,Private,Other-service,27282,<=50K
+Male,36,White,Married-civ-spouse,1st-4th,Italy,Private,Handlers-cleaners,28951,<=50K

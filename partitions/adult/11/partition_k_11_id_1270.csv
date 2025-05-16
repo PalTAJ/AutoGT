@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,Black,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,231,<=50K
+Female,42,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,2048,>50K
+Female,47,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,2966,>50K
+Female,50,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Exec-managerial,4165,>50K
+Female,42,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,4930,>50K
+Female,43,Black,Married-civ-spouse,Some-college,United-States,Private,Tech-support,5832,<=50K
+Female,50,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Other-service,6672,<=50K
+Female,47,Black,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,8080,>50K
+Female,42,Black,Married-civ-spouse,Some-college,United-States,Private,Other-service,11128,<=50K
+Female,47,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Prof-specialty,14438,>50K
+Female,47,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,16690,>50K
+Female,41,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,21868,>50K
+Female,42,Black,Married-civ-spouse,Bachelors,United-States,Private,Craft-repair,22139,>50K
+Female,43,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,23958,>50K
+Female,41,Black,Married-civ-spouse,Bachelors,Haiti,Private,Prof-specialty,29178,>50K

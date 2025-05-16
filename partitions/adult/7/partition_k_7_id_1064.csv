@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Married-civ-spouse,HS-grad,Poland,Private,Craft-repair,2088,<=50K
+Male,45,White,Married-civ-spouse,HS-grad,England,Self-emp-not-inc,Craft-repair,2778,<=50K
+Male,48,White,Married-civ-spouse,7th-8th,Italy,Self-emp-not-inc,Craft-repair,4083,<=50K
+Male,48,White,Married-civ-spouse,HS-grad,Italy,Private,Craft-repair,6081,>50K
+Male,50,White,Married-civ-spouse,HS-grad,Poland,Private,Craft-repair,14523,<=50K
+Male,48,White,Married-civ-spouse,9th,Poland,Private,Machine-op-inspct,20880,<=50K
+Male,48,White,Married-civ-spouse,HS-grad,England,Self-emp-not-inc,Craft-repair,23940,<=50K
+Male,44,White,Married-civ-spouse,HS-grad,England,Self-emp-not-inc,Craft-repair,24351,>50K
+Male,47,White,Married-civ-spouse,HS-grad,Germany,Self-emp-inc,Prof-specialty,24930,<=50K
+Male,49,White,Married-civ-spouse,HS-grad,Portugal,State-gov,Craft-repair,26357,<=50K

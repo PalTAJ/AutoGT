@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Widowed,HS-grad,United-States,Local-gov,Farming-fishing,1632,<=50K
+Male,42,White,Divorced,HS-grad,United-States,Local-gov,Farming-fishing,13001,<=50K
+Male,42,White,Never-married,10th,United-States,Local-gov,Farming-fishing,29076,<=50K

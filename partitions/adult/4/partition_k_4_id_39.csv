@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,White,Never-married,12th,United-States,Private,Other-service,3539,<=50K
+Male,20,White,Never-married,12th,United-States,Private,Farming-fishing,20628,<=50K
+Male,20,White,Never-married,12th,United-States,Private,Other-service,23059,<=50K
+Male,20,White,Never-married,12th,United-States,Private,Other-service,27861,<=50K

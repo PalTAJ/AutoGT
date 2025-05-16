@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,White,Never-married,Assoc-acdm,United-States,Federal-gov,Adm-clerical,18832,<=50K
+Male,31,White,Never-married,Assoc-acdm,United-States,Federal-gov,Adm-clerical,21141,<=50K
+Male,39,White,Never-married,Assoc-acdm,United-States,Local-gov,Transport-moving,23264,<=50K
+Male,31,White,Never-married,Assoc-acdm,United-States,Local-gov,Protective-serv,28164,<=50K

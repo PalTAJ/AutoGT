@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,4583,<=50K
+Female,28,White,Never-married,HS-grad,Guatemala,Private,Machine-op-inspct,12296,<=50K
+Female,28,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,16358,<=50K
+Female,28,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,17957,<=50K
+Female,28,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,19434,<=50K

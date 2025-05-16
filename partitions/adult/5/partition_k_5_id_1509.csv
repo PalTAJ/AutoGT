@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Divorced,Masters,United-States,Private,Transport-moving,5252,>50K
+Male,44,White,Never-married,Masters,United-States,Self-emp-not-inc,Farming-fishing,9676,<=50K
+Male,43,White,Never-married,Masters,United-States,Private,Adm-clerical,20342,<=50K
+Male,57,White,Never-married,Masters,United-States,Self-emp-not-inc,Farming-fishing,25225,<=50K
+Male,51,White,Divorced,Masters,United-States,Private,Protective-serv,27452,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,White,Married-civ-spouse,Some-college,Germany,Private,Exec-managerial,19520,>50K
+Male,36,White,Married-civ-spouse,Some-college,Yugoslavia,Self-emp-inc,Exec-managerial,24659,>50K
+Male,32,White,Married-civ-spouse,Some-college,Germany,Private,Exec-managerial,26122,<=50K

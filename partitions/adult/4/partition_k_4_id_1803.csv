@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,White,Separated,Doctorate,United-States,Self-emp-inc,Prof-specialty,595,>50K
+Male,46,White,Separated,Doctorate,United-States,Self-emp-inc,Prof-specialty,13829,<=50K
+Male,47,White,Separated,Masters,United-States,Private,Tech-support,25820,>50K
+Male,57,White,Separated,Masters,United-States,Private,Prof-specialty,29205,>50K

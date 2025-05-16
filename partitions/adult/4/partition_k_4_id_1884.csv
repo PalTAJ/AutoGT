@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Divorced,Some-college,Scotland,Private,Exec-managerial,1455,<=50K
+Male,55,White,Never-married,Doctorate,England,Private,Prof-specialty,2183,<=50K
+Male,51,White,Divorced,Assoc-acdm,Germany,Private,Exec-managerial,4348,<=50K
+Male,53,White,Never-married,Bachelors,Italy,Private,Other-service,11073,>50K
+Male,53,White,Separated,Assoc-voc,Poland,Self-emp-not-inc,Craft-repair,28867,<=50K

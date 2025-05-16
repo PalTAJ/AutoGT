@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Other-service,7442,<=50K
+Male,19,Asian-Pac-Islander,Never-married,Assoc-voc,United-States,Private,Other-service,7776,<=50K
+Male,20,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Farming-fishing,11470,<=50K
+Male,18,Asian-Pac-Islander,Never-married,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,18178,<=50K
+Male,18,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,27544,<=50K
+Male,20,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,29740,<=50K

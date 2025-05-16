@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Married-spouse-absent,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,8616,<=50K
+Male,49,White,Married-spouse-absent,Masters,United-States,Private,Prof-specialty,8641,<=50K
+Male,48,White,Married-spouse-absent,Bachelors,United-States,Private,Prof-specialty,20539,>50K
+Male,46,White,Married-spouse-absent,Assoc-voc,United-States,Private,Craft-repair,26015,<=50K
+Male,46,White,Married-spouse-absent,Assoc-voc,United-States,Private,Machine-op-inspct,27479,<=50K
+Male,48,White,Married-spouse-absent,Assoc-voc,United-States,Private,Prof-specialty,27906,<=50K

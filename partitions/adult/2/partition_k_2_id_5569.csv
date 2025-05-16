@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Never-married,HS-grad,Nicaragua,Private,Handlers-cleaners,8823,<=50K
+Female,32,White,Separated,11th,Nicaragua,Self-emp-not-inc,Handlers-cleaners,26374,<=50K

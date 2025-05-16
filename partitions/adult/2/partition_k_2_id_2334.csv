@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,Black,Never-married,10th,United-States,Private,Machine-op-inspct,1619,<=50K
+Male,39,Black,Widowed,10th,United-States,Private,Machine-op-inspct,14542,<=50K
+Male,34,Black,Divorced,10th,United-States,Private,Machine-op-inspct,27900,<=50K

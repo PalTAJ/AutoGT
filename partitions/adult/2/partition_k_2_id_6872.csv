@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,77,White,Widowed,Some-college,United-States,Private,Priv-house-serv,9759,<=50K
+Female,73,White,Widowed,Some-college,United-States,Private,Priv-house-serv,10303,<=50K
+Female,62,White,Widowed,Some-college,United-States,Private,Priv-house-serv,13753,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Handlers-cleaners,1373,<=50K
+Male,30,Amer-Indian-Eskimo,Married-spouse-absent,11th,Mexico,Private,Handlers-cleaners,26997,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,White,Married-spouse-absent,Some-college,United-States,Private,Transport-moving,17551,<=50K
+Female,31,White,Married-spouse-absent,Bachelors,United-States,Private,Adm-clerical,18005,<=50K
+Female,33,White,Married-spouse-absent,Bachelors,United-States,Private,Other-service,18421,<=50K
+Female,34,White,Married-spouse-absent,Bachelors,United-States,Private,Adm-clerical,28065,<=50K
+Female,34,White,Married-spouse-absent,Bachelors,United-States,Private,Adm-clerical,29960,<=50K

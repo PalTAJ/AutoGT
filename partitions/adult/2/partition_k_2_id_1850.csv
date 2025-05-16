@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,HS-grad,United-States,Private,Exec-managerial,5427,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Private,Exec-managerial,7274,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Private,Exec-managerial,8054,<=50K
+Male,25,White,Never-married,HS-grad,United-States,Private,Exec-managerial,20896,<=50K

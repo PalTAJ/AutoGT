@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Widowed,Masters,United-States,State-gov,Protective-serv,154,<=50K
+Male,51,White,Widowed,Bachelors,United-States,State-gov,Adm-clerical,26746,<=50K

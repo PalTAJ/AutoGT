@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,White,Never-married,Bachelors,United-States,Private,Adm-clerical,2020,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Adm-clerical,9873,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Adm-clerical,10569,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Adm-clerical,22615,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Adm-clerical,23117,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Adm-clerical,24025,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Adm-clerical,26408,<=50K
+Female,25,White,Never-married,Bachelors,United-States,Private,Adm-clerical,26936,<=50K

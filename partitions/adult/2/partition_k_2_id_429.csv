@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Adm-clerical,2024,<=50K
+Male,27,White,Married-civ-spouse,Assoc-acdm,El-Salvador,Federal-gov,Adm-clerical,14036,<=50K
+Male,24,White,Married-civ-spouse,Assoc-acdm,United-States,State-gov,Adm-clerical,27589,<=50K

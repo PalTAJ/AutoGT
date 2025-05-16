@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Amer-Indian-Eskimo,Married-civ-spouse,Assoc-voc,United-States,Private,Machine-op-inspct,3127,<=50K
+Male,32,Amer-Indian-Eskimo,Married-civ-spouse,5th-6th,Mexico,Private,Machine-op-inspct,11908,<=50K

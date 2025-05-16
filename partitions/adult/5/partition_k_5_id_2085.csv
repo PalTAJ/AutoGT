@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,White,Never-married,Bachelors,United-States,Private,Exec-managerial,2051,<=50K
+Female,38,White,Never-married,Bachelors,United-States,Private,Exec-managerial,4070,<=50K
+Female,39,White,Never-married,Bachelors,United-States,Private,Exec-managerial,5105,<=50K
+Female,38,White,Never-married,Bachelors,Cuba,Private,Exec-managerial,6373,<=50K
+Female,39,White,Never-married,Bachelors,United-States,Private,Exec-managerial,11820,<=50K
+Female,39,White,Never-married,Bachelors,United-States,Private,Exec-managerial,13901,<=50K
+Female,39,White,Never-married,Bachelors,United-States,Private,Exec-managerial,22663,<=50K
+Female,40,White,Never-married,Bachelors,United-States,Private,Exec-managerial,22798,<=50K
+Female,38,White,Never-married,Bachelors,United-States,Private,Exec-managerial,26341,<=50K

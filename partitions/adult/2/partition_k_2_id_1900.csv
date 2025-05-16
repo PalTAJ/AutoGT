@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Never-married,HS-grad,Ireland,Private,Craft-repair,2722,<=50K
+Male,27,White,Never-married,HS-grad,Ireland,Private,Craft-repair,13973,<=50K
+Male,27,White,Separated,11th,Germany,Private,Craft-repair,16444,<=50K

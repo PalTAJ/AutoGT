@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,Other,Divorced,11th,Puerto-Rico,Private,Machine-op-inspct,487,<=50K
+Female,48,Other,Divorced,HS-grad,Ecuador,Private,Machine-op-inspct,16608,<=50K
+Female,48,Other,Divorced,5th-6th,Dominican-Republic,Private,Machine-op-inspct,17280,<=50K
+Female,46,Other,Divorced,Bachelors,Puerto-Rico,Private,Machine-op-inspct,17371,<=50K

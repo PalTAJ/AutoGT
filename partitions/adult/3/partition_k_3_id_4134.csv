@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Separated,HS-grad,United-States,Private,Machine-op-inspct,3529,<=50K
+Female,48,White,Separated,10th,United-States,Private,Machine-op-inspct,15652,<=50K
+Female,49,White,Separated,HS-grad,Puerto-Rico,Private,Prof-specialty,16294,<=50K
+Female,49,White,Separated,HS-grad,United-States,Private,Prof-specialty,16857,<=50K
+Female,46,White,Separated,9th,United-States,Private,Craft-repair,21478,<=50K
+Female,46,White,Separated,11th,United-States,Private,Machine-op-inspct,26539,<=50K

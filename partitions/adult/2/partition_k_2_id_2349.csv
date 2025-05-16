@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,Black,Never-married,HS-grad,United-States,Private,Farming-fishing,575,<=50K
+Male,27,Black,Never-married,HS-grad,United-States,Private,Farming-fishing,1847,<=50K
+Male,29,Black,Never-married,HS-grad,United-States,Private,Farming-fishing,10145,<=50K
+Male,30,Black,Never-married,11th,United-States,Self-emp-not-inc,Farming-fishing,15021,<=50K
+Male,30,Black,Never-married,9th,United-States,Private,Farming-fishing,19224,<=50K
+Male,26,Black,Never-married,10th,United-States,Private,Farming-fishing,22153,<=50K

@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Married-civ-spouse,11th,United-States,Local-gov,Transport-moving,327,<=50K
+Male,47,White,Married-civ-spouse,11th,El-Salvador,Local-gov,Transport-moving,10762,<=50K
+Male,49,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,10922,<=50K
+Male,50,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,20679,<=50K
+Male,50,White,Married-civ-spouse,7th-8th,United-States,Local-gov,Transport-moving,21508,<=50K
+Male,48,White,Married-civ-spouse,7th-8th,United-States,Local-gov,Transport-moving,22370,<=50K
+Male,49,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,28391,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,28588,<=50K
+Male,47,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,28822,>50K

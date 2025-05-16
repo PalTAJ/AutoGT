@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Never-married,Some-college,Canada,Private,Other-service,8153,<=50K
+Male,25,White,Never-married,Some-college,Canada,Private,Other-service,17700,<=50K

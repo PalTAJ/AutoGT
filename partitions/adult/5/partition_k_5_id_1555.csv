@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Divorced,Assoc-acdm,United-States,State-gov,Adm-clerical,8071,>50K
+Male,41,White,Never-married,Assoc-voc,United-States,Local-gov,Other-service,10105,<=50K
+Male,48,White,Never-married,Assoc-voc,United-States,Local-gov,Protective-serv,18024,<=50K
+Male,45,White,Never-married,Assoc-acdm,Columbia,Federal-gov,Adm-clerical,19531,<=50K
+Male,44,White,Never-married,Assoc-acdm,United-States,Local-gov,Protective-serv,21459,<=50K

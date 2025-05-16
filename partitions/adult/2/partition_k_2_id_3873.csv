@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,White,Married-spouse-absent,1st-4th,United-States,Private,Craft-repair,428,<=50K
+Male,42,White,Married-spouse-absent,5th-6th,Puerto-Rico,Private,Craft-repair,5169,<=50K

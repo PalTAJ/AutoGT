@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,White,Never-married,Some-college,Yugoslavia,Private,Exec-managerial,4075,<=50K
+Female,30,White,Never-married,Bachelors,Germany,Private,Exec-managerial,16033,<=50K
+Female,34,White,Never-married,Masters,France,Self-emp-inc,Exec-managerial,17081,>50K
+Female,30,White,Never-married,Some-college,England,Private,Exec-managerial,25381,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,35,Asian-Pac-Islander,Divorced,Some-college,Philippines,Federal-gov,Exec-managerial,7224,<=50K
+Female,39,Asian-Pac-Islander,Widowed,Bachelors,Japan,Local-gov,Prof-specialty,19397,<=50K
+Female,36,Asian-Pac-Islander,Divorced,Prof-school,Philippines,State-gov,Prof-specialty,20298,<=50K
+Female,34,Asian-Pac-Islander,Married-spouse-absent,Some-college,Philippines,State-gov,Adm-clerical,23689,<=50K

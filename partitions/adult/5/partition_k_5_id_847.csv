@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,Asian-Pac-Islander,Married-spouse-absent,Bachelors,Cambodia,Private,Prof-specialty,1819,>50K
+Male,36,Asian-Pac-Islander,Never-married,Some-college,Laos,Private,Craft-repair,6315,<=50K
+Male,35,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Prof-specialty,12176,<=50K
+Male,37,Asian-Pac-Islander,Separated,Bachelors,Philippines,Private,Tech-support,12223,<=50K
+Male,39,Asian-Pac-Islander,Never-married,Some-college,Philippines,Private,Machine-op-inspct,23180,<=50K
+Male,31,Asian-Pac-Islander,Never-married,Bachelors,Vietnam,Private,Craft-repair,27167,<=50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,Other,Never-married,Bachelors,United-States,Private,Sales,722,>50K
+Female,24,Other,Married-spouse-absent,Some-college,Ecuador,Private,Sales,11817,<=50K
+Female,26,Other,Never-married,HS-grad,Mexico,Private,Exec-managerial,12320,<=50K
+Female,29,Other,Divorced,HS-grad,United-States,Federal-gov,Exec-managerial,13557,<=50K
+Female,23,Other,Never-married,Some-college,United-States,Private,Exec-managerial,17217,<=50K
+Female,21,Other,Never-married,Some-college,United-States,Private,Sales,22378,<=50K
+Female,22,Other,Married-spouse-absent,Some-college,Dominican-Republic,Private,Sales,26587,<=50K

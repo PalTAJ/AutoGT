@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,55,Black,Divorced,5th-6th,United-States,Private,Other-service,805,<=50K
+Male,58,Black,Divorced,5th-6th,United-States,Private,Machine-op-inspct,1242,<=50K

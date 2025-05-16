@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,48,Other,Divorced,HS-grad,Ecuador,Private,Machine-op-inspct,16608,<=50K
+Female,45,Other,Separated,9th,Trinadad&Tobago,Private,Other-service,20717,<=50K

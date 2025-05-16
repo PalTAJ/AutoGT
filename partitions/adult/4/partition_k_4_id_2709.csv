@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Divorced,HS-grad,Peru,Private,Other-service,3747,<=50K
+Female,37,White,Never-married,HS-grad,Nicaragua,Private,Handlers-cleaners,8823,<=50K
+Female,36,White,Never-married,HS-grad,Nicaragua,Private,Adm-clerical,12135,<=50K
+Female,32,White,Separated,9th,Columbia,Private,Machine-op-inspct,25470,<=50K
+Female,32,White,Separated,11th,Nicaragua,Self-emp-not-inc,Handlers-cleaners,26374,<=50K

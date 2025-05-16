@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,White,Never-married,Assoc-voc,United-States,Private,Machine-op-inspct,719,<=50K
+Female,30,White,Never-married,Assoc-voc,United-States,Private,Prof-specialty,9429,<=50K
+Female,28,White,Never-married,Assoc-voc,United-States,Private,Tech-support,10437,<=50K
+Female,27,White,Never-married,Assoc-voc,Canada,Private,Prof-specialty,14149,<=50K
+Female,28,White,Never-married,Assoc-voc,United-States,Private,Prof-specialty,17976,<=50K
+Female,28,White,Never-married,Assoc-voc,United-States,Private,Tech-support,20252,<=50K
+Female,27,White,Never-married,Assoc-voc,United-States,Private,Tech-support,28025,<=50K
+Female,30,White,Never-married,Assoc-voc,United-States,Private,Prof-specialty,28399,<=50K

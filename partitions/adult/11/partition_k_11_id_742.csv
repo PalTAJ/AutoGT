@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Divorced,Assoc-voc,United-States,Private,Machine-op-inspct,2319,<=50K
+Male,42,White,Never-married,Assoc-voc,United-States,Private,Tech-support,8483,<=50K
+Male,43,White,Divorced,Assoc-voc,United-States,Private,Prof-specialty,15135,<=50K
+Male,44,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,17444,<=50K
+Male,46,White,Separated,Assoc-voc,United-States,Private,Prof-specialty,17731,<=50K
+Male,42,White,Divorced,Assoc-voc,United-States,Private,Craft-repair,17732,<=50K
+Male,46,White,Divorced,Assoc-voc,United-States,Private,Craft-repair,18677,<=50K
+Male,44,White,Separated,Assoc-voc,United-States,Private,Craft-repair,18779,>50K
+Male,46,White,Divorced,Assoc-voc,United-States,Private,Machine-op-inspct,23179,<=50K
+Male,41,White,Separated,Assoc-voc,United-States,Private,Craft-repair,24196,<=50K
+Male,46,White,Married-spouse-absent,Assoc-voc,United-States,Private,Craft-repair,26015,<=50K
+Male,46,White,Married-spouse-absent,Assoc-voc,United-States,Private,Machine-op-inspct,27479,<=50K
+Male,48,White,Married-spouse-absent,Assoc-voc,United-States,Private,Prof-specialty,27906,<=50K
+Male,41,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,28362,<=50K
+Male,42,White,Never-married,Assoc-voc,United-States,Private,Craft-repair,28430,<=50K

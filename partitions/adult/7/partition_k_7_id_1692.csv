@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,763,>50K
+Female,52,White,Married-civ-spouse,Assoc-voc,United-States,Private,Other-service,3819,>50K
+Female,51,White,Married-civ-spouse,Some-college,United-States,Private,Other-service,4978,>50K
+Female,51,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,11071,<=50K
+Female,52,White,Married-civ-spouse,Some-college,United-States,Self-emp-inc,Adm-clerical,11972,>50K
+Female,51,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,12330,<=50K
+Female,52,White,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,17285,>50K
+Female,52,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Adm-clerical,17689,>50K
+Female,51,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,18161,>50K
+Female,53,White,Married-civ-spouse,Masters,United-States,Private,Adm-clerical,27375,>50K
+Female,55,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,28644,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,Other,Separated,HS-grad,Puerto-Rico,Private,Prof-specialty,5702,<=50K
+Female,46,Other,Separated,Assoc-voc,United-States,Federal-gov,Tech-support,8826,<=50K
+Female,47,Other,Separated,HS-grad,Puerto-Rico,Private,Prof-specialty,17545,<=50K
+Female,45,Other,Separated,9th,Trinadad&Tobago,Private,Other-service,20717,<=50K
+Female,50,Other,Separated,Bachelors,United-States,Private,Prof-specialty,24628,<=50K

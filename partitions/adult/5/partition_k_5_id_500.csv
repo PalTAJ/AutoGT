@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,Some-college,United-States,Self-emp-not-inc,Machine-op-inspct,1913,<=50K
+Male,25,White,Never-married,Some-college,United-States,Self-emp-not-inc,Craft-repair,2959,<=50K
+Male,22,White,Never-married,Some-college,United-States,Self-emp-not-inc,Craft-repair,3962,<=50K
+Male,25,White,Never-married,Some-college,United-States,Self-emp-not-inc,Craft-repair,14244,<=50K
+Male,22,White,Never-married,Some-college,United-States,Self-emp-not-inc,Craft-repair,23745,<=50K
+Male,21,White,Never-married,Some-college,United-States,Self-emp-not-inc,Tech-support,27971,<=50K

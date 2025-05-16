@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,White,Separated,HS-grad,United-States,Private,Sales,2620,<=50K
+Female,29,White,Separated,10th,United-States,Private,Sales,6699,<=50K
+Female,26,White,Separated,HS-grad,Honduras,Self-emp-inc,Sales,11487,<=50K
+Female,29,White,Separated,HS-grad,United-States,Private,Sales,22678,<=50K
+Female,29,White,Separated,11th,United-States,Private,Sales,23903,<=50K
+Female,29,White,Separated,HS-grad,United-States,Private,Sales,30135,<=50K

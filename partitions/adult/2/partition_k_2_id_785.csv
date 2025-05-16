@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,White,Married-civ-spouse,7th-8th,Mexico,Private,Machine-op-inspct,8625,<=50K
+Male,25,White,Married-civ-spouse,7th-8th,Mexico,Private,Craft-repair,13139,<=50K

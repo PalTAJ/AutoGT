@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,White,Divorced,10th,Germany,Private,Adm-clerical,4720,<=50K
+Female,56,White,Widowed,11th,Greece,Self-emp-not-inc,Other-service,19897,>50K

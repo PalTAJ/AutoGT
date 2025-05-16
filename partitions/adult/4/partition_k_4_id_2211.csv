@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,88,White,Married-civ-spouse,Prof-school,United-States,Self-emp-not-inc,Prof-specialty,1075,<=50K
+Male,90,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,5730,<=50K
+Male,90,White,Married-civ-spouse,11th,United-States,Private,Craft-repair,6099,<=50K
+Male,90,White,Married-civ-spouse,Prof-school,United-States,Private,Prof-specialty,8132,>50K
+Male,90,White,Married-civ-spouse,HS-grad,Ecuador,Private,Craft-repair,9749,>50K
+Male,81,White,Married-civ-spouse,1st-4th,Poland,Private,Prof-specialty,12302,<=50K
+Male,82,White,Married-civ-spouse,HS-grad,Cuba,Self-emp-not-inc,Craft-repair,12679,<=50K
+Male,90,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,18063,<=50K
+Male,90,White,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,18304,<=50K
+Male,84,Black,Married-civ-spouse,7th-8th,United-States,Private,Prof-specialty,25759,<=50K
+Male,90,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,28757,<=50K

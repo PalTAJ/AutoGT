@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,Other,Married-civ-spouse,Bachelors,Ecuador,Private,Prof-specialty,7067,<=50K
+Male,33,Other,Married-civ-spouse,Bachelors,Ecuador,Private,Machine-op-inspct,25280,<=50K
+Male,27,Other,Married-civ-spouse,Some-college,Ecuador,Self-emp-not-inc,Transport-moving,29067,>50K

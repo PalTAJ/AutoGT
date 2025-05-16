@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,66,White,Widowed,Masters,United-States,Local-gov,Prof-specialty,17283,<=50K
+Female,62,White,Widowed,Doctorate,Iran,Local-gov,Prof-specialty,17701,<=50K

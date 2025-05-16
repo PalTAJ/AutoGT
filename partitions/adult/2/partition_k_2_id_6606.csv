@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Married-spouse-absent,5th-6th,Mexico,Private,Priv-house-serv,16559,<=50K
+Female,50,White,Married-spouse-absent,5th-6th,Mexico,Private,Other-service,28802,<=50K

@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,Some-college,United-States,Private,Tech-support,548,<=50K
+Male,23,White,Never-married,Some-college,United-States,Private,Tech-support,3295,<=50K
+Male,23,White,Never-married,Some-college,United-States,Private,Tech-support,5525,<=50K
+Male,25,White,Never-married,Some-college,United-States,Private,Tech-support,5816,<=50K
+Male,22,White,Never-married,Some-college,United-States,Private,Tech-support,7554,<=50K
+Male,21,White,Never-married,Some-college,United-States,Private,Tech-support,8690,<=50K
+Male,22,White,Never-married,Some-college,United-States,Private,Tech-support,13045,<=50K
+Male,23,White,Never-married,Some-college,United-States,Private,Tech-support,17942,<=50K
+Male,21,White,Never-married,Some-college,United-States,Private,Tech-support,19713,<=50K
+Male,23,White,Never-married,Some-college,United-States,Private,Tech-support,21494,<=50K
+Male,25,White,Never-married,Some-college,Mexico,Private,Tech-support,21985,<=50K
+Male,25,White,Never-married,Some-college,United-States,Private,Tech-support,24944,<=50K
+Male,22,White,Never-married,Some-college,United-States,Private,Tech-support,27039,<=50K
+Male,21,White,Never-married,Some-college,United-States,Self-emp-not-inc,Tech-support,27971,<=50K
+Male,21,White,Never-married,Some-college,United-States,Private,Tech-support,28903,<=50K

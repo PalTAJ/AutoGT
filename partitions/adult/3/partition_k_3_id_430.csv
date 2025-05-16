@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Married-civ-spouse,Assoc-voc,Portugal,Private,Craft-repair,627,>50K
+Male,30,White,Married-civ-spouse,Assoc-voc,England,Private,Craft-repair,3635,<=50K
+Male,34,White,Married-civ-spouse,Assoc-voc,England,Private,Craft-repair,23551,<=50K

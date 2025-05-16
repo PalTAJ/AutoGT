@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,19,White,Never-married,Some-college,United-States,State-gov,Other-service,5241,<=50K
+Female,20,White,Never-married,Some-college,United-States,State-gov,Other-service,8439,<=50K
+Female,18,White,Never-married,Some-college,United-States,State-gov,Other-service,17836,<=50K
+Female,20,White,Never-married,Some-college,United-States,State-gov,Other-service,20491,<=50K

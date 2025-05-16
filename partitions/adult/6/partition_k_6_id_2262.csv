@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,65,Black,Widowed,9th,United-States,Private,Priv-house-serv,572,<=50K
+Female,66,Black,Separated,9th,United-States,Private,Other-service,9778,<=50K
+Female,64,White,Never-married,9th,United-States,State-gov,Adm-clerical,12652,<=50K
+Female,62,Black,Widowed,9th,United-States,Private,Other-service,17144,<=50K
+Female,62,Black,Never-married,9th,United-States,Private,Priv-house-serv,17968,<=50K
+Female,63,White,Widowed,9th,United-States,Private,Other-service,28839,<=50K

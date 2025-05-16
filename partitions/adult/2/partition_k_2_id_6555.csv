@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,45,White,Divorced,HS-grad,United-States,Federal-gov,Tech-support,1033,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Federal-gov,Machine-op-inspct,4690,<=50K
+Female,46,White,Divorced,HS-grad,United-States,Local-gov,Prof-specialty,15457,<=50K
+Female,43,White,Divorced,HS-grad,United-States,State-gov,Tech-support,17005,<=50K
+Female,45,White,Divorced,HS-grad,United-States,State-gov,Tech-support,21216,<=50K

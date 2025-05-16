@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,75,White,Married-spouse-absent,Masters,United-States,Self-emp-not-inc,Prof-specialty,1839,<=50K
+Female,62,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,3228,>50K
+Female,65,White,Widowed,Some-college,United-States,Self-emp-not-inc,Craft-repair,3955,<=50K
+Female,64,White,Widowed,Some-college,United-States,Self-emp-not-inc,Craft-repair,11979,<=50K
+Female,64,White,Never-married,Some-college,United-States,Self-emp-not-inc,Prof-specialty,24255,<=50K
+Female,62,White,Divorced,Masters,United-States,Self-emp-not-inc,Prof-specialty,25165,<=50K
+Female,61,White,Widowed,Some-college,United-States,Self-emp-not-inc,Machine-op-inspct,25827,<=50K

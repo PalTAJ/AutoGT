@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Never-married,Some-college,United-States,Private,Adm-clerical,2453,<=50K
+Male,31,White,Never-married,Some-college,United-States,Private,Adm-clerical,5011,<=50K
+Male,34,White,Never-married,Some-college,United-States,Private,Adm-clerical,5720,<=50K
+Male,33,White,Never-married,Some-college,United-States,Private,Adm-clerical,7191,<=50K
+Male,31,White,Never-married,Some-college,United-States,Private,Adm-clerical,7940,<=50K
+Male,34,White,Never-married,Some-college,United-States,Private,Adm-clerical,10802,<=50K
+Male,32,White,Divorced,Some-college,United-States,Private,Adm-clerical,13848,<=50K
+Male,33,White,Never-married,Some-college,United-States,Private,Adm-clerical,17158,<=50K
+Male,34,White,Never-married,Some-college,United-States,Private,Adm-clerical,18678,<=50K
+Male,33,White,Never-married,Some-college,United-States,Private,Adm-clerical,19765,<=50K
+Male,32,White,Never-married,Some-college,United-States,Private,Adm-clerical,21204,<=50K
+Male,31,White,Never-married,Some-college,Germany,Private,Adm-clerical,21422,<=50K
+Male,31,White,Never-married,Some-college,United-States,Private,Adm-clerical,21748,<=50K
+Male,32,White,Never-married,Some-college,United-States,Private,Adm-clerical,21970,<=50K
+Male,34,White,Never-married,Some-college,United-States,Private,Adm-clerical,28231,<=50K

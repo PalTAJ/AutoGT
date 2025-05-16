@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,White,Married-civ-spouse,12th,United-States,Private,Machine-op-inspct,1571,<=50K
+Male,56,White,Married-civ-spouse,12th,Italy,Private,Craft-repair,3167,<=50K
+Male,52,White,Married-civ-spouse,12th,United-States,Private,Craft-repair,12051,<=50K
+Male,56,White,Married-civ-spouse,12th,United-States,Private,Prof-specialty,15080,>50K
+Male,51,White,Married-civ-spouse,12th,United-States,Private,Craft-repair,15726,<=50K
+Male,53,White,Married-civ-spouse,12th,United-States,Self-emp-not-inc,Craft-repair,17961,<=50K
+Male,52,White,Married-civ-spouse,12th,United-States,Private,Machine-op-inspct,18558,>50K
+Male,54,White,Married-civ-spouse,12th,United-States,Private,Craft-repair,20303,<=50K
+Male,49,White,Married-civ-spouse,12th,United-States,Private,Craft-repair,24982,>50K
+Male,43,White,Married-civ-spouse,12th,United-States,Private,Craft-repair,26968,<=50K
+Male,52,White,Married-civ-spouse,12th,United-States,Private,Craft-repair,29357,<=50K
+Male,45,White,Married-civ-spouse,12th,United-States,Private,Craft-repair,29706,<=50K

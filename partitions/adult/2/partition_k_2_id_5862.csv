@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,Black,Never-married,11th,United-States,Private,Other-service,1220,<=50K
+Female,29,Black,Never-married,11th,United-States,Private,Other-service,10044,<=50K
+Female,28,Black,Never-married,11th,Jamaica,Private,Other-service,22973,<=50K

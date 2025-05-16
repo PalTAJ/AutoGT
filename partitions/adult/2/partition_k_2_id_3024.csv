@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,White,Married-civ-spouse,Doctorate,France,Private,Prof-specialty,20629,<=50K
+Male,57,White,Married-civ-spouse,Doctorate,Germany,Private,Tech-support,26573,>50K
+Male,45,White,Married-civ-spouse,Doctorate,Poland,Private,Prof-specialty,26728,>50K

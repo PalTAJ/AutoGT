@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,34,White,Never-married,HS-grad,United-States,Private,Sales,1135,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Sales,1162,<=50K
+Female,34,White,Never-married,HS-grad,United-States,Private,Sales,3556,<=50K
+Female,32,White,Never-married,HS-grad,United-States,Private,Sales,4443,<=50K
+Female,35,White,Never-married,HS-grad,United-States,Private,Sales,5785,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Sales,6694,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Sales,8679,<=50K
+Female,34,White,Never-married,HS-grad,United-States,Private,Sales,9641,<=50K
+Female,35,White,Never-married,HS-grad,United-States,Private,Sales,11575,<=50K
+Female,31,White,Never-married,HS-grad,United-States,Private,Sales,16024,<=50K
+Female,33,White,Never-married,9th,United-States,Private,Sales,17224,<=50K
+Female,32,White,Never-married,HS-grad,United-States,Private,Sales,18412,<=50K
+Female,33,White,Never-married,11th,United-States,Private,Sales,18898,<=50K
+Female,33,White,Never-married,HS-grad,United-States,Private,Sales,22896,<=50K

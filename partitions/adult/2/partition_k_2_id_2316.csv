@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,Black,Never-married,HS-grad,United-States,Private,Craft-repair,7632,<=50K
+Male,23,Black,Never-married,HS-grad,United-States,Private,Craft-repair,24943,<=50K

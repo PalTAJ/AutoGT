@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,61,White,Divorced,9th,Puerto-Rico,Private,Handlers-cleaners,4933,>50K
+Male,75,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Sales,6022,<=50K
+Male,61,White,Divorced,HS-grad,United-States,Self-emp-inc,Sales,7013,<=50K
+Male,61,White,Divorced,9th,United-States,Private,Sales,8282,<=50K
+Male,62,White,Divorced,7th-8th,United-States,Private,Handlers-cleaners,9309,<=50K
+Male,70,White,Divorced,9th,United-States,Self-emp-inc,Sales,18916,<=50K
+Male,62,Black,Divorced,HS-grad,United-States,Self-emp-inc,Exec-managerial,19832,<=50K

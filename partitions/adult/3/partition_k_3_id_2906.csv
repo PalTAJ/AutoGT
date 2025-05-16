@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,65,Other,Widowed,11th,United-States,Private,Other-service,329,<=50K
+Male,64,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Other-service,2035,<=50K
+Male,61,White,Divorced,7th-8th,United-States,Private,Other-service,7729,<=50K
+Male,65,White,Divorced,HS-grad,United-States,Private,Other-service,9388,<=50K
+Male,76,White,Widowed,HS-grad,United-States,Private,Other-service,12953,<=50K
+Male,74,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Other-service,13058,<=50K
+Male,61,White,Never-married,7th-8th,United-States,Private,Other-service,16319,<=50K
+Male,61,White,Divorced,9th,United-States,Private,Other-service,19685,<=50K
+Male,61,White,Divorced,10th,United-States,Private,Other-service,25991,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,Other,Married-spouse-absent,HS-grad,Mexico,Private,Farming-fishing,5562,<=50K
+Male,33,Other,Married-spouse-absent,5th-6th,El-Salvador,Private,Transport-moving,10199,<=50K
+Male,38,Other,Married-spouse-absent,Bachelors,India,Private,Transport-moving,10937,<=50K
+Male,32,Other,Never-married,1st-4th,Mexico,Private,Farming-fishing,11488,<=50K
+Male,32,Other,Never-married,Bachelors,United-States,Private,Other-service,12116,<=50K
+Male,40,Other,Married-spouse-absent,Bachelors,Mexico,Private,Other-service,25313,<=50K
+Male,35,Other,Never-married,HS-grad,Puerto-Rico,Private,Farming-fishing,26893,<=50K
+Male,36,Other,Divorced,Preschool,Mexico,Private,Other-service,30046,<=50K

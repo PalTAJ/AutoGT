@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,Some-college,United-States,Federal-gov,Armed-Forces,1195,<=50K
+Male,27,Black,Never-married,Assoc-acdm,United-States,Federal-gov,Transport-moving,4288,<=50K
+Male,37,Black,Separated,Assoc-voc,United-States,Federal-gov,Adm-clerical,14494,<=50K
+Male,36,Black,Separated,Some-college,United-States,Federal-gov,Adm-clerical,17515,<=50K
+Male,33,Black,Divorced,Some-college,United-States,Federal-gov,Other-service,20244,<=50K
+Male,22,Black,Never-married,Some-college,United-States,Federal-gov,Adm-clerical,29636,<=50K

@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,Black,Separated,Assoc-voc,United-States,Local-gov,Prof-specialty,5140,<=50K
+Female,53,Black,Divorced,Masters,United-States,Local-gov,Prof-specialty,8855,>50K
+Female,51,Black,Divorced,Some-college,United-States,Federal-gov,Prof-specialty,19149,<=50K
+Female,51,Black,Widowed,Bachelors,United-States,Federal-gov,Prof-specialty,26760,<=50K
+Female,55,Black,Divorced,Some-college,United-States,State-gov,Prof-specialty,28257,<=50K
+Female,53,Black,Widowed,Masters,United-States,Local-gov,Prof-specialty,28864,<=50K

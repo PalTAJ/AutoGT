@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Never-married,Prof-school,United-States,Federal-gov,Prof-specialty,4104,>50K
+Male,31,White,Never-married,Assoc-voc,United-States,Federal-gov,Prof-specialty,21434,<=50K
+Male,26,White,Never-married,Assoc-voc,Japan,Federal-gov,Craft-repair,25171,<=50K
+Male,39,White,Never-married,Assoc-acdm,United-States,Federal-gov,Prof-specialty,25866,>50K

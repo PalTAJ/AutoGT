@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,White,Married-civ-spouse,7th-8th,Greece,Self-emp-not-inc,Exec-managerial,2524,>50K
+Male,46,White,Married-civ-spouse,7th-8th,Greece,Self-emp-not-inc,Exec-managerial,6385,<=50K
+Male,47,White,Married-civ-spouse,7th-8th,Portugal,Private,Handlers-cleaners,11124,<=50K

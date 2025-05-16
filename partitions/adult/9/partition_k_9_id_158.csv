@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,White,Married-civ-spouse,Bachelors,Poland,Private,Sales,202,<=50K
+Male,35,White,Married-civ-spouse,Assoc-voc,Germany,Private,Sales,2053,>50K
+Male,33,White,Married-civ-spouse,Masters,Germany,Private,Exec-managerial,6056,>50K
+Male,33,White,Married-civ-spouse,Bachelors,Germany,Private,Exec-managerial,10245,>50K
+Male,34,White,Married-civ-spouse,Masters,France,Private,Exec-managerial,11196,<=50K
+Male,37,White,Married-civ-spouse,Some-college,Germany,Private,Sales,13106,>50K
+Male,31,White,Married-civ-spouse,Some-college,Germany,Private,Exec-managerial,19520,>50K
+Male,31,White,Married-civ-spouse,Masters,France,Private,Exec-managerial,19979,>50K
+Male,39,White,Married-civ-spouse,Bachelors,Italy,Private,Exec-managerial,21006,>50K
+Male,37,White,Married-civ-spouse,Assoc-acdm,France,Local-gov,Exec-managerial,21545,>50K
+Male,36,White,Married-civ-spouse,Some-college,Yugoslavia,Self-emp-inc,Exec-managerial,24659,>50K
+Male,38,White,Married-civ-spouse,Assoc-acdm,Italy,Private,Exec-managerial,25874,<=50K
+Male,32,White,Married-civ-spouse,Some-college,Germany,Private,Exec-managerial,26122,<=50K

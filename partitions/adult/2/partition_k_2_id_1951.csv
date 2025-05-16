@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,Asian-Pac-Islander,Married-civ-spouse,Some-college,Philippines,Private,Craft-repair,27386,<=50K
+Male,32,Asian-Pac-Islander,Married-civ-spouse,Some-college,Philippines,Private,Machine-op-inspct,28226,<=50K

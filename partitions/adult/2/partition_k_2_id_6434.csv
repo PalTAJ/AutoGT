@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,60,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,2783,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Private,Prof-specialty,2947,<=50K
+Female,60,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,5349,<=50K
+Female,57,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Craft-repair,8115,<=50K
+Female,58,White,Widowed,11th,United-States,Private,Machine-op-inspct,17256,<=50K
+Female,57,White,Widowed,HS-grad,United-States,Private,Prof-specialty,18709,<=50K
+Female,56,White,Widowed,9th,United-States,Private,Machine-op-inspct,19261,<=50K
+Female,59,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,19668,<=50K
+Female,60,White,Widowed,HS-grad,United-States,Private,Machine-op-inspct,21237,<=50K
+Female,60,White,Widowed,10th,United-States,Private,Tech-support,23824,<=50K

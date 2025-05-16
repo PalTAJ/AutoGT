@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,48,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Sales,1486,>50K
+Male,46,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Sales,2791,>50K
+Male,47,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Sales,12686,<=50K
+Male,49,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Sales,21197,<=50K
+Male,49,White,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Sales,26863,<=50K

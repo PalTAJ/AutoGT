@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,Bachelors,Canada,Private,Craft-repair,27185,<=50K
+Male,24,White,Never-married,Some-college,Canada,Private,Craft-repair,27835,<=50K

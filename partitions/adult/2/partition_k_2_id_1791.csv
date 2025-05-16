@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Married-spouse-absent,HS-grad,United-States,Private,Protective-serv,1626,<=50K
+Male,30,White,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,11439,<=50K
+Male,22,White,Married-spouse-absent,9th,Mexico,Private,Other-service,11569,<=50K
+Male,26,White,Married-spouse-absent,HS-grad,United-States,Private,Protective-serv,28470,<=50K

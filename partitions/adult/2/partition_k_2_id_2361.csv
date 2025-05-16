@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,Black,Never-married,HS-grad,United-States,Federal-gov,Other-service,91,<=50K
+Male,29,Black,Married-spouse-absent,HS-grad,United-States,Federal-gov,Other-service,24256,<=50K

@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,Black,Separated,HS-grad,United-States,Local-gov,Adm-clerical,469,<=50K
+Female,49,Black,Separated,10th,United-States,Local-gov,Other-service,581,<=50K
+Female,49,Black,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,1099,<=50K
+Female,50,Black,Never-married,Prof-school,United-States,Local-gov,Exec-managerial,2792,>50K
+Female,49,Black,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,3173,<=50K
+Female,46,Black,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,3500,<=50K
+Female,46,Black,Separated,9th,United-States,Local-gov,Other-service,5654,<=50K
+Female,50,Black,Separated,Some-college,United-States,Local-gov,Other-service,5792,<=50K
+Female,48,Black,Separated,Assoc-acdm,United-States,Local-gov,Adm-clerical,6322,<=50K
+Female,48,Black,Divorced,Masters,United-States,Local-gov,Exec-managerial,8033,>50K
+Female,50,Black,Divorced,Some-college,United-States,Local-gov,Adm-clerical,8706,<=50K
+Female,46,Black,Widowed,Masters,United-States,Local-gov,Exec-managerial,14262,<=50K
+Female,47,Black,Divorced,Bachelors,United-States,Local-gov,Prof-specialty,17048,<=50K
+Female,50,Black,Divorced,Some-college,United-States,Local-gov,Other-service,22683,<=50K
+Female,50,Black,Never-married,HS-grad,United-States,Local-gov,Other-service,25554,<=50K

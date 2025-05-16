@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,Amer-Indian-Eskimo,Never-married,7th-8th,United-States,Private,Transport-moving,1696,<=50K
+Male,51,Amer-Indian-Eskimo,Divorced,Bachelors,United-States,Private,Exec-managerial,2492,<=50K
+Male,57,Amer-Indian-Eskimo,Married-spouse-absent,Assoc-acdm,United-States,Self-emp-not-inc,Farming-fishing,8189,<=50K
+Male,53,Amer-Indian-Eskimo,Divorced,Bachelors,United-States,Federal-gov,Tech-support,14017,<=50K
+Male,56,Amer-Indian-Eskimo,Never-married,1st-4th,United-States,Self-emp-not-inc,Exec-managerial,18550,<=50K
+Male,58,Amer-Indian-Eskimo,Widowed,HS-grad,United-States,Private,Adm-clerical,21223,<=50K

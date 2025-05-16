@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,White,Separated,HS-grad,United-States,Self-emp-inc,Farming-fishing,17108,>50K
+Male,53,White,Separated,HS-grad,United-States,Private,Transport-moving,18469,<=50K
+Male,53,White,Separated,HS-grad,United-States,Private,Transport-moving,28610,<=50K
+Male,55,White,Separated,HS-grad,United-States,Private,Protective-serv,30007,<=50K

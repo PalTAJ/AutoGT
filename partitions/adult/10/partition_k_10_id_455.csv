@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,Asian-Pac-Islander,Never-married,Some-college,Philippines,Private,Exec-managerial,2218,<=50K
+Male,35,Asian-Pac-Islander,Never-married,Masters,United-States,Private,Exec-managerial,6331,<=50K
+Male,39,Asian-Pac-Islander,Never-married,Masters,China,Private,Sales,9203,<=50K
+Male,33,Asian-Pac-Islander,Never-married,Some-college,South,Private,Sales,9455,<=50K
+Male,35,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Sales,12057,<=50K
+Male,33,Asian-Pac-Islander,Never-married,Assoc-voc,Philippines,Private,Sales,14065,<=50K
+Male,39,Asian-Pac-Islander,Never-married,Bachelors,Iran,Self-emp-not-inc,Sales,17907,<=50K
+Male,39,Asian-Pac-Islander,Divorced,Bachelors,China,Private,Sales,20837,<=50K
+Male,39,Asian-Pac-Islander,Divorced,Masters,Japan,Self-emp-inc,Exec-managerial,22696,>50K
+Male,36,Asian-Pac-Islander,Divorced,Some-college,United-States,Self-emp-inc,Sales,23262,<=50K
+Male,31,Asian-Pac-Islander,Separated,Some-college,South,Private,Sales,23923,<=50K
+Male,38,Asian-Pac-Islander,Separated,Some-college,Japan,Self-emp-not-inc,Sales,24041,<=50K
+Male,35,Asian-Pac-Islander,Never-married,Bachelors,South,Private,Sales,25622,<=50K

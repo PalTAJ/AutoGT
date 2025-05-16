@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,White,Never-married,Bachelors,United-States,State-gov,Adm-clerical,1092,<=50K
+Female,22,White,Never-married,Bachelors,United-States,State-gov,Adm-clerical,6844,<=50K
+Female,24,White,Never-married,Bachelors,United-States,State-gov,Adm-clerical,26155,<=50K

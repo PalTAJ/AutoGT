@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Other,Married-civ-spouse,Some-college,Puerto-Rico,Private,Other-service,8068,<=50K
+Male,27,Other,Married-civ-spouse,Some-college,United-States,Private,Farming-fishing,8635,<=50K
+Male,27,Other,Married-civ-spouse,Some-college,Ecuador,Self-emp-not-inc,Transport-moving,29067,>50K

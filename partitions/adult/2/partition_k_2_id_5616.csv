@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,Asian-Pac-Islander,Never-married,Bachelors,Hong,Private,Adm-clerical,2433,<=50K
+Female,29,Asian-Pac-Islander,Never-married,Bachelors,Japan,Private,Adm-clerical,2602,<=50K
+Female,23,Asian-Pac-Islander,Never-married,Some-college,Vietnam,Private,Adm-clerical,4505,<=50K
+Female,22,Asian-Pac-Islander,Never-married,Bachelors,Vietnam,Private,Adm-clerical,4943,<=50K
+Female,24,Asian-Pac-Islander,Never-married,Bachelors,Taiwan,Private,Adm-clerical,13418,<=50K
+Female,29,Asian-Pac-Islander,Never-married,Bachelors,Taiwan,Private,Adm-clerical,16526,<=50K
+Female,24,Asian-Pac-Islander,Never-married,Assoc-voc,Philippines,Private,Adm-clerical,20020,<=50K
+Female,21,Asian-Pac-Islander,Never-married,Some-college,Vietnam,Private,Adm-clerical,24617,<=50K
+Female,26,Asian-Pac-Islander,Never-married,Bachelors,Thailand,Private,Adm-clerical,25073,<=50K
+Female,27,Asian-Pac-Islander,Never-married,Bachelors,Laos,Private,Adm-clerical,25316,<=50K
+Female,26,Asian-Pac-Islander,Never-married,Bachelors,Hong,Private,Adm-clerical,28476,<=50K
+Female,34,Asian-Pac-Islander,Never-married,Some-college,Japan,Private,Adm-clerical,29422,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,21,White,Never-married,9th,Mexico,Private,Other-service,14630,<=50K
+Female,26,White,Never-married,9th,El-Salvador,Private,Other-service,26897,<=50K
+Female,31,White,Never-married,9th,United-States,Private,Other-service,27943,<=50K

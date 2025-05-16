@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,1954,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,4067,<=50K
+Male,24,White,Never-married,HS-grad,Dominican-Republic,Private,Sales,4324,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,7738,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,8783,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,16769,<=50K
+Male,24,White,Never-married,HS-grad,El-Salvador,Private,Sales,17018,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,18584,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,21239,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,24189,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,27678,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Private,Sales,29513,<=50K

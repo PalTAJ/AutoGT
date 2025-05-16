@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,48,Black,Separated,12th,United-States,Private,Adm-clerical,2015,<=50K
+Female,50,Black,Separated,10th,Jamaica,Private,Adm-clerical,22158,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,64,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Philippines,Private,Tech-support,6946,>50K
+Male,65,White,Married-civ-spouse,HS-grad,United-States,Private,Tech-support,19718,>50K
+Male,61,White,Married-civ-spouse,HS-grad,United-States,Private,Tech-support,25262,>50K

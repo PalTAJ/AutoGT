@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,23,White,Never-married,Some-college,United-States,Private,Priv-house-serv,8171,<=50K
+Female,21,White,Never-married,Some-college,United-States,Private,Priv-house-serv,8350,<=50K
+Female,23,White,Never-married,Some-college,United-States,Private,Priv-house-serv,15928,<=50K
+Female,28,White,Never-married,Some-college,United-States,Private,Priv-house-serv,26878,<=50K

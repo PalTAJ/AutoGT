@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Never-married,Assoc-acdm,United-States,Private,Farming-fishing,425,<=50K
+Male,44,White,Never-married,Bachelors,United-States,Private,Other-service,1106,>50K
+Male,44,White,Never-married,Some-college,United-States,Self-emp-not-inc,Farming-fishing,4369,<=50K
+Male,44,White,Never-married,Masters,United-States,Self-emp-not-inc,Farming-fishing,9676,<=50K
+Male,44,White,Never-married,Some-college,United-States,Private,Other-service,10994,<=50K
+Male,44,White,Never-married,Assoc-voc,United-States,Private,Priv-house-serv,18633,<=50K
+Male,44,White,Never-married,Bachelors,United-States,Private,Other-service,25494,<=50K

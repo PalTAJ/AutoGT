@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,5471,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,7037,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,8167,<=50K
+Female,29,White,Married-civ-spouse,10th,United-States,Private,Farming-fishing,10742,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,13015,<=50K
+Female,29,White,Married-civ-spouse,7th-8th,Mexico,Private,Other-service,13602,<=50K
+Female,29,White,Married-civ-spouse,7th-8th,United-States,Private,Other-service,16188,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,Cuba,Private,Other-service,16613,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Other-service,17239,>50K
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,18438,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,23768,>50K
+Female,29,White,Married-civ-spouse,11th,United-States,Self-emp-not-inc,Other-service,25289,<=50K
+Female,29,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,27326,<=50K

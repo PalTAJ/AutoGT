@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,58,White,Never-married,HS-grad,United-States,State-gov,Adm-clerical,10496,<=50K
+Female,43,White,Never-married,HS-grad,United-States,State-gov,Adm-clerical,11046,<=50K
+Female,41,White,Never-married,HS-grad,United-States,State-gov,Transport-moving,16829,>50K
+Female,41,White,Never-married,HS-grad,United-States,State-gov,Other-service,25155,<=50K

@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,Assoc-acdm,United-States,Self-emp-inc,Sales,3684,<=50K
+Male,25,White,Never-married,Assoc-voc,United-States,Private,Sales,4181,<=50K
+Male,25,White,Never-married,Assoc-voc,United-States,Private,Sales,6016,>50K
+Male,25,White,Never-married,Assoc-acdm,United-States,Private,Sales,6569,<=50K
+Male,23,White,Never-married,Assoc-acdm,United-States,Private,Sales,7162,<=50K
+Male,21,White,Never-married,Assoc-acdm,United-States,Private,Sales,9032,<=50K
+Male,23,White,Never-married,Assoc-voc,United-States,Private,Sales,10685,<=50K
+Male,24,White,Never-married,Assoc-acdm,United-States,Private,Sales,11883,<=50K
+Male,24,White,Never-married,Assoc-voc,United-States,Private,Sales,13656,<=50K
+Male,25,White,Never-married,Assoc-acdm,United-States,Self-emp-not-inc,Sales,17850,<=50K
+Male,23,White,Never-married,Assoc-acdm,United-States,Private,Sales,17900,<=50K
+Male,24,White,Never-married,Assoc-acdm,United-States,Private,Sales,20061,<=50K
+Male,23,White,Never-married,Assoc-acdm,United-States,Private,Sales,25239,<=50K

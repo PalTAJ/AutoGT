@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,White,Never-married,11th,United-States,State-gov,Other-service,7951,<=50K
+Male,18,White,Never-married,11th,United-States,State-gov,Other-service,9555,<=50K
+Male,18,White,Never-married,11th,United-States,State-gov,Other-service,16569,<=50K

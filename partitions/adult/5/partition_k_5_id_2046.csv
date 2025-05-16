@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,28,White,Separated,Some-college,United-States,Private,Adm-clerical,2645,<=50K
+Female,27,White,Separated,Assoc-voc,United-States,Private,Adm-clerical,3071,<=50K
+Female,26,White,Separated,Assoc-voc,United-States,Private,Adm-clerical,4219,<=50K
+Female,30,White,Separated,Assoc-acdm,United-States,Private,Other-service,6848,<=50K
+Female,28,White,Separated,Some-college,United-States,Private,Other-service,9500,<=50K
+Female,29,White,Separated,Some-college,Guatemala,Private,Priv-house-serv,18167,<=50K
+Female,28,White,Separated,Some-college,United-States,Private,Other-service,19574,<=50K
+Female,30,White,Separated,Some-college,United-States,Private,Adm-clerical,24452,<=50K
+Female,27,White,Separated,Some-college,United-States,Private,Adm-clerical,25287,<=50K

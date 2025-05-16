@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,White,Never-married,Masters,Germany,State-gov,Prof-specialty,2557,<=50K
+Female,23,White,Never-married,Assoc-acdm,Poland,Federal-gov,Exec-managerial,8668,<=50K
+Female,24,White,Never-married,Doctorate,England,State-gov,Prof-specialty,11831,<=50K
+Female,27,White,Never-married,Assoc-acdm,Germany,State-gov,Adm-clerical,18679,<=50K

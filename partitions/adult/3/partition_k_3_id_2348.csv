@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Divorced,Prof-school,United-States,Private,Adm-clerical,7346,<=50K
+Male,47,White,Never-married,Prof-school,United-States,Self-emp-inc,Other-service,21323,>50K
+Male,46,White,Divorced,Prof-school,United-States,Private,Farming-fishing,23051,<=50K

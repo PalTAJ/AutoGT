@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,Black,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,3626,<=50K
+Male,46,Black,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,10721,>50K
+Male,47,Black,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Other-service,10795,<=50K
+Male,55,Black,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,11228,<=50K
+Male,56,Black,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,13730,<=50K
+Male,42,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,15197,<=50K
+Male,50,Black,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,15871,>50K
+Male,55,Black,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,23643,<=50K
+Male,59,Black,Married-civ-spouse,Prof-school,United-States,Private,Transport-moving,23899,>50K
+Male,54,Black,Married-civ-spouse,Assoc-voc,Jamaica,Private,Protective-serv,25658,>50K
+Male,51,Black,Married-civ-spouse,Bachelors,United-States,Self-emp-inc,Protective-serv,28917,>50K
+Male,42,Black,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,29496,>50K

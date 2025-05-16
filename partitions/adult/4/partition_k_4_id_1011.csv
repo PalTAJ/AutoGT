@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,Asian-Pac-Islander,Married-civ-spouse,HS-grad,South,Private,Machine-op-inspct,4004,<=50K
+Male,29,Asian-Pac-Islander,Married-civ-spouse,Some-college,South,Self-emp-not-inc,Craft-repair,6925,<=50K
+Male,40,Asian-Pac-Islander,Married-civ-spouse,HS-grad,South,Self-emp-not-inc,Craft-repair,8822,<=50K
+Male,34,Asian-Pac-Islander,Married-civ-spouse,Bachelors,South,Self-emp-not-inc,Craft-repair,15671,>50K
+Male,31,Asian-Pac-Islander,Married-civ-spouse,Masters,South,Private,Prof-specialty,24549,<=50K

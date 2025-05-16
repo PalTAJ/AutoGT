@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Separated,HS-grad,United-States,Local-gov,Protective-serv,1420,<=50K
+Male,38,White,Divorced,HS-grad,United-States,Local-gov,Protective-serv,5774,<=50K
+Male,39,White,Divorced,HS-grad,United-States,Local-gov,Adm-clerical,5955,<=50K
+Male,40,White,Never-married,HS-grad,United-States,Local-gov,Other-service,7933,<=50K
+Male,38,White,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,10552,>50K
+Male,37,White,Never-married,HS-grad,United-States,Local-gov,Other-service,12127,<=50K
+Male,36,White,Never-married,HS-grad,United-States,Local-gov,Other-service,13342,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Federal-gov,Armed-Forces,13528,<=50K
+Male,38,White,Divorced,HS-grad,United-States,State-gov,Other-service,14066,<=50K
+Male,36,White,Never-married,HS-grad,United-States,Local-gov,Adm-clerical,17339,<=50K
+Male,40,White,Never-married,HS-grad,United-States,Local-gov,Protective-serv,21194,<=50K
+Male,38,White,Never-married,HS-grad,United-States,Local-gov,Transport-moving,21326,<=50K
+Male,38,White,Never-married,HS-grad,United-States,State-gov,Other-service,27954,<=50K

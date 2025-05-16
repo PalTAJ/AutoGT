@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Never-married,7th-8th,Portugal,Private,Handlers-cleaners,3197,<=50K
+Female,34,White,Never-married,HS-grad,England,Private,Exec-managerial,7026,<=50K
+Female,39,White,Never-married,HS-grad,Poland,Private,Sales,7424,<=50K

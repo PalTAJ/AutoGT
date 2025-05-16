@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,1074,>50K
+Male,65,White,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,1459,<=50K
+Male,65,White,Married-civ-spouse,Assoc-voc,United-States,Private,Farming-fishing,2023,<=50K
+Male,65,White,Married-civ-spouse,Assoc-voc,United-States,Private,Adm-clerical,3312,<=50K
+Male,65,White,Married-civ-spouse,Assoc-voc,United-States,Private,Transport-moving,3775,<=50K
+Male,65,White,Married-civ-spouse,Assoc-voc,United-States,Self-emp-not-inc,Farming-fishing,11180,<=50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,11635,<=50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Transport-moving,12493,<=50K
+Male,65,White,Married-civ-spouse,Some-college,United-States,Private,Protective-serv,15432,<=50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Other-service,16367,<=50K
+Male,65,White,Married-civ-spouse,Some-college,United-States,Private,Farming-fishing,16835,<=50K

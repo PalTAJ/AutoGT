@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,White,Married-spouse-absent,HS-grad,Mexico,Private,Farming-fishing,6187,<=50K
+Male,53,White,Married-spouse-absent,10th,United-States,Self-emp-not-inc,Transport-moving,6356,<=50K
+Male,46,White,Married-spouse-absent,HS-grad,United-States,Private,Farming-fishing,8768,<=50K
+Male,46,White,Married-spouse-absent,HS-grad,Mexico,Private,Other-service,19870,<=50K
+Male,46,White,Married-spouse-absent,HS-grad,United-States,Self-emp-inc,Farming-fishing,24022,<=50K
+Male,46,White,Married-spouse-absent,7th-8th,United-States,Private,Transport-moving,24317,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Married-civ-spouse,7th-8th,Mexico,Private,Other-service,13602,<=50K
+Female,29,White,Married-civ-spouse,7th-8th,United-States,Private,Other-service,16188,<=50K
+Female,27,White,Married-civ-spouse,7th-8th,United-States,Private,Other-service,24663,<=50K

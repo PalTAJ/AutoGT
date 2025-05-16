@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,77,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,1796,<=50K
+Male,63,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,2598,<=50K
+Male,69,White,Married-civ-spouse,10th,United-States,Local-gov,Exec-managerial,2808,<=50K
+Male,64,White,Married-civ-spouse,10th,United-States,State-gov,Exec-managerial,3653,>50K
+Male,79,White,Married-civ-spouse,11th,United-States,Local-gov,Exec-managerial,5509,<=50K
+Male,64,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Handlers-cleaners,7670,<=50K
+Male,69,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,17364,<=50K
+Male,61,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Handlers-cleaners,17688,<=50K
+Male,72,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,21461,<=50K
+Male,66,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Exec-managerial,27408,<=50K
+Male,66,White,Married-civ-spouse,HS-grad,United-States,State-gov,Exec-managerial,28067,>50K
+Male,65,White,Married-civ-spouse,7th-8th,United-States,Local-gov,Exec-managerial,29924,<=50K

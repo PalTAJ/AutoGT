@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,Black,Never-married,Bachelors,United-States,Private,Other-service,9793,<=50K
+Female,23,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,11998,<=50K
+Female,23,Black,Never-married,Bachelors,United-States,Private,Other-service,25417,<=50K
+Female,25,Black,Never-married,Bachelors,Jamaica,Private,Other-service,27454,<=50K
+Female,24,Black,Never-married,Bachelors,United-States,Private,Transport-moving,29171,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,White,Never-married,Some-college,United-States,Federal-gov,Tech-support,5306,<=50K
+Female,29,White,Never-married,Some-college,United-States,Federal-gov,Prof-specialty,27489,<=50K

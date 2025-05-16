@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,50,White,Separated,Doctorate,United-States,Self-emp-inc,Prof-specialty,595,>50K
+Male,45,White,Widowed,Doctorate,Iran,Private,Prof-specialty,3112,>50K
+Male,42,White,Never-married,Doctorate,United-States,Private,Prof-specialty,8229,>50K
+Male,46,White,Separated,Doctorate,United-States,Self-emp-inc,Prof-specialty,13829,<=50K
+Male,50,White,Divorced,Doctorate,United-States,Private,Prof-specialty,17015,>50K
+Male,46,White,Never-married,Doctorate,United-States,Private,Prof-specialty,21060,>50K
+Male,42,White,Never-married,Doctorate,United-States,Private,Prof-specialty,22651,<=50K
+Male,45,White,Never-married,Doctorate,United-States,Private,Prof-specialty,23334,>50K
+Male,44,White,Never-married,Doctorate,United-States,Private,Prof-specialty,24840,<=50K
+Male,49,White,Never-married,Doctorate,United-States,Self-emp-not-inc,Prof-specialty,24861,>50K
+Male,45,White,Divorced,Doctorate,United-States,Private,Prof-specialty,24925,>50K

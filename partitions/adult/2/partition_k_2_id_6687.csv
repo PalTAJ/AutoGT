@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,Black,Never-married,Some-college,United-States,Private,Machine-op-inspct,7981,<=50K
+Female,57,Black,Never-married,Some-college,United-States,Private,Craft-repair,10328,<=50K
+Female,48,Black,Never-married,Some-college,United-States,Private,Craft-repair,20445,<=50K
+Female,44,Black,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,28429,<=50K

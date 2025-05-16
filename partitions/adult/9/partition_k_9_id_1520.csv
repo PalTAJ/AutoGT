@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,55,Black,Divorced,Assoc-acdm,United-States,Private,Sales,3458,<=50K
+Female,54,Black,Divorced,Bachelors,United-States,Private,Sales,4358,<=50K
+Female,52,Black,Separated,Assoc-voc,United-States,Private,Exec-managerial,4569,<=50K
+Female,54,Black,Divorced,Bachelors,United-States,Private,Exec-managerial,8092,>50K
+Female,56,Black,Widowed,Some-college,United-States,Private,Exec-managerial,10700,<=50K
+Female,52,Black,Divorced,Masters,United-States,Self-emp-inc,Exec-managerial,17391,<=50K
+Female,51,Black,Separated,Some-college,United-States,Private,Exec-managerial,18750,<=50K
+Female,51,Black,Divorced,Some-college,United-States,Private,Exec-managerial,18870,<=50K
+Female,53,Black,Never-married,Some-college,United-States,Private,Exec-managerial,23040,<=50K
+Female,53,Black,Separated,Some-college,United-States,Private,Exec-managerial,29036,<=50K

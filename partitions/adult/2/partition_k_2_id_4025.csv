@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,2646,<=50K
+Male,53,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,7412,>50K
+Male,53,Black,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,26157,>50K

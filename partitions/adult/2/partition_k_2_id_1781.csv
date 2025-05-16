@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Separated,11th,United-States,Private,Transport-moving,2149,<=50K
+Male,35,White,Separated,11th,United-States,Private,Other-service,25023,<=50K
+Male,27,White,Separated,11th,Puerto-Rico,Private,Farming-fishing,25563,<=50K

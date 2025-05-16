@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,90,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,2121,<=50K
+Male,90,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,4681,<=50K
+Male,90,Asian-Pac-Islander,Married-civ-spouse,Assoc-acdm,Philippines,Local-gov,Adm-clerical,13113,<=50K
+Male,90,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Prof-specialty,20589,<=50K

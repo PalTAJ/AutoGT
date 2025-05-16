@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,Asian-Pac-Islander,Never-married,Bachelors,United-States,Private,Exec-managerial,15230,<=50K
+Female,24,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Exec-managerial,28072,<=50K

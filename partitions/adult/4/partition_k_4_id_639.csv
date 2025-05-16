@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,White,Never-married,Bachelors,England,Private,Prof-specialty,10989,<=50K
+Male,30,White,Never-married,Bachelors,Hungary,Private,Tech-support,19804,<=50K
+Male,24,White,Never-married,Bachelors,Hungary,Private,Prof-specialty,21334,<=50K
+Male,29,White,Never-married,Bachelors,England,Private,Prof-specialty,28062,<=50K

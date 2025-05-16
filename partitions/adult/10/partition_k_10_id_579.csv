@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,1101,<=50K
+Male,56,White,Married-civ-spouse,Masters,United-States,Private,Craft-repair,3262,>50K
+Male,59,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,7277,<=50K
+Male,57,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,11004,>50K
+Male,58,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,14479,>50K
+Male,56,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,14738,>50K
+Male,57,White,Married-civ-spouse,Masters,United-States,Private,Tech-support,20524,>50K
+Male,57,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,21603,>50K
+Male,57,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,22934,>50K
+Male,56,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,26827,>50K
+Male,57,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,27898,>50K
+Male,59,White,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,28053,>50K
+Male,59,White,Married-civ-spouse,Masters,Iran,Private,Tech-support,29277,<=50K

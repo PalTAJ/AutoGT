@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,White,Widowed,Assoc-acdm,United-States,Private,Other-service,2096,<=50K
+Female,45,White,Widowed,Some-college,United-States,Private,Other-service,5339,<=50K
+Female,47,White,Widowed,Some-college,United-States,Private,Other-service,5528,<=50K
+Female,48,White,Widowed,Some-college,United-States,Private,Adm-clerical,6296,<=50K
+Female,48,White,Widowed,Some-college,United-States,Private,Adm-clerical,9932,<=50K
+Female,47,White,Widowed,Some-college,United-States,Self-emp-not-inc,Other-service,11615,<=50K
+Female,46,White,Widowed,Some-college,United-States,Private,Adm-clerical,12708,<=50K
+Female,46,White,Widowed,Bachelors,United-States,Private,Adm-clerical,17592,<=50K
+Female,47,White,Widowed,Some-college,United-States,Private,Adm-clerical,21337,<=50K
+Female,48,White,Widowed,Bachelors,United-States,Private,Other-service,24359,<=50K
+Female,47,White,Widowed,Bachelors,United-States,Private,Priv-house-serv,26112,>50K
+Female,44,White,Widowed,Some-college,United-States,Private,Adm-clerical,26486,<=50K
+Female,46,White,Widowed,Assoc-acdm,United-States,Private,Adm-clerical,28342,<=50K
+Female,47,White,Widowed,Some-college,Outlying-US(Guam-USVI-etc),Private,Transport-moving,29361,<=50K

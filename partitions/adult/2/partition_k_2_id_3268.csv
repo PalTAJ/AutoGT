@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,4630,>50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,9612,<=50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,15747,<=50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,15976,>50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,16202,<=50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,16258,<=50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,17533,<=50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,18022,>50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,19444,>50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,22652,>50K
+Male,52,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,29318,>50K

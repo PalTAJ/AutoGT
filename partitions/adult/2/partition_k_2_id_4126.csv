@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,Black,Separated,Some-college,United-States,Federal-gov,Other-service,19284,<=50K
+Male,56,Black,Never-married,Bachelors,United-States,Federal-gov,Transport-moving,19527,<=50K

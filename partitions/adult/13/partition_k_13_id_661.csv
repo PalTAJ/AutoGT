@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Never-married,Some-college,United-States,Private,Handlers-cleaners,2743,<=50K
+Male,46,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,3765,<=50K
+Male,41,White,Never-married,Bachelors,United-States,Private,Handlers-cleaners,3899,<=50K
+Male,50,White,Never-married,Some-college,United-States,Private,Handlers-cleaners,8129,<=50K
+Male,48,White,Never-married,Some-college,United-States,Private,Handlers-cleaners,12737,<=50K
+Male,47,White,Divorced,Bachelors,United-States,Private,Handlers-cleaners,17476,>50K
+Male,48,White,Divorced,Bachelors,United-States,Private,Handlers-cleaners,20564,<=50K
+Male,44,White,Married-spouse-absent,Some-college,Poland,Private,Handlers-cleaners,21536,<=50K
+Male,45,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,25078,<=50K
+Male,48,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,25603,<=50K
+Male,44,White,Divorced,Some-college,United-States,Private,Handlers-cleaners,26496,<=50K
+Male,41,White,Never-married,Some-college,United-States,Private,Handlers-cleaners,27098,<=50K
+Male,43,White,Never-married,Some-college,United-States,Private,Handlers-cleaners,28272,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,Black,Married-civ-spouse,Some-college,United-States,Private,Tech-support,4244,<=50K
+Male,43,Black,Married-civ-spouse,Some-college,Jamaica,Private,Tech-support,5711,>50K
+Male,52,Black,Married-civ-spouse,Some-college,United-States,Private,Tech-support,10954,>50K
+Male,47,Black,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Tech-support,26178,>50K

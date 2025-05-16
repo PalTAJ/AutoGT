@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,74,Black,Widowed,Prof-school,United-States,Private,Adm-clerical,2397,<=50K
+Female,67,Black,Divorced,Some-college,United-States,Private,Other-service,11117,<=50K
+Female,62,Black,Separated,Assoc-voc,United-States,Private,Priv-house-serv,27267,<=50K

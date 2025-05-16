@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Amer-Indian-Eskimo,Divorced,Some-college,United-States,State-gov,Protective-serv,3771,>50K
+Female,30,Amer-Indian-Eskimo,Divorced,Assoc-voc,United-States,Local-gov,Protective-serv,22621,<=50K

@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,White,Married-civ-spouse,Some-college,United-States,Private,Sales,390,<=50K
+Male,20,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,3211,<=50K
+Male,18,White,Married-civ-spouse,11th,United-States,Private,Handlers-cleaners,4645,<=50K
+Male,20,White,Married-civ-spouse,11th,United-States,Private,Handlers-cleaners,5904,<=50K
+Male,20,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,7938,<=50K
+Male,19,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,8261,<=50K
+Male,20,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,8310,<=50K
+Male,20,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,11160,<=50K
+Male,20,White,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,21052,<=50K
+Male,19,White,Married-civ-spouse,7th-8th,Mexico,Private,Handlers-cleaners,22125,<=50K
+Male,20,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,25947,<=50K
+Male,20,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,28080,<=50K
+Male,20,White,Married-civ-spouse,11th,United-States,Private,Handlers-cleaners,28332,<=50K

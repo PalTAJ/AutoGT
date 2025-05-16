@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,Other,Never-married,12th,Guatemala,Private,Craft-repair,4303,<=50K
+Male,27,Other,Divorced,HS-grad,United-States,Private,Craft-repair,8816,<=50K
+Male,31,Other,Never-married,9th,United-States,Private,Craft-repair,13480,<=50K
+Male,27,Other,Never-married,HS-grad,Nicaragua,Private,Craft-repair,29888,<=50K

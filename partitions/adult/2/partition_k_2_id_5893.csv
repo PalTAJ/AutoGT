@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,Black,Separated,HS-grad,United-States,Private,Sales,13283,<=50K
+Female,36,Black,Separated,HS-grad,United-States,Private,Sales,16641,<=50K
+Female,36,Black,Divorced,HS-grad,United-States,Private,Sales,17272,<=50K
+Female,39,Black,Married-spouse-absent,HS-grad,Jamaica,Private,Sales,19857,<=50K
+Female,39,Black,Never-married,HS-grad,United-States,Private,Sales,22679,<=50K
+Female,36,Black,Separated,HS-grad,United-States,Private,Sales,29257,<=50K

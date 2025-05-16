@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,63,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,3669,<=50K
+Male,63,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,4768,<=50K
+Male,63,White,Married-civ-spouse,Bachelors,Iran,Private,Sales,9191,>50K
+Male,61,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,12419,>50K
+Male,65,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,12751,<=50K
+Male,62,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,13959,<=50K
+Male,62,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,13974,>50K
+Male,61,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,21051,>50K
+Male,63,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,21552,>50K
+Male,61,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,22138,>50K
+Male,62,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,23912,>50K
+Male,64,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,26292,<=50K

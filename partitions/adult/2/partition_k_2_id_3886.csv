@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Private,Sales,9118,>50K
+Male,50,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Private,Sales,15939,>50K
+Male,44,Asian-Pac-Islander,Married-civ-spouse,Bachelors,United-States,Private,Sales,26177,>50K

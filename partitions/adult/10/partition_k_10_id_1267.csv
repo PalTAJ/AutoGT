@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,1493,>50K
+Female,58,White,Married-civ-spouse,HS-grad,Greece,Private,Sales,5910,<=50K
+Female,58,White,Married-civ-spouse,Some-college,United-States,Private,Sales,8456,<=50K
+Female,52,White,Married-civ-spouse,Some-college,Canada,Private,Sales,10472,>50K
+Female,56,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,10794,<=50K
+Female,56,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,11629,<=50K
+Female,57,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,12547,<=50K
+Female,55,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,13875,<=50K
+Female,53,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,20565,<=50K
+Female,58,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,23061,<=50K
+Female,56,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,24980,<=50K
+Female,52,White,Married-civ-spouse,5th-6th,El-Salvador,Private,Sales,26359,<=50K
+Female,56,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,28177,<=50K
+Female,54,White,Married-civ-spouse,Some-college,United-States,Private,Sales,28577,>50K

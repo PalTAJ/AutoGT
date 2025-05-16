@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,HS-grad,United-States,Private,Tech-support,4293,<=50K
+Male,23,Black,Never-married,Bachelors,United-States,Private,Tech-support,6834,<=50K
+Male,29,Black,Married-spouse-absent,HS-grad,United-States,Private,Tech-support,14424,<=50K
+Male,25,Black,Never-married,Some-college,United-States,State-gov,Tech-support,20047,<=50K
+Male,28,Black,Never-married,Some-college,United-States,Private,Tech-support,25254,<=50K
+Male,21,Black,Never-married,Some-college,United-States,Federal-gov,Tech-support,27189,<=50K
+Male,28,Black,Never-married,Bachelors,Jamaica,Private,Tech-support,28216,<=50K
+Male,29,Black,Divorced,Assoc-voc,United-States,Private,Tech-support,28939,>50K

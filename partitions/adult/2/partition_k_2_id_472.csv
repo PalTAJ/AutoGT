@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Married-civ-spouse,Some-college,Dominican-Republic,Private,Protective-serv,8672,<=50K
+Male,36,White,Married-civ-spouse,Some-college,United-States,Self-emp-inc,Protective-serv,29481,>50K

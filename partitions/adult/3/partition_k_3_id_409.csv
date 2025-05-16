@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Handlers-cleaners,8530,>50K
+Male,39,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Exec-managerial,16747,>50K
+Male,36,White,Married-civ-spouse,Some-college,United-States,Federal-gov,Handlers-cleaners,23342,<=50K

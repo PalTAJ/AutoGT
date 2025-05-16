@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Divorced,10th,United-States,Local-gov,Transport-moving,881,<=50K
+Male,31,White,Never-married,HS-grad,United-States,Local-gov,Transport-moving,7522,<=50K
+Male,31,White,Never-married,10th,United-States,Local-gov,Transport-moving,17627,<=50K
+Male,23,White,Never-married,HS-grad,United-States,Local-gov,Transport-moving,17762,<=50K
+Male,38,White,Never-married,HS-grad,United-States,Local-gov,Transport-moving,21326,<=50K
+Male,28,White,Separated,HS-grad,United-States,Local-gov,Transport-moving,29683,<=50K

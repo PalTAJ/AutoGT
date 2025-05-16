@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,36,Black,Never-married,Some-college,United-States,State-gov,Tech-support,19853,<=50K
+Female,32,Black,Never-married,Some-college,United-States,State-gov,Tech-support,26661,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Tech-support,24,>50K
+Male,59,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,4605,>50K
+Male,57,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,4632,>50K
+Male,58,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,7115,<=50K
+Male,56,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,9927,>50K
+Male,60,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,10159,>50K
+Male,56,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,24397,>50K
+Male,59,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,25944,>50K

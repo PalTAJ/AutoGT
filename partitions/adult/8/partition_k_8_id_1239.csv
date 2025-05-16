@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,5,<=50K
+Female,26,White,Married-civ-spouse,Masters,United-States,Private,Sales,2677,<=50K
+Female,38,White,Married-civ-spouse,Doctorate,United-States,Private,Exec-managerial,4757,>50K
+Female,40,White,Married-civ-spouse,Masters,Iran,Self-emp-inc,Exec-managerial,5790,>50K
+Female,29,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,7405,>50K
+Female,39,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,7471,>50K
+Female,28,White,Married-civ-spouse,Masters,United-States,Self-emp-not-inc,Exec-managerial,8507,>50K
+Female,32,White,Married-civ-spouse,Masters,United-States,Private,Sales,9109,>50K
+Female,32,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,15394,<=50K
+Female,33,White,Married-civ-spouse,Masters,United-States,Private,Exec-managerial,26848,>50K

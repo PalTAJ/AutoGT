@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,Black,Never-married,HS-grad,United-States,Private,Protective-serv,2298,<=50K
+Male,20,Black,Never-married,HS-grad,United-States,Private,Craft-repair,3579,<=50K
+Male,20,Black,Never-married,HS-grad,United-States,Private,Other-service,3655,<=50K
+Male,20,Black,Never-married,HS-grad,United-States,Private,Transport-moving,4227,<=50K
+Male,20,Black,Never-married,HS-grad,United-States,Private,Handlers-cleaners,7385,<=50K
+Male,20,Black,Never-married,11th,United-States,Private,Craft-repair,9803,<=50K
+Male,20,Black,Never-married,HS-grad,United-States,Private,Adm-clerical,13281,<=50K
+Male,20,Black,Never-married,HS-grad,United-States,Private,Transport-moving,20186,<=50K
+Male,20,Black,Married-civ-spouse,HS-grad,United-States,Private,Sales,20718,<=50K
+Male,20,Black,Never-married,11th,United-States,Private,Handlers-cleaners,21290,<=50K
+Male,20,Black,Never-married,HS-grad,United-States,Private,Other-service,21577,<=50K
+Male,20,Black,Never-married,11th,United-States,Private,Other-service,22442,<=50K
+Male,20,Black,Never-married,HS-grad,United-States,Private,Other-service,27362,<=50K

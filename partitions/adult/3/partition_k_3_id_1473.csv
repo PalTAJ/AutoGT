@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,Black,Never-married,Assoc-acdm,United-States,Private,Other-service,1258,<=50K
+Male,29,Black,Never-married,Some-college,United-States,Private,Adm-clerical,3238,<=50K
+Male,29,Black,Never-married,Masters,United-States,Private,Transport-moving,3884,<=50K
+Male,27,Black,Never-married,Some-college,United-States,Private,Adm-clerical,5722,<=50K
+Male,28,Black,Never-married,Some-college,United-States,Private,Other-service,7142,<=50K
+Male,28,Black,Never-married,Assoc-voc,United-States,Private,Other-service,8388,<=50K
+Male,29,Black,Never-married,Assoc-voc,United-States,Private,Other-service,9288,<=50K
+Male,28,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,12161,<=50K
+Male,27,Black,Never-married,Some-college,United-States,Self-emp-not-inc,Other-service,18247,<=50K
+Male,26,Black,Never-married,Some-college,United-States,Private,Transport-moving,18570,<=50K
+Male,26,Black,Never-married,Bachelors,United-States,Private,Adm-clerical,20599,<=50K
+Male,30,Black,Never-married,Some-college,United-States,Private,Farming-fishing,23202,<=50K

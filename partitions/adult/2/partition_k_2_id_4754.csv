@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,White,Married-civ-spouse,Assoc-voc,Nicaragua,Local-gov,Tech-support,17129,>50K
+Female,28,White,Married-civ-spouse,Assoc-voc,Ecuador,Private,Handlers-cleaners,28102,<=50K

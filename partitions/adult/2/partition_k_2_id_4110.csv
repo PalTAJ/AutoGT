@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,Black,Divorced,Masters,United-States,Private,Prof-specialty,5043,<=50K
+Male,50,Black,Never-married,Masters,Trinadad&Tobago,Self-emp-inc,Prof-specialty,21116,<=50K

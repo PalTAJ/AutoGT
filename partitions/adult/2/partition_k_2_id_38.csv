@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,White,Never-married,Some-college,United-States,State-gov,Farming-fishing,11104,<=50K
+Male,19,White,Never-married,Some-college,United-States,State-gov,Farming-fishing,25215,<=50K

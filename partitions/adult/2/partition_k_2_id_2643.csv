@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Married-civ-spouse,Bachelors,Canada,Private,Transport-moving,2537,>50K
+Male,52,White,Married-civ-spouse,Some-college,Canada,Private,Transport-moving,6480,>50K

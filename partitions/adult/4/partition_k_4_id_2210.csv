@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,71,Black,Widowed,Preschool,United-States,Private,Craft-repair,2648,<=50K
+Male,75,Black,Widowed,5th-6th,United-States,Private,Other-service,3608,<=50K
+Male,72,Black,Divorced,1st-4th,United-States,Private,Other-service,5195,<=50K
+Male,76,White,Never-married,5th-6th,United-States,Private,Handlers-cleaners,19273,<=50K

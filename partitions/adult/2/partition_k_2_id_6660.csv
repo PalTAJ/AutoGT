@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,Other,Separated,HS-grad,Puerto-Rico,Private,Prof-specialty,5702,<=50K
+Female,47,Other,Separated,HS-grad,Puerto-Rico,Private,Prof-specialty,17545,<=50K

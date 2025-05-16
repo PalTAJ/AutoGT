@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Never-married,HS-grad,United-States,Private,Transport-moving,11178,<=50K
+Male,28,White,Never-married,HS-grad,United-States,Private,Transport-moving,16133,<=50K
+Male,28,White,Never-married,HS-grad,United-States,Private,Transport-moving,18152,<=50K
+Male,28,White,Never-married,HS-grad,United-States,Private,Transport-moving,22351,<=50K
+Male,28,White,Never-married,HS-grad,United-States,Private,Transport-moving,24223,<=50K
+Male,28,White,Never-married,HS-grad,United-States,Private,Transport-moving,26751,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,White,Married-spouse-absent,9th,El-Salvador,Private,Handlers-cleaners,574,<=50K
+Male,56,White,Married-spouse-absent,HS-grad,United-States,Self-emp-not-inc,Exec-managerial,7640,<=50K
+Male,50,White,Married-spouse-absent,HS-grad,United-States,Self-emp-inc,Sales,21604,<=50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,31,Other,Never-married,Assoc-acdm,United-States,Private,Craft-repair,4545,<=50K
+Male,36,Other,Never-married,Prof-school,India,Private,Prof-specialty,7491,>50K
+Male,34,Other,Separated,Some-college,United-States,Private,Machine-op-inspct,9121,<=50K
+Male,34,Other,Never-married,Bachelors,United-States,Self-emp-inc,Prof-specialty,12572,<=50K
+Male,31,Other,Never-married,9th,United-States,Private,Craft-repair,13480,<=50K
+Male,33,Other,Never-married,HS-grad,United-States,Private,Machine-op-inspct,19041,<=50K
+Male,31,Other,Never-married,Bachelors,United-States,Private,Prof-specialty,19145,<=50K

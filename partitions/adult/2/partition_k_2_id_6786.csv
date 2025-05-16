@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,45,Black,Widowed,11th,United-States,Private,Other-service,571,<=50K
+Female,44,Black,Widowed,HS-grad,United-States,Private,Other-service,2575,<=50K

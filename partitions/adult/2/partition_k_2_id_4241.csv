@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,70,White,Married-civ-spouse,Bachelors,Cuba,Private,Exec-managerial,19542,<=50K
+Male,68,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,21362,>50K
+Male,68,White,Married-civ-spouse,Bachelors,United-States,Private,Exec-managerial,22911,>50K

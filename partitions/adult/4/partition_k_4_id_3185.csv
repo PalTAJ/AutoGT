@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,Black,Divorced,Bachelors,United-States,Federal-gov,Prof-specialty,13595,<=50K
+Female,43,Black,Separated,Doctorate,United-States,Federal-gov,Prof-specialty,14617,>50K
+Female,51,Black,Divorced,Some-college,United-States,Federal-gov,Prof-specialty,19149,<=50K
+Female,51,Black,Widowed,Bachelors,United-States,Federal-gov,Prof-specialty,26760,<=50K

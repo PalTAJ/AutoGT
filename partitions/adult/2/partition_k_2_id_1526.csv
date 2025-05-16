@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Never-married,Some-college,United-States,Local-gov,Handlers-cleaners,87,<=50K
+Male,29,White,Never-married,Bachelors,United-States,Local-gov,Handlers-cleaners,15897,<=50K
+Male,30,White,Never-married,Some-college,United-States,Local-gov,Handlers-cleaners,25923,<=50K

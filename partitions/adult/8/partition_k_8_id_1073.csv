@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,Black,Married-civ-spouse,Masters,United-States,Private,Prof-specialty,1188,<=50K
+Male,46,Black,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,3162,>50K
+Male,47,Black,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,5104,>50K
+Male,49,Black,Married-civ-spouse,Bachelors,United-States,Private,Machine-op-inspct,6461,<=50K
+Male,46,Black,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,6770,<=50K
+Male,49,Black,Married-civ-spouse,Some-college,United-States,Private,Machine-op-inspct,7620,<=50K
+Male,50,Black,Married-civ-spouse,Assoc-acdm,United-States,Private,Tech-support,13704,<=50K
+Male,49,Black,Married-civ-spouse,Doctorate,United-States,Self-emp-inc,Prof-specialty,14547,>50K
+Male,46,Black,Married-civ-spouse,Prof-school,United-States,Private,Prof-specialty,19944,>50K
+Male,46,Black,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,21134,>50K
+Male,49,Black,Married-civ-spouse,Some-college,United-States,Private,Craft-repair,26054,<=50K
+Male,47,Black,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Tech-support,26178,>50K

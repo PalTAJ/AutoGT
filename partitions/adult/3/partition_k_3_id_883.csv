@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,White,Divorced,Some-college,Iran,Self-emp-not-inc,Exec-managerial,1274,>50K
+Male,31,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,10125,>50K
+Male,35,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,12363,<=50K
+Male,26,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,23031,<=50K

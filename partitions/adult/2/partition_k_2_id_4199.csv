@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,79,White,Married-civ-spouse,Doctorate,El-Salvador,Private,Prof-specialty,5675,>50K
+Male,80,White,Married-civ-spouse,Doctorate,United-States,Private,Prof-specialty,16937,<=50K

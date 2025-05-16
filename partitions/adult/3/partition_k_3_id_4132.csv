@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,White,Never-married,HS-grad,United-States,Private,Prof-specialty,7796,<=50K
+Female,51,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,12636,<=50K
+Female,51,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,13881,<=50K
+Female,51,White,Never-married,HS-grad,Mexico,Private,Craft-repair,23077,<=50K
+Female,56,White,Never-married,HS-grad,United-States,Private,Prof-specialty,27600,<=50K

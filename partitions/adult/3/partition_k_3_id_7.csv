@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,White,Never-married,Some-college,United-States,Self-emp-not-inc,Craft-repair,990,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Craft-repair,3953,<=50K
+Male,18,White,Never-married,Some-college,United-States,Private,Craft-repair,6820,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Craft-repair,9742,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Craft-repair,12409,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Craft-repair,12594,<=50K
+Male,20,White,Separated,Some-college,United-States,Private,Craft-repair,13201,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Craft-repair,14064,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Craft-repair,15121,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Craft-repair,19381,<=50K
+Male,20,White,Never-married,Some-college,United-States,Private,Craft-repair,19802,<=50K
+Male,19,White,Never-married,Some-college,United-States,Private,Craft-repair,22209,<=50K
+Male,19,White,Never-married,Some-college,Mexico,Private,Craft-repair,25758,<=50K
+Male,17,White,Never-married,Some-college,United-States,Private,Craft-repair,26534,<=50K

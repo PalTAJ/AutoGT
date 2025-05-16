@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,18,White,Never-married,9th,Mexico,Private,Machine-op-inspct,13449,<=50K
+Male,19,White,Never-married,9th,Mexico,Self-emp-not-inc,Prof-specialty,14813,<=50K
+Male,17,White,Never-married,9th,United-States,Private,Craft-repair,20830,<=50K
+Male,20,White,Never-married,9th,United-States,Private,Machine-op-inspct,20850,<=50K
+Male,19,White,Never-married,9th,United-States,Private,Craft-repair,24346,<=50K
+Male,17,White,Never-married,9th,United-States,Private,Machine-op-inspct,24843,<=50K

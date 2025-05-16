@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,21,Amer-Indian-Eskimo,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,5158,>50K
+Female,21,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Sales,23324,<=50K

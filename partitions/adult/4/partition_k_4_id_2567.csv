@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,White,Never-married,Bachelors,United-States,Federal-gov,Adm-clerical,4828,<=50K
+Female,30,White,Never-married,Bachelors,United-States,Federal-gov,Protective-serv,13291,>50K
+Female,27,White,Never-married,Bachelors,United-States,Federal-gov,Protective-serv,16225,<=50K
+Female,30,White,Never-married,Bachelors,United-States,Federal-gov,Adm-clerical,28632,<=50K

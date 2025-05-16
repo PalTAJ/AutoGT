@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,54,Black,Separated,HS-grad,United-States,State-gov,Adm-clerical,7668,<=50K
+Female,57,Black,Separated,HS-grad,United-States,Federal-gov,Adm-clerical,16003,<=50K

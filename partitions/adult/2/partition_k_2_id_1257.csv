@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Divorced,Some-college,Nicaragua,Private,Other-service,1863,<=50K
+Male,26,White,Never-married,Some-college,Nicaragua,Private,Other-service,7345,<=50K
+Male,23,White,Never-married,Assoc-acdm,Columbia,Private,Other-service,18459,<=50K
+Male,23,White,Never-married,Bachelors,Ecuador,Private,Other-service,27222,<=50K

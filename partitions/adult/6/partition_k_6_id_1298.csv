@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Divorced,Masters,United-States,Private,Exec-managerial,1538,<=50K
+Male,41,White,Divorced,Masters,United-States,Self-emp-not-inc,Sales,2005,>50K
+Male,41,White,Divorced,Masters,Peru,Self-emp-not-inc,Handlers-cleaners,9576,<=50K
+Male,44,White,Divorced,Masters,Iran,Private,Sales,13608,<=50K
+Male,45,White,Divorced,Masters,United-States,Private,Exec-managerial,15791,>50K
+Male,44,White,Divorced,Masters,United-States,Private,Exec-managerial,24259,>50K

@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,1940,>50K
+Male,29,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,6085,<=50K
+Male,24,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,9863,<=50K
+Male,29,White,Married-civ-spouse,HS-grad,Peru,Private,Protective-serv,16832,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,22518,<=50K
+Male,27,White,Married-civ-spouse,9th,Guatemala,Private,Protective-serv,23748,<=50K
+Male,26,White,Married-civ-spouse,HS-grad,United-States,Private,Protective-serv,29275,<=50K

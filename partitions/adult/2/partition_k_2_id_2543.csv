@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Married-civ-spouse,Masters,United-States,Private,Tech-support,5116,>50K
+Male,45,White,Married-civ-spouse,Masters,United-States,Private,Tech-support,27889,>50K

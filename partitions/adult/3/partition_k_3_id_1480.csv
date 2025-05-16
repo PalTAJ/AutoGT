@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,Black,Never-married,Some-college,United-States,Private,Sales,2327,<=50K
+Male,29,Black,Never-married,Some-college,Outlying-US(Guam-USVI-etc),Private,Sales,20071,<=50K
+Male,26,Black,Never-married,Some-college,United-States,Private,Sales,20833,<=50K
+Male,29,Black,Never-married,Some-college,United-States,Private,Sales,24206,<=50K
+Male,28,Black,Never-married,Some-college,United-States,Private,Sales,24328,<=50K
+Male,28,Black,Never-married,Some-college,United-States,Private,Sales,25248,<=50K

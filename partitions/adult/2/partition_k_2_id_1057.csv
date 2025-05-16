@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,White,Divorced,Bachelors,United-States,Private,Tech-support,13781,<=50K
+Male,38,White,Divorced,Bachelors,United-States,Private,Tech-support,28010,<=50K
+Male,39,White,Divorced,Bachelors,United-States,Private,Tech-support,29048,<=50K
+Male,40,White,Divorced,Some-college,Guatemala,Private,Tech-support,29150,>50K

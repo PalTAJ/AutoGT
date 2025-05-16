@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,White,Separated,1st-4th,Mexico,Private,Other-service,17988,<=50K
+Female,48,White,Separated,Preschool,El-Salvador,Private,Other-service,23261,<=50K
+Female,54,White,Separated,1st-4th,Mexico,Private,Priv-house-serv,26419,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,2636,<=50K
+Male,49,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,9913,<=50K
+Male,42,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,12462,>50K
+Male,43,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,15056,>50K
+Male,49,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,19093,>50K
+Male,50,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,21525,<=50K
+Male,50,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,26677,>50K
+Male,45,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Craft-repair,27095,<=50K

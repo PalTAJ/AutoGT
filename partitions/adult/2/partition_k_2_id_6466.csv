@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,60,White,Divorced,7th-8th,Cuba,Private,Adm-clerical,6422,<=50K
+Female,52,White,Divorced,HS-grad,Cuba,Private,Adm-clerical,18638,<=50K

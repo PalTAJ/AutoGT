@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,Asian-Pac-Islander,Divorced,Bachelors,United-States,Local-gov,Adm-clerical,17024,<=50K
+Female,32,Asian-Pac-Islander,Divorced,Bachelors,United-States,State-gov,Exec-managerial,21600,<=50K

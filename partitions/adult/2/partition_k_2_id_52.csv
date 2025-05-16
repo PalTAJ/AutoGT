@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,White,Never-married,9th,United-States,Private,Machine-op-inspct,20850,<=50K
+Male,17,White,Never-married,9th,United-States,Private,Machine-op-inspct,24843,<=50K

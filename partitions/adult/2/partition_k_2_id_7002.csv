@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,90,White,Separated,Some-college,Puerto-Rico,Private,Adm-clerical,2654,<=50K
+Female,81,White,Divorced,Some-college,United-States,Private,Adm-clerical,4423,<=50K
+Female,88,White,Divorced,Some-college,United-States,Private,Adm-clerical,21217,<=50K

@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,White,Never-married,Masters,Italy,Private,Adm-clerical,16762,>50K
+Female,38,White,Never-married,Masters,United-States,Private,Adm-clerical,18282,<=50K
+Female,40,White,Never-married,Masters,United-States,Private,Adm-clerical,18387,<=50K
+Female,39,White,Never-married,Masters,United-States,Private,Other-service,23807,<=50K

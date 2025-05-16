@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,54,White,Married-civ-spouse,7th-8th,United-States,Self-emp-inc,Machine-op-inspct,199,>50K
+Male,51,White,Married-civ-spouse,7th-8th,United-States,Private,Craft-repair,1535,<=50K
+Male,54,White,Married-civ-spouse,7th-8th,United-States,Private,Craft-repair,2061,<=50K
+Male,55,White,Married-civ-spouse,7th-8th,United-States,Private,Craft-repair,2756,<=50K
+Male,52,White,Married-civ-spouse,7th-8th,United-States,Private,Craft-repair,3744,<=50K
+Male,53,White,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,4657,<=50K
+Male,53,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Tech-support,11290,<=50K
+Male,55,White,Married-civ-spouse,7th-8th,United-States,Private,Craft-repair,16907,<=50K
+Male,54,White,Married-civ-spouse,7th-8th,United-States,Private,Craft-repair,18701,<=50K
+Male,54,White,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,19780,<=50K
+Male,54,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Machine-op-inspct,23395,<=50K
+Male,54,White,Married-civ-spouse,7th-8th,United-States,Private,Craft-repair,29745,<=50K

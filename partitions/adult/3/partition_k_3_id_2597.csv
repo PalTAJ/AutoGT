@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Cambodia,Self-emp-not-inc,Farming-fishing,235,>50K
+Male,43,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Thailand,Self-emp-inc,Other-service,1295,<=50K
+Male,43,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Japan,Private,Other-service,5545,<=50K
+Male,44,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Japan,Self-emp-not-inc,Farming-fishing,14059,<=50K
+Male,45,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Philippines,Private,Other-service,14100,<=50K
+Male,45,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Japan,Private,Other-service,17290,>50K
+Male,41,Asian-Pac-Islander,Married-civ-spouse,HS-grad,China,Private,Other-service,18714,<=50K
+Male,43,Asian-Pac-Islander,Married-civ-spouse,HS-grad,China,Private,Other-service,19054,<=50K

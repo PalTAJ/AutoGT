@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,Asian-Pac-Islander,Divorced,Assoc-voc,Thailand,Self-emp-inc,Exec-managerial,6407,<=50K
+Female,47,Asian-Pac-Islander,Widowed,Bachelors,Thailand,Self-emp-not-inc,Exec-managerial,20670,<=50K
+Female,42,Asian-Pac-Islander,Married-spouse-absent,Assoc-acdm,Laos,Private,Exec-managerial,24070,<=50K

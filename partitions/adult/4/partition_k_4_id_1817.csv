@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Never-married,Assoc-acdm,United-States,Private,Farming-fishing,425,<=50K
+Male,44,White,Divorced,Assoc-voc,United-States,Private,Transport-moving,9630,<=50K
+Male,45,White,Divorced,Assoc-acdm,United-States,Private,Transport-moving,12937,<=50K
+Male,41,White,Separated,Assoc-voc,United-States,Private,Other-service,13951,<=50K
+Male,42,White,Divorced,Assoc-acdm,United-States,Private,Adm-clerical,16772,<=50K
+Male,44,White,Never-married,Assoc-voc,United-States,Private,Priv-house-serv,18633,<=50K
+Male,41,White,Divorced,Assoc-voc,United-States,Self-emp-not-inc,Farming-fishing,27567,<=50K

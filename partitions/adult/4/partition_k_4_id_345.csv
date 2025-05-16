@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,812,>50K
+Male,33,White,Married-civ-spouse,Bachelors,Iran,Private,Adm-clerical,9081,>50K
+Male,30,White,Married-civ-spouse,Bachelors,Japan,Federal-gov,Adm-clerical,11396,<=50K
+Male,39,White,Married-civ-spouse,Bachelors,Philippines,Private,Transport-moving,16696,>50K
+Male,36,White,Married-civ-spouse,Masters,Japan,Private,Adm-clerical,24476,>50K
+Male,37,White,Married-civ-spouse,Some-college,Philippines,Federal-gov,Adm-clerical,27360,>50K

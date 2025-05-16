@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Black,Divorced,Some-college,United-States,Private,Adm-clerical,4898,<=50K
+Female,31,Black,Divorced,Some-college,Japan,Private,Adm-clerical,23811,<=50K

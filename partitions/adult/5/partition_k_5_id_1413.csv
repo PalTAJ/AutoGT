@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,41,White,Married-civ-spouse,12th,United-States,Private,Handlers-cleaners,6894,>50K
+Male,48,White,Married-civ-spouse,12th,United-States,Private,Exec-managerial,14803,<=50K
+Male,56,White,Married-civ-spouse,12th,United-States,Self-emp-inc,Exec-managerial,17230,<=50K
+Male,45,White,Married-civ-spouse,12th,United-States,Private,Sales,17326,>50K
+Male,52,White,Married-civ-spouse,12th,United-States,Self-emp-not-inc,Exec-managerial,26052,>50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,White,Never-married,11th,Mexico,Private,Handlers-cleaners,2496,<=50K
+Male,19,White,Never-married,11th,United-States,Private,Handlers-cleaners,3758,<=50K
+Male,19,White,Never-married,11th,United-States,Private,Handlers-cleaners,4190,<=50K
+Male,19,White,Never-married,11th,United-States,Private,Handlers-cleaners,6142,<=50K
+Male,19,White,Never-married,11th,United-States,Private,Handlers-cleaners,18704,<=50K
+Male,19,White,Never-married,11th,United-States,Private,Handlers-cleaners,19529,<=50K
+Male,19,White,Never-married,11th,United-States,Private,Sales,24101,<=50K
+Male,19,White,Never-married,11th,United-States,Private,Handlers-cleaners,26195,<=50K

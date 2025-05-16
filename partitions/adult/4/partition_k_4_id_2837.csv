@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Black,Never-married,HS-grad,United-States,State-gov,Other-service,4319,<=50K
+Female,39,Black,Divorced,HS-grad,United-States,State-gov,Other-service,4696,<=50K
+Female,38,Black,Never-married,HS-grad,United-States,State-gov,Other-service,7811,<=50K
+Female,40,Black,Divorced,HS-grad,United-States,State-gov,Other-service,17828,<=50K
+Female,36,Black,Never-married,HS-grad,United-States,Local-gov,Other-service,19454,<=50K
+Female,39,Black,Never-married,HS-grad,United-States,State-gov,Other-service,26028,<=50K

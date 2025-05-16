@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Never-married,Some-college,United-States,Federal-gov,Exec-managerial,2073,<=50K
+Female,38,White,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,14330,<=50K
+Female,23,White,Never-married,Some-college,United-States,Federal-gov,Sales,19915,<=50K
+Female,35,White,Never-married,Some-college,United-States,Federal-gov,Handlers-cleaners,22832,<=50K
+Female,38,White,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,27717,<=50K

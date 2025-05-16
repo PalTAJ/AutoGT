@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,18,White,Never-married,10th,United-States,Private,Sales,2573,<=50K
+Male,18,White,Never-married,10th,United-States,Private,Sales,22295,<=50K

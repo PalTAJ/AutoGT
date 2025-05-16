@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,Other,Married-civ-spouse,Some-college,Puerto-Rico,Private,Machine-op-inspct,7280,<=50K
+Female,39,Other,Married-civ-spouse,Masters,United-States,State-gov,Prof-specialty,13683,>50K

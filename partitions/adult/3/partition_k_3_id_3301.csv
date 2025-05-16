@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Separated,Some-college,Cuba,Self-emp-not-inc,Other-service,2446,<=50K
+Female,38,White,Separated,Some-college,United-States,Private,Other-service,2757,<=50K
+Female,39,White,Separated,Some-college,United-States,Private,Other-service,5074,<=50K
+Female,37,White,Separated,Some-college,United-States,Private,Other-service,5095,<=50K
+Female,40,White,Separated,Some-college,United-States,Private,Other-service,6920,<=50K
+Female,37,White,Separated,Some-college,United-States,Private,Other-service,10309,<=50K
+Female,38,White,Separated,Some-college,United-States,Private,Other-service,13026,<=50K
+Female,40,White,Separated,Some-college,United-States,Private,Other-service,17838,<=50K
+Female,38,White,Separated,Some-college,United-States,Private,Other-service,21749,<=50K

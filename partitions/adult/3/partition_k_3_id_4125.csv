@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,5559,<=50K
+Female,43,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,9022,<=50K
+Female,42,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,14162,<=50K
+Female,43,White,Divorced,HS-grad,Cuba,Private,Machine-op-inspct,16418,<=50K
+Female,45,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,17541,<=50K
+Female,44,White,Divorced,12th,United-States,Private,Machine-op-inspct,19154,<=50K
+Female,42,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,20313,<=50K
+Female,42,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,22098,<=50K
+Female,45,White,Divorced,HS-grad,United-States,Private,Machine-op-inspct,27477,<=50K

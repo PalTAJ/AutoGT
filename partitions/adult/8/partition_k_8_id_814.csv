@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Married-civ-spouse,Assoc-voc,United-States,Federal-gov,Protective-serv,4314,<=50K
+Male,45,White,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Adm-clerical,11833,>50K
+Male,44,White,Married-civ-spouse,Assoc-voc,United-States,Local-gov,Transport-moving,12835,>50K
+Male,45,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Protective-serv,18526,<=50K
+Male,45,White,Married-civ-spouse,Assoc-voc,United-States,Local-gov,Protective-serv,19356,>50K
+Male,44,White,Married-civ-spouse,Assoc-voc,United-States,Federal-gov,Protective-serv,19976,>50K
+Male,42,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Protective-serv,20664,>50K
+Male,43,White,Married-civ-spouse,Assoc-voc,United-States,State-gov,Protective-serv,21878,<=50K
+Male,43,White,Married-civ-spouse,Assoc-voc,United-States,Local-gov,Transport-moving,22065,<=50K
+Male,41,White,Married-civ-spouse,Assoc-acdm,United-States,State-gov,Protective-serv,22374,<=50K
+Male,44,White,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Adm-clerical,24213,>50K
+Male,44,White,Married-civ-spouse,Assoc-acdm,United-States,Local-gov,Farming-fishing,25086,<=50K

@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,Other,Never-married,10th,United-States,Private,Sales,2256,<=50K
+Male,17,Other,Never-married,11th,United-States,Private,Machine-op-inspct,10836,<=50K
+Male,20,Other,Married-civ-spouse,HS-grad,United-States,Private,Handlers-cleaners,11514,<=50K
+Male,20,Other,Never-married,HS-grad,Mexico,Private,Other-service,15015,<=50K
+Male,17,Other,Never-married,7th-8th,Mexico,Private,Farming-fishing,16190,<=50K
+Male,18,Other,Never-married,Some-college,United-States,Private,Handlers-cleaners,17196,<=50K
+Male,20,Other,Never-married,HS-grad,Puerto-Rico,Private,Sales,17706,<=50K
+Male,20,Other,Never-married,HS-grad,United-States,Private,Machine-op-inspct,21500,<=50K
+Male,20,Other,Never-married,HS-grad,United-States,State-gov,Other-service,22534,<=50K

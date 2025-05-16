@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,Black,Never-married,HS-grad,United-States,State-gov,Adm-clerical,1792,<=50K
+Female,54,Black,Never-married,HS-grad,United-States,State-gov,Other-service,3665,<=50K
+Female,58,Black,Married-spouse-absent,HS-grad,Honduras,State-gov,Other-service,6667,<=50K
+Female,54,Black,Separated,HS-grad,United-States,State-gov,Adm-clerical,7668,<=50K
+Female,46,Black,Never-married,HS-grad,United-States,State-gov,Other-service,7702,<=50K
+Female,45,Black,Divorced,HS-grad,United-States,State-gov,Protective-serv,15346,<=50K
+Female,46,Black,Never-married,7th-8th,United-States,State-gov,Other-service,21998,<=50K
+Female,42,Black,Divorced,HS-grad,United-States,State-gov,Adm-clerical,26405,<=50K
+Female,42,Black,Never-married,HS-grad,United-States,State-gov,Adm-clerical,29824,<=50K

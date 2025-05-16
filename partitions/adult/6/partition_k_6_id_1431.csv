@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,47,Black,Married-civ-spouse,5th-6th,Jamaica,Private,Other-service,13792,<=50K
+Male,53,Black,Married-civ-spouse,1st-4th,Puerto-Rico,Private,Other-service,14128,<=50K
+Male,54,Black,Married-civ-spouse,1st-4th,Haiti,Private,Craft-repair,19551,>50K
+Male,56,Black,Married-civ-spouse,5th-6th,Trinadad&Tobago,Private,Craft-repair,21771,<=50K
+Male,57,Black,Married-civ-spouse,5th-6th,United-States,Private,Transport-moving,25739,<=50K
+Male,44,Black,Married-civ-spouse,5th-6th,United-States,Private,Machine-op-inspct,27191,<=50K
+Male,51,Black,Married-civ-spouse,5th-6th,United-States,Private,Handlers-cleaners,29068,<=50K
+Male,46,Black,Married-civ-spouse,Preschool,Dominican-Republic,Private,Machine-op-inspct,29975,<=50K

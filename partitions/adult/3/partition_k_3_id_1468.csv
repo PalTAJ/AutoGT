@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,Black,Never-married,Assoc-acdm,United-States,Private,Tech-support,23412,<=50K
+Male,36,Black,Never-married,Assoc-acdm,England,Private,Tech-support,23533,>50K
+Male,35,Black,Never-married,Assoc-voc,United-States,Private,Craft-repair,25303,<=50K
+Male,34,Black,Never-married,Assoc-voc,United-States,Private,Tech-support,29863,<=50K

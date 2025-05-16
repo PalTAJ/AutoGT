@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Never-married,HS-grad,Columbia,Private,Handlers-cleaners,14837,<=50K
+Male,36,White,Separated,HS-grad,Columbia,Private,Adm-clerical,15055,<=50K
+Male,35,White,Never-married,HS-grad,Peru,Private,Handlers-cleaners,26281,<=50K

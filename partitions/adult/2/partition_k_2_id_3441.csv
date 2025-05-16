@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,White,Married-civ-spouse,Preschool,El-Salvador,Private,Other-service,3767,<=50K
+Male,42,White,Married-civ-spouse,5th-6th,El-Salvador,Private,Other-service,11313,<=50K
+Male,59,White,Married-civ-spouse,5th-6th,El-Salvador,Self-emp-not-inc,Other-service,23692,<=50K

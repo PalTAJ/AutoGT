@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,Asian-Pac-Islander,Never-married,Bachelors,Iran,Self-emp-not-inc,Sales,17907,<=50K
+Male,38,Asian-Pac-Islander,Separated,Some-college,Japan,Self-emp-not-inc,Sales,24041,<=50K

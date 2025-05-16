@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,Black,Never-married,Some-college,United-States,Private,Exec-managerial,2773,<=50K
+Female,49,Black,Divorced,Some-college,United-States,Private,Handlers-cleaners,17179,<=50K
+Female,49,Black,Separated,Some-college,United-States,Private,Exec-managerial,28926,<=50K

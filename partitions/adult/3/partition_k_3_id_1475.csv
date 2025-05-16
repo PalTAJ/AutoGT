@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,Black,Never-married,Assoc-acdm,United-States,Private,Transport-moving,4128,<=50K
+Male,31,Black,Never-married,Assoc-voc,United-States,Private,Protective-serv,8737,<=50K
+Male,33,Black,Never-married,Assoc-acdm,United-States,Self-emp-not-inc,Other-service,8850,<=50K
+Male,33,Black,Never-married,Assoc-voc,United-States,Private,Other-service,12604,<=50K
+Male,35,Black,Never-married,Assoc-acdm,Jamaica,Private,Transport-moving,26427,<=50K

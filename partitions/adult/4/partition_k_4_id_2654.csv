@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,27,White,Never-married,HS-grad,United-States,Private,Priv-house-serv,3324,<=50K
+Female,26,White,Never-married,HS-grad,Mexico,Private,Priv-house-serv,6744,<=50K
+Female,30,White,Never-married,HS-grad,Guatemala,Private,Priv-house-serv,27543,<=50K
+Female,27,White,Never-married,9th,Mexico,Private,Priv-house-serv,28820,<=50K

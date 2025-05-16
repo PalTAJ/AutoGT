@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Married-civ-spouse,10th,Mexico,Private,Farming-fishing,4555,<=50K
+Male,37,White,Married-civ-spouse,7th-8th,United-States,Private,Farming-fishing,4677,<=50K
+Male,37,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,20594,<=50K
+Male,37,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,20607,<=50K
+Male,37,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,21253,<=50K
+Male,37,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,22203,<=50K
+Male,37,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,27731,<=50K

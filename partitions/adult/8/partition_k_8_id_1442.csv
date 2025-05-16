@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Exec-managerial,141,<=50K
+Female,31,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Sales,4259,<=50K
+Female,34,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Exec-managerial,5067,<=50K
+Female,31,Asian-Pac-Islander,Never-married,HS-grad,Vietnam,Private,Handlers-cleaners,7295,<=50K
+Female,35,Asian-Pac-Islander,Never-married,Bachelors,Haiti,Private,Handlers-cleaners,22337,<=50K
+Female,31,Asian-Pac-Islander,Married-spouse-absent,11th,India,Private,Sales,23996,<=50K
+Female,32,Asian-Pac-Islander,Separated,HS-grad,South,Private,Handlers-cleaners,25763,<=50K
+Female,31,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Sales,26399,<=50K

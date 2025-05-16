@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,65,White,Divorced,HS-grad,Canada,Private,Adm-clerical,7577,<=50K
+Female,61,White,Divorced,HS-grad,Canada,Private,Adm-clerical,12345,<=50K

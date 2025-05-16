@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,Black,Divorced,Some-college,United-States,Private,Adm-clerical,9671,<=50K
+Female,41,Black,Widowed,Some-college,United-States,Private,Adm-clerical,14834,<=50K
+Female,41,Black,Divorced,Some-college,El-Salvador,Private,Adm-clerical,22358,<=50K
+Female,41,Black,Divorced,Some-college,United-States,Private,Adm-clerical,25843,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,White,Never-married,Assoc-acdm,Iran,Private,Transport-moving,6009,<=50K
+Male,31,White,Separated,Assoc-acdm,United-States,Private,Transport-moving,17430,<=50K

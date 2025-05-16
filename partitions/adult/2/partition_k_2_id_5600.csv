@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Tech-support,5629,<=50K
+Female,36,Asian-Pac-Islander,Widowed,Masters,India,Private,Tech-support,13597,<=50K
+Female,32,Asian-Pac-Islander,Never-married,Bachelors,Philippines,Private,Tech-support,25635,<=50K

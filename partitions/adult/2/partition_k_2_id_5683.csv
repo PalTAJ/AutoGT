@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,Other,Married-spouse-absent,Some-college,Ecuador,Private,Sales,11817,<=50K
+Female,25,Other,Never-married,Some-college,Ecuador,Private,Other-service,26656,<=50K

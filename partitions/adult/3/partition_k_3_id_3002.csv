@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,30,White,Married-civ-spouse,Assoc-voc,Canada,Private,Tech-support,2275,>50K
+Female,29,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Tech-support,25990,<=50K
+Female,30,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,26643,<=50K
+Female,27,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Tech-support,30157,<=50K

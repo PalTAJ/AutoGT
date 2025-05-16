@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,White,Widowed,Assoc-voc,United-States,Private,Adm-clerical,4542,<=50K
+Male,55,White,Widowed,Some-college,United-States,Private,Farming-fishing,26630,>50K

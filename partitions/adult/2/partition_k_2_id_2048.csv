@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Transport-moving,4993,<=50K
+Male,33,Asian-Pac-Islander,Never-married,HS-grad,United-States,Private,Transport-moving,11216,<=50K
+Male,34,Asian-Pac-Islander,Separated,HS-grad,United-States,Private,Transport-moving,13190,<=50K

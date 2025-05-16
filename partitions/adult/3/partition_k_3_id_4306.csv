@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,Black,Separated,Some-college,United-States,Private,Prof-specialty,19401,<=50K
+Female,41,Black,Separated,Bachelors,United-States,Private,Prof-specialty,24640,>50K
+Female,46,Black,Separated,Bachelors,United-States,Private,Prof-specialty,26352,<=50K

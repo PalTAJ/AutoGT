@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Never-married,1st-4th,El-Salvador,Private,Other-service,9016,<=50K
+Male,28,White,Never-married,1st-4th,Mexico,Private,Farming-fishing,9762,<=50K
+Male,25,White,Never-married,1st-4th,El-Salvador,Private,Other-service,18693,<=50K
+Male,23,White,Never-married,1st-4th,Mexico,Private,Farming-fishing,28809,<=50K

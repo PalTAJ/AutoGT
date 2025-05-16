@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,58,White,Widowed,Masters,United-States,Self-emp-not-inc,Other-service,13707,<=50K
+Female,54,White,Widowed,Masters,United-States,Private,Adm-clerical,18371,<=50K

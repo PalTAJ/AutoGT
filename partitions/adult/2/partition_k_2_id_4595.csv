@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,White,Separated,10th,United-States,Private,Sales,11832,<=50K
+Female,20,White,Separated,HS-grad,United-States,Private,Sales,15647,<=50K

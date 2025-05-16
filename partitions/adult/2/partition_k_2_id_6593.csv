@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Never-married,9th,Columbia,Private,Priv-house-serv,18007,<=50K
+Female,48,White,Never-married,HS-grad,Columbia,Private,Other-service,27774,<=50K
+Female,46,White,Married-spouse-absent,HS-grad,Columbia,Private,Machine-op-inspct,29009,<=50K

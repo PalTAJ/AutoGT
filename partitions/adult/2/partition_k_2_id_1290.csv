@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,36,White,Never-married,Bachelors,Mexico,Self-emp-not-inc,Farming-fishing,2726,<=50K
+Male,38,White,Divorced,Some-college,United-States,Self-emp-not-inc,Farming-fishing,8031,<=50K

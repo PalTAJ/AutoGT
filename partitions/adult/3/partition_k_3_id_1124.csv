@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Divorced,11th,United-States,Private,Other-service,18195,<=50K
+Male,40,White,Never-married,11th,United-States,Private,Other-service,18999,<=50K
+Male,37,White,Married-spouse-absent,11th,El-Salvador,Private,Other-service,22824,<=50K

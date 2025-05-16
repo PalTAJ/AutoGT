@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Never-married,Assoc-voc,United-States,Federal-gov,Exec-managerial,1252,<=50K
+Female,26,White,Divorced,Assoc-voc,United-States,State-gov,Exec-managerial,10115,<=50K
+Female,27,White,Never-married,Assoc-acdm,United-States,State-gov,Exec-managerial,10616,<=50K
+Female,40,White,Divorced,Assoc-voc,United-States,Local-gov,Exec-managerial,13669,<=50K
+Female,35,White,Widowed,Assoc-acdm,United-States,State-gov,Exec-managerial,17468,<=50K
+Female,23,White,Never-married,Assoc-acdm,United-States,Federal-gov,Exec-managerial,17815,<=50K
+Female,39,White,Never-married,Assoc-voc,United-States,State-gov,Exec-managerial,27330,<=50K

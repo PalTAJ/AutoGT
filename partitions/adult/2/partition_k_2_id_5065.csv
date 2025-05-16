@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,34,White,Separated,Assoc-acdm,United-States,Private,Other-service,978,<=50K
+Female,33,White,Separated,Assoc-voc,United-States,Private,Protective-serv,25324,<=50K

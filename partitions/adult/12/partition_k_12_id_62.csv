@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,1104,>50K
+Male,26,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,1460,<=50K
+Male,26,White,Married-civ-spouse,Bachelors,El-Salvador,Local-gov,Prof-specialty,2456,<=50K
+Male,25,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,5605,>50K
+Male,29,White,Married-civ-spouse,Some-college,United-States,Local-gov,Prof-specialty,10043,<=50K
+Male,26,White,Married-civ-spouse,Some-college,United-States,Local-gov,Prof-specialty,12388,<=50K
+Male,29,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,15473,<=50K
+Male,30,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,15662,<=50K
+Male,30,White,Married-civ-spouse,Some-college,United-States,Local-gov,Craft-repair,21416,<=50K
+Male,29,White,Married-civ-spouse,Bachelors,Germany,Local-gov,Prof-specialty,24916,>50K
+Male,30,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,26546,>50K
+Male,25,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,27453,<=50K
+Male,30,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,29294,<=50K
+Male,30,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,29629,<=50K

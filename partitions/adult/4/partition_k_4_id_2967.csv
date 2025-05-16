@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,White,Never-married,Some-college,United-States,Private,Adm-clerical,1138,<=50K
+Female,41,White,Never-married,Masters,United-States,Private,Adm-clerical,5710,<=50K
+Female,43,White,Never-married,Some-college,United-States,Private,Adm-clerical,6316,<=50K
+Female,43,White,Never-married,Bachelors,United-States,Private,Adm-clerical,9216,<=50K
+Female,44,White,Never-married,Bachelors,United-States,Private,Adm-clerical,10439,<=50K
+Female,42,White,Never-married,Some-college,United-States,Private,Adm-clerical,15602,<=50K
+Female,44,White,Never-married,Bachelors,United-States,Private,Adm-clerical,16791,<=50K
+Female,42,White,Never-married,Assoc-voc,United-States,Private,Adm-clerical,22031,<=50K
+Female,43,White,Never-married,Assoc-voc,United-States,Private,Adm-clerical,24480,<=50K
+Female,42,White,Never-married,Assoc-voc,United-States,Private,Adm-clerical,26149,<=50K
+Female,43,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,28524,<=50K
+Female,41,White,Never-married,Some-college,Mexico,Private,Adm-clerical,29631,<=50K

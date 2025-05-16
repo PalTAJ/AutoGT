@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,68,White,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,16997,<=50K
+Male,62,White,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,19800,<=50K

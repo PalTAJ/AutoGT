@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,19,White,Never-married,7th-8th,Guatemala,Private,Transport-moving,6790,<=50K
+Male,19,White,Never-married,7th-8th,United-States,Private,Other-service,7144,>50K
+Male,18,White,Never-married,7th-8th,United-States,Local-gov,Farming-fishing,19223,<=50K
+Male,19,White,Never-married,7th-8th,United-States,Private,Other-service,24525,<=50K
+Male,19,White,Never-married,7th-8th,United-States,Private,Adm-clerical,26017,<=50K

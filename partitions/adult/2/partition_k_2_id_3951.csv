@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,Asian-Pac-Islander,Divorced,Some-college,United-States,Federal-gov,Handlers-cleaners,13282,<=50K
+Male,43,Asian-Pac-Islander,Married-spouse-absent,Bachelors,United-States,Federal-gov,Tech-support,15812,<=50K

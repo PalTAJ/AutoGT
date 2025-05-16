@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,Black,Married-civ-spouse,Masters,United-States,Local-gov,Prof-specialty,19779,>50K
+Female,43,Black,Married-civ-spouse,Assoc-acdm,United-States,Federal-gov,Prof-specialty,22882,<=50K
+Female,41,Black,Married-civ-spouse,Bachelors,United-States,Local-gov,Prof-specialty,24577,>50K

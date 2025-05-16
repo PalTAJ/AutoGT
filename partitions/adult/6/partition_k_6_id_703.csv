@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Separated,HS-grad,United-States,Local-gov,Exec-managerial,3137,<=50K
+Male,30,White,Separated,7th-8th,United-States,Private,Handlers-cleaners,3558,<=50K
+Male,25,White,Separated,9th,El-Salvador,Private,Handlers-cleaners,4849,<=50K
+Male,33,White,Separated,HS-grad,Puerto-Rico,Private,Handlers-cleaners,5194,<=50K
+Male,34,White,Separated,HS-grad,United-States,Self-emp-not-inc,Exec-managerial,5475,<=50K
+Male,37,White,Separated,HS-grad,United-States,Private,Exec-managerial,6463,<=50K
+Male,32,White,Separated,HS-grad,United-States,Self-emp-not-inc,Sales,6994,<=50K
+Male,40,White,Separated,HS-grad,United-States,Self-emp-not-inc,Exec-managerial,11751,<=50K
+Male,39,White,Separated,HS-grad,United-States,Private,Exec-managerial,13958,>50K
+Male,34,White,Separated,HS-grad,United-States,Private,Handlers-cleaners,15108,<=50K
+Male,33,White,Separated,10th,United-States,Private,Handlers-cleaners,20582,<=50K
+Male,28,White,Separated,7th-8th,Mexico,Private,Handlers-cleaners,24712,<=50K
+Male,38,White,Separated,HS-grad,United-States,Private,Sales,25508,<=50K
+Male,27,White,Separated,HS-grad,United-States,Private,Handlers-cleaners,28499,<=50K

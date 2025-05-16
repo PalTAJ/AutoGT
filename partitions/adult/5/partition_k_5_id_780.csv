@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,White,Divorced,HS-grad,Portugal,Local-gov,Protective-serv,702,<=50K
+Male,33,White,Divorced,10th,United-States,Local-gov,Transport-moving,881,<=50K
+Male,35,White,Never-married,HS-grad,United-States,Local-gov,Protective-serv,3681,<=50K
+Male,34,White,Never-married,9th,United-States,Local-gov,Other-service,4515,<=50K
+Male,33,White,Divorced,HS-grad,United-States,Local-gov,Protective-serv,5708,<=50K
+Male,34,White,Never-married,HS-grad,United-States,Local-gov,Protective-serv,5831,<=50K
+Male,31,White,Never-married,HS-grad,United-States,Local-gov,Transport-moving,7522,<=50K
+Male,31,White,Never-married,HS-grad,United-States,Local-gov,Protective-serv,8894,<=50K
+Male,32,White,Never-married,HS-grad,United-States,Local-gov,Other-service,13454,<=50K
+Male,31,White,Never-married,10th,United-States,Local-gov,Transport-moving,17627,<=50K
+Male,31,White,Divorced,HS-grad,United-States,Local-gov,Protective-serv,28317,>50K

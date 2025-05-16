@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,Black,Never-married,HS-grad,United-States,Private,Other-service,11541,<=50K
+Male,42,Black,Never-married,HS-grad,United-States,Private,Other-service,20665,<=50K

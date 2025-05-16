@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Divorced,Masters,United-States,Federal-gov,Protective-serv,2552,>50K
+Male,52,White,Divorced,Some-college,United-States,Federal-gov,Adm-clerical,4076,<=50K
+Male,42,White,Divorced,Masters,United-States,Federal-gov,Adm-clerical,4865,<=50K
+Male,46,White,Divorced,Some-college,United-States,Federal-gov,Transport-moving,5179,<=50K
+Male,45,White,Divorced,Some-college,United-States,Federal-gov,Adm-clerical,7474,<=50K
+Male,42,White,Divorced,Bachelors,United-States,Federal-gov,Adm-clerical,10763,<=50K
+Male,57,White,Divorced,Some-college,United-States,Federal-gov,Other-service,11895,<=50K
+Male,57,White,Divorced,Some-college,United-States,Federal-gov,Adm-clerical,20515,<=50K
+Male,53,White,Divorced,Some-college,United-States,Federal-gov,Farming-fishing,23943,<=50K
+Male,53,White,Divorced,Some-college,United-States,Federal-gov,Adm-clerical,24679,<=50K
+Male,56,White,Divorced,Bachelors,United-States,Federal-gov,Adm-clerical,29685,<=50K

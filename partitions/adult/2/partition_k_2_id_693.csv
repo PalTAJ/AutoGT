@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Married-civ-spouse,11th,United-States,Private,Craft-repair,18220,<=50K
+Male,24,White,Married-civ-spouse,11th,United-States,Private,Craft-repair,24035,>50K
+Male,24,White,Married-civ-spouse,11th,United-States,Private,Craft-repair,24757,<=50K
+Male,24,White,Married-civ-spouse,11th,United-States,Private,Machine-op-inspct,25729,<=50K

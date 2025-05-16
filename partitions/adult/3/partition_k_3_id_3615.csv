@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Divorced,HS-grad,Peru,Private,Other-service,3747,<=50K
+Female,36,White,Never-married,HS-grad,Nicaragua,Private,Adm-clerical,12135,<=50K
+Female,25,White,Never-married,HS-grad,Columbia,Private,Other-service,22062,<=50K

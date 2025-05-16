@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,25,Other,Married-civ-spouse,Some-college,United-States,Private,Exec-managerial,47,<=50K
+Female,24,Other,Married-civ-spouse,Some-college,Puerto-Rico,Private,Machine-op-inspct,7280,<=50K
+Female,28,Other,Married-civ-spouse,10th,Guatemala,Private,Craft-repair,9230,<=50K
+Female,33,Other,Married-civ-spouse,HS-grad,Columbia,Private,Machine-op-inspct,12015,<=50K
+Female,39,Other,Married-civ-spouse,Masters,United-States,State-gov,Prof-specialty,13683,>50K
+Female,34,Other,Married-civ-spouse,HS-grad,Columbia,Private,Machine-op-inspct,14949,<=50K
+Female,29,Other,Married-civ-spouse,Assoc-acdm,United-States,Private,Sales,16919,>50K
+Female,33,Other,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,19078,<=50K
+Female,32,Other,Married-civ-spouse,HS-grad,United-States,Private,Other-service,19676,<=50K
+Female,26,Other,Married-civ-spouse,12th,Dominican-Republic,Private,Priv-house-serv,20777,<=50K
+Female,23,Other,Married-civ-spouse,7th-8th,El-Salvador,Private,Handlers-cleaners,28058,<=50K

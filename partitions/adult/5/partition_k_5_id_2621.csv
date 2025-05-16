@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,Black,Never-married,Some-college,United-States,Self-emp-not-inc,Other-service,580,<=50K
+Female,48,Black,Divorced,Some-college,United-States,Private,Other-service,1036,<=50K
+Female,47,Black,Never-married,Some-college,Outlying-US(Guam-USVI-etc),Private,Other-service,1439,<=50K
+Female,47,Black,Separated,Some-college,United-States,Private,Other-service,2176,<=50K
+Female,48,Black,Never-married,Some-college,United-States,Private,Other-service,29367,<=50K

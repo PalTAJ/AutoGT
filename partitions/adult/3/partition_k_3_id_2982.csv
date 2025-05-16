@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,19,White,Divorced,HS-grad,United-States,Local-gov,Exec-managerial,996,<=50K
+Female,18,White,Never-married,11th,United-States,Local-gov,Adm-clerical,1789,<=50K
+Female,17,White,Never-married,11th,United-States,Local-gov,Other-service,2703,<=50K
+Female,17,White,Never-married,11th,Puerto-Rico,Local-gov,Prof-specialty,4543,<=50K
+Female,17,White,Never-married,11th,United-States,Local-gov,Adm-clerical,8774,<=50K
+Female,17,White,Never-married,11th,United-States,Local-gov,Adm-clerical,11830,<=50K
+Female,20,White,Never-married,HS-grad,United-States,Local-gov,Adm-clerical,16144,<=50K
+Female,17,White,Never-married,11th,United-States,Local-gov,Prof-specialty,17042,<=50K
+Female,18,White,Never-married,10th,United-States,Local-gov,Protective-serv,20572,<=50K
+Female,17,White,Never-married,10th,United-States,Local-gov,Protective-serv,21045,<=50K
+Female,17,White,Never-married,12th,United-States,Local-gov,Adm-clerical,21181,<=50K
+Female,17,White,Never-married,10th,United-States,Local-gov,Other-service,27137,<=50K

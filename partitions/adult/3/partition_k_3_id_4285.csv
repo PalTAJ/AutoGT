@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,Other,Married-civ-spouse,Some-college,Puerto-Rico,Private,Prof-specialty,13508,<=50K
+Female,47,Other,Married-civ-spouse,7th-8th,Puerto-Rico,Private,Machine-op-inspct,16391,<=50K
+Female,44,Other,Married-civ-spouse,Some-college,Mexico,Private,Adm-clerical,18066,>50K

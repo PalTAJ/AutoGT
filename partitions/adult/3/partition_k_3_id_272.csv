@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,2310,>50K
+Male,30,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,2803,>50K
+Male,27,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,5270,<=50K
+Male,28,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,5395,<=50K
+Male,26,White,Married-civ-spouse,Bachelors,United-States,Private,Transport-moving,8056,>50K
+Male,26,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,11030,>50K
+Male,29,White,Married-civ-spouse,Bachelors,United-States,Private,Transport-moving,12318,<=50K
+Male,27,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,12909,<=50K
+Male,27,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,13032,>50K
+Male,26,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,13536,<=50K
+Male,30,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,13653,<=50K
+Male,30,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,13894,<=50K
+Male,28,White,Married-civ-spouse,Some-college,El-Salvador,Private,Transport-moving,19575,<=50K
+Male,26,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,23814,>50K
+Male,29,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,24347,<=50K
+Male,29,White,Married-civ-spouse,Some-college,United-States,Private,Transport-moving,27175,<=50K

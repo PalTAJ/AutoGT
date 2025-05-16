@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,42,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,4601,<=50K
+Male,45,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,4967,<=50K
+Male,44,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,5555,<=50K
+Male,41,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Other-service,6219,<=50K

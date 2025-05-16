@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,White,Widowed,10th,United-States,Self-emp-inc,Exec-managerial,6497,>50K
+Female,53,White,Widowed,11th,United-States,Self-emp-inc,Exec-managerial,24896,<=50K
+Female,56,White,Widowed,12th,United-States,Self-emp-inc,Exec-managerial,27116,<=50K

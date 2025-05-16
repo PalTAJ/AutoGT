@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,44,White,Married-civ-spouse,HS-grad,Ecuador,Private,Transport-moving,17722,<=50K
+Male,43,White,Married-civ-spouse,HS-grad,Nicaragua,Private,Other-service,24568,<=50K

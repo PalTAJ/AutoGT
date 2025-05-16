@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Married-spouse-absent,HS-grad,United-States,Private,Protective-serv,1626,<=50K
+Male,27,White,Never-married,HS-grad,Japan,Private,Protective-serv,5034,<=50K
+Male,26,White,Never-married,HS-grad,United-States,Private,Protective-serv,7826,<=50K
+Male,30,White,Never-married,HS-grad,United-States,Private,Protective-serv,7991,<=50K
+Male,30,White,Never-married,HS-grad,United-States,Private,Protective-serv,9714,<=50K
+Male,28,White,Divorced,HS-grad,United-States,Private,Protective-serv,18131,<=50K
+Male,27,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Protective-serv,18315,<=50K
+Male,28,White,Separated,HS-grad,United-States,Private,Protective-serv,22445,<=50K
+Male,26,White,Married-spouse-absent,HS-grad,United-States,Private,Protective-serv,28470,<=50K

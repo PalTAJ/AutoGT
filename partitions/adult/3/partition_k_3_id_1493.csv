@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,Bachelors,United-States,Federal-gov,Prof-specialty,17292,<=50K
+Male,21,Black,Never-married,Some-college,United-States,Federal-gov,Tech-support,27189,<=50K
+Male,32,Black,Never-married,Assoc-voc,United-States,Federal-gov,Tech-support,29196,<=50K

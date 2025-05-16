@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,Black,Divorced,Some-college,United-States,Private,Exec-managerial,10634,<=50K
+Female,41,Black,Separated,Some-college,United-States,Private,Exec-managerial,10993,<=50K
+Female,43,Black,Divorced,Bachelors,United-States,Private,Exec-managerial,11589,>50K
+Female,42,Black,Widowed,Some-college,United-States,Private,Sales,14209,<=50K
+Female,41,Black,Married-spouse-absent,Some-college,United-States,Private,Sales,17714,<=50K
+Female,44,Black,Separated,Some-college,United-States,Private,Sales,18141,<=50K
+Female,41,Black,Divorced,Bachelors,United-States,Private,Exec-managerial,18827,<=50K
+Female,41,Black,Divorced,Assoc-acdm,Jamaica,Private,Exec-managerial,18919,<=50K
+Female,41,Black,Divorced,Bachelors,United-States,Private,Exec-managerial,22170,>50K
+Female,41,Black,Divorced,Assoc-acdm,United-States,Private,Exec-managerial,22978,<=50K
+Female,43,Black,Never-married,Bachelors,United-States,Private,Exec-managerial,25460,>50K
+Female,44,Black,Widowed,Some-college,United-States,Private,Exec-managerial,26153,<=50K
+Female,41,Black,Divorced,Masters,United-States,Private,Exec-managerial,26886,>50K
+Female,43,Black,Never-married,Bachelors,United-States,Private,Sales,29384,>50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,57,White,Divorced,5th-6th,United-States,Private,Transport-moving,4198,<=50K
+Male,57,White,Never-married,5th-6th,Cuba,Private,Other-service,8441,<=50K
+Male,52,White,Divorced,5th-6th,United-States,Private,Farming-fishing,16622,<=50K

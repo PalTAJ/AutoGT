@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,Asian-Pac-Islander,Married-civ-spouse,11th,Vietnam,Private,Transport-moving,3521,<=50K
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,12626,>50K
+Male,24,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Thailand,Private,Protective-serv,14791,<=50K
+Male,29,Asian-Pac-Islander,Married-civ-spouse,HS-grad,Philippines,Private,Other-service,29315,<=50K

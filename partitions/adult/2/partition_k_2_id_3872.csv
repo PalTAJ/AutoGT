@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,White,Divorced,HS-grad,Columbia,Private,Other-service,11747,<=50K
+Male,51,White,Married-spouse-absent,HS-grad,Columbia,Private,Craft-repair,17414,<=50K
+Male,41,White,Never-married,HS-grad,Peru,Private,Other-service,26538,<=50K

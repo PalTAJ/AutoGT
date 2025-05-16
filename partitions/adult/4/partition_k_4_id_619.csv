@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,4840,<=50K
+Male,27,White,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,19252,<=50K
+Male,25,White,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,21977,>50K
+Male,25,White,Never-married,Assoc-acdm,United-States,Private,Prof-specialty,25103,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Married-civ-spouse,Assoc-acdm,Portugal,Private,Craft-repair,444,<=50K
+Male,37,White,Married-civ-spouse,Assoc-voc,Portugal,Private,Craft-repair,627,>50K
+Male,39,White,Married-civ-spouse,Assoc-acdm,Germany,Private,Craft-repair,3372,>50K
+Male,30,White,Married-civ-spouse,Assoc-voc,England,Private,Craft-repair,3635,<=50K
+Male,32,White,Married-civ-spouse,Assoc-acdm,Ireland,Private,Craft-repair,11031,>50K
+Male,34,White,Married-civ-spouse,Assoc-voc,England,Private,Craft-repair,23551,<=50K
+Male,39,White,Married-civ-spouse,Assoc-acdm,France,Private,Tech-support,25613,>50K
+Male,40,White,Married-civ-spouse,Prof-school,Germany,Private,Prof-specialty,26133,>50K

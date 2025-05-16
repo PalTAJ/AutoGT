@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Divorced,Assoc-voc,United-States,Local-gov,Tech-support,715,<=50K
+Male,28,White,Never-married,Prof-school,United-States,State-gov,Prof-specialty,1231,<=50K
+Male,28,White,Widowed,Assoc-acdm,United-States,Local-gov,Prof-specialty,7249,<=50K
+Male,27,White,Never-married,Prof-school,United-States,State-gov,Prof-specialty,14105,<=50K
+Male,21,White,Never-married,Assoc-acdm,United-States,State-gov,Tech-support,17644,<=50K
+Male,26,White,Never-married,Assoc-voc,Japan,Federal-gov,Craft-repair,25171,<=50K
+Male,28,White,Never-married,Assoc-acdm,United-States,Local-gov,Craft-repair,26073,<=50K
+Male,28,White,Never-married,Prof-school,United-States,State-gov,Prof-specialty,29329,<=50K

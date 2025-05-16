@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,White,Separated,Some-college,United-States,Private,Adm-clerical,8380,<=50K
+Female,52,White,Separated,Bachelors,United-States,Private,Adm-clerical,25718,<=50K
+Female,51,White,Separated,Bachelors,United-States,Private,Adm-clerical,26426,<=50K

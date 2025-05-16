@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,White,Married-civ-spouse,Bachelors,United-States,Self-emp-not-inc,Tech-support,3151,>50K
+Female,41,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,5805,>50K
+Female,41,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,6148,>50K
+Female,44,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,10061,>50K
+Female,48,White,Married-civ-spouse,Bachelors,United-States,Private,Tech-support,18357,>50K

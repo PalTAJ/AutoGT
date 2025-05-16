@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Never-married,HS-grad,Mexico,Private,Adm-clerical,22729,<=50K
+Female,22,White,Never-married,HS-grad,Mexico,Private,Adm-clerical,25708,<=50K

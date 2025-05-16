@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,23,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,13693,<=50K
+Female,23,White,Never-married,Assoc-acdm,United-States,Private,Adm-clerical,27515,<=50K

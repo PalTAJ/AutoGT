@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,51,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,13007,>50K
+Male,51,White,Married-civ-spouse,7th-8th,United-States,Local-gov,Transport-moving,13779,<=50K
+Male,54,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,14241,<=50K
+Male,55,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,14259,<=50K
+Male,55,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Transport-moving,21581,<=50K
+Male,53,White,Married-civ-spouse,7th-8th,United-States,Local-gov,Transport-moving,24078,<=50K

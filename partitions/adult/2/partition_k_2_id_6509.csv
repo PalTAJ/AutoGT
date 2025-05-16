@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,White,Widowed,10th,United-States,Private,Other-service,5608,<=50K
+Female,51,White,Widowed,10th,United-States,Self-emp-not-inc,Transport-moving,15814,<=50K

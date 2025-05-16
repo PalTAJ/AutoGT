@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,22,White,Divorced,HS-grad,Germany,Private,Tech-support,2662,<=50K
+Female,22,White,Never-married,HS-grad,Germany,Private,Exec-managerial,13206,<=50K

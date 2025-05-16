@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,Asian-Pac-Islander,Married-civ-spouse,Bachelors,United-States,Federal-gov,Prof-specialty,6509,>50K
+Male,58,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Federal-gov,Tech-support,7103,>50K
+Male,49,Asian-Pac-Islander,Married-civ-spouse,Assoc-voc,United-States,Federal-gov,Craft-repair,9038,>50K
+Male,55,Asian-Pac-Islander,Married-civ-spouse,Masters,United-States,Federal-gov,Exec-managerial,12482,>50K
+Male,44,Asian-Pac-Islander,Married-civ-spouse,Bachelors,United-States,Federal-gov,Exec-managerial,19286,>50K
+Male,45,Asian-Pac-Islander,Married-civ-spouse,Bachelors,United-States,Local-gov,Farming-fishing,23952,>50K
+Male,41,Asian-Pac-Islander,Married-civ-spouse,Bachelors,United-States,State-gov,Exec-managerial,25371,<=50K
+Male,55,Asian-Pac-Islander,Married-civ-spouse,Assoc-acdm,United-States,Local-gov,Prof-specialty,28708,>50K

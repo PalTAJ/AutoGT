@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,White,Married-civ-spouse,Bachelors,Nicaragua,State-gov,Prof-specialty,1793,<=50K
+Male,26,White,Married-civ-spouse,Prof-school,Columbia,Federal-gov,Prof-specialty,2437,<=50K
+Male,34,White,Married-civ-spouse,Bachelors,Peru,Private,Prof-specialty,2990,>50K
+Male,28,White,Married-civ-spouse,Assoc-acdm,Nicaragua,Private,Handlers-cleaners,12857,<=50K
+Male,31,White,Married-civ-spouse,Assoc-voc,Columbia,Private,Machine-op-inspct,13352,<=50K
+Male,37,White,Married-civ-spouse,Masters,Ecuador,Private,Exec-managerial,15665,>50K
+Male,25,White,Married-civ-spouse,Some-college,Columbia,Private,Craft-repair,17547,<=50K
+Male,33,White,Married-civ-spouse,Some-college,Peru,Private,Transport-moving,20216,<=50K
+Male,30,White,Married-civ-spouse,Some-college,Nicaragua,Private,Machine-op-inspct,21307,<=50K
+Male,30,White,Married-civ-spouse,Bachelors,Peru,Private,Sales,25342,<=50K
+Male,33,White,Married-civ-spouse,Some-college,Peru,Private,Prof-specialty,26784,>50K

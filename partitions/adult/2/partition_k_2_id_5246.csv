@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,12701,<=50K
+Female,27,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,16935,>50K
+Female,22,White,Never-married,Some-college,United-States,Local-gov,Protective-serv,29940,<=50K

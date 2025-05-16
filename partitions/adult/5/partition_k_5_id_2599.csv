@@ -1,0 +1,10 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,Asian-Pac-Islander,Divorced,HS-grad,United-States,Local-gov,Prof-specialty,2320,<=50K
+Female,54,Asian-Pac-Islander,Never-married,Bachelors,United-States,State-gov,Prof-specialty,2925,>50K
+Female,44,Asian-Pac-Islander,Never-married,Bachelors,United-States,State-gov,Prof-specialty,15401,<=50K
+Female,41,Asian-Pac-Islander,Divorced,Assoc-acdm,United-States,State-gov,Prof-specialty,16027,<=50K
+Female,47,Asian-Pac-Islander,Divorced,HS-grad,United-States,State-gov,Adm-clerical,17438,<=50K
+Female,45,Asian-Pac-Islander,Never-married,HS-grad,United-States,Federal-gov,Transport-moving,17768,<=50K
+Female,52,Asian-Pac-Islander,Divorced,Masters,United-States,State-gov,Prof-specialty,17769,<=50K
+Female,56,Asian-Pac-Islander,Widowed,HS-grad,United-States,State-gov,Adm-clerical,21743,<=50K
+Female,42,Asian-Pac-Islander,Divorced,Some-college,United-States,Federal-gov,Exec-managerial,21913,<=50K

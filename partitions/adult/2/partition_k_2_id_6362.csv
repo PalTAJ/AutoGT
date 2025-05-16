@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Widowed,Bachelors,United-States,Local-gov,Adm-clerical,2817,<=50K
+Female,44,White,Widowed,Some-college,United-States,Local-gov,Adm-clerical,16694,<=50K

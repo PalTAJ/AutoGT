@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,52,Black,Divorced,HS-grad,United-States,Private,Other-service,1505,<=50K
+Female,55,Black,Divorced,Assoc-voc,United-States,Private,Adm-clerical,5121,<=50K
+Female,54,Black,Divorced,11th,United-States,Private,Priv-house-serv,6238,<=50K
+Female,53,Black,Divorced,Assoc-voc,United-States,Private,Adm-clerical,8889,<=50K
+Female,51,Black,Divorced,Assoc-acdm,United-States,Self-emp-not-inc,Transport-moving,14286,<=50K
+Female,51,Black,Divorced,HS-grad,United-States,Private,Other-service,15300,<=50K
+Female,54,Black,Divorced,10th,United-States,Self-emp-not-inc,Other-service,24688,<=50K
+Female,51,Black,Divorced,11th,United-States,Private,Other-service,26111,<=50K
+Female,52,Black,Divorced,7th-8th,United-States,Private,Priv-house-serv,27666,<=50K
+Female,53,Black,Divorced,1st-4th,Dominican-Republic,Private,Other-service,28855,<=50K

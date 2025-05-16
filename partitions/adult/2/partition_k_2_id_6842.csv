@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,65,White,Widowed,Some-college,Hungary,Private,Prof-specialty,11587,<=50K
+Female,71,White,Divorced,Masters,Germany,Private,Prof-specialty,26599,<=50K

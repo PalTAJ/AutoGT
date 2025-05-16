@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Married-civ-spouse,Bachelors,United-States,Local-gov,Handlers-cleaners,9654,>50K
+Male,28,White,Married-civ-spouse,Some-college,United-States,Local-gov,Exec-managerial,10605,<=50K
+Male,27,White,Married-civ-spouse,Some-college,United-States,Local-gov,Exec-managerial,17153,<=50K
+Male,25,White,Married-civ-spouse,Some-college,United-States,Local-gov,Exec-managerial,19333,>50K

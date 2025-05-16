@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,17,Black,Never-married,12th,United-States,Private,Other-service,5328,<=50K
+Male,17,Black,Never-married,11th,Haiti,Private,Other-service,7156,<=50K
+Male,17,Black,Never-married,HS-grad,United-States,Private,Farming-fishing,9502,<=50K
+Male,17,Black,Never-married,11th,United-States,Private,Other-service,10014,<=50K
+Male,17,Black,Never-married,10th,United-States,Private,Other-service,10693,<=50K
+Male,17,Black,Never-married,10th,United-States,Self-emp-inc,Other-service,13228,<=50K
+Male,17,Black,Never-married,9th,United-States,Private,Other-service,15110,<=50K
+Male,17,Black,Never-married,11th,United-States,Private,Other-service,15737,<=50K
+Male,17,Black,Never-married,9th,United-States,Private,Other-service,16105,<=50K
+Male,17,Black,Never-married,10th,United-States,Private,Other-service,22794,<=50K
+Male,17,Black,Never-married,9th,United-States,Private,Sales,24270,<=50K
+Male,17,Black,Never-married,9th,United-States,Private,Other-service,28422,<=50K
+Male,17,Black,Never-married,11th,United-States,Private,Other-service,28658,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,9254,>50K
+Male,56,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,21930,>50K
+Male,56,White,Married-civ-spouse,HS-grad,United-States,Private,Sales,24085,>50K

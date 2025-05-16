@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Never-married,Doctorate,Germany,Private,Prof-specialty,17130,<=50K
+Male,30,White,Never-married,Masters,Ireland,Private,Prof-specialty,24776,<=50K
+Male,29,White,Never-married,Masters,Scotland,Private,Prof-specialty,27001,<=50K

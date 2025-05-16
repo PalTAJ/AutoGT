@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,37,White,Never-married,HS-grad,United-States,Private,Adm-clerical,10090,<=50K
+Female,37,White,Never-married,HS-grad,United-States,Private,Adm-clerical,13057,<=50K

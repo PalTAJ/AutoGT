@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,17,White,Never-married,11th,United-States,Local-gov,Other-service,2703,<=50K
+Female,17,White,Never-married,11th,United-States,Local-gov,Adm-clerical,8774,<=50K
+Female,17,White,Never-married,11th,United-States,Local-gov,Adm-clerical,11830,<=50K

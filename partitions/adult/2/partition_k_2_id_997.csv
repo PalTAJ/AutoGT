@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,White,Married-civ-spouse,12th,United-States,Federal-gov,Armed-Forces,16716,<=50K
+Male,31,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,21668,>50K
+Male,35,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,25114,<=50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,27,White,Married-civ-spouse,Assoc-voc,Mexico,Private,Craft-repair,6353,<=50K
+Male,27,White,Married-civ-spouse,Assoc-voc,United-States,Private,Craft-repair,17023,<=50K

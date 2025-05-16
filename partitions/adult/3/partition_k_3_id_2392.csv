@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,White,Never-married,Assoc-voc,United-States,Self-emp-not-inc,Exec-managerial,15222,>50K
+Male,43,White,Never-married,Assoc-acdm,United-States,Private,Sales,22571,<=50K
+Male,46,White,Never-married,Prof-school,United-States,Private,Exec-managerial,29411,>50K

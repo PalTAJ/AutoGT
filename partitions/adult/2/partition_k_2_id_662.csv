@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,32,White,Married-civ-spouse,Bachelors,Philippines,Private,Adm-clerical,812,>50K
+Male,33,White,Married-civ-spouse,Bachelors,Iran,Private,Adm-clerical,9081,>50K

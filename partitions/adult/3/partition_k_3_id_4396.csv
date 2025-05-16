@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,70,White,Widowed,Bachelors,Puerto-Rico,Private,Prof-specialty,9776,<=50K
+Female,76,White,Widowed,Bachelors,United-States,Private,Prof-specialty,16285,<=50K
+Female,64,White,Widowed,Bachelors,United-States,Private,Prof-specialty,16709,<=50K

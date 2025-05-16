@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,White,Divorced,Bachelors,United-States,Private,Exec-managerial,341,>50K
+Female,53,White,Divorced,Bachelors,United-States,Private,Sales,4976,>50K
+Female,51,White,Never-married,Bachelors,United-States,Private,Sales,6486,>50K
+Female,56,White,Never-married,Bachelors,United-States,Private,Exec-managerial,8831,>50K
+Female,54,White,Divorced,Bachelors,United-States,Private,Sales,11142,<=50K
+Female,52,White,Married-spouse-absent,Bachelors,United-States,Private,Exec-managerial,12369,<=50K
+Female,56,White,Never-married,Bachelors,United-States,Self-emp-not-inc,Exec-managerial,13334,<=50K
+Female,60,White,Divorced,Bachelors,Hungary,Private,Exec-managerial,14135,>50K
+Female,51,White,Divorced,Bachelors,United-States,Private,Sales,15507,<=50K
+Female,55,White,Divorced,Bachelors,Germany,Self-emp-inc,Sales,16308,<=50K
+Female,53,White,Never-married,Bachelors,United-States,Private,Exec-managerial,19299,<=50K
+Female,56,White,Never-married,Bachelors,United-States,Private,Exec-managerial,20382,>50K
+Female,58,White,Divorced,Bachelors,United-States,Private,Exec-managerial,21948,<=50K
+Female,54,White,Widowed,Bachelors,United-States,Private,Sales,22954,<=50K
+Female,58,White,Widowed,Bachelors,United-States,Private,Exec-managerial,23405,<=50K
+Female,55,White,Widowed,Bachelors,United-States,Self-emp-not-inc,Sales,26425,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,24,White,Married-spouse-absent,HS-grad,Peru,Private,Transport-moving,12682,<=50K
+Male,36,White,Separated,HS-grad,Columbia,Private,Adm-clerical,15055,<=50K
+Male,25,White,Never-married,10th,Nicaragua,Private,Other-service,18204,<=50K

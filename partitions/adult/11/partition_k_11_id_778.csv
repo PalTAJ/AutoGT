@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,48,White,Never-married,11th,Puerto-Rico,Private,Machine-op-inspct,33,<=50K
+Male,50,White,Never-married,HS-grad,United-States,Private,Tech-support,3776,<=50K
+Male,48,White,Never-married,HS-grad,Dominican-Republic,Private,Machine-op-inspct,4448,<=50K
+Male,47,White,Never-married,HS-grad,United-States,Private,Tech-support,8518,<=50K
+Male,46,White,Never-married,HS-grad,United-States,Private,Craft-repair,8804,<=50K
+Male,46,White,Never-married,HS-grad,United-States,Private,Craft-repair,10390,<=50K
+Male,50,White,Never-married,10th,United-States,Self-emp-not-inc,Craft-repair,14397,<=50K
+Male,46,White,Never-married,HS-grad,United-States,Private,Tech-support,18180,<=50K
+Male,49,White,Never-married,HS-grad,United-States,Private,Craft-repair,18589,<=50K
+Male,47,White,Never-married,HS-grad,United-States,Private,Craft-repair,24111,<=50K
+Male,50,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,26231,<=50K
+Male,49,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Craft-repair,27789,<=50K

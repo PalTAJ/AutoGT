@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,33,White,Never-married,HS-grad,United-States,Private,Craft-repair,1248,<=50K
+Male,33,White,Never-married,HS-grad,United-States,Private,Craft-repair,4011,<=50K
+Male,33,White,Never-married,HS-grad,El-Salvador,Private,Craft-repair,4453,<=50K
+Male,33,White,Never-married,HS-grad,United-States,Private,Craft-repair,10912,<=50K
+Male,33,White,Never-married,HS-grad,United-States,Private,Craft-repair,13016,<=50K
+Male,33,White,Never-married,HS-grad,United-States,Private,Craft-repair,22512,<=50K
+Male,33,White,Never-married,HS-grad,United-States,Private,Craft-repair,24118,>50K
+Male,33,White,Never-married,HS-grad,United-States,Private,Craft-repair,26819,<=50K

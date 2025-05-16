@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,48,White,Separated,HS-grad,United-States,Self-emp-not-inc,Other-service,15039,<=50K
+Female,42,White,Separated,HS-grad,United-States,Self-emp-not-inc,Other-service,15559,<=50K

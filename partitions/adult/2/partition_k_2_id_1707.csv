@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,2503,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,7311,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,8564,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,10222,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,10474,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,11719,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,14712,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,15172,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,17424,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,18395,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,20977,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,24139,<=50K
+Male,21,White,Never-married,HS-grad,United-States,Private,Other-service,28892,<=50K
+Male,21,White,Never-married,HS-grad,Mexico,Private,Other-service,29122,<=50K

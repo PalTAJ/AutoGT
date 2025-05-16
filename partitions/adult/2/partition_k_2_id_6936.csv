@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,75,White,Widowed,10th,United-States,Private,Priv-house-serv,1981,<=50K
+Female,72,White,Widowed,HS-grad,Cuba,Private,Priv-house-serv,7798,<=50K

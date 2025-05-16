@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,54,Black,Married-civ-spouse,HS-grad,United-States,Private,Priv-house-serv,2504,<=50K
+Female,53,Black,Married-civ-spouse,5th-6th,Haiti,Private,Priv-house-serv,11346,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,59,White,Married-spouse-absent,HS-grad,Puerto-Rico,Private,Adm-clerical,5944,<=50K
+Female,45,White,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,11616,<=50K
+Female,52,White,Married-spouse-absent,HS-grad,United-States,Private,Adm-clerical,19416,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,White,Married-civ-spouse,Bachelors,Iran,Private,Prof-specialty,2430,>50K
+Male,34,White,Married-civ-spouse,Bachelors,Iran,Private,Prof-specialty,6217,<=50K
+Male,38,White,Married-civ-spouse,Bachelors,Iran,Private,Machine-op-inspct,24056,<=50K

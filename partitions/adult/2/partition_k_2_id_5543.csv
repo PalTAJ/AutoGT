@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,26,White,Divorced,HS-grad,United-States,Local-gov,Adm-clerical,9725,<=50K
+Female,25,White,Divorced,HS-grad,United-States,Local-gov,Adm-clerical,18705,<=50K
+Female,23,White,Divorced,HS-grad,Cuba,Local-gov,Adm-clerical,25601,<=50K

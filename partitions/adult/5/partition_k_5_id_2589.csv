@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,White,Divorced,HS-grad,England,Private,Adm-clerical,1127,<=50K
+Female,42,White,Separated,HS-grad,Scotland,Private,Adm-clerical,7528,<=50K
+Female,42,White,Divorced,HS-grad,England,Private,Exec-managerial,16296,<=50K
+Female,46,White,Separated,9th,Ireland,Private,Machine-op-inspct,24044,<=50K
+Female,47,White,Widowed,HS-grad,England,Private,Adm-clerical,24497,<=50K
+Female,43,White,Never-married,9th,Portugal,Self-emp-inc,Sales,26160,<=50K

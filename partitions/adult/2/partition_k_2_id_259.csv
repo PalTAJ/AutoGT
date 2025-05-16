@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Married-civ-spouse,Assoc-voc,Mexico,Private,Tech-support,5546,<=50K
+Male,22,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,14234,<=50K

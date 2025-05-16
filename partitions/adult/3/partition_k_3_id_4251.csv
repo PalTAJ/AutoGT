@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,43,White,Widowed,1st-4th,Mexico,Private,Prof-specialty,7134,<=50K
+Female,55,White,Widowed,5th-6th,United-States,Private,Machine-op-inspct,11065,<=50K
+Female,57,White,Widowed,1st-4th,Columbia,Self-emp-not-inc,Craft-repair,27566,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,20,White,Never-married,Assoc-acdm,United-States,State-gov,Other-service,951,<=50K
+Male,19,White,Never-married,Some-college,United-States,State-gov,Other-service,23540,<=50K
+Male,19,White,Never-married,Some-college,United-States,State-gov,Other-service,27343,<=50K

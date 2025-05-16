@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,44,White,Divorced,Assoc-acdm,United-States,Local-gov,Protective-serv,9012,>50K
+Female,44,White,Divorced,Assoc-voc,Cuba,Local-gov,Protective-serv,17723,<=50K

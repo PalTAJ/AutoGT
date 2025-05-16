@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Married-civ-spouse,Masters,United-States,Federal-gov,Protective-serv,13743,>50K
+Male,44,White,Married-civ-spouse,Masters,United-States,State-gov,Adm-clerical,24608,>50K
+Male,45,White,Married-civ-spouse,Masters,United-States,Local-gov,Adm-clerical,26723,<=50K

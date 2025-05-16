@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,34,Black,Separated,11th,United-States,Local-gov,Machine-op-inspct,388,<=50K
+Male,32,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,5480,<=50K
+Male,32,Black,Separated,HS-grad,United-States,Federal-gov,Machine-op-inspct,10895,<=50K
+Male,34,Black,Never-married,11th,United-States,Private,Machine-op-inspct,13339,<=50K
+Male,32,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,13348,<=50K
+Male,31,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,20345,<=50K
+Male,34,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,21376,<=50K
+Male,34,Black,Divorced,10th,United-States,Private,Machine-op-inspct,27900,<=50K
+Male,33,Black,Never-married,Some-college,United-States,Private,Machine-op-inspct,28262,<=50K
+Male,34,Black,Never-married,HS-grad,United-States,Private,Machine-op-inspct,28682,<=50K

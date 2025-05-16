@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Married-civ-spouse,Some-college,Poland,Private,Tech-support,2861,<=50K
+Male,34,White,Married-civ-spouse,Bachelors,England,Private,Tech-support,13376,<=50K

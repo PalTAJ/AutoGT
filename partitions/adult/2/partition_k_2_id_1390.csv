@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,26,White,Never-married,Bachelors,United-States,Private,Handlers-cleaners,10449,<=50K
+Male,29,White,Never-married,Bachelors,United-States,Private,Handlers-cleaners,12464,<=50K
+Male,28,White,Never-married,Bachelors,United-States,Private,Handlers-cleaners,12499,<=50K
+Male,28,White,Never-married,Bachelors,United-States,Private,Handlers-cleaners,13770,<=50K
+Male,29,White,Never-married,Bachelors,United-States,Private,Handlers-cleaners,14203,<=50K
+Male,27,White,Never-married,Bachelors,United-States,Private,Handlers-cleaners,21312,<=50K

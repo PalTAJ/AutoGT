@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,2965,<=50K
+Male,58,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,8708,<=50K
+Male,54,White,Divorced,7th-8th,Guatemala,Private,Machine-op-inspct,12050,<=50K
+Male,60,White,Divorced,7th-8th,United-States,Private,Machine-op-inspct,22674,<=50K

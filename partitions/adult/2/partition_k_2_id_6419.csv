@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Divorced,9th,United-States,Private,Machine-op-inspct,811,<=50K
+Female,52,White,Divorced,9th,Cuba,Private,Craft-repair,3224,<=50K
+Female,55,White,Divorced,9th,United-States,Private,Craft-repair,25093,>50K
+Female,56,White,Divorced,9th,United-States,Private,Craft-repair,27237,>50K

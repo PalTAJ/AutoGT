@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,White,Separated,10th,United-States,Private,Adm-clerical,14768,<=50K
+Male,40,White,Separated,10th,United-States,Private,Transport-moving,15837,<=50K
+Male,31,White,Separated,10th,United-States,Private,Transport-moving,29354,<=50K

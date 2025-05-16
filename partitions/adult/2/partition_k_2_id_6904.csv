@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,64,White,Widowed,11th,United-States,Private,Farming-fishing,10775,<=50K
+Female,61,White,Divorced,11th,United-States,Private,Other-service,18270,<=50K
+Female,65,White,Widowed,11th,United-States,Private,Adm-clerical,28729,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,White,Never-married,10th,United-States,Private,Adm-clerical,8397,<=50K
+Female,34,White,Never-married,10th,United-States,Self-emp-not-inc,Other-service,12048,<=50K
+Female,39,White,Never-married,10th,Mexico,Private,Other-service,17542,<=50K
+Female,31,White,Never-married,10th,United-States,Private,Other-service,19485,<=50K
+Female,33,White,Never-married,10th,United-States,Private,Other-service,28182,<=50K

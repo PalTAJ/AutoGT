@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,Black,Separated,Prof-school,United-States,Local-gov,Prof-specialty,12044,<=50K
+Female,39,Black,Separated,Some-college,United-States,State-gov,Prof-specialty,22407,<=50K

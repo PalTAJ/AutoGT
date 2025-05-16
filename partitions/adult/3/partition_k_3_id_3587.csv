@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,23,White,Separated,HS-grad,United-States,Private,Exec-managerial,1875,<=50K
+Female,25,White,Separated,HS-grad,United-States,Private,Exec-managerial,7308,<=50K
+Female,25,White,Separated,HS-grad,United-States,Private,Exec-managerial,24460,<=50K

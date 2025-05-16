@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,46,White,Divorced,Some-college,United-States,Local-gov,Machine-op-inspct,9220,<=50K
+Female,46,White,Divorced,Some-college,United-States,Local-gov,Tech-support,20482,<=50K
+Female,47,White,Divorced,Some-college,United-States,Local-gov,Prof-specialty,26437,<=50K
+Female,47,White,Divorced,Some-college,United-States,Local-gov,Prof-specialty,26975,<=50K

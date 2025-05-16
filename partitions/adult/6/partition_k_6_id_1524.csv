@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,70,White,Never-married,Some-college,United-States,Private,Tech-support,134,<=50K
+Male,69,White,Widowed,Bachelors,United-States,Private,Prof-specialty,7751,>50K
+Male,67,White,Never-married,Masters,United-States,Private,Prof-specialty,9086,<=50K
+Male,67,White,Divorced,Bachelors,United-States,Self-emp-not-inc,Prof-specialty,14308,<=50K
+Male,67,White,Widowed,Masters,United-States,Self-emp-not-inc,Prof-specialty,17933,>50K
+Male,70,Asian-Pac-Islander,Widowed,Bachelors,Philippines,Private,Machine-op-inspct,21733,<=50K

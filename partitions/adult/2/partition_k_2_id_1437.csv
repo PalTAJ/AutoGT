@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Separated,Masters,United-States,Private,Exec-managerial,2765,>50K
+Male,32,White,Separated,Masters,United-States,Private,Exec-managerial,12478,>50K
+Male,37,White,Separated,Masters,Iran,Private,Exec-managerial,18760,>50K

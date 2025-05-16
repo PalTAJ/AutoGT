@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Local-gov,Protective-serv,1714,>50K
+Male,26,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,State-gov,Protective-serv,3502,>50K
+Male,27,Asian-Pac-Islander,Married-civ-spouse,HS-grad,United-States,Federal-gov,Handlers-cleaners,11162,<=50K

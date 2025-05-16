@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,39,Black,Divorced,Masters,United-States,Private,Exec-managerial,19890,>50K
+Female,34,Black,Divorced,Masters,United-States,Private,Exec-managerial,20187,<=50K

@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,29,Amer-Indian-Eskimo,Married-civ-spouse,10th,United-States,Private,Farming-fishing,2749,<=50K
+Female,31,Amer-Indian-Eskimo,Married-civ-spouse,Assoc-voc,Mexico,Private,Other-service,3511,<=50K
+Female,21,Amer-Indian-Eskimo,Married-civ-spouse,Assoc-acdm,United-States,Private,Adm-clerical,5158,>50K
+Female,22,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,8007,<=50K
+Female,29,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Other-service,9211,<=50K
+Female,27,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,13373,<=50K
+Female,22,Amer-Indian-Eskimo,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,14653,<=50K
+Female,30,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,19863,<=50K
+Female,31,Amer-Indian-Eskimo,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,21986,<=50K
+Female,21,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Sales,23324,<=50K
+Female,28,Amer-Indian-Eskimo,Married-civ-spouse,10th,United-States,Federal-gov,Other-service,28521,<=50K
+Female,23,Amer-Indian-Eskimo,Married-civ-spouse,1st-4th,Mexico,Private,Machine-op-inspct,30040,<=50K

@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,20,Black,Never-married,Some-college,United-States,Private,Adm-clerical,1386,<=50K
+Female,20,Black,Never-married,Some-college,United-States,Private,Adm-clerical,6608,<=50K
+Female,20,Black,Never-married,Some-college,Haiti,Private,Adm-clerical,12987,<=50K
+Female,20,Black,Never-married,Some-college,United-States,Private,Adm-clerical,16036,<=50K
+Female,20,Black,Never-married,Some-college,United-States,Private,Adm-clerical,24250,<=50K

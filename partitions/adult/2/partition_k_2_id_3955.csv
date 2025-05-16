@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,49,Asian-Pac-Islander,Married-spouse-absent,Bachelors,Philippines,Private,Other-service,7877,<=50K
+Male,49,Asian-Pac-Islander,Married-spouse-absent,Masters,India,Private,Protective-serv,22140,<=50K

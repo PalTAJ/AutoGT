@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,62,White,Never-married,Some-college,United-States,Private,Craft-repair,5183,>50K
+Female,77,White,Never-married,Bachelors,United-States,Private,Prof-specialty,21657,<=50K
+Female,64,White,Never-married,Some-college,United-States,Self-emp-not-inc,Prof-specialty,24255,<=50K

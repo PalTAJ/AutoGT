@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,49,White,Married-civ-spouse,Some-college,United-States,Private,Sales,6262,>50K
+Female,45,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,6306,>50K
+Female,42,White,Married-civ-spouse,Bachelors,Puerto-Rico,Private,Sales,9377,<=50K
+Female,41,White,Married-civ-spouse,Bachelors,United-States,Private,Sales,12788,>50K
+Female,50,White,Married-civ-spouse,Some-college,United-States,Private,Sales,28838,<=50K

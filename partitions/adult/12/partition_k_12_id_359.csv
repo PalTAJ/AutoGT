@@ -1,0 +1,16 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,White,Divorced,HS-grad,United-States,Private,Adm-clerical,1452,>50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Other-service,5913,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Transport-moving,7897,<=50K
+Male,39,White,Divorced,HS-grad,United-States,Private,Other-service,10579,<=50K
+Male,39,White,Divorced,HS-grad,United-States,Private,Other-service,10750,<=50K
+Male,39,White,Divorced,HS-grad,United-States,Private,Adm-clerical,12623,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Other-service,12989,<=50K
+Male,39,White,Divorced,HS-grad,United-States,Private,Transport-moving,18799,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Transport-moving,19764,<=50K
+Male,39,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Farming-fishing,21588,>50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Farming-fishing,24290,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Adm-clerical,25959,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Farming-fishing,26773,<=50K
+Male,39,White,Divorced,HS-grad,United-States,Private,Transport-moving,28223,<=50K
+Male,39,White,Never-married,HS-grad,United-States,Private,Adm-clerical,29484,<=50K

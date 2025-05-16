@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,11177,<=50K
+Female,42,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,12088,>50K
+Female,42,White,Married-civ-spouse,HS-grad,United-States,Private,Prof-specialty,17650,<=50K
+Female,42,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,24042,>50K

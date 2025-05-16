@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,53,Amer-Indian-Eskimo,Separated,Some-college,United-States,Private,Exec-managerial,7683,<=50K
+Female,49,Amer-Indian-Eskimo,Divorced,Some-college,United-States,Self-emp-not-inc,Exec-managerial,16292,<=50K
+Female,60,Amer-Indian-Eskimo,Separated,Some-college,United-States,Private,Transport-moving,16446,<=50K
+Female,42,Amer-Indian-Eskimo,Married-spouse-absent,Doctorate,United-States,Private,Prof-specialty,16474,<=50K
+Female,42,Amer-Indian-Eskimo,Divorced,Assoc-voc,United-States,Private,Exec-managerial,24133,<=50K
+Female,42,Amer-Indian-Eskimo,Widowed,Some-college,United-States,Private,Exec-managerial,24934,<=50K

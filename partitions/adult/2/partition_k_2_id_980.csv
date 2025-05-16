@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,White,Married-civ-spouse,7th-8th,United-States,Self-emp-not-inc,Sales,18822,>50K
+Male,38,White,Married-civ-spouse,7th-8th,Mexico,Self-emp-not-inc,Sales,20363,<=50K

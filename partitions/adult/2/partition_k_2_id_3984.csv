@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,53,Amer-Indian-Eskimo,Never-married,7th-8th,United-States,Private,Transport-moving,1696,<=50K
+Male,46,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Transport-moving,8494,<=50K

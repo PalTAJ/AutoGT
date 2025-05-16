@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,38,Other,Divorced,Some-college,United-States,Private,Adm-clerical,13613,<=50K
+Female,36,Other,Separated,5th-6th,Mexico,Private,Priv-house-serv,17384,<=50K
+Female,37,Other,Never-married,Assoc-voc,United-States,Private,Adm-clerical,20969,<=50K
+Female,36,Other,Never-married,1st-4th,El-Salvador,Private,Other-service,25088,<=50K
+Female,39,Other,Divorced,HS-grad,Dominican-Republic,Private,Other-service,26342,<=50K

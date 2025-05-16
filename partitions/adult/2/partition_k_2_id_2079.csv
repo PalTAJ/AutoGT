@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,Amer-Indian-Eskimo,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,8159,<=50K
+Male,33,Amer-Indian-Eskimo,Never-married,Bachelors,United-States,Local-gov,Prof-specialty,12280,<=50K

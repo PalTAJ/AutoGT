@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,52,White,Married-civ-spouse,Doctorate,Iran,State-gov,Prof-specialty,4063,>50K
+Male,45,White,Married-civ-spouse,Masters,India,State-gov,Adm-clerical,9049,<=50K
+Male,43,White,Married-civ-spouse,Bachelors,Philippines,Federal-gov,Prof-specialty,21154,>50K
+Male,41,White,Married-civ-spouse,Prof-school,India,Federal-gov,Prof-specialty,27907,>50K

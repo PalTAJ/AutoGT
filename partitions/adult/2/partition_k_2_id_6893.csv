@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,61,White,Married-spouse-absent,Assoc-acdm,United-States,Self-emp-not-inc,Exec-managerial,19342,<=50K
+Female,64,White,Married-spouse-absent,Some-college,United-States,Private,Exec-managerial,23920,<=50K

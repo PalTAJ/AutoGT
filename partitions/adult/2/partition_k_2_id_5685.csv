@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,31,Other,Never-married,7th-8th,Mexico,Private,Machine-op-inspct,17620,<=50K
+Female,39,Other,Married-spouse-absent,7th-8th,Dominican-Republic,Private,Machine-op-inspct,22286,<=50K

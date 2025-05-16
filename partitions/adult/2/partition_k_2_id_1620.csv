@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,22,White,Never-married,HS-grad,United-States,Self-emp-inc,Machine-op-inspct,9643,<=50K
+Male,24,White,Never-married,HS-grad,United-States,Self-emp-inc,Craft-repair,12404,<=50K
+Male,27,White,Never-married,HS-grad,Mexico,Self-emp-inc,Craft-repair,20169,<=50K

@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,37,White,Never-married,Assoc-voc,United-States,State-gov,Prof-specialty,1894,>50K
+Male,40,White,Never-married,Assoc-voc,United-States,State-gov,Craft-repair,11174,<=50K
+Male,36,White,Never-married,Prof-school,United-States,State-gov,Prof-specialty,29442,<=50K

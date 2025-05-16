@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,28,White,Married-civ-spouse,Some-college,United-States,State-gov,Protective-serv,7170,<=50K
+Male,26,White,Married-civ-spouse,Some-college,United-States,State-gov,Protective-serv,8402,<=50K
+Male,25,White,Married-civ-spouse,Some-college,United-States,State-gov,Protective-serv,19012,<=50K
+Male,29,White,Married-civ-spouse,Some-college,United-States,State-gov,Protective-serv,23948,<=50K
+Male,25,White,Married-civ-spouse,Some-college,United-States,State-gov,Protective-serv,26161,<=50K

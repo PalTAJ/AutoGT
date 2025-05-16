@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,White,Married-civ-spouse,Some-college,United-States,Self-emp-inc,Exec-managerial,1828,>50K
+Male,60,White,Married-civ-spouse,Some-college,United-States,Self-emp-inc,Exec-managerial,12894,<=50K
+Male,60,White,Married-civ-spouse,Some-college,United-States,Self-emp-inc,Exec-managerial,19500,>50K

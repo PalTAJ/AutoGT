@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,60,White,Married-civ-spouse,Some-college,Columbia,Self-emp-not-inc,Exec-managerial,20228,<=50K
+Male,49,White,Married-civ-spouse,Assoc-acdm,Columbia,Self-emp-not-inc,Craft-repair,26396,<=50K

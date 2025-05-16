@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,White,Married-civ-spouse,Prof-school,Honduras,Private,Prof-specialty,48,>50K
+Female,41,White,Married-civ-spouse,Prof-school,United-States,Private,Prof-specialty,230,>50K
+Female,49,White,Married-civ-spouse,Assoc-voc,Peru,Private,Machine-op-inspct,1313,<=50K
+Female,55,White,Married-civ-spouse,Assoc-voc,United-States,Private,Prof-specialty,8047,<=50K
+Female,52,White,Married-civ-spouse,Prof-school,United-States,Private,Prof-specialty,11675,>50K
+Female,43,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,15769,>50K
+Female,41,White,Married-civ-spouse,Assoc-voc,United-States,Private,Tech-support,21950,>50K
+Female,49,White,Married-civ-spouse,Assoc-voc,United-States,Private,Prof-specialty,22268,>50K
+Female,50,White,Married-civ-spouse,Assoc-voc,United-States,Private,Prof-specialty,24991,>50K
+Female,48,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Prof-specialty,29557,>50K

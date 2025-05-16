@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,30,Asian-Pac-Islander,Married-civ-spouse,Some-college,United-States,Private,Adm-clerical,12626,>50K
+Male,39,Asian-Pac-Islander,Married-civ-spouse,Some-college,Mexico,Private,Adm-clerical,20434,<=50K

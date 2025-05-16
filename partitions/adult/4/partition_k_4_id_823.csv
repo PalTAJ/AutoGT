@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,23,White,Never-married,11th,United-States,Private,Craft-repair,1860,<=50K
+Male,24,White,Never-married,11th,United-States,Private,Craft-repair,2489,<=50K
+Male,24,White,Never-married,11th,United-States,Private,Craft-repair,3889,<=50K
+Male,22,White,Never-married,11th,United-States,Private,Craft-repair,4640,<=50K
+Male,25,White,Never-married,11th,Mexico,Private,Craft-repair,9214,<=50K
+Male,21,White,Never-married,11th,United-States,Private,Craft-repair,10487,<=50K
+Male,22,White,Never-married,11th,United-States,Private,Craft-repair,13674,<=50K
+Male,21,White,Never-married,11th,United-States,Private,Craft-repair,16120,<=50K
+Male,25,White,Never-married,11th,United-States,Private,Craft-repair,17231,<=50K
+Male,22,White,Never-married,11th,United-States,Private,Craft-repair,23523,<=50K
+Male,23,White,Never-married,11th,United-States,Private,Craft-repair,24891,<=50K
+Male,24,White,Never-married,11th,United-States,Private,Craft-repair,25814,<=50K
+Male,22,White,Never-married,11th,United-States,Private,Craft-repair,26879,<=50K
+Male,22,White,Never-married,11th,United-States,Private,Craft-repair,28104,<=50K

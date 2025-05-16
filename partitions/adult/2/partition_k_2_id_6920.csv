@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,62,White,Widowed,HS-grad,United-States,Local-gov,Other-service,12507,<=50K
+Female,64,White,Widowed,HS-grad,United-States,Local-gov,Other-service,12755,<=50K
+Female,62,White,Widowed,HS-grad,Canada,Local-gov,Other-service,13179,<=50K
+Female,66,White,Widowed,HS-grad,United-States,Local-gov,Other-service,15881,<=50K

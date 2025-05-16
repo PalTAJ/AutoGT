@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,45,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Exec-managerial,3526,<=50K
+Male,45,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Exec-managerial,15798,<=50K
+Male,43,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Private,Sales,23200,<=50K
+Male,51,Amer-Indian-Eskimo,Married-civ-spouse,Some-college,United-States,Self-emp-not-inc,Exec-managerial,26092,<=50K

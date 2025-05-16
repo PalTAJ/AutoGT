@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,77,White,Married-spouse-absent,7th-8th,Italy,Self-emp-not-inc,Adm-clerical,6066,>50K
+Male,80,White,Widowed,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,9355,<=50K
+Male,74,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Other-service,13058,<=50K
+Male,76,White,Never-married,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,25486,<=50K
+Male,80,White,Never-married,7th-8th,United-States,Self-emp-not-inc,Farming-fishing,29470,<=50K

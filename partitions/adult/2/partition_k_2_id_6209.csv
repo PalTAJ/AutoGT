@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,47,White,Widowed,Some-college,United-States,Private,Other-service,5528,<=50K
+Female,48,White,Widowed,Some-college,United-States,Private,Adm-clerical,6296,<=50K
+Female,48,White,Widowed,Some-college,United-States,Private,Adm-clerical,9932,<=50K
+Female,46,White,Widowed,Some-college,United-States,Private,Adm-clerical,12708,<=50K
+Female,47,White,Widowed,Some-college,United-States,Private,Adm-clerical,21337,<=50K
+Female,47,White,Widowed,Some-college,Outlying-US(Guam-USVI-etc),Private,Transport-moving,29361,<=50K

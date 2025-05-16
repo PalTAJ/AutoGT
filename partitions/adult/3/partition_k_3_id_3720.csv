@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,24,Black,Separated,HS-grad,United-States,Private,Machine-op-inspct,8860,<=50K
+Female,26,Black,Separated,HS-grad,United-States,Private,Machine-op-inspct,11932,<=50K
+Female,26,Black,Separated,HS-grad,United-States,Private,Craft-repair,21129,<=50K

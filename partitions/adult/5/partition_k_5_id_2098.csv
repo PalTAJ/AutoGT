@@ -1,0 +1,14 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Separated,Some-college,United-States,Private,Exec-managerial,1918,<=50K
+Female,31,White,Separated,Bachelors,United-States,Private,Exec-managerial,4435,<=50K
+Female,35,White,Separated,Bachelors,United-States,Private,Exec-managerial,6969,<=50K
+Female,23,White,Separated,Assoc-voc,United-States,Private,Exec-managerial,7087,<=50K
+Female,34,White,Separated,Some-college,United-States,Private,Exec-managerial,10494,<=50K
+Female,40,White,Separated,Some-college,United-States,Private,Exec-managerial,10809,<=50K
+Female,33,White,Separated,Some-college,United-States,Private,Exec-managerial,11121,<=50K
+Female,24,White,Separated,Bachelors,United-States,Private,Exec-managerial,17590,<=50K
+Female,40,White,Separated,Masters,United-States,Self-emp-not-inc,Exec-managerial,20229,<=50K
+Female,32,White,Separated,Assoc-acdm,United-States,Private,Exec-managerial,22521,>50K
+Female,34,White,Separated,Bachelors,United-States,Private,Exec-managerial,22780,<=50K
+Female,28,White,Separated,Bachelors,United-States,Private,Exec-managerial,27111,>50K
+Female,40,White,Separated,Some-college,United-States,Private,Exec-managerial,30064,<=50K

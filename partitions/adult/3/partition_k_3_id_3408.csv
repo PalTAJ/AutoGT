@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,34,White,Never-married,Doctorate,United-States,Federal-gov,Prof-specialty,18288,<=50K
+Female,40,White,Never-married,Masters,United-States,Federal-gov,Tech-support,20755,<=50K
+Female,37,White,Divorced,Masters,United-States,Federal-gov,Prof-specialty,27020,<=50K

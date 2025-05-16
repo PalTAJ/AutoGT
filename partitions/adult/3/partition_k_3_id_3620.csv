@@ -1,0 +1,5 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,33,White,Married-spouse-absent,1st-4th,Guatemala,Private,Priv-house-serv,855,<=50K
+Female,31,White,Never-married,1st-4th,El-Salvador,Private,Other-service,12739,<=50K
+Female,34,White,Never-married,1st-4th,Guatemala,Private,Other-service,21785,<=50K
+Female,33,White,Never-married,1st-4th,United-States,Private,Sales,26152,<=50K

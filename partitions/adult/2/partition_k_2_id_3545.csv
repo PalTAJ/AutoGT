@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Divorced,Bachelors,United-States,Self-emp-inc,Farming-fishing,7566,<=50K
+Male,51,White,Divorced,Bachelors,United-States,Self-emp-inc,Farming-fishing,24427,<=50K
+Male,48,White,Divorced,Some-college,United-States,Self-emp-inc,Farming-fishing,29638,<=50K

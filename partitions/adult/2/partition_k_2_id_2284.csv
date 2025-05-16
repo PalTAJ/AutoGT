@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,29,Black,Never-married,Assoc-voc,United-States,Private,Sales,19695,<=50K
+Male,26,Black,Never-married,Assoc-voc,United-States,Private,Sales,25977,<=50K

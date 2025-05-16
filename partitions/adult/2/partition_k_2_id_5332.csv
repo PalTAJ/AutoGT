@@ -1,0 +1,8 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,23,White,Never-married,9th,Mexico,Private,Machine-op-inspct,3395,<=50K
+Female,23,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,9420,<=50K
+Female,23,White,Never-married,10th,United-States,Private,Machine-op-inspct,10940,<=50K
+Female,23,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,14305,<=50K
+Female,23,White,Never-married,12th,United-States,Private,Machine-op-inspct,19549,<=50K
+Female,23,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,26099,<=50K
+Female,23,White,Never-married,HS-grad,United-States,Private,Machine-op-inspct,26174,<=50K

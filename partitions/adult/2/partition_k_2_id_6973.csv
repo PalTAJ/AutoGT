@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,80,Amer-Indian-Eskimo,Widowed,HS-grad,United-States,Local-gov,Other-service,18086,<=50K
+Female,61,Amer-Indian-Eskimo,Widowed,HS-grad,United-States,State-gov,Adm-clerical,23283,<=50K

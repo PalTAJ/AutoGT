@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,21,White,Never-married,Some-college,United-States,Private,Tech-support,13741,<=50K
+Female,21,White,Never-married,Some-college,United-States,Private,Tech-support,29261,<=50K
+Female,21,White,Never-married,Some-college,United-States,Private,Tech-support,29854,<=50K

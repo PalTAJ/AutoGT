@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,42,White,Divorced,HS-grad,England,Private,Exec-managerial,16296,<=50K
+Female,43,White,Never-married,9th,Portugal,Self-emp-inc,Sales,26160,<=50K

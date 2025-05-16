@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,65,White,Widowed,7th-8th,United-States,Without-pay,Farming-fishing,1748,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Adm-clerical,9578,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Other-service,13466,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Adm-clerical,17557,<=50K
+Female,65,White,Widowed,7th-8th,United-States,State-gov,Other-service,22257,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Adm-clerical,22536,<=50K
+Female,65,White,Widowed,HS-grad,United-States,Private,Other-service,23205,<=50K
+Female,65,White,Widowed,11th,United-States,Private,Adm-clerical,28729,<=50K

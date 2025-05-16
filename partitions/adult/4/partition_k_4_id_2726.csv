@@ -1,0 +1,7 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,21,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,279,<=50K
+Female,23,Asian-Pac-Islander,Never-married,Some-college,Vietnam,Private,Other-service,3823,<=50K
+Female,22,Asian-Pac-Islander,Never-married,Some-college,Philippines,Private,Other-service,8738,<=50K
+Female,23,Asian-Pac-Islander,Never-married,Preschool,Laos,Private,Other-service,23379,<=50K
+Female,23,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,24109,<=50K
+Female,25,Asian-Pac-Islander,Never-married,Some-college,United-States,Private,Other-service,24728,<=50K

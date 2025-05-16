@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,57,White,Divorced,HS-grad,United-States,State-gov,Exec-managerial,1468,<=50K
+Female,57,White,Separated,HS-grad,United-States,State-gov,Other-service,2042,<=50K
+Female,56,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,4980,<=50K
+Female,54,White,Separated,HS-grad,United-States,State-gov,Exec-managerial,5809,<=50K
+Female,58,White,Never-married,HS-grad,United-States,State-gov,Adm-clerical,10496,<=50K
+Female,54,White,Widowed,HS-grad,United-States,State-gov,Exec-managerial,11038,<=50K
+Female,55,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,11147,<=50K
+Female,60,White,Widowed,HS-grad,United-States,State-gov,Adm-clerical,13490,<=50K
+Female,58,White,Divorced,HS-grad,United-States,State-gov,Adm-clerical,16589,<=50K
+Female,52,White,Separated,HS-grad,United-States,State-gov,Other-service,26625,<=50K
+Female,57,White,Divorced,12th,United-States,State-gov,Other-service,28042,<=50K

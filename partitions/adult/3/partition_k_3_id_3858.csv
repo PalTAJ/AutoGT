@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,41,White,Married-civ-spouse,Assoc-acdm,United-States,Private,Exec-managerial,490,>50K
+Female,45,White,Married-civ-spouse,Assoc-voc,United-States,Private,Exec-managerial,6734,>50K
+Female,42,White,Married-civ-spouse,Assoc-voc,United-States,Private,Exec-managerial,14335,>50K
+Female,41,White,Married-civ-spouse,Prof-school,Japan,Private,Exec-managerial,17065,>50K
+Female,41,White,Married-civ-spouse,Prof-school,United-States,Self-emp-inc,Exec-managerial,27438,>50K

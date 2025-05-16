@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,56,White,Divorced,10th,United-States,Self-emp-not-inc,Sales,2475,<=50K
+Male,52,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Sales,7504,<=50K
+Male,51,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Sales,8312,<=50K
+Male,49,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Sales,9400,>50K
+Male,56,White,Divorced,7th-8th,Mexico,Self-emp-not-inc,Sales,13171,<=50K
+Male,41,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Sales,17399,<=50K
+Male,44,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Sales,17441,<=50K
+Male,49,White,Divorced,HS-grad,United-States,Self-emp-not-inc,Sales,17895,<=50K
+Male,55,White,Widowed,HS-grad,United-States,Self-emp-not-inc,Sales,19327,<=50K
+Male,51,White,Never-married,HS-grad,United-States,Self-emp-not-inc,Sales,28012,<=50K

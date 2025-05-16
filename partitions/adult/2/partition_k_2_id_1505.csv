@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,40,White,Divorced,Some-college,United-States,Local-gov,Transport-moving,8781,<=50K
+Male,36,White,Divorced,Some-college,United-States,State-gov,Transport-moving,13432,<=50K

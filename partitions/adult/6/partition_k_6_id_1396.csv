@@ -1,0 +1,12 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,Amer-Indian-Eskimo,Divorced,11th,Germany,Private,Machine-op-inspct,1308,<=50K
+Male,46,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Private,Transport-moving,8494,<=50K
+Male,46,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Federal-gov,Adm-clerical,9901,<=50K
+Male,46,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Private,Craft-repair,10669,<=50K
+Male,42,Amer-Indian-Eskimo,Divorced,Assoc-acdm,United-States,Self-emp-not-inc,Craft-repair,15681,<=50K
+Male,47,Amer-Indian-Eskimo,Never-married,HS-grad,Puerto-Rico,Private,Machine-op-inspct,18058,<=50K
+Male,49,Amer-Indian-Eskimo,Married-spouse-absent,Bachelors,Philippines,Private,Adm-clerical,20960,<=50K
+Male,43,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Self-emp-not-inc,Craft-repair,21584,<=50K
+Male,41,Amer-Indian-Eskimo,Divorced,12th,United-States,Private,Adm-clerical,26642,<=50K
+Male,46,Amer-Indian-Eskimo,Divorced,11th,United-States,Private,Prof-specialty,26796,>50K
+Male,46,Amer-Indian-Eskimo,Divorced,Masters,United-States,Local-gov,Prof-specialty,27371,<=50K

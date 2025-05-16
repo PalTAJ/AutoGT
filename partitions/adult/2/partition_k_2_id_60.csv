@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,17,White,Never-married,11th,United-States,Private,Other-service,242,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,344,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,1275,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,4944,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,5922,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,6318,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,10269,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,14033,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,17162,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,17772,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,17809,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,19848,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,23194,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,23319,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,25281,<=50K
+Male,17,White,Never-married,11th,United-States,Private,Other-service,29906,<=50K

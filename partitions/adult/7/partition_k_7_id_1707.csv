@@ -1,0 +1,11 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,60,White,Married-civ-spouse,HS-grad,United-States,Private,Tech-support,2056,>50K
+Female,55,White,Married-civ-spouse,9th,United-States,Private,Tech-support,5596,<=50K
+Female,55,White,Married-civ-spouse,HS-grad,United-States,Local-gov,Prof-specialty,11256,>50K
+Female,56,White,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,11516,<=50K
+Female,55,White,Married-civ-spouse,HS-grad,United-States,State-gov,Tech-support,15571,>50K
+Female,60,White,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,19813,<=50K
+Female,54,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,20690,>50K
+Female,51,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,20716,<=50K
+Female,60,White,Married-civ-spouse,7th-8th,United-States,Private,Machine-op-inspct,25844,<=50K
+Female,59,White,Married-civ-spouse,HS-grad,Italy,Private,Machine-op-inspct,26632,>50K

@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,50,Black,Never-married,Prof-school,United-States,Local-gov,Exec-managerial,2792,>50K
+Female,49,Black,Divorced,Assoc-voc,United-States,Federal-gov,Exec-managerial,9325,<=50K

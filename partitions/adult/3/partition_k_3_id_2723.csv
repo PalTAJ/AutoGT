@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,Black,Separated,7th-8th,United-States,Private,Farming-fishing,14045,<=50K
+Male,42,Black,Separated,HS-grad,United-States,Private,Transport-moving,16111,<=50K
+Male,41,Black,Separated,HS-grad,United-States,Private,Adm-clerical,24507,<=50K

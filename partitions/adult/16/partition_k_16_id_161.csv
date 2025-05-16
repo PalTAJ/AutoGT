@@ -1,0 +1,17 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,38,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,328,>50K
+Male,36,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,4432,<=50K
+Male,27,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Other-service,6712,<=50K
+Male,39,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,7408,<=50K
+Male,38,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Transport-moving,9767,<=50K
+Male,39,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,10078,<=50K
+Male,37,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,10353,>50K
+Male,38,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,10417,<=50K
+Male,38,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,11535,<=50K
+Male,37,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,12772,>50K
+Male,34,White,Married-civ-spouse,12th,United-States,Federal-gov,Armed-Forces,16716,<=50K
+Male,37,White,Married-civ-spouse,HS-grad,England,Federal-gov,Adm-clerical,18862,>50K
+Male,40,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,19151,<=50K
+Male,30,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,20503,>50K
+Male,31,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,21668,>50K
+Male,35,White,Married-civ-spouse,HS-grad,United-States,Federal-gov,Adm-clerical,25114,<=50K

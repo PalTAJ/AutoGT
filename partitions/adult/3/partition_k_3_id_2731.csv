@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,59,Black,Widowed,HS-grad,United-States,Local-gov,Craft-repair,2901,<=50K
+Male,47,Black,Never-married,HS-grad,United-States,Federal-gov,Machine-op-inspct,3119,<=50K
+Male,44,Black,Divorced,HS-grad,United-States,Local-gov,Craft-repair,8759,<=50K
+Male,44,Black,Separated,11th,United-States,State-gov,Tech-support,11876,<=50K
+Male,53,Black,Divorced,HS-grad,United-States,Federal-gov,Craft-repair,20928,<=50K

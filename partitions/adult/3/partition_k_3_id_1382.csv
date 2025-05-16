@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,39,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Self-emp-not-inc,Craft-repair,16539,<=50K
+Male,35,Amer-Indian-Eskimo,Divorced,HS-grad,United-States,Self-emp-not-inc,Craft-repair,19826,<=50K
+Male,38,Amer-Indian-Eskimo,Never-married,HS-grad,United-States,Self-emp-not-inc,Craft-repair,29563,<=50K

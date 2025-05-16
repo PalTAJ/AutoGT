@@ -1,0 +1,6 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,White,Married-AF-spouse,HS-grad,United-States,Private,Other-service,12060,<=50K
+Female,35,White,Married-AF-spouse,HS-grad,United-States,Private,Other-service,17519,>50K
+Female,35,White,Married-AF-spouse,Assoc-acdm,United-States,Private,Adm-clerical,25054,<=50K
+Female,38,White,Married-AF-spouse,HS-grad,United-States,Private,Other-service,25233,<=50K
+Female,22,White,Married-AF-spouse,Some-college,United-States,Private,Other-service,27697,>50K

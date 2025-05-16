@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,43,White,Married-spouse-absent,Masters,United-States,Private,Exec-managerial,2429,<=50K
+Male,43,White,Married-spouse-absent,Some-college,Mexico,Private,Sales,18789,<=50K
+Male,45,White,Married-spouse-absent,Bachelors,United-States,Private,Exec-managerial,23351,<=50K

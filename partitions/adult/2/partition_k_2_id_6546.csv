@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,56,White,Widowed,HS-grad,Mexico,Private,Sales,7109,<=50K
+Female,56,White,Widowed,9th,United-States,Private,Sales,19215,<=50K
+Female,56,White,Widowed,HS-grad,United-States,Private,Sales,22522,<=50K

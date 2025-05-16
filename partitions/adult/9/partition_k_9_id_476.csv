@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,25,White,Never-married,5th-6th,Mexico,Private,Craft-repair,2640,<=50K
+Male,24,White,Never-married,5th-6th,El-Salvador,Private,Craft-repair,3789,<=50K
+Male,26,White,Married-spouse-absent,Preschool,Mexico,Private,Machine-op-inspct,7283,<=50K
+Male,28,White,Never-married,5th-6th,Mexico,Private,Craft-repair,8728,<=50K
+Male,22,White,Never-married,5th-6th,Mexico,Private,Machine-op-inspct,9394,<=50K
+Male,22,White,Never-married,1st-4th,Guatemala,Private,Craft-repair,11827,<=50K
+Male,28,White,Never-married,5th-6th,Columbia,Private,Craft-repair,12233,<=50K
+Male,22,White,Never-married,1st-4th,Mexico,Private,Machine-op-inspct,16449,<=50K
+Male,25,White,Never-married,5th-6th,Mexico,Private,Machine-op-inspct,17822,<=50K
+Male,24,White,Never-married,5th-6th,Mexico,Private,Machine-op-inspct,20251,<=50K
+Male,25,White,Never-married,1st-4th,Mexico,Private,Machine-op-inspct,22174,<=50K
+Male,25,White,Never-married,5th-6th,Mexico,Private,Machine-op-inspct,25896,<=50K
+Male,23,White,Never-married,5th-6th,Mexico,Private,Craft-repair,28279,<=50K
+Male,27,White,Never-married,1st-4th,Mexico,Private,Craft-repair,29518,<=50K

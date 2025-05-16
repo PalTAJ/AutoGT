@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,75,White,Widowed,Assoc-voc,Columbia,Private,Adm-clerical,211,<=50K
+Female,72,White,Widowed,Assoc-voc,United-States,Private,Adm-clerical,2490,<=50K
+Female,71,White,Never-married,Assoc-voc,United-States,Private,Adm-clerical,22178,<=50K

@@ -1,0 +1,9 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,32,White,Married-civ-spouse,Assoc-voc,United-States,Private,Adm-clerical,4998,<=50K
+Female,32,White,Married-civ-spouse,HS-grad,United-States,Private,Farming-fishing,6811,<=50K
+Female,32,White,Married-civ-spouse,Some-college,Puerto-Rico,Private,Other-service,8072,<=50K
+Female,32,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,10407,<=50K
+Female,32,White,Married-AF-spouse,HS-grad,United-States,Private,Other-service,12060,<=50K
+Female,32,White,Married-civ-spouse,Bachelors,United-States,Private,Adm-clerical,13559,<=50K
+Female,32,White,Married-civ-spouse,HS-grad,United-States,Private,Adm-clerical,13568,>50K
+Female,32,White,Married-civ-spouse,11th,United-States,Private,Other-service,25825,<=50K

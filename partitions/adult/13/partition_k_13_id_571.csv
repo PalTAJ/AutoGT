@@ -1,0 +1,15 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,1057,<=50K
+Male,46,White,Married-civ-spouse,11th,United-States,Private,Machine-op-inspct,2520,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,2659,>50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,4380,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,9986,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,10327,>50K
+Male,46,White,Married-civ-spouse,9th,Guatemala,Private,Machine-op-inspct,13209,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,16466,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,18900,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,19916,>50K
+Male,46,White,Married-civ-spouse,9th,United-States,Private,Machine-op-inspct,22895,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,Guatemala,Private,Machine-op-inspct,24302,<=50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,25565,>50K
+Male,46,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,27578,>50K

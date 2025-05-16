@@ -1,0 +1,4 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,35,White,Married-civ-spouse,7th-8th,Mexico,Private,Handlers-cleaners,3679,<=50K
+Male,33,White,Married-civ-spouse,7th-8th,Mexico,Private,Handlers-cleaners,20243,<=50K
+Male,38,White,Married-civ-spouse,7th-8th,Mexico,Self-emp-not-inc,Sales,20363,<=50K

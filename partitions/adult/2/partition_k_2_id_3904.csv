@@ -1,0 +1,3 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Male,48,Asian-Pac-Islander,Married-civ-spouse,Doctorate,China,Private,Prof-specialty,16251,>50K
+Male,48,Asian-Pac-Islander,Married-civ-spouse,Doctorate,India,Private,Prof-specialty,27948,>50K

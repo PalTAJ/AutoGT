@@ -1,0 +1,13 @@
+gender,age,race,marital-status,education,native-country,workclass,occupation,ID,income
+Female,40,White,Separated,HS-grad,United-States,Private,Adm-clerical,2674,<=50K
+Female,40,White,Separated,HS-grad,United-States,Private,Other-service,3012,<=50K
+Female,40,White,Separated,HS-grad,United-States,Private,Other-service,3067,<=50K
+Female,40,White,Separated,HS-grad,United-States,Private,Adm-clerical,5220,<=50K
+Female,37,White,Separated,9th,Mexico,Private,Priv-house-serv,5881,<=50K
+Female,40,White,Separated,HS-grad,United-States,Private,Other-service,12518,<=50K
+Female,36,White,Separated,HS-grad,United-States,Private,Adm-clerical,16217,<=50K
+Female,40,White,Separated,7th-8th,United-States,Private,Other-service,18299,<=50K
+Female,39,White,Separated,HS-grad,United-States,Private,Adm-clerical,19280,<=50K
+Female,36,White,Separated,12th,Mexico,Private,Other-service,23894,<=50K
+Female,36,White,Separated,HS-grad,United-States,Private,Adm-clerical,29865,<=50K
+Female,39,White,Separated,HS-grad,El-Salvador,Private,Other-service,29994,<=50K
